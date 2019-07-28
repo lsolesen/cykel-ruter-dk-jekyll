@@ -57,3 +57,7 @@ Ud over minimum og mellem pakken, kan du medbringe:
 - Olie 
 - Gummihandsker 
 - Bogen [Cykelreparation skrevet af Per Henrik Brask\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654)
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10495" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=10495" border="0"></a>
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>

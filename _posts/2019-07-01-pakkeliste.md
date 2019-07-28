@@ -43,18 +43,20 @@ _God tur!_
 - Vindtæt overtrækstøj
 - Regntøj
 - Sko-overtræk, der holder regnen ude 
-- Sko med stiv sål Cykelhjelm 
+- Sko med stiv sål 
+- [Cykelhjelm\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=57503) 
 
 ### Kort: 
 
-- I Landkort med cykelruter 
+- [Opdaterede landkort med cykelruter\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykelkort)
 - Turbeskrivelser, turistbrochurer o.l.
 - Fortegnelse over overnatningssteder 
-- Vandrerkort o Campingpas 
+- Vandrerkort
+- Campingpas 
 
 ### Diverse udstyr: 
 
-- Cykellygter 
+- [Cykellygter\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=65273) 
 - Vandflaske på cyklen 
 - Cykelcomputer 
 - Siddeunderlag
@@ -62,3 +64,9 @@ _God tur!_
 - Lille lås til bagagen 
 - Plastikposer til opbevaring 
 - Solbeskyttelse 
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=51299" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51299" border="0"></a>
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10495" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=10495" border="0"></a>
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>

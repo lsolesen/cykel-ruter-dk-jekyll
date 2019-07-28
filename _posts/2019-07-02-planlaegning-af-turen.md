@@ -47,4 +47,7 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 7. Anskaf nyt udstyr i god tid og prøv det af før ferien 
 8. Kør et par træningsture 
 9. Gi' cyklerne et grundigt eftersyn D 
-10. Pak dagen før og kør en prøvetur 
+10. Pak dagen før og kør en prøvetur
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a> 
+

@@ -7,7 +7,7 @@ author: lsolesen
 classes: wide
 ---
 
-På [Saxo\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykelruter) kan du finde en masse spændende bøger om cykelruter.
+På [Saxo\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykelruter) kan du finde en masse spændende bøger om cykelruter. Husk at få [opdaterede cykelkort med på din rejse\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykelkort)
 
 ![Den store Bog om Cykelture i Danmark](https://imgcdn.saxo.com/_9788771555714/0x500)
 

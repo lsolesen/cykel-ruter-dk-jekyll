@@ -24,3 +24,5 @@ Når man cykler i regntøj, opstår der fugt fra sved og kondens på indersiden 
 Der findes også regntøj, der bare holder regnen ude. Det er en del billigere end det åndbare regntøj, men til gengæld må man finde sig i at blive noget mere våd indefra. 
 
 Regntøj, der er designet til at cykle i, har ekstra lange ærmer og ekstra længde i ryg gen. Bukserne skal have god plads omkring bagen og knæene. Der må ikke være for meget benvidde nederst, da bukserne så let kommer ind i kæden. Før køb er det en god idé at prøve regntøjet og så strække armene frem og løfte knæet højt for at se, om tøjet stadig passer. 
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
