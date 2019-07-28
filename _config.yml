@@ -235,7 +235,7 @@ compress_html:
 collections:
   routes:
     output: true
-    permalink: /routes/:path/
+    permalink: /rute/:path/
   redirects:
     output: true
     permalink: /go/:path/
