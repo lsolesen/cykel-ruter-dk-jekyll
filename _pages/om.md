@@ -4,7 +4,6 @@ title: Om cykelferie.net
 permalink: /om/
 author_profile: true
 toc: true
-author: lsolesen
 author_profile: true
 ---
 
@@ -14,7 +13,7 @@ Cykelferie.net fortæller om cykelruter i Østjylland, Sydjylland og Vestjylland
 
 ### Ansvarshavende redaktør
 
-Lars Oleeen
+Lars Olesen
 
 ## Materialet på sitet
 
