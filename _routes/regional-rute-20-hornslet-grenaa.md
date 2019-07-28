@@ -1,5 +1,6 @@
 ---
 title: "Regional Rute 20 Hornslet til Grenaa"
+created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2012-05-30T09:48:02+02:00
 author: dina
 header:
@@ -11,6 +12,7 @@ category:
 tags:
   - cykelrute
   - regional
+  - Guidebog Østjylland
 excerpt: "Denne rute fører tværs over Jyllands næse. Den går langs de stille, djurske veje og en del af ruten køres på stier. Det er højst sandsynligt, at man møder flere cyklister end bilister på turen gennem de rolige landskaber."
 ---
 
@@ -30,5 +32,5 @@ Grenå er kendt for Kattegatcenteret, hvor man kan stå ansigt til ansigt med fr
 
 ## Rettelser til skitningen på ruten
 
-Der er ikke nogen grusvej lige efter Skaføgård.
-I Koed er der mismatch mellem kort og kkilte på vejen. På rute nr. 20 fra Skarre sø skal man vente med at dreje til højre til man er inde i Koed ifølge kortet.
+- Der er ikke nogen grusvej lige efter Skaføgård.
+- I Koed er der mismatch mellem kort og kkilte på vejen. På rute nr. 20 fra Skarre sø skal man vente med at dreje til højre til man er inde i Koed ifølge kortet.

@@ -1,5 +1,6 @@
 ---
 title: "Regional Rute 18 Århus til Norup"
+created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
@@ -11,6 +12,7 @@ category:
 tags:
   - cykelrute
   - regional
+  - Guidebog Østjylland
 excerpt: "Rutens 88 km byder på en hård start, hvor du for alvor kan krumme ryggen og lege professionel cykelrytter. Men med gang i blodomløbet er du klar på en afvekslende rute med mulighed for interessante afstikkere i Kronjyllands smukke landskaber."
 ---
 

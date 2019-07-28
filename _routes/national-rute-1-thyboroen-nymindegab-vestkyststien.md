@@ -1,16 +1,21 @@
 ---
-title: "National Rute 1 - Thyborøn til Nymindegab (Vestkyststien)"
+title: "National Rute 01: Vestkyststien fra Thyborøn til Nymindegab"
+created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
   overlay_image: &image http://vestkystruten.dk/media/2160/panorama-familie-i-havn-bork-havn_original_1.jpg?crop=0.0000000000000001263187085796,0,0,0.15625&cropmode=percentage&quality=80&width=1600&heightratio=0.5625slimmage=true&rnd=131566083530000000
   teaser: *image
   caption: "Billede fra vestkystruten.dk"
 category:
-  - Regional
+  - National
 tags:
   - cykelrute
   - national
+  - Guidebog Vestjylland
 excerpt: "Det brusende Vesterhav er din tro følgesvend på dette delforløb af den nationale cykelrute nummer 1, der bringer dig 110 kilometer fra fiskerbyen Thyborøn til Nymindegab."
+distance: 110 km
+asphalt: 78 km
+rubble: 32 km
 ---
 
 **{{ page.excerpt }}**
@@ -29,6 +34,20 @@ Hvide Sande er Danmarks femte største fiskerihavn. Tag en tur forbi havnen, hvo
 
 I Haurvig ligger Abelines gård, der er en klitgård fra 1870. Gården viser, hvordan livet var på en strandfogedgård på Holmsland Klit i gamle dage. Fra Haurvig fortsætter du sydpå til slutningen af denne rutebeskrivelse ved Nymindegab. Herfra kan du køre ud til Danmarks mest berømte fuglereservat, Tipperne, som er en vigtig rasteplads for trækfugle. I den nordligste af de to store røde bygninger øst for vejen, er der indrettet et udsigts- og udstillingsrum, hvor du kan blive klogere på fuglelivet og anvendelsen af området.
 
+## Seværdigheder
+
+- Bunkers Museum
+- Kystcentret Thyborøn
+- Sneglehuset
+- De Røde Barakker
+- Jyllandsakvariet
+- Flyvholm Redningsstation
+- Jens Søndergårds Museum
+- Bovjerg FyrStrandingsmuseet i Thorsminde
+- Husby Klitplantage
+- Vest Stadil Fjord
+
 ## Links
 
 - www.northsea-cycle.com 
+- http://vestkystruten.dk/da/forside/

@@ -1,5 +1,6 @@
 ---
-title: "Regional Rute 9 Randers - Udbyhøj"
+title: "Regional Rute 09: Randers - Udbyhøj Vasehuse"
+created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
@@ -11,6 +12,7 @@ category:
 tags:
   - cykelrute
   - regional
+  - Guidebog Østjylland
 excerpt: "Rute 9 fører os langs Randers Fjord hele vejen til Udbyhøj. Det er svært ikke at køre sidelæns på denne rute, som undervejs byder på smukke panoramalandskaber og flere historiske oplevelser. Nærmere fjorden kommer man ikke på cykel."
 ---
 

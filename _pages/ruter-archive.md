@@ -8,4 +8,6 @@ collection: routes
 entries_layout: grid
 classes: wide
 author_profile: true
+sort_by: title # date (default) title
+sort_order: forward # forward (default), reverse
 ---

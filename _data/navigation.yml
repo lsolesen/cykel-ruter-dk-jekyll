@@ -2,5 +2,9 @@
 main:
   - title: "Ruter"
     url: /ruter/
+  - title: "Vestjylland"
+    url: /cykelguide-vestjylland/
+  - title: "Østjylland"
+    url: /cykelguide-oestjylland/
   - title: "Om"
     url: /om/

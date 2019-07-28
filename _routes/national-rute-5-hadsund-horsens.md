@@ -1,5 +1,6 @@
 ---
-title: "National Rute 4 Århus til Søndervig"
+title: "National Rute 05: Hadsund - Horsens"
+created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2012-06-07T09:48:02+02:00
 author: dina
 header:
@@ -11,12 +12,13 @@ category:
 tags:
   - cykelrute
   - national
+  - Guidebog Vestjylland
 excerpt: "Fra nord til syd følger ruten Østjyllands kystlinje og flere steder er der gode bademuligheder i Kattegat nær de store og små turistbesøgte kystbyer."
 ---
 
 **{{ page.excerpt }}**
 
-Vi starter beskrivelsen af denne del af den nationale cykelrute 5 i Hadsund, som er smukt beliggende ned mod Mariager fjord omkranset af store skovområder. Byen er yderligere beskrevet under regional cykelrute 32. Fra Hadsund krydser vi Danmarks længste fjord og fortsætter langs den nedlagte jernbane mellem Hadsund og Randers gennem Trudsholm Skov. Jernbanen er nu en lille sti, som væk fra motoriseret trafik fører os gennem Trudsholm skov og forbi Trudsholm herregård, som blev opført i midten af 1600-tallet omgivet af en femkantet voldgrav. Gården kan kun ses udefra.
+Vi starter i Hadsund, som er smukt beliggende ned mod Mariager fjord omkranset af store skovområder. Byen er yderligere beskrevet under regional cykelrute 32. Fra Hadsund krydser vi Danmarks længste fjord og fortsætter langs den nedlagte jernbane mellem Hadsund og Randers gennem Trudsholm Skov. Jernbanen er nu en lille sti, som væk fra motoriseret trafik fører os gennem Trudsholm skov og forbi Trudsholm herregård, som blev opført i midten af 1600-tallet omgivet af en femkantet voldgrav. Gården kan kun ses udefra.
 
 Igen med asfalt under dækkene fortsætter vi forbi den fint, restaurerede Lyshøj Mølle fra 1894. Den 4-etagers høje mølle er stadig intakt og klar til brug. Det er muligt for besøgende at komme helt op i ”hatten” af møllen, som kan dreje rundt med vindretningen.
 

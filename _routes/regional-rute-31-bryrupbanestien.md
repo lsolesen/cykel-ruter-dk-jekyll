@@ -1,7 +1,8 @@
 ---
-title: "Regional rute 31 Horsens - Silkeborg (Bryrupbanestien)"
+title: "Regional Rute 31: Horsens - Silkeborg (Bryrupbanestien)"
+created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
-author: lsolesen
+author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-31-bryrupbanestien.jpg
   caption: "Stemningsbillede fra ruten"
@@ -11,6 +12,7 @@ category:
 tags:
   - cykelrute
   - regional
+  - Guidebog Østjylland
 excerpt: "Ruten fører os behageligt gennem det midtjyske landskab. Størstedelen af tiden følger ruten en nedlagt jernbane, som kun er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm.
 "
 ---

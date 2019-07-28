@@ -1,5 +1,6 @@
 ---
-title: "Regional rute 3 Udbyhøj - Løgten"
+title: "Regional Rute 03: Udbyhøj - Løgten"
+created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
@@ -11,6 +12,7 @@ category:
 tags:
   - cykelrute
   - regional
+  - Guidebog Østjylland
 excerpt: "Ruten kunne kaldes Herregårdsturen, idet vi kommer i umiddelbar nærhed af 5 større herregårde, nemlig herregårdene Holbækgård, Stenalt, Gl Estrup, Rosenholm og Vosnæsgård. Ruten kan desuden benyttes af cyklister på den nationale cykelrute 5, som ønsker at stikke genvej og samtidig opleve de djurske landskaber."
 ---
 

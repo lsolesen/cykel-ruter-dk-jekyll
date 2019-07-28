@@ -1,7 +1,5 @@
 ---
 title: "Cykelruter i Vejle-området"
-permalink: /content/cykelruter-i-vejle-omraadet
-language: da
 tags:
   - cykelferie
 last_modified_at: 2011-06-28T16:08:57Z

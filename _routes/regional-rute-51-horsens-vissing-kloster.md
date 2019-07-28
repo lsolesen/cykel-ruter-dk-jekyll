@@ -1,7 +1,8 @@
 ---
-title: "Regional rute 51 Horsens til Vissing kloster"
+title: "Regional Rute 51: Horsens til Vissing kloster"
+created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
-author: lsolesen
+author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-51.jpg
   caption: "Stemningsbillede fra ruten"
@@ -11,6 +12,7 @@ category:
 tags:
   - cykelrute
   - regional
+  - Guidebog Østjylland
 excerpt: "Ruten går gennem det midtjyske søhøjland og passerer forbi to af Danmarks højeste punkter. Det kuperede område giver mange flotte udsigter ud over søer, skov og marklandskaber med svajende korn og endeløse, kurvede elledninger."
 ---
 

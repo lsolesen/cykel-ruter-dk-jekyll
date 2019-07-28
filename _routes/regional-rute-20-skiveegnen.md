@@ -1,5 +1,6 @@
 ---
 title: "Regional Rute 20 Skive-egnen"
+created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2019-04-17T09:48:02+02:00
 header:
   overlay_image: &image https://www.visitviborg.dk/sites/default/files/styles/news_and_article_image/public/asp/visitviborg/Nyt_design2017/Theme_article_toppen/ovrige-cykelruter-1160x653-2.jpg?itok=gHkAOwiU
@@ -10,6 +11,7 @@ category:
 tags:
   - cykelrute
   - regional
+  - Guidebog Vestjylland
 excerpt: "Denne rute er ikke helt som de andre ruter. Den går ikke fra et sted til et andet sted, men er mere et system af forbundne veje rundt på Skiveegnen. Så inden du sætter dig i sadlen, bør du planlægge, hvad du helst vil se. Denne beskrivelse er ikke udtømmende for alle de vejvalg, du kan tage, men er et forslag til at køre på den del af ruten, der ikke følger andre ruter. En del af den skiltede rute følger nationale cykelrute 2 og 12 nær kysten, så disse strækninger kan du læse mere om under de respektive ruter."
 ---
 
