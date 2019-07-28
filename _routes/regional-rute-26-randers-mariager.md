@@ -3,10 +3,10 @@ title: "Regional Rute 26: Randers til Mariager"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
-#header:
-#  overlay_image: &image /assets/images/routes/regional-rute-22-skarresoe-roende.jpg
-#  caption: "Stemningsbillede fra ruten"
-#  teaser: *image
+header:
+  overlay_image: &image https://www.visitkolding.dk/sites/default/files/styles/galleries_ratio/public/asp/visitkolding/aktiv_ferie/cykel/mountainbikekolding1024.jpg?itok=DTYRgC5-
+  caption: "Stemningsbillede fra VisitKolding"
+  teaser: *image
 category:
   - Regional
 tags:

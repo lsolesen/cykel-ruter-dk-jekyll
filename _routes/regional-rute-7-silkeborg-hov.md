@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 7: Silkeborg til Hov"
+title: "Regional Rute 07: Silkeborg til Hov"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
-#header:
-#  overlay_image: &image /assets/images/routes/regional-rute-3-udbyhoej-hornslet.jpg
-#  caption: "Stemningsbillede mellem Udbyhøj og Hornslet"
-#  teaser: *image
+header:
+  overlay_image: &image https://www.visitkolding.dk/sites/default/files/styles/galleries_ratio/public/asp/visitkolding/aktiv_ferie/cykel/mountainbikekolding1024.jpg?itok=DTYRgC5-
+  caption: "Stemningsbillede fra VisitKolding"
+  teaser: *image
 category:
   - Regional
 tags:

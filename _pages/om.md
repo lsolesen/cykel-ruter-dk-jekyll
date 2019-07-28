@@ -17,7 +17,7 @@ Lars Olesen
 
 ## Materialet på sitet
 
-Det er naturligvis ikke tilladt at bruge materiale fra siden uden skriftlig tilladelse fra forfatterne. En del af teksterne har været bragt i følgende udgivelser, som blev udgivet i samarbejde med Dansk Cyklist-Forbund. (Bøgerne kan desværre ikke længere købes).
+Det er naturligvis ikke tilladt at bruge materiale fra siden uden skriftlig tilladelse fra forfatterne. En del af teksterne har været bragt i følgende udgivelser, som blev udgivet i samarbejde med Dansk Cyklist-Forbund. (Bøgerne kan desværre ikke længere købes), men du kan låne dem på biblioteket.
 
 - [Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603)
 - [Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979)

@@ -3,10 +3,10 @@ title: "Regional Rute 17 Fussingø - Ødum"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
-#header:
-#  overlay_image: &image /assets/images/routes/regional-rute-16-aarhus-viborg.jpg
-#  caption: "Stemningsbillede fra ruten"
-#  teaser: *image
+header:
+  overlay_image: &image https://www.visitjammerbugten.dk/sites/default/files/styles/galleries_ratio/public/asp/visitjammerbugten/cykel_og_vandre/cyklistermedkort.jpg?itok=PW50rRpA
+  caption: "Billede fra Visitjammerbugten"
+  teaser: *image
 category:
   - Regional
 tags:

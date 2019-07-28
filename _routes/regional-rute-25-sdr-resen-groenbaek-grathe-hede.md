@@ -3,10 +3,10 @@ title: "Regional Rute 25 Sdr. Resen - Grønbæk (Grathe Hede-ruten)"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
-#header:
-#  overlay_image: &image /assets/images/routes/regional-rute-22-skarresoe-roende.jpg
-#  caption: "Stemningsbillede fra ruten"
-#  teaser: *image
+header:
+  overlay_image: &image https://jonrahrrunning.files.wordpress.com/2012/09/20120923-231322.jpg
+  caption: "Stemningsbillede fra Jon Rahr Running"
+  teaser: *image
 category:
   - Regional
 tags:

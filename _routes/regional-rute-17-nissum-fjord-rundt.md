@@ -3,10 +3,10 @@ title: "Regional Rute 17 Nissum Fjord Rundt"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
-#header:
-#  overlay_image: &image /assets/images/routes/regional-rute-16-aarhus-viborg.jpg
-#  caption: "Stemningsbillede fra ruten"
-#  teaser: *image
+header:
+  overlay_image: &image https://www.fotoagent.dk/single_picture/12111/25/large/Cykel.jpg
+  caption: "Billede fra Naturpark Nissum Fjord"
+  teaser: *image
 category:
   - Regional
 tags:

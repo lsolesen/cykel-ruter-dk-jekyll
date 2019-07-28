@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 18: Ringkøbing-Holstebro-Skive – ca. 80 km"
+title: "Regional Rute 18: Ringkøbing-Holstebro-Skive"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
-#header:
-#  overlay_image: &image /assets/images/routes/regional-rute-18-aarhus-randers.jpg
-#  caption: "Stemningsbillede fra ruten"
-#  teaser: *image
+header:
+  overlay_image: &image https://www.visitholstebro.dk/sites/default/files/styles/galleries_ratio/public/asp/visitholstebro/Gallery/cykelferie/cykel_1_1024.jpg?itok=IZu8WQ1m
+  caption: "Billede fra Holstebro"
+  teaser: *image
 category:
   - Regional
 tags:

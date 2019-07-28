@@ -3,10 +3,10 @@ title: "Regional Rute 08: Ry til Randers"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
-#header:
-#  overlay_image: &image /assets/images/routes/regional-rute-3-udbyhoej-hornslet.jpg
-#  caption: "Stemningsbillede mellem Udbyhøj og Hornslet"
-#  teaser: *image
+header:
+  overlay_image: &image https://files.guidedanmark.org/files/410/410_300746.jpg
+  caption: "Billede fra Visitbillund"
+  teaser: *image
 category:
   - Regional
 tags:
