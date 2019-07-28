@@ -11,6 +11,12 @@ minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", 
 # Jekyll specific
 future: true
 
+## partnerads
+
+partnerads:
+  saxo_product: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=
+
+
 # Site Settings
 locale                   : "da"
 title                    : "Cykelruter og cykelferie i Danmark"

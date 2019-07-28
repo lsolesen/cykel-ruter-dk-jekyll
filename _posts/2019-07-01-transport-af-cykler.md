@@ -4,6 +4,7 @@ tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
+toc: true
 ---
 
 **Det er let at læsse cykler bag på bilen. Men de offentlige transportmidler kan også give en håndsrækning på ud- og hjemrejsen, eller når man trænger til en hviledag for ben og bag i løbet af ferien.**

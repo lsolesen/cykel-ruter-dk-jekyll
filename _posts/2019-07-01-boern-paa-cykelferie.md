@@ -4,6 +4,7 @@ tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
+toc: true
 ---
 
 Cykelferien er en genial måde at holde ferie med børn. Her kan man helt selv bestemme ruten og tempoet, så alle kan være med. Nedenfor får du gode råd om både de selvkørende feriebørn og de små, som skal køre med mor eller far. 

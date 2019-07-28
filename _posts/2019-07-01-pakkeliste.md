@@ -4,6 +4,7 @@ tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
+toc: true
 ---
 
 **Før man pakker til cykelferien, er det vigtigt at gøre sig klart, om man vil improvisere hen ad vejen, sove på kro eller f.eks. ligge i telt.**

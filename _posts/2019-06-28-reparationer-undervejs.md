@@ -4,6 +4,7 @@ tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
+toc: true
 ---
 
 **Man kan enten trille ud i det blå under devisen - jeg ta'r en taxa, hvis jeg punkterer, eller man kan pakke lidt reparationsgrej i cykeltasken.**
@@ -55,4 +56,4 @@ Ud over minimum og mellem pakken, kan du medbringe:
 - Bremse wire 
 - Olie 
 - Gummihandsker 
-- Bog: Cykelreparation fra Politikens Forlag
+- Bogen [Cykelreparation skrevet af Per Henrik Brask\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654)
