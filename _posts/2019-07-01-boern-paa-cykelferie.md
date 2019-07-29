@@ -5,6 +5,14 @@ tags:
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
+feature_row:
+  - image_path: https://cykelexperten.dk/wp-content/uploads/2018/06/unnamed-9.jpg
+    alt: "Nordic Cab Active 2-i-1"
+    title: "Nordic Cab Active 2-i-1"
+    excerpt: "Genial cykeltrailer. Nordic Cab Active cykel- og barnevogn er en særdeles familievenlig vogn, som tilgodeser alle dine / jeres behov."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/anhaengerbarnevogn-nordic-cab-active-2-1/"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Cykelferien er en genial måde at holde ferie med børn. Her kan man helt selv bestemme ruten og tempoet, så alle kan være med. Nedenfor får du gode råd om både de selvkørende feriebørn og de små, som skal køre med mor eller far. 
@@ -37,4 +45,6 @@ Tandemmen er en anden mulighed, når to cyklister, der ikke er lige stærke, vil
 
 Der findes tandemcykler, hvor børn kan cykle med på bagsædet fra 8-års alderen. En sådan cykel vil ofte også kunne bruges af to voksne. En familietandem er en investe ring på ca. 10.000 kr. for en god tur-model. Men så får man også et fleksibelt køretøj, der kan bruges af hele familien. 
 
-På Cyklistforbundets hjemmeside [www.dcf.dk] kan du læse meget mere om transport af børn, børn på egen cykel, sikkerhed, lovgivning og køb af børnecykler. 
+På Cyklistforbundets hjemmeside [www.dcf.dk](http://www.dcf.dk) kan du læse meget mere om transport af børn, børn på egen cykel, sikkerhed, lovgivning og køb af børnecykler. 
+
+{% include feature_row %}

@@ -24,4 +24,4 @@ Men skulle du få lyst til at tage på tur på en ny cykel så lad være med at 
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=51294" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51294" border="0"></a>
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51294" border="0"></a>
