@@ -47,4 +47,4 @@ Der findes tandemcykler, hvor børn kan cykle med på bagsædet fra 8-års alder
 
 På Cyklistforbundets hjemmeside [www.dcf.dk](http://www.dcf.dk) kan du læse meget mere om transport af børn, børn på egen cykel, sikkerhed, lovgivning og køb af børnecykler. 
 
-{% include feature_row %}
+{% include feature_row type="left" %}
