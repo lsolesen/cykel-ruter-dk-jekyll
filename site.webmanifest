@@ -1,6 +1,9 @@
+---
+layout: none
+---
 {
-    "name": "",
-    "short_name": "",
+    "name": "{{ site.title }}",
+    "short_name": "cykelruter",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
