@@ -6,10 +6,12 @@ task :test do
       :check_opengraph => true,
       :assume_extension => true,
       :only_4xx => true,
-      :url_ignore => [/.*.drupal.org/, /drupal.org/],
+      :url_ignore => [],
       :check_favicon => true,
       :check_html => true,
-      :allow_hash_href => true
+      :allow_hash_href => true,
+      :empty_alt_ignore => true,
+      :alt_ignore => '/.*/'
   }
   HTMLProofer.check_directory("./_site", options).run
 end

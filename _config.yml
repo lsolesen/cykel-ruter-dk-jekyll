@@ -267,6 +267,8 @@ defaults:
       share: true
       related: true
       toc: false
+      tag_archive_path: /rutetags/
+      category_archive_path: /rutekategorier/
 # _redirects
   - scope:
       path: ""
