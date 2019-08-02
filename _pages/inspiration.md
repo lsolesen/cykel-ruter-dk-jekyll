@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Inspiration
+excerpt: "Inspiration til at gøre din oplevelse med cykelferie og cykeloplevelser i Danmark endnu bedre."
 permalink: /inspiration/
 author_profile: true
 classes: wide
@@ -13,7 +14,7 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
   - image_path: https://imgcdn.saxo.com/_9788717044654/0x500
-    alt: "Cykelreperation"
+    alt: "Cykelreparation"
     title: "Cykelreperation"
     excerpt: "---"
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"

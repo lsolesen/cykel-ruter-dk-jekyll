@@ -2,7 +2,7 @@
 layout: single
 title: Guidebog til cykeloplevelser i Østjylland
 permalink: /cykelguide-oestjylland/
-excerpt: ""
+excerpt: "Cykelguide til cykelferie og cykeloplevelser i Østjylland."
 author_profile: true
 sidebar:
   title: "Om Cykelguide til cykeloplevelser i Østjylland"

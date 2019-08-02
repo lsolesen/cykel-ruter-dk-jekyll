@@ -1,6 +1,7 @@
 ---
 layout: single
-title: Om cykelferie.net
+title: Om cykel-ruter.dk
+exerpt: "Om oprindelsen og ophavsmændene til cykel-ruter.dk."
 permalink: /om/
 author_profile: true
 toc: true
@@ -9,7 +10,7 @@ author_profile: true
 
 ## Om sitet
 
-Cykelferie.net fortæller om cykelruter i Østjylland, Sydjylland og Vestjylland.
+{{ site.title }} fortæller om cykelruter i Østjylland, Sydjylland og Vestjylland.
 
 ### Ansvarshavende redaktør
 

@@ -19,12 +19,12 @@ partnerads:
 
 # Site Settings
 locale                   : "da"
-title                    : "Cykelruter og cykelferie i Danmark"
+title                    : "Cykel-ruter.dk"
 title_separator          : "-"
 subtitle                 : "Cykelferie og cykelruter i Østjylland, Sydjylland og Vestjylland"
 logo                     : "/android-chrome-192x192.png"
 name                     : "Cykelferie og cykelruter i Østjylland, Sydjylland og Vestjylland - Danmark"
-description              : "Jylland er et helt fantastisk sted at tage på cykelferie. Vi har beskrevet ruter i Østjylland, Sydjylland og Vestjylland."
+description              : "Danmark er et helt fantastisk sted at tage på cykelferie. Vi har beskrevet cykelruter i Østjylland, Sydjylland og Vestjylland."
 url                      : "https://www.cykel-ruter.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/cykel-ruter-dk-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -69,7 +69,7 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Person" # Person or Organization (defaults to Person)
+  type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 

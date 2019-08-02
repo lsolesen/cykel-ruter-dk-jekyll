@@ -2,6 +2,7 @@
 layout: tags
 permalink: /tags/
 title: "Indlæg sorteret efter nøgleord"
+excerpt: "Nøgleord til blogindlæggene om cykelruter, cykeloplevelser og cykelferie."
 author_profile: true
 classes: wide
 sort_by: title # date (default) title
