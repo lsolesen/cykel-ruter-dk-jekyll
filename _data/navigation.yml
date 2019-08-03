@@ -6,6 +6,8 @@ main:
     url: /cykelguide-vestjylland/
   - title: "Østjylland"
     url: /cykelguide-oestjylland/
+  - title: "VisitVejle"
+    url: /visitvejle/
   - title: "Inspiration"
     url: /inspiration/
   - title: "Om"
