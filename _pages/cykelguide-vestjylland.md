@@ -6,7 +6,7 @@ excerpt: "Cykelguide til cykelferie og cykeloplevelser i Østjylland."
 author_profile: true
 sidebar:
   title: "Om Cykelguide til cykeloplevelser i Vestjylland"
-  text: "Bogen blev udgivet af Dansk Cyklist FOrbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
+  text: "Bogen blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
 ---
 
 _Jørn Rye Rasmussen, kulturudvalgsformand i Silkeborg og ivrig cyklist_
