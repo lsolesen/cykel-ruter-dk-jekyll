@@ -44,7 +44,10 @@ layout: default
         {% endif %}
         {{ content }}
         
-        {% include gps provider=page.gps.provider id=page.gps.id %}
+        {% if page.gps.provider %}
+          {% include gps provider=page.gps.provider id=page.gps.id %}
+          <div><a href="{{ page.gps.url }}" class="btn btn--large btn--success"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].pdf_label | default: "Se GPS track" }}</a></div>
+        {% endif %}
         
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

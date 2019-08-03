@@ -1,3 +1,6 @@
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
 {% if include.provider == "endomondo" %}
-  <iframe src="http://www.endomondo.com/embed/routes?id={{ include.id }}&width=900&height=600" width="900" height="600" frameborder="0" scrolling="no" ></iframe>
+  <iframe src="http://www.endomondo.com/embed/routes?id={{ include.id }}&width=900&height=600" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe>
 {% endif %}
+</div>
