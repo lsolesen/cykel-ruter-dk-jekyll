@@ -1,23 +1,24 @@
 ---
-title: "Påklædning"
+title: "Påklædning til cykelturen og cykelferien"
 tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
+excpert: "Hvilket cykeltøj skal jeg vælge, når jeg tager på cykelferie?"
 ---
 
 **Man kan sagtens cykle i almindeligt tøj, bare det ikke strammer. Men typisk er det mere behageligt at køre med rigtigt cykeltøj - som minimum et par cykelbukser.**
 
 Cykelferien bliver bedre, hvis man er klædt rigtigt på. Så er der ikke noget tøj, der snerrer og strammer eller blafrer efter en. Som mini mum bør man anskaffe sig et par cykelbuk ser med indlæg. De gør simpelthen underværker for bagdelen, når man sidder i sadlen. Ellers handler påklædning mest om at klæde sig på efter lag på lag princippet. Så kan du nemt tage et lag tøj af eller på i løbet af dagen alt efter vejr og vind. 
 
-## Tæt til kroppen
+## Tæt til kroppen og vindmodstand
 
 Princippet for cykeltøj er, at det skal sidde tæt til kroppen for ikke at flagre og give unødvendig vindmodstand. En cykeltrøje er for det meste lavet af kunststof, der kan transportere sveden væk fra kroppen. Cykeltrøjer har praktiske lommer bagpå, hvor man kan have lappegrej, forplejning m.m. En decideret cykelvindjakke er også tætsiddende og ofte med baglommer. Men almindelige t-shirts eller vind jakker kan naturligvis sagtens bruges. Det er helt op til den enkelte. 
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=53264" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=53264" border="0"></a>
 
-## Regnvejr
+## Cykeltøj og regnvejr
 
 Ingen ønsker regnvejr på cykelferien. Men skal man cykle i Danmark, er det svært at forestille sig bare en uges tid uden en byge, så man er nødt til at have regntøj med. 
 

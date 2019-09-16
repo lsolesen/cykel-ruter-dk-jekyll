@@ -1,10 +1,11 @@
 ---
-title: "Flot mad til cykelturen"
+title: "Flot mad til cykelturen og cykelferien"
 tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
+excerpt: "Hvilke madretter kan du lave på cykelferien, hvis du har en Trangia eller primus med på din cykeltur?"
 ---
 
 **Man tager en cyklist, en primus, en dansk sommerdag og nogle gode råvarer - og så kan man trylle flot og velsmagende mad frem til cykelturen.**

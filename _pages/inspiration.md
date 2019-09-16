@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Inspiration
+title: Inspiration til cykelferie og cykeloplevelser
 excerpt: "Inspiration til at gøre din oplevelse med cykelferie og cykeloplevelser i Danmark endnu bedre."
 permalink: /inspiration/
 author_profile: true

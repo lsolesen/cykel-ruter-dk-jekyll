@@ -1,10 +1,11 @@
 ---
-title: "Reperationer undervejs"
+title: "Reperationer af cykel undervejs"
 tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
+excerpt: "På cykelferie og cykeltur kan du få brug for at reparere cyklen. Hvilket cykelværktøj er godt at have med på turen?"
 ---
 
 **Man kan enten trille ud i det blå under devisen - jeg ta'r en taxa, hvis jeg punkterer, eller man kan pakke lidt reparationsgrej i cykeltasken.**

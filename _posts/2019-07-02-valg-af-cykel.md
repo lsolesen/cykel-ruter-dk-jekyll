@@ -1,9 +1,10 @@
 ---
-title: "Valg af cykel"
+title: "Valg af cykel til cykeltur"
 tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
+excerpt: "Feriecyklen kan både være en decideret turcykel, men du kan også bruge din hverdagscykel. Du skal bare sørge for at vælge en fornuftig rute."
 ---
 
 **Feriecyklen kan sagtens være en bedste morcykel med tre gear, hvis du ændrer et par småting. Men der er muligvis andre cykeltyper, der egner sig bedre til den type cykelferie, du gerne vil på.**

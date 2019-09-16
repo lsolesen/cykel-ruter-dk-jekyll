@@ -1,5 +1,5 @@
 ---
-title: "Børn på cykelferie"
+title: "Børn på cykelferie og cykeltur"
 tags:
   - cykelferie
   - gode råd
@@ -17,12 +17,15 @@ feature_row:
 
 Cykelferien er en genial måde at holde ferie med børn. Her kan man helt selv bestemme ruten og tempoet, så alle kan være med. Nedenfor får du gode råd om både de selvkørende feriebørn og de små, som skal køre med mor eller far. 
 
+## Børn på cyklen
+
+Hvis du har børn, der ikke selv kan cykle, må du have cykelstole til børnene eller en børne anhænger. Anhængeren er klart det bedste valg. Ungerne sidder bedre beskyttet og har god plads til at hygge sig med lidt legetøj eller sove, når de har lyst. Samtidig er der også plads til bagage i anhængeren. Og de voksne kan skiftes til at trække anhænge ren eller lade den stærkeste trække den, så kommer hastigheden til at passe bedst.
+
 ## Børn på egen cykel
 
 Børn, der er vant til at cykle selv, kan sagtens tage med på cykelferie, når bare de kan styre cyklen sikkert. Med mange pauser undervejs og den rigtige cykel er 30 km ikke uoverkom meligt for en 8-årig cyklist. Barnets cykel må endelig ikke være for stor. Det er svært at håndtere en stor cykel, og det giver en dår lig kørestilling med ømhed til følge. 
  
 Barnecyklen må heller ikke være lastet med tung eller omfangsrig bagage. Men et par små cykeltasker kan godt bruges af børn fra 8-års alderen. Store børn (fra 12-14 år) kan som regel cykle på lige vilkår med de voksne - forudsat at de har lyst til det og er i tilstrækkelig god form. 
-
 ## Halvcykel til de halvstore
 
 Er barnet for stort til passiv transport i bar nestolen og for lille til at cykle selv i trafik ken - så er en halvcykel en god idé. Det er nærmest en halv barnecykel, som spændes efter en voksencykel. På halvcyklen bliver barnet ikke bare transporteret; det kan selv træde med, så cykelturen bliver sjovere for begge parter. 

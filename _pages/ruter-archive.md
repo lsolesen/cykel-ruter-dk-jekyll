@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Ruter
+title: Cykelruter
 excerpt: Cykelruter i Danmark - særligt Østjylland, Sydjylland og Vestjylland.
 permalink: /ruter/
 comments: true

@@ -1,5 +1,5 @@
 ---
-title: "Transport af cykler"
+title: "Transport af cykler på cykelferien?"
 tags:
   - cykelferie
   - gode råd
@@ -20,6 +20,7 @@ feature_row:
     url: "https://www.cykelpartner.dk/thule-freeride-532-cykelholder-til-tagmontering_53532.html"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+excerpt: "Hvordan kan jeg transportere cyklen rundt på cykelferien og cykelturen?"
 ---
 
 **Det er let at læsse cykler bag på bilen. Men de offentlige transportmidler kan også give en håndsrækning på ud- og hjemrejsen, eller når man trænger til en hviledag for ben og bag i løbet af ferien.**

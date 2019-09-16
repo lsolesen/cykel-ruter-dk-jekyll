@@ -1,15 +1,17 @@
 ---
-title: "Planlægning af turen"
+title: "Planlægning af cykelturen"
 tags:
   - cykelferie
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
+excpert: "Grundig planlægning af cykelturen og cykelferien kan gøre tingene lettere, men planlæg også muligheden for at være spontan."
 ---
 
 **Nøglen til en uforglemmelig god cykel ferie er: Planlægning og evnen til spon tant at ændre planer.**
 
 Ud i det blå og lad os se hvad skæbnen bringer. Det kan være opskriften på en super cykelferie. De fleste har det dog bedst med et minimum af planlægning. 
+
 Planlægning kan også være en rigtig hygge lig del af ferien. Bred kortet ud på køkken bordet og snak om tingene, lad dig inspirere og husk at sæt dig lidt ind i de muligheder, der ligger i nærheden af ruten. Det er så ærgerligt at køre forbi et smukt sted eller en spændende udstilling, bare fordi man ikke vidste, at den fandtes. Her kan du læse om nogle af de ting, der er vigtige at huske på, når du planlægger tur. 
 
 ## Afstem forventningerne 

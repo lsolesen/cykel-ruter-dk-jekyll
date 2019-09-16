@@ -1,6 +1,12 @@
+{% capture map_id %}{{ include.id }}{% endcapture %}
+{% capture map_provider %}{{ include.provider }}{% endcapture %}
 <!-- Courtesy of embedresponsively.com //-->
 <div class="responsive-video-container">
-{% if include.provider == "endomondo" %}
-  <iframe src="http://www.endomondo.com/embed/routes?id={{ include.id }}&width=900&height=600" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe>
+{% if map_provider == "endomondo" %}
+  <iframe src="http://www.endomondo.com/embed/routes?id={{ map_id }}&width=900&height=600" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe>
+{% elsif map_provider == "bikemap" %}
+  <iframe src="https://www.bikemap.net/en/r/{{ map_id }}/widget/?width=640&amp;height=480&amp;unit=metric" width="640" height="480" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"> </iframe> <div style="margin: -4px 0 0 5px; height: 16px; color: #889EAC; font-family: sans-serif; font-size: 11px;"> <a href="https://www.bikemap.net/en/r/{{ map_id }}/" style="color:#1381fa; text-decoration:underline;" target="_blank" rel="noopener">Cycle Route {{ map_id }}</a> - via <a href="https://www.bikemap.net" style="color:#1381fa; text-decoration:underline;" target="_blank">Bikemap.net</a></div>
+{% elsif map_provider == "gpsies" %}
+  <iframe src="http://www.gpsies.com/mapOnly.do?fileId={{ map_id }}" width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 {% endif %}
 </div>

@@ -3,6 +3,7 @@ title: "Cykelruter i Vejle-området"
 tags:
   - cykelferie
 last_modified_at: 2011-06-28T16:08:57Z
+excerpt: "Vi har beskrevet cykelruter med udgangspunkt i tre campingpladser på Vejle-egnen."
 ---
 
 I løbet af sommeren skal vi beskrive nogle cykelruter, der starter fra tre cykelvenlige overnatningssteder:
