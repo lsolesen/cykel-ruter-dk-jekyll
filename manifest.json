@@ -7,8 +7,8 @@ layout: none
     "start_url" : "{{ site.url }}",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
-    "lang" : "{{ site.language }}",
+    "display": "standalone",
+    "lang": "{{ site.language }}",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
