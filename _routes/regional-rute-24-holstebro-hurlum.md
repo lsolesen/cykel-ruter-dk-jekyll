@@ -4,8 +4,8 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
-  overlay_image: &image https://www.visitkolding.dk/sites/default/files/styles/galleries_ratio/public/asp/visitkolding/aktiv_ferie/cykel/mountainbikekolding1024.jpg?itok=DTYRgC5-
-  caption: "Stemningsbillede fra VisitKolding"
+  overlay_image: &image https://images.unsplash.com/photo-1486413161838-08358ba654df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80
+  caption: "Foto fra Unsplash"
   teaser: *image
 category:
   - Regional

@@ -29,10 +29,6 @@ I sommermånederne bør du besøge Dejbjerg Jernalder. I jernalderlandsbyen vil 
 
 Hvis du gerne vil se alt i området, kan du fra Bundsbæk Mølle Vandrehjem finde frem til flere dejlige lokale cykelruter i området eller du kan læse mere på www.skjern-egvad-museum.dk.
 
-{% include gps provider="bikemap" id="4205377" %}
-
-{% include gps provider="gpsies" id="tgzisindujiyzclr" %}
-
 ## Links
 
 - [http://www.skjern-egvad-museum.dk/kort.html](http://www.skjern-egvad-museum.dk/kort.html)

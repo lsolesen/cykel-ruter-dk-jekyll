@@ -4,8 +4,8 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
-  overlay_image: &image https://www.visitjammerbugten.dk/sites/default/files/styles/galleries_ratio/public/asp/visitjammerbugten/cykel_og_vandre/cyklistermedkort.jpg?itok=PW50rRpA
-  caption: "Billede fra Visitjammerbugten"
+  overlay_image: &image https://www.randers.dk/media/2699/8-staa-af-og-hold-en-pause-ml-noerbaek-og-faarup.jpg?height=500&widthratio=2.5000230713393594&mode=crop&anchor=center&rnd=131983378350000000&upscale=false&format=webp
+  caption: "Billede fra randers.dk"
   teaser: *image
 category:
   - Regional

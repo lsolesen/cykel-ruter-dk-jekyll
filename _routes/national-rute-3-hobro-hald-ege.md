@@ -4,9 +4,9 @@ author: lsolesen
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
-  overlay_image: &image https://www.visitsonderjylland.dk/sites/default/files/styles/news_and_article_image/public/asp/vsj/Theme-article-1160x653/Cykling/to-par-cykler-i-skoven-niclas-jessen.jpg?itok=dBJ4FAvI
+  overlay_image: &image https://images.unsplash.com/photo-1551895738-6d0216165381?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
   teaser: *image
-  caption: "Billede fra VisitSønderjylland"
+  caption: "Photo by Solé Bicycles on Unsplash"
 category:
   - National
 tags:
@@ -14,6 +14,10 @@ tags:
   - national
   - Guidebog Øsstjylland
 excerpt: "Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, at cyklen blev opfundet."
+gps:
+  url: https://www.bikemap.net/en/r/5320992/
+  provider: bikemap
+  id: 5320992
 ---
 
 **{{ page.excerpt }}**

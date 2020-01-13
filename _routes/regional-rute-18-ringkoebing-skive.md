@@ -4,7 +4,7 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
-  overlay_image: &image https://www.visitholstebro.dk/sites/default/files/styles/galleries_ratio/public/asp/visitholstebro/Gallery/cykelferie/cykel_1_1024.jpg?itok=IZu8WQ1m
+  overlay_image: &image https://www.feriehusudlejning.dk/media/1510/web-gjellerodde.jpg
   caption: "Billede fra Holstebro"
   teaser: *image
 category:

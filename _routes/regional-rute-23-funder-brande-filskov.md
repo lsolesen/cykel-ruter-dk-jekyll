@@ -4,7 +4,7 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
-  overlay_image: &image https://www.haervej.dk/sites/default/files/styles/gallery_medium_width/public/asp/haervej/Thorning-Funder-Kirkeby/cyklist-grathe-hede.jpg?itok=djTQGCuD
+  overlay_image: &image https://gdkfiles.visitdenmark.com/files/471/231189_Den-skve-bane---VisitHerning---Original-6.jpg?width=1024
   caption: "Stemningsbillede fra Hærvejen"
   teaser: *image
 category:

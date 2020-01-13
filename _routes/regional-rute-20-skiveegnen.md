@@ -3,9 +3,9 @@ title: "Regional Rute 20 Skive-egnen"
 created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2019-04-17T09:48:02+02:00
 header:
-  overlay_image: &image https://www.visitviborg.dk/sites/default/files/styles/news_and_article_image/public/asp/visitviborg/Nyt_design2017/Theme_article_toppen/ovrige-cykelruter-1160x653-2.jpg?itok=gHkAOwiU
+  overlay_image: &image https://images.unsplash.com/photo-1563051225-3c91b9bbc65f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1812&q=80
   teaser: *image
-  caption: "Billede fra www.visitviborg.dk"
+  caption: "Photo by Matt Gross on Unsplash"
 category:
   - Regional
 tags:
