@@ -29,3 +29,9 @@ På [Saxo\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/se
 [Køb bøger på Saxo om cykling\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykling){: .btn .btn--large .btn--danger}
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
+
+## Samarbejdspartnere
+
+{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+
+{% include gallery array=ads %}
