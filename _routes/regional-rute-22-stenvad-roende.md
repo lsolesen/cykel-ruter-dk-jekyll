@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Ruten går tværs over Djursland og fungerer som en god introduktion til det djurske landskab. Ruten giver også mulighed for at følge mosebrugets historie, løbe sig træt i forlystelserne i Djurs Sommerland og slappe af i små stilfærdige oaser."
+gps:
+  url: https://www.alltrails.com/explore/map/map-cefb500--8
+  id: https://www.alltrails.com/widget/map/map-cefb500--8
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

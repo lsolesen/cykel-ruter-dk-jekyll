@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "Ruten bringer dig forbi en række interessante gravhøje, der er en del af Oldtidsvejen, som strækker sig fra Bovbjerg ved Vesterhavet og helt til Hagebro. Og du kan måske indstille din triptæller efter punkter på ruten, da den flere steder er opmålt af selveste Ole Rømer på befaling af den enevældige kong Christian V."
+gps:
+  url: https://www.alltrails.com/explore/map/map-5b4e9aa--11
+  id: https://www.alltrails.com/widget/map/map-5b4e9aa--11
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Denne rute fra Jyllands nuværende hovedby til landsdelens historiske magtcentrum fører gennem et meget seværdigt landskab med mulighed for interessante aktiviteter undervejs."
+gps:
+  url: https://www.alltrails.com/explore/map/map-17eb7ec--7
+  id: https://www.alltrails.com/widget/map/map-17eb7ec--7
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

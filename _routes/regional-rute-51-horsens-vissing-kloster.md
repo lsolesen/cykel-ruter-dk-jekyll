@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Ruten går gennem det midtjyske søhøjland og passerer forbi to af Danmarks højeste punkter. Det kuperede område giver mange flotte udsigter ud over søer, skov og marklandskaber med svajende korn og endeløse, kurvede elledninger."
+gps:
+  url: https://www.alltrails.com/explore/map/map-4249a84--14
+  id: https://www.alltrails.com/widget/map/map-4249a84--14
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

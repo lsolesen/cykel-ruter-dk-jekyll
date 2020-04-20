@@ -16,9 +16,10 @@ distance: 22 km
 asphalt: 22 km
 rubble: 0 km
 gps: 
-  url: http://www.endomondo.com/routes/21756236
-  id: 21756236
-  provider: endomondo
+  url: https://www.alltrails.com/explore/map/skibet-nr-vilstrup-kongens-kaer-vejle-hogsholt-farup-so-337cd73
+  id: https://www.alltrails.com/widget/map/skibet-nr-vilstrup-kongens-kaer-vejle-hogsholt-farup-so-337cd73
+  provider: alltrails
+related: "Danhostel Vejle"
 ---
 
 **En meget varieret rute med landsbyer, natur og områdets største sø og mulighed for at stoppe ind i Vejle By. Spring på cyklen i Skibet og tag bagvejen over Nr. Vilstrup til Vejle på cykelsti forbi fuglereservatet Kongens Kær. Her får vi et ordentligt skud natur, inden vi nyder bylivet i Vejle. Herfra fortsætter vi ad små kuperede veje gennem marker og op ad bakker, indtil vi skal sørge for at bremse, inden vi kører ned i Fårup Sø, som indbyder til en rolig stund. Endelig kører vi sydpå ad en kuperet rute på små veje, der snor sig gennem landskabet og et par små landsbyer, inden vi er tilbage i Skibet.**

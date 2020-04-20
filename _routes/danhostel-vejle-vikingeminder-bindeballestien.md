@@ -16,9 +16,10 @@ distance: 41 km
 asphalt: 41 km
 rubble: 0 km
 gps: 
-  url: http://www.endomondo.com/routes/18765429
-  id: 18765429
-  provider: endomondo
+  url: https://www.alltrails.com/explore/map/skibet-farup-so-jelling-randbol-bindeballestien-1ecdec3
+  id: https://www.alltrails.com/widget/map/skibet-farup-so-jelling-randbol-bindeballestien-1ecdec3
+  provider: alltrails
+related: "Danhostel Vejle"
 ---
 
 **En meget rolig rute væk fra byliv og travlhed. Her får man et smukt indtryk af landskaberne vest for Vejle by. Ruten byder på afslappet hygge ved Fårup Sø, historisk vingesus i Jelling og vekslende natur ved Frederikshåb Plantage. Alt i alt en meget smuk rute uden mange biler, da en del af ruten køres på den gamle Bindeballesti.**
@@ -54,3 +55,4 @@ Ved den gamle Ravning station kan vi se rekonstruerede dele af en 760 m lang vik
 Længere fremme på ruten kommer vi forbi Vingsted Centret - et aktivitets- og kursuscenter. Her kan man bl.a. tage en tur i svømmehallen. I Vingsted ligger også Vingsted Historiske værksted, hvor man kan se en nyopført jernalderlandsby eller få en rundvisning i Vingsted Mølle. Husk at lave aftale på forhånd.
 
 Resten af vejen ind mod Skibet køres tæt langs Vejle Å. Flere gange krydses åen over små træbroer, der inviterer til et kort stop for at opleve vandets mediterende effekt. Vi kører også forbi Haraldskær Fabrik fra 1741, der i sin tid udnyttede åens vandkraft til fremstilling af kobbervarer, leer og søm. Og ikke langt herfra kan man imponeres af den gamle Haraldskær herregård fra 1434, der i dag huser et konferencehotel. Husk at vende blikket mod den fine gamle Skibet kirke på stiens nordside med kalkmalerier fra ca. år 1200, inden ruten drejer under motortrafikvejen ind til Skibet by. 
+

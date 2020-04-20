@@ -16,10 +16,11 @@ distance: 13 km
 asphalt: 13 km
 rubble: 0 km
 gps:
-  id: 22823581
-  url: http://www.endomondo.com/routes/22823581
-  provider: endomondo
+  id: https://www.alltrails.com/widget/map/randboldal-randbol-frederikshab-plantage-bindeballe-8ab9bb9
+  url: https://www.alltrails.com/explore/map/randboldal-randbol-frederikshab-plantage-bindeballe-8ab9bb9
+  provider: alltrails
 author: lsolesen
+related: "Randbøldal Camping"
 ---
 
 **En dejlig overkommelig rute med dejlig natur og historisk islæt. Vi starter i Randbøldal, hvor vi kører mod Frederikshåb Plantage. En del af ruten foregår på mindre skovveje gennem Frederikshåb Plantage med minder om anden verdenskrig. Efter plantagen kører vi forbi den historiske Bindeballe Købmandsgård, der stammer helt tilbage fra 1897. Slut dagen med at besøge Randbøldal museet.**

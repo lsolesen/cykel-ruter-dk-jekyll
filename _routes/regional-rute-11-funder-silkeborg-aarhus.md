@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Ruten giver cyklister mellem Århus og Silkeborg mulighed for at nyde det midtjyske landskab på vejen. Ruten følger dels den direkte vej på cykelstierne langs landevej A15 og er dels smukt ført gennem Lyngbygård Ådal og Århus Ådal."
+gps:
+  url: https://www.alltrails.com/explore/map/map-7012ef0--10
+  id: https://www.alltrails.com/widget/map/map-7012ef0--10
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

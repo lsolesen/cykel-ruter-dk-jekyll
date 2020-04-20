@@ -16,10 +16,11 @@ distance: 54 km
 asphalt: 54 km
 rubble: 0 km
 gps:
-  id: 22820532
-  url: http://www.endomondo.com/routes/22820532
-  provider: endomondo
+  id: https://www.alltrails.com/widget/map/randbol-randbol-hede-egtved-ravning-engelslholm-2291d2e
+  url: https://www.alltrails.com/explore/map/randbol-randbol-hede-egtved-ravning-engelslholm-2291d2e
+  provider: alltrails
 author: lsolesen
+related: "Randbøldal Camping"
 ---
 
 **Ruten har store naturoplevelser, et historisk islæt og kulturelle oplevelser. Vi kan nyde udsigten fra bakkerne på Randbøl Hede, besøge Egtvedpigen, se landskabsskulpturerne i Tørskind Grusgrav, gå langs den gamle vikingebro ved Ravning og nyde Engelsholm Slot. Passager af ruten køres på grusvej.**

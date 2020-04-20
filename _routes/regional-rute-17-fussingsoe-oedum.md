@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "Denne rute giver rigtigt gode muligheder for at opleve de markante ådale, der er karakteristisk for det østjyske landskab."
+gps:
+  url: https://www.alltrails.com/explore/map/map-40cb228--12
+  id: https://www.alltrails.com/widget/map/map-40cb228--12
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

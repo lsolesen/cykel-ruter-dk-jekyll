@@ -3,9 +3,9 @@ title: "Landsbyidyl og Rands Fjord"
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
-  overlay_image: &image https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiPgdjlnOfjAhWqy6YKHUGfBqMQjRx6BAgBEAQ&url=http%3A%2F%2Fhagenstrandcamping.dk%2F&psig=AOvVaw2nzMQXwqB9ZauqDArLFsUR&ust=1564939685110341
+  overlay_image: &image https://upload.wikimedia.org/wikipedia/commons/8/86/Rands_Fjord.JPG
   teaser: *image
-  caption: "Billede fra hagenstrandcamping.dk"
+  caption: "Billede fra Wikipedia"
 category:
   - VisitVejle Cykelguide
 tags:
@@ -17,9 +17,10 @@ asphalt: 33 km
 rubble: 0 km
 author: lsolesen
 gps: 
-  url: http://www.endomondo.com/routes/18625108
-  id: 18625108
-  provider: endomondo
+  url: https://www.alltrails.com/explore/map/map--25405
+  id: https://www.alltrails.com/widget/map/map--25405
+  provider: alltrails
+related: "Hagen Strand Camping"
 ---
 
 **Ruten fører os forbi dejlige sandstrande, hvor badetøjet næsten skal vises frem. Vi passerer tæt på områdets største sø, hvor der er mange muligheder for vandreture. Vi kører gennem hyggelige små landsbyer og i det hele taget gennem et dejligt naturrigt område.**

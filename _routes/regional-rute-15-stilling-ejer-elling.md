@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "En kort, afveklsende og begivenhedsrig rute gennem det midtjyske søhøjland, op over Danmarks højeste bakkeparti og med mulighed for en afstikker til Danmarks højeste punkt."
+gps:
+  url: https://www.alltrails.com/explore/map/map-46e0eae--4
+  id: https://www.alltrails.com/widget/map/map-46e0eae--4
+  provider: alltrails
 ---
 
 **Errata**: Vi tror denne rute starter i Stilling og ikke i Skanderborg

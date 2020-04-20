@@ -13,7 +13,13 @@ tags:
   - cykelrute
   - national
   - Guidebog Østjylland
+  - National Cykelrute 4
 excerpt: "Denne del af national cykelrute 4 er uden tvivl en af Danmarks smukkeste. Vi føres fra det hyggelige cafeliv i Århus' smukke omgivelser til Midtjyllands skov- og sørige højland til de flade hedeegne i Vest. Sæt god tid af til denne rute, som byder på mange muligheder for hyggelige og spændende stop undervejs."
+gps:
+  url: https://www.alltrails.com/explore/map/map-f52b43f--10
+  id: https://www.alltrails.com/widget/map/map-f52b43f--10
+  provider: alltrails
+related: "National Cykelrute 4"
 ---
 
 **{{ page.excerpt }}**

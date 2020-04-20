@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Ruten kunne kaldes Herregårdsturen, idet vi kommer i umiddelbar nærhed af 5 større herregårde, nemlig herregårdene Holbækgård, Stenalt, Gl Estrup, Rosenholm og Vosnæsgård. Ruten kan desuden benyttes af cyklister på den nationale cykelrute 5, som ønsker at stikke genvej og samtidig opleve de djurske landskaber."
+gps:
+  url: https://www.alltrails.com/explore/map/map-08b255a--9
+  id: https://www.alltrails.com/widget/map/map-08b255a--9
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

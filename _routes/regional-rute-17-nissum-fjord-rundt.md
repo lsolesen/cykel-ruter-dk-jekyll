@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "Denne rute giver mulighed for to forskellige ture - en på 94 km og en på 145 km. Ligegyldigt hvilken du vælger, er ruten smuk og afvekslende med varieret natur. Du passerer hav, klitter, skov, hede og fjord, og der er masser af seværdigheder på vejen. Men husk at holde dig godt orienteret på kortet undervejs."
+gps:
+  url: https://www.alltrails.com/explore/map/map-f4666b1--7
+  id: https://www.alltrails.com/widget/map/map-f4666b1--7
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

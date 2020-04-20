@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "Ikke skrevet"
+gps:
+  url: https://www.alltrails.com/explore/map/map-5b658d2--10
+  id: https://www.alltrails.com/widget/map/map-5b658d2--10
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

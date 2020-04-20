@@ -1,11 +1,11 @@
 ---
-title: "Varieret natur, Vejle Fjord og Vejle by"
+title: "Hagen Strand og langs fjorden"
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
-  overlay_image: &image https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiPgdjlnOfjAhWqy6YKHUGfBqMQjRx6BAgBEAQ&url=http%3A%2F%2Fhagenstrandcamping.dk%2F&psig=AOvVaw2nzMQXwqB9ZauqDArLFsUR&ust=1564939685110341
+  overlay_image: &image https://www.bravotours.dk/imagevault/publishedmedia/ehkzv5rgihk1v586g3c2/Cykel-Shuttter-web.jpg?v=2
+  caption: "Billede fra Bravo Tours"
   teaser: *image
-  caption: "Billede fra hagenstrandcamping.dk"
 category:
   - VisitVejle Cykelguide
 tags:
@@ -16,10 +16,11 @@ distance: 46 km
 asphalt: 46 km
 rubble: 0 km
 gps: 
-  url: http://www.endomondo.com/routes/18624279
-  id: 18624279
-  provider: endomondo
+  url: https://www.alltrails.com/explore/map/vejle-by-og-varieret-natur-08808cf
+  id: https://www.alltrails.com/widget/map/vejle-by-og-varieret-natur-08808cf
+  provider: alltrails
 author: lsolesen
+related: "Hagen Strand Camping"
 ---
 
 **En dejlig rute forbi flere sandstrande, tæt på områdets største sø, gennem landsbyer, det lange udsyn i åbne landskaber og et med skønne naturområder. Ruten vender tæt på det hyggelige centrum i Vejle og fortsætter i overgangen mellem fjord og stejle bøgeskove inden den for en kort bemærkning skærer gennem skoven for igen at få vind i håret ved fjorden og mulighed for at nyde livet ved en hyggelig lystbådehavn inden de sidste tråd i ind i landet. En smule af ruten gennem skoven er på grusvej.**

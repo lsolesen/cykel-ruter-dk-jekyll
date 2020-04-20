@@ -16,10 +16,11 @@ distance: 42 km
 asphalt: 42 km
 rubble: 0 km
 gps:
-  id: 21753862
-  url: http://www.endomondo.com/routes/21753862
-  provider: endomondo
+  id: https://www.alltrails.com/widget/map/randbol-bindeballestien-skibet-farup-so-jelling-haervejen-7576182
+  url: https://www.alltrails.com/explore/map/randbol-bindeballestien-skibet-farup-so-jelling-haervejen-7576182
+  provider: alltrails
 author: dina
+related: "Randbøldal Camping"
 ---
 
 **En meget rolig rute væk fra byliv og travlhed. Her får man et smukt indtryk af landskaberne vest for Vejle by. Ruten byder på afveklsende natur ved Frederikshåb Plantage, historisk tilbageblik til vikingerne både ved Ravningbroen og i Jelling og afslappet hygge ved Fårup Sø. Alt i alt en meget smuk rute uden mange biler, da en del af ruten køres på den gamle Bindeballesti.**

@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "På denne rute fra Ry i det jyske søhøjland til Randers i Kronjylland oplever man mangfoldigheden i det midtjyske landskab. Ruten går flere steder gennem kuperet landskab med udsigtspunkter til flotte panoramalandskaber."
+gps:
+  url: https://www.alltrails.com/explore/map/map-4249a84--14
+  id: https://www.alltrails.com/widget/map/map-4249a84--14
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

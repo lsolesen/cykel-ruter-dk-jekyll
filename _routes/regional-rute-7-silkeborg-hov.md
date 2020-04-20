@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Oplev det særegne Midtjylland med de mange bakker, ådale, store skove og hedearealer. Kør gennem traditionelt landbrugsland og nyd pauser i byerne på vejen."
+gps:
+  url: https://www.alltrails.com/explore/map/map-1e69276--7
+  id: https://www.alltrails.com/widget/map/map-1e69276--7
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

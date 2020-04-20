@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "Ruten følger stort set den gamle banestrækning hele vejen mellem Funder og Filskov. Denne strækning var en del af en jernbane, der gik skråt ned over Jylland fra Langå til Esbjerg. Jernbanen blev kaldt Den Skæve Bane i folkemunde."
+gps:
+  provider: alltrails
+  id: https://www.alltrails.com/widget/map/map-4496bf2--6
+  url: https://www.alltrails.com/explore/map/map-4496bf2--6
 ---
 
 **{{ page.excerpt }}**

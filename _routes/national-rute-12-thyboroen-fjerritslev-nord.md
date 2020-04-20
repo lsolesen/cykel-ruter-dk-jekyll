@@ -12,7 +12,13 @@ tags:
   - cykelrute
   - national
   - Guidebog Vestjylland
+  - National Cykelrute 12
 excerpt: "Ikke beskrevet."
+gps:
+  url: https://www.alltrails.com/explore/map/map-4249a84--14
+  id: https://www.alltrails.com/widget/map/map-4249a84--14
+  provider: alltrails
+related: National Cykelrute 12
 ---
 
 **{{ page.excerpt }}**

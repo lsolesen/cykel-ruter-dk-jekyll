@@ -13,6 +13,10 @@ tags:
   - cykelrute
   - regional
 excerpt: "Denne korte rute forbinder områdets hovedby, Odder, med den nationale cykelrute 5. Undervejs kommer du igennem flotte, afvekslende landskaber."
+gps:
+  url: https://www.alltrails.com/explore/map/map-4249a84--14
+  id: https://www.alltrails.com/widget/map/map-4249a84--14
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

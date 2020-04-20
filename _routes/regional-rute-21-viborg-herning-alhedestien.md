@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "Alhedestien er et sammenhængede stisystem anlagt på den nedlagte Herning-Viborg jernbane. Jernbanen var i brug omkring 70 år, inden den blev nedlagt i 1978, fordi den ikke kunne konkurrere med biler og busser. Inden da havde jernbanen både transporteret personer og gods. På ruten vil du passere enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede."
+gps: 
+  url: https://www.alltrails.com/explore/map/map-8e443d6--10
+  id: https://www.alltrails.com/widget/map/map-8e443d6--10
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "De naturmæssige oplevelser ligger som perler på en snor på denne rute, som også fungerer som forbindelsesled med syv andre cykelruter."
+gps:
+  url: https://www.alltrails.com/explore/map/map-fc1c379--11
+  id: https://www.alltrails.com/widget/map/map-fc1c379--11
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

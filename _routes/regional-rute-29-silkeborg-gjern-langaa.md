@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Det meste af ruten følger den nedlagte Silkeborg-Langå-jernbane gennem et varieret landskab. Halvdelen af ruten løber langs tre markante ådale; Gudenådalen, Gjern Ådal og Lilleådalen. Resten af ruten passerer fortrinsvist forbi mindre byer og marker."
+gps:
+  url: https://www.alltrails.com/explore/map/map-2dbf216--11
+  id: https://www.alltrails.com/widget/map/map-2dbf216--11
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

@@ -14,6 +14,10 @@ tags:
   - national
   - Guidebog Vestjylland
 excerpt: "Fra nord til syd følger ruten Østjyllands kystlinje og flere steder er der gode bademuligheder i Kattegat nær de store og små turistbesøgte kystbyer."
+gps:
+  url: https://www.alltrails.com/explore/map/map-5463b51--4
+  id: https://www.alltrails.com/widget/map/map-5463b51--4
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

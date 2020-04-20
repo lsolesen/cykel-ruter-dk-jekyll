@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Rute 9 fører os langs Randers Fjord hele vejen til Udbyhøj. Det er svært ikke at køre sidelæns på denne rute, som undervejs byder på smukke panoramalandskaber og flere historiske oplevelser. Nærmere fjorden kommer man ikke på cykel."
+gps:
+  url: https://www.alltrails.com/explore/map/map-9b8ef27--4
+  id: https://www.alltrails.com/widget/map/map-9b8ef27--4
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

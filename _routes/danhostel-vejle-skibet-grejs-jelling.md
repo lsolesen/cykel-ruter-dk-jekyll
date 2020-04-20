@@ -1,5 +1,5 @@
 ---
-title: "Varieret natur og Vejle by"
+title: "Vejle - Skibet  - Grejs - Jelling"
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -16,11 +16,14 @@ distance: 32 km
 asphalt: 32 km
 rubble: 0 km
 gps: 
-  url: https://www.endomondo.com/routes/22918864
-  id: 22918864
-  provider: endomondo
+  url: https://www.alltrails.com/explore/map/skibet-vejle-grejs-jelling-576d026
+  id: https://www.alltrails.com/widget/map/skibet-vejle-grejs-jelling-576d026
+  provider: alltrails
 author: dina
+related: "Danhostel Vejle"
 ---
+
+## Varieret natur og Vejle By
 
 **En rute gennem de bakkede landskaber nordvest for Vejle. I oplever Grejs Ådals grønne, skovrige omgivelser og føres forbi bølgede kornmarker gennem en række forskellige landsbyer til et mindre hedeområde ved Bjerlev og videre til den åbne Fårup sø. Ruten kører også forbi et meget vigtigt stykke Danmarkshistorie i Jelling, hvor man kan se Danmarks måske mest berømte sten - de to runesten fra vikingetiden, som bevidner overgangen fra hedensk vikingetid til kristen middelalder. Der er desuden rig mulighed for at stoppe ind i Vejle by.**
 

@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "En relativt flad rute der veksler mellem hedelyngområder, marker og folde - og så er der sket nogle interessante historiske begivenheder i området."
+gps:
+  url: https://www.alltrails.com/explore/map/map-7ea25c9--10
+  id: https://www.alltrails.com/widget/map/map-7ea25c9--10
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

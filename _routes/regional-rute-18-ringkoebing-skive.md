@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Vestjylland
 excerpt: "Denne rute fører os gennem nogle af landets største skov- og hedearealer."
+gps:
+  url: https://www.alltrails.com/explore/map/map-fbdd952--10
+  id: https://www.alltrails.com/widget/map/map-fbdd952--10
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

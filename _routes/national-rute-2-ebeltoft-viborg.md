@@ -4,16 +4,22 @@ author: dina
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
-  overlay_image: &image https://www.cyklistforbundet.dk/cykelviden/~/media/Images/Alt%20om%20cykling/Cykling/Cykelviden/Konferenceindlaeg/Nationale%20cykelruter_N2%20%C3%B8st%20for%20Frederikssund.ashx
+  overlay_image: &image https://www.ebeltoft.dk/wp-content/uploads/2018/05/ebeltoft-raadhus.jpg
   teaser: *image
-  caption: "Billede fra Cyklistforbundet"
+  caption: "Billede fra ebeltoft.dk"
 category:
   - National
 tags:
   - cykelrute
   - national
   - Guidebog Østjylland
+  - National Cykelrute 2
 excerpt: "På denne del af den nationale cykelrute 2 oplever vi alt fra strand og herregårdslandskaber til skovtætte ådale og lynghedearealer. Den varierede rute forbinder flere af Jyllands historiske knudepunkter, hvilket giver rig mulighed for gode byoplevelser som afveksling til de snørklede landevejsstrækninger."
+gps:
+  url: https://www.alltrails.com/explore/map/map-e4d8163--4
+  id: https://www.alltrails.com/widget/map/map-e4d8163--4
+  provider: alltrails
+related: "National Cykelrute 2"
 ---
 
 **{{ page.excerpt }}**

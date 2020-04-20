@@ -4,8 +4,8 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
-  overlay_image: &image http://mariagerfjordguiden.dk/Files/Images/mariagerfjordguiden/Cykleruter/Mariager-Fjord-Ruten.jpg
-  caption: "Stemningsbillede fra Mariager Fjord"
+  overlay_image: &image https://usercontent.one/wp/mariager-havn.dk/wp-content/uploads/2020/01/stemningmariager-2000x1200-1.jpg
+  caption: "Stemningsbillede Mariager - mariager-havn.dk"
   teaser: *image
 category:
   - Regional
@@ -14,6 +14,10 @@ tags:
   - regional
   - Ikke trykt
 excerpt: "Denne smukke rute går hele vejen rundt om Mariager Fjord. Beskrivelsen starter i Mariager, men du kan starte, hvor du har lyst. På ruten finder man flade strandenge med et rigt fugleliv, fredede naturområder, skovbeklædte skrænter, smukke udsigtspunkter, små skjulte fiskerlejer, kæmpehøje, kulturminder og i fjordens hovedbyer, Hadsund, Mariager og Hobro, venter oplevelser for hele familien."
+gps:
+  url: https://www.naviki.org/da/denmarkbybike/planlaeg-din-cykeltur/?tx_naviki_pi_way[uid]=11908332#p=55.73819,10.50156&z=7
+  id: 11908332
+  provider: naviki
 ---
 
 **{{ page.excerpt }}**

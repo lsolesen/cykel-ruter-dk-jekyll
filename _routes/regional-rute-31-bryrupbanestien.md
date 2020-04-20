@@ -13,8 +13,11 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "Ruten fører os behageligt gennem det midtjyske landskab. Størstedelen af tiden følger ruten en nedlagt jernbane, som kun er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm.
-"
+excerpt: "Ruten fører os behageligt gennem det midtjyske landskab. Størstedelen af tiden følger ruten en nedlagt jernbane, som kun er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm."
+gps:
+  provider: alltrails
+  url: https://www.alltrails.com/explore/map/map-c70daf2--5
+  id: https://www.alltrails.com/widget/map/map-c70daf2--5
 ---
 
 **{{ page.excerpt }}**

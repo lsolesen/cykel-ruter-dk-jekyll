@@ -13,6 +13,10 @@ tags:
   - national
   - Guidebog Vestjylland
 excerpt: "Ruten følger nogle af de gamle drivveje, hvor kreaturer blev drevet til og fra græsning på engene eller til de store kvægmarkeder i Nordtyskland. Tag dig tid til at læse informationstavlerne ved de forskellige kulturspor."
+gps:
+  url: https://www.alltrails.com/explore/map/map-7241bd1--8
+  id: https://www.alltrails.com/widget/map/map-7241bd1--8
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

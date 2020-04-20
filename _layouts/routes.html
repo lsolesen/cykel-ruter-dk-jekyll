@@ -44,12 +44,26 @@ layout: default
         {% endif %}
         {{ content }}
         
-        {% if page.gps.provider %}
-          {% include gps provider=page.gps.provider id=page.gps.id %}
-          <div><a href="{{ page.gps.url }}" class="btn btn--large btn--success"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].pdf_label | default: "Se GPS track" }}</a></div>
-        {% endif %}
-        
+        <div class="feature_wrapper">
+          {% if page.gps.provider %}
+            {% include gps provider=page.gps.provider id=page.gps.id %}
+            <div><a href="{{ page.gps.url }}" class="btn btn--large btn--success"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].pdf_label | default: "Se GPS track" }}</a></div>
+          {% endif %}
+        </div>
+
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        {% assign routes = site.routes | where: "tags", page.related %}
+        {% if routes.size > 0 %}
+        <div class="feature__wrapper">
+          <h2>Relaterede ture</h2>
+          {% for post in routes %}
+            {% unless post.url == page.url %}
+              {% include archive-single.html type="grid" %}
+            {% endunless %}
+          {% endfor %}
+        </div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">

@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Rutens 88 km byder på en hård start, hvor du for alvor kan krumme ryggen og lege professionel cykelrytter. Men med gang i blodomløbet er du klar på en afvekslende rute med mulighed for interessante afstikkere i Kronjyllands smukke landskaber."
+gps:
+  url: https://www.alltrails.com/explore/map/map-29d7491--9
+  id: https://www.alltrails.com/widget/map/map-29d7491--9
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

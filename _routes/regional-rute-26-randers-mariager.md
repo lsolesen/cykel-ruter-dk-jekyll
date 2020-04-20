@@ -14,6 +14,10 @@ tags:
   - regional
   - Guidebog Østjylland
 excerpt: "Denne rute fører os gennem afvesklende landskaber i det smukke Kronjylland. Området har en af de største koncentrationer af gravhøje og det er muligt at komme helt tæt på nogle af dem. Desuden kører vi forbi digteren Steen Steensen Blichers hjem og grav."
+gps:
+  url: https://www.alltrails.com/explore/map/map-80f2f15--8
+  id: https://www.alltrails.com/widget/map/map-80f2f15--8
+  provider: alltrails
 ---
 
 **{{ page.excerpt }}**

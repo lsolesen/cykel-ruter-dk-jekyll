@@ -3,9 +3,9 @@ title: "Den lille kysttur og Rands Fjord"
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
-  overlay_image: &image https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiPgdjlnOfjAhWqy6YKHUGfBqMQjRx6BAgBEAQ&url=http%3A%2F%2Fhagenstrandcamping.dk%2F&psig=AOvVaw2nzMQXwqB9ZauqDArLFsUR&ust=1564939685110341
+  overlay_image: &image https://upload.wikimedia.org/wikipedia/commons/8/86/Rands_Fjord.JPG
   teaser: *image
-  caption: "Billede fra hagenstrandcamping.dk"
+  caption: "Billede fra Wikipedia"
 category:
   - VisitVejle Cykelguide
 tags:
@@ -16,10 +16,11 @@ distance: 21 km
 asphalt: 21 km
 rubble: 0 km
 gps: 
-  url: http://www.endomondo.com/routes/21753862
-  id: 21753862
-  provider: endomondo
+  url: https://www.alltrails.com/explore/map/den-lille-kysttur-og-rands-fjord-717d8b3
+  id: https://www.alltrails.com/widget/map/den-lille-kysttur-og-rands-fjord-717d8b3
+  provider: alltrails
 author: dina
+related: "Hagen Strand Camping"
 ---
 
 **Et udvalg af dejlige sandstrande og flere afmærkede vandreture gennem varieret natur. Vi passerer de meget forskellige badestrande i Hvidbjerg og Høll, kører hele turen rundt om Rands Fjord og nyder de mange gode udsigter langs ruten. Det kan virkelig anbefales at forlænge ruten og køre til det fredede udflugtmål Trelde Næs.**
