@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Guidebog til cykeloplevelser i Vestjylland
+title: Guidebog til cykeloplevelser og cykelruter i Vestjylland
 permalink: /cykelguide-vestjylland/
-excerpt: "Cykelguide til cykelferie og cykeloplevelser i Østjylland."
+excerpt: "Cykelguide til cykelruter, cykelferie og cykeloplevelser i Østjylland."
 author_profile: true
 sidebar:
   title: "Om Cykelguide til cykeloplevelser i Vestjylland"
@@ -28,6 +28,7 @@ _Rigtig god fornøjelse – og god tur!_
 {% assign site_posts = site.routes | where: "tags", "Guidebog Vestjylland" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
+## Cykelruter i Vestjylland
   {% for post in site_posts %}
     {% include archive-single.html %}
   {% endfor %}

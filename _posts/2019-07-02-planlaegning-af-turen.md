@@ -6,6 +6,35 @@ tags:
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
 excpert: "Grundig planlægning af cykelturen og cykelferien kan gøre tingene lettere, men planlæg også muligheden for at være spontan."
+gallery:
+  - image_path: https://imgcdn.saxo.com/_9788771552980/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980
+    alt: "#1 Nordjylland"
+    title: "#1 Nordjylland"
+  - image_path: https://imgcdn.saxo.com/_9788771552997/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
+    alt: "#2 Vestjylland og Limfjordslandet"
+    title: "#2 Vestjylland og Limfjordslandet"
+  - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
+    alt: "#3 Sydjylland"
+    title: "#3Sydjylland"
+  - image_path: https://imgcdn.saxo.com/_9788771553017/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
+    alt: "#4 Østjylland"
+    title: "#4 Østjylland"
+  - image_path: https://imgcdn.saxo.com/_9788771553024/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-5-fyn_ukendt_9788771553024
+    alt: "#5 Fyn"
+    title: "#5 Fyn"
+  - image_path: https://imgcdn.saxo.com/_9788771553048/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-7-sydsjaelland-moen-og-lolland-falster_ukendt_9788771553048
+    alt: "#7 Sydsjælland, Møn og Lolland-Falster"
+    title: "#7 Sydsjælland, Møn og Lolland-Falster"
+  - image_path: https://imgcdn.saxo.com/_9788771553055/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-8-bornholm_ukendt_9788771553055
+    alt: "#8 Bornholm"
+    title: "#8 Bornholm"
 ---
 
 **Nøglen til en uforglemmelig god cykel ferie er: Planlægning og evnen til spon tant at ændre planer.**
@@ -42,14 +71,15 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 
 1. Fastsæt mål for turen 
 2. Planlæg ruten i store træk 
-3. Anskaf gode cykelkort
+3. Anskaf gode cykelkort - fx [Cykelkortserien\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkortserie)
 4. Hvad skal med - og hvem skal bære det? 
-5. Bestil evt. overnatning 
+5. Bestil evt. overnatning, fx [AirBnb\*](/go/airbnb/)
 6. Reserver evt. plads i tog eller bus til ud- og hjemrejse 
-7. Anskaf nyt udstyr i god tid og prøv det af før ferien 
+7. Anskaf nyt udstyr i god tid og prøv det af før ferien - tjek vores samarbejdspartnere.
 8. Kør et par træningsture 
-9. Gi' cyklerne et grundigt eftersyn D 
+9. Gi' cyklerne et grundigt eftersyn 
 10. Pak dagen før og kør en prøvetur
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a> 
 
+{% include gallery %}

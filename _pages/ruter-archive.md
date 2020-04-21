@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Cykelruter
-excerpt: "Cykelruter i Danmark - særligt Østjylland, Sydjylland og Vestjylland."
+title: Cykelruter og Cykelture i Danmark
+excerpt: "Cykelruter og cykelture i Danmark - skal du på cykelferie i Østjylland, Sydjylland og Vestjylland."
 permalink: /ruter/
 comments: true
 collection: routes
