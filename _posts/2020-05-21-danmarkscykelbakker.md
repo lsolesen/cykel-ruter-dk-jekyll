@@ -12,6 +12,14 @@ header:
 toc: true
 author_profile: true
 author: lsolesen
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9788755912908/0x500
+    title: "Danske Bjerge"
+    alt: "Danske Bjerge"
+    excerpt: "_Danmarks bjerge. Fra det laveste til det højeste punkt_ er en utrolig flot og oplysende bog med over 500 farverige fotos. Bogen giver en indsigt i landets 117 bjerge, fra Harehøj på 3 meter til Danmarks højeste punkt, Møllehøj. Hvert bjerg er beskrevet med historiske oplysninger, fakta og lokale anekdoter, som gør bogen hyggelig, underholdende oplysende at læse i."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
+    btn_label: "Læs mere*"
+    btn_class: "btn--inverse"
 ---
 
 Jeg har fundet to rigtig gode sites, som du kan bruge som udgangspunkt for at planlægge din rute, hvis du går efter at få så mange højdemeter i benene som muligt i Danmark. Der er faktisk mange stejler bakker rundt omkring i Danmark - og mange af de stejleste bakker ligger omkring Vejle.
@@ -27,6 +35,14 @@ Jeg har fundet to rigtig gode sites, som du kan bruge som udgangspunkt for at pl
 Du kan finde alle toppene som _Waypoints_, som du kan downloade til din cykelcomputer eller GPS, og der er også en række ruter på sitet.
 
 Allerede på forsiden præsenteres du for listen, og man bliver øjeblikkeligt inspireret til at springe på cyklen eller tage løbeskoene på og gå i gang med nogle af stigningerne.
+
+## Hårdeste og stejleste bakker fra [Danske Bjerge](https://danskebjerge.dk/)
+
+Danske Bjerge er et forunderligt lille site. På sitet kan du finde de hårdeste og stejleste bakker. Du kan lære om, hvorfor bakkerne overhovedet er opstået.
+
+> Min bakke-interesse har udviklet sig over flere år. Den startede vel i barndommen med sommerferierne til Norge, hvor synet af selv den mindste fjeldtop vakte min eventyrlyst. Senere blev jeg fascineret af stigninger og stigningsprocenter, når der var cykelsport i tv. Men efterhånden som jeg blev tiltrukket af forskellige former for konditionstræning, blev det relevant at se på, hvilket terræn de hjemlige himmelstrøg har at byde på. Fysisk aktivitet i kuperet landskab giver nemlig både udfordringer og god variation, hvilket er super værdifuldt for enhver træning. Bakke-interessen handler dog også om at finde og opleve steder ud fra en anden tilgang end den, man typisk bliver spist af med i en turistbrochure. Et højdedrag kan i sig selv være en seværdighed.
+
+--- <cite>J.T - [danskebjerge.dk](http://danskebjerge.dk/om1.htm)</cite>
 
 ## Danmarks hårdeste cykelbakker fra [VisitVejle](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)
 
@@ -44,5 +60,8 @@ Så er det bare at få planlagt din tur. Hvor mange højdemeter kan du få i ben
 
 ## Referencer
 
-- [Climbs](https://www.climbs.dk)
+- [Climbs.dk](https://www.climbs.dk)
 - [Danmarks hårdeste cykelbakker](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)
+- [Danmarks Bjerge af Roger Pihl](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/products/search?query=roger+pihl+bjerge)
+
+{% include feature_row %}
