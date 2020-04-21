@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Danmarks største og hårdeste bakker"
-excerpt: "Planlægger du en cykeltur efter hårde, store og stejleste bakker, så viser vi hvor du finder cykelbakker til at få så mange højdemeter i benene som muligt."
+excerpt: "Planlægger du en cykeltur efter hårde, store og stejle bakker, så er der en guide til de hårdeste, største og stejleste cykelbakker for at få så mange højdemeter i benene som muligt."
 tags:
   - cykelbakker
 last_modified_at: 2019-04-26T16:59:01Z
@@ -35,6 +35,8 @@ VisitVejle beskriver 16 cykelruter som bringer dig rundt på Vejles kendte stign
 > Ruterne er placeret i hele Vejle Kommune. Ud over en VisitVejle superrute på 35 km i og omkring Vejle, har Jelling, Børkop, Give og Egtved fået sin egen superrute. Der er også mere krævende superruter på 230 km (3000 højdemeter), 150 km (2000 højdemeter), 110 km (1500 højdemeter) og 65 km (1000 højdemeter). Med ruternes meget forskellige sværhedsgrader er der noget for alle.
 
 --- <cite>[VisitVejle](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)</cite>
+
+<iframe class="alltrails" src="https://www.alltrails.com/widget/list/bakker-i-vejle?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 ## Udfordringen
 

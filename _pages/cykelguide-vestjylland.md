@@ -15,7 +15,7 @@ Jylland er et spændende sted at tage på opdagelse. En perfekt blanding af natu
 
 En cykelguide er en god inspiration til at finde cyklen frem. Eller til at an skaffe sig en cykel, hvis den gamle er blevet for rusten. Hvis man først har fundet cyklen frem, er det bare med at komme op på den. Det er både sundt og hyggeligt og socialt. Man kan få natur- og kulturoplevelser på en helt ny måde. Faktisk er det fantastisk dejligt at cykle. 
 
-Der er noget uforklarligt ved at sætte sig op på jernhesten. Uden at man tænker over det, så kører den faktisk af sig selv. Og hvis man ikke lige ved, hvor man skal hen, så finder cyklen selv vej. Der er nærmest uende ligt meget at opleve, når man bevæger sig gennem landskabet. Når man cykler, kan man altid afpasse tempoet efter vind og vejr og terræn og humør. Man kan nå at se, hvad det er man passerer. Det hele går ligesom lidt langsommere. Og man er omgivet af lyde og dufte og langsomme billeder, der passerer revy. Som cyklist er man med i virkelighedens store film, mens man ruller gennem landskabet. 
+Der er noget uforklarligt ved at sætte sig op på jernhesten. Uden at man tænker over det, så kører den faktisk af sig selv. Og hvis man ikke lige ved, hvor man skal hen, så finder cyklen selv vej. Der er nærmest uendeligt meget at opleve, når man bevæger sig gennem landskabet. Når man cykler, kan man altid afpasse tempoet efter vind og vejr og terræn og humør. Man kan nå at se, hvad det er man passerer. Det hele går ligesom lidt langsommere. Og man er omgivet af lyde og dufte og langsomme billeder, der passerer revy. Som cyklist er man med i virkelighedens store film, mens man ruller gennem landskabet. 
 
 Denne cykelguide indeholder beskrivelser af en masse spændende ture. Naturen er smuk – og meget forskellig. Selvom Danmark er et lille land i den store verden, så er der utrolig forskellig natur fra øst til vest og fra nord til syd. Landskabet kan veksle fra skovklædte bakker til flade hede strækninger. Det hele fyldt med store og små byer. Eller med gårde og vindmøller og mindesmærker og kirker og andet interessant. 
 
@@ -35,3 +35,5 @@ _Rigtig god fornøjelse – og god tur!_
 {% endif %}
 
 [Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger}
+
+<iframe class="alltrails" src="https://www.alltrails.com/widget/list/vestjylland?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
