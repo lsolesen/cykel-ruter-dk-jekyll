@@ -42,7 +42,9 @@ Danske Bjerge er et forunderligt lille site. På sitet kan du finde de hårdeste
 
 > Min bakke-interesse har udviklet sig over flere år. Den startede vel i barndommen med sommerferierne til Norge, hvor synet af selv den mindste fjeldtop vakte min eventyrlyst. Senere blev jeg fascineret af stigninger og stigningsprocenter, når der var cykelsport i tv. Men efterhånden som jeg blev tiltrukket af forskellige former for konditionstræning, blev det relevant at se på, hvilket terræn de hjemlige himmelstrøg har at byde på. Fysisk aktivitet i kuperet landskab giver nemlig både udfordringer og god variation, hvilket er super værdifuldt for enhver træning. Bakke-interessen handler dog også om at finde og opleve steder ud fra en anden tilgang end den, man typisk bliver spist af med i en turistbrochure. Et højdedrag kan i sig selv være en seværdighed.
 
---- <cite>J.T - [danskebjerge.dk](http://danskebjerge.dk/om1.htm)</cite>
+--- <cite>Jacob T. Johansen - [danskebjerge.dk](http://danskebjerge.dk/om1.htm)</cite>
+
+[Danskebjerge.dk](http://danskebjerge.dk) har også artikler om, at man ikke ukritisk kan stole på GPS-urets højdeangivelser.
 
 ## Danmarks hårdeste cykelbakker fra [VisitVejle](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)
 
@@ -64,4 +66,4 @@ Så er det bare at få planlagt din tur. Hvor mange højdemeter kan du få i ben
 - [Danmarks hårdeste cykelbakker](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)
 - [Danmarks Bjerge af Roger Pihl](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/products/search?query=roger+pihl+bjerge)
 
-{% include feature_row %}
+{% include feature_row type="left" %}
