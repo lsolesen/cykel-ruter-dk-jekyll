@@ -1,5 +1,5 @@
 ---
-title: "Vejle - Skibet  - Grejs - Jelling"
+title: "Skibet  - Grejs - Jelling - Vejle"
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:

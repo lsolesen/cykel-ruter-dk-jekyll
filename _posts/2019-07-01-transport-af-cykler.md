@@ -6,21 +6,23 @@ tags:
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
 feature_row:
-  - image_path: https://www.cykelpartner.dk/pictures/450x450/Thule/41927v1_A.jpg
+  - image_path: https://sw14769.smartweb-static.com/upload_dir/shop/53-926001_A.jpg
     alt: "Thule Velocompact 3"
     title: "Thule Velocompact 3"
     excerpt: "Genial cykelholder Velocompact 3 fra Thule er til transport af 3 cykler. (Kan udvides til 4 cykler). Holderen er til montering på anhængertræk og passer til alle cykler."
-    url: "https://www.cykelpartner.dk/thule-velocompact-927-cykelholder-3-cykler_41927.html"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=68828&htmlurl=https://www.danskautoudstyr.dk/shop/18-transportudstyr/832-thule-velocompact---cykelholder-til-3-cykler---13-polet/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-  - image_path: https://www.cykelpartner.dk/pictures/450x450/Thule2018/53532_A_1.jpg
+  - image_path: https://www.fotoagent.dk/single_picture/10678/138/mega/532000_main_sized_900x600(2).jpg
     alt: "Thule Freeride 532 - Cykelholder til tagmontering"
     title: "Thule Freeride 532 - Cykelholder til tagmontering"
     excerpt: "Thule Freeride 532 er en cykelholder til tagmontering. Holderen har plads til en enkelt cykel. Virkelig let at bruge."
-    url: "https://www.cykelpartner.dk/thule-freeride-532-cykelholder-til-tagmontering_53532.html"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59734&htmlurl=https://www.cykler.dk/thule-freeride-532.aspx"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 excerpt: "Hvordan kan jeg transportere cyklen rundt på cykelferien og cykelturen?"
+sidebar:
+  nav: bikes
 ---
 
 **Det er let at læsse cykler bag på bilen. Men de offentlige transportmidler kan også give en håndsrækning på ud- og hjemrejsen, eller når man trænger til en hviledag for ben og bag i løbet af ferien.**
@@ -48,3 +50,9 @@ Skal du udelukkende rejse på privatbane strækninger? Så kontakt det lokale to
 Se også [www.rejseplanen.dk](http://www.rejseplanen.dk)
 
 {% include feature_row type="left" %}
+
+## Samarbejdspartnere
+
+{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+
+{% include gallery array=ads %}

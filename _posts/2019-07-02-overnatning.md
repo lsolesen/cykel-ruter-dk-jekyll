@@ -6,6 +6,8 @@ tags:
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
 excerpt: "Du har mange muligheder for at overnatte på cykelferien og cykelturen; Lige fra åben himmel til hoteller? Hvad vælger du?"
+sidebar:
+  nav: bikes
 ---
 
 **En god nats søvn giver ny energi, men hvor skal I overnatte? Hotelsenge er magelige, men det løber hurtigt op, hvis hele familien skal med. Camping koster mindre, men giver mere bagage. Og så er der alle de andre muligheder...**
@@ -51,3 +53,9 @@ Over hele landet findes mange andre typer overnatning end dem, vi beskriver oven
 VisitDenmark har samlet mulighederne fra A-Z. Flere overnatningssteder lever op til kravene i Cycling Denmarks mærkningsord ning. Dermed er det blevet lettere for cyklister at finde frem til de overnatningssteder, som har specialiseret sig i disse gæsters behov. Læs mere på: [www.visitdenmark.com/cycling] 
 
 [Få 200 DKK til overnatning på AirBnb\*](/go/airbnb/){: .btn .btn--large .btn--danger}
+
+## Samarbejdspartnere
+
+{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+
+{% include gallery array=ads %}

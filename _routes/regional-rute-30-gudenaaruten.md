@@ -15,8 +15,8 @@ tags:
   - Ikke trykt
 excerpt: "Ruten kaldes også for Gudenåruten, idet vi hele tiden bevæger os langs eller nær Danmarks største å. Da åen historisk har tiltrukket megen menneskelig aktivitet, findes derfor et stort antal arkæologiske og historiske seværdigheder foruden den smukke natur langs åen."
 gps:
-  url: https://www.alltrails.com/explore/map/map-4249a84--14
-  id: https://www.alltrails.com/widget/map/map-4249a84--14
+  url: https://www.alltrails.com/explore/map/rute-r30-langs-gudenaen-fra-randers-til-gl-rye-1-71969a8
+  id: https://www.alltrails.com/widget/map/rute-r30-langs-gudenaen-fra-randers-til-gl-rye-1-71969a8
   provider: alltrails
 ---
 

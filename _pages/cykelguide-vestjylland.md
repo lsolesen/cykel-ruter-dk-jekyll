@@ -7,6 +7,15 @@ author_profile: true
 sidebar:
   title: "Om Cykelguide til cykeloplevelser i Vestjylland"
   text: "Bogen blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
+gallery:
+  - image_path: https://imgcdn.saxo.com/_9788771552980/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980
+    alt: "#1 Nordjylland"
+    title: "#1 Nordjylland"
+  - image_path: https://imgcdn.saxo.com/_9788771552997/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
+    alt: "#2 Vestjylland og Limfjordslandet"
+    title: "#2 Vestjylland og Limfjordslandet"
 ---
 
 _Jørn Rye Rasmussen, kulturudvalgsformand i Silkeborg og ivrig cyklist_
@@ -37,3 +46,5 @@ _Rigtig god fornøjelse – og god tur!_
 [Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger}
 
 <iframe class="alltrails" src="https://www.alltrails.com/widget/list/vestjylland?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+
+{% include gallery %}

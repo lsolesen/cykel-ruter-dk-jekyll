@@ -4,6 +4,11 @@ tags:
   - cykelferie
 last_modified_at: 2011-06-28T16:08:57Z
 excerpt: "Vi har beskrevet cykelruter med udgangspunkt i tre campingpladser på Vejle-egnen."
+gallery:
+  - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
+    alt: "#3 Sydjylland"
+    title: "#3Sydjylland"
 ---
 
 I løbet af sommeren skal vi beskrive nogle cykelruter, der starter fra tre cykelvenlige overnatningssteder:
@@ -22,3 +27,5 @@ Vores opgave er:
 - at give input til kortkonsulenten
 
 Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
+
+{% include gallery %}

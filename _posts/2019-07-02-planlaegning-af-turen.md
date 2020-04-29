@@ -35,6 +35,8 @@ gallery:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-8-bornholm_ukendt_9788771553055
     alt: "#8 Bornholm"
     title: "#8 Bornholm"
+sidebar:
+  nav: bikes
 ---
 
 **Nøglen til en uforglemmelig god cykel ferie er: Planlægning og evnen til spon tant at ændre planer.**

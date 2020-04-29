@@ -6,6 +6,8 @@ tags:
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
 excpert: "Hvilket cykeltøj skal jeg vælge, når jeg tager på cykelferie?"
+sidebar:
+  nav: bikes
 ---
 
 **Man kan sagtens cykle i almindeligt tøj, bare det ikke strammer. Men typisk er det mere behageligt at køre med rigtigt cykeltøj - som minimum et par cykelbukser.**
@@ -29,3 +31,10 @@ Der findes også regntøj, der bare holder regnen ude. Det er en del billigere e
 Regntøj, der er designet til at cykle i, har ekstra lange ærmer og ekstra længde i ryg gen. Bukserne skal have god plads omkring bagen og knæene. Der må ikke være for meget benvidde nederst, da bukserne så let kommer ind i kæden. Før køb er det en god idé at prøve regntøjet og så strække armene frem og løfte knæet højt for at se, om tøjet stadig passer. 
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
+
+## Samarbejdspartnere
+
+{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+
+{% include gallery array=ads %}
+

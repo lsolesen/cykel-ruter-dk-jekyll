@@ -42,3 +42,4 @@ Herefter fortsætter du gennem Ilskov og Sunds til Herning. Der er skrevet en go
 - http://www.miljo.viborgamt.dk/graphics/Miljo/naturoplevelser/Billeder_Ernsted/Foldere_PDF/Alheden.PDF?LFORMID=7
 - http://www2.skovognatur.dk/vandretursfoldere/74/74alheden.htm
 - http://www.miljo.viborgamt.dk/sw4662.asp
+- https://alleud.dk/alhedestien-viborg-herning-banesti/

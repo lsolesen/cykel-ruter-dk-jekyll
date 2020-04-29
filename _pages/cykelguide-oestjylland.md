@@ -7,6 +7,19 @@ author_profile: true
 sidebar:
   title: "Om Cykelguide til cykeloplevelser i Østjylland"
   text: "Bogen blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
+gallery:
+  - image_path: https://imgcdn.saxo.com/_9788771552997/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
+    alt: "#2 Vestjylland og Limfjordslandet"
+    title: "#2 Vestjylland og Limfjordslandet"
+  - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
+    alt: "#3 Sydjylland"
+    title: "#3Sydjylland"
+  - image_path: https://imgcdn.saxo.com/_9788771553017/0x500
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
+    alt: "#4 Østjylland"
+    title: "#4 Østjylland"
 ---
 
 _Jørn Rye Rasmussen, kulturudvalgsformand i Silkeborg og ivrig cyklist_
@@ -37,3 +50,5 @@ _Rigtig god fornøjelse – og god tur!_
 [Lån Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603){: .btn .btn--large .btn--danger}
 
 <iframe class="alltrails" src="https://www.alltrails.com/widget/list/ostjylland--3?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+
+{% include gallery %}

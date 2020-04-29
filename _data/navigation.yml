@@ -12,3 +12,27 @@ main:
     url: /inspiration/
   - title: "Om"
     url: /om/
+
+bikes:
+  - title: "Links"
+    children:
+      - title: "Transport af cykler"
+        url: /transport-af-cykler/
+      - title: "Børn på cykelferie"
+        url: /boern-paa-cykelferie/
+      - title: "Hvordan pakkes cyklen"
+        url: /hvordan-pakkes-cyklen/
+      - title: "Pakkeliste"
+        url: /pakkeliste/
+      - title: "Mad på cykelturen"
+        url: /flot-mad-til-cykelturen/
+      - title: "Overnatning"
+        url: /overnatning/
+      - title: "Planlægning af cykelturen"
+        url: /planlaegning-af-turen/
+      - title: "Valg af cykel"
+        url: /valg-af-cykel/
+      - title: "Påklædning til cykelturen"
+        url: /paaklaedning/
+      - title: "Reparationer undervejs"
+        url: /reparationer-undervejs/

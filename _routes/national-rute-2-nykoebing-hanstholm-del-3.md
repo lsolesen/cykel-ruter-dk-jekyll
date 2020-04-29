@@ -14,7 +14,7 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 2
-excerpt: Følger seneree
+excerpt: Følger senere
 gps:
   url: https://www.alltrails.com/explore/map/map-14cfdb5--7
   id: https://www.alltrails.com/widget/map/map-14cfdb5--7

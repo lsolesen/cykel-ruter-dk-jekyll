@@ -13,6 +13,16 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/anhaengerbarnevogn-nordic-cab-active-2-1/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+feature_row_bee:
+  - image_path: https://www.fotoagent.dk/single_picture/10678/138/mega/BU945203.jpg
+    alt: "Burley Honey Bee Cykelanhænger"
+    title: "Burley Honey Bee Cykelanhænger"
+    excerpt: "Honey Bee giver værdi for pengene med den justerbare håndtag og det medfølgende Burley Stroller Kit, der gør det muligt at skifte mellem cykeltrailer og barnevogn."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59734&htmlurl=https://www.cykler.dk/burley-honey-bee-cykelanhaenger.aspx"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+sidebar:
+  nav: bikes
 ---
 
 Cykelferien er en genial måde at holde ferie med børn. Her kan man helt selv bestemme ruten og tempoet, så alle kan være med. Nedenfor får du gode råd om både de selvkørende feriebørn og de små, som skal køre med mor eller far. 
@@ -25,7 +35,8 @@ Hvis du har børn, der ikke selv kan cykle, må du have cykelstole til børnene 
 
 Børn, der er vant til at cykle selv, kan sagtens tage med på cykelferie, når bare de kan styre cyklen sikkert. Med mange pauser undervejs og den rigtige cykel er 30 km ikke uoverkom meligt for en 8-årig cyklist. Barnets cykel må endelig ikke være for stor. Det er svært at håndtere en stor cykel, og det giver en dår lig kørestilling med ømhed til følge. 
  
-Barnecyklen må heller ikke være lastet med tung eller omfangsrig bagage. Men et par små cykeltasker kan godt bruges af børn fra 8-års alderen. Store børn (fra 12-14 år) kan som regel cykle på lige vilkår med de voksne - forudsat at de har lyst til det og er i tilstrækkelig god form. 
+Barnecyklen må heller ikke være lastet med tung eller omfangsrig bagage. Men et par små cykeltasker kan godt bruges af børn fra 8-års alderen. Store børn (fra 12-14 år) kan som regel cykle på lige vilkår med de voksne - forudsat at de har lyst til det og er i tilstrækkelig god form.
+
 ## Halvcykel til de halvstore
 
 Er barnet for stort til passiv transport i bar nestolen og for lille til at cykle selv i trafik ken - så er en halvcykel en god idé. Det er nærmest en halv barnecykel, som spændes efter en voksencykel. På halvcyklen bliver barnet ikke bare transporteret; det kan selv træde med, så cykelturen bliver sjovere for begge parter. 
@@ -42,6 +53,8 @@ Kør ikke for lange dagsetaper med små børn og hold pause ofte, så de kan kom
 
 Udvalget af børneanhængere er stort. Vælg en let anhænger, der kører godt og stabilt uden at rokke fra side til side. Tjek at der er god bagageplads i vognen, og at koblingen er nem at bruge. Anhængeren skal kunne klappes sammen, hvis den skal med i bil, bus eller tog. Med ekstraudstyr kan visse anhængere også bruges som klap vogn. En god cykelanhænger koster ca. 3-5.000 kr. 
 
+{% include feature_row type="left" id="feature_row_bee" %}
+
 ## Familietandem
 
 Tandemmen er en anden mulighed, når to cyklister, der ikke er lige stærke, vil følges ad. Her kan barnet cykle med, mens den voksne passer styr og bremser. Så hvis man vil langt omkring med halvstore børn, er tandemmen en rigtig god løsning. 
@@ -51,3 +64,9 @@ Der findes tandemcykler, hvor børn kan cykle med på bagsædet fra 8-års alder
 På Cyklistforbundets hjemmeside [www.dcf.dk](http://www.dcf.dk) kan du læse meget mere om transport af børn, børn på egen cykel, sikkerhed, lovgivning og køb af børnecykler. 
 
 {% include feature_row type="left" %}
+
+## Samarbejdspartnere
+
+{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+
+{% include gallery array=ads %}

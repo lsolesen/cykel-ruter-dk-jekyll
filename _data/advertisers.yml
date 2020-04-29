@@ -9,7 +9,7 @@
 - title: Cykelpartner.dk
   url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706
   image_path: /assets/images/logo/cykelpartner.png
-  tags: featured
+  tags: bikes
 - title: Cykler.dk
   url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59790
   image_path: /assets/images/logo/cykler-dk.png
@@ -29,4 +29,4 @@
 - title: Green Bike Tours
   url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=63475
   image_path: /assets/images/logo/green-bike-tours.png
-  tags: featured
+  tags: planning
