@@ -1,5 +1,5 @@
 ---
-title: "National Rute 03: Hald Ege - Nr. Snede (Hærvejsruten)"
+title: "National Rute 03: Hald Ege - Nr. Snede (Hærvejsruten - Hærvejen på cykel)"
 author: lsolesen
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
@@ -14,7 +14,7 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 3
-excerpt: "Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, cyklen blev opfundet."
+excerpt: "Du kan tage Hærvejen på cykel ved at følge Hærvejsruten i et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en historisk interessant cykelrute, og cykelruten var en vigtig transportvej."
 gps:
   url: https://www.alltrails.com/explore/map/map-da4902c--8
   id: https://www.alltrails.com/widget/map/map-da4902c--8
@@ -22,7 +22,7 @@ gps:
 related: "National Cykelrute 3"
 ---
 
-**{{ page.excerpt }}**
+**Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, cyklen blev opfundet.**
 
 Ruten går over Hald Ege og Dollerup, og den kører næsten parallelt med den regionale rute 21 til Skelhøje. Ruterne skilles midlertidigt omkring Hald Hovedgård, hvor du i laden kan se modeller af landskabet og få et indtryk af isens betydning for området og landskabet. Ikke så langt derfra på en odde ligger i Hald Sø ruinerne af en borg, der blev bygget af Viborgs sidste katolske biskop, Jørgen Friis. Dette område egner sig fortrinligt til at lege røvere og soldater eller bare nyde pausen i ro og mag. Herefter kan du nyde den fabelagtige udsigt langs Hald Sø op mod de lyngbeklædte hedearealer ved Dollerup Bakker. Heromkring er sveden måske begyndt at pible frem i det kuperede terræn. Hvis det bliver for varmt, kan du stille cyklen og følge en af vandreruterne i området.
  

@@ -1,5 +1,5 @@
 ---
-title: "National Rute 03: Hobro - Hald Ege"
+title: "National Rute 03: Hobro - Hald Ege (Hærvejsruten)"
 author: lsolesen
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
@@ -14,7 +14,7 @@ tags:
   - national
   - Guidebog Øsstjylland
   - National Cykelrute 3
-excerpt: "Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, at cyklen blev opfundet."
+excerpt: "Hærvejsruten har afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen på cykel er en historisk interessant cykelrute, og ruten var en vigtig transportvej lang tid før der fandtes cykelruter."
 gps:
   url: https://www.alltrails.com/explore/map/map-80a160f--10
   provider: alltrails
@@ -22,7 +22,7 @@ gps:
 related: "National Cykelrute 3"
 ---
 
-**{{ page.excerpt }}**
+**Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, at cyklen blev opfundet.**
 
 Turen starter i den hyggelige Hobro. Lige sydvest for byen kan du ønske dig tilbage i tiden ved Fyrkat, når du forestiller dig, hvordan livet var omkring en af de kendte vikingeborge. Du kan læse mere om Hobro og Vikingecenter Fyrkat under den regionale cykelrute 32 rundt om Mariager Fjord.
  
