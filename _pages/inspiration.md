@@ -51,11 +51,11 @@ gallery_maps:
     title: "#8 Bornholm"
 ---
 
-På [Saxo\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykelruter) kan du finde en masse spændende bøger om cykelruter. Husk at få [opdaterede cykelkort med på din rejse\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykelkort)
+På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter) kan du finde en masse spændende bøger om cykelruter. Husk at få [opdaterede cykelkort med på din rejse\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort)
 
 {% include feature_row type="left" %}
 
-[Køb bøger på Saxo om cykling\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykling){: .btn .btn--large .btn--danger}
+[Køb bøger på Saxo om cykling\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykling){: .btn .btn--large .btn--danger }
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
 

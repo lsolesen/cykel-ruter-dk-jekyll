@@ -44,7 +44,7 @@ _God tur!_
 
 ### Kort
 
-- [ ] [Opdaterede landkort med cykelruter\*]({{site.partnerads.saxo_product}}https://www.saxo.com/dk/products/search?query=cykelkort)
+- [ ] [Opdaterede landkort med cykelruter\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort)
 - [ ] Turbeskrivelser, turistbrochurer o.l.
 - [ ] Fortegnelse over overnatningssteder 
 - [ ] Vandrerkort
