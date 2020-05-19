@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.19.1"
+remote_theme:            "mmistakes/minimal-mistakes@4.19.2"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
@@ -52,8 +52,8 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : XrBJvDdRdqOQQEbceemaTB2Ufx4g2Ir0wTN9dKIjc9M
-bing_site_verification   :
+google_site_verification : Z0xMG6fczOce5y_gbIt05rXkTditFOCGzgQCFsWGMLw
+bing_site_verification   : 
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -80,7 +80,7 @@ search: true
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false # false (default), "google", "google-universal", "custom"
+  provider               : false # "google-universal" # false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-143915066-1"
 
