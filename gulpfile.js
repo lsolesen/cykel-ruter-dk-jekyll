@@ -6,7 +6,8 @@ var responsive = require("gulp-responsive");
 var size = require("gulp-size");
 const imagemin = require('gulp-imagemin');
 
-var paths = {};
+var paths = {
+};
 
 // Folder naming conventions.
 paths.assetsFolderName = "assets";
@@ -31,7 +32,7 @@ paths.imageFilesActivitiesDestination = paths.imageFiles + "/routes/";
 // 'gulp images:optimize' -- optimize images
 gulp.task("images:optimize", () => {
   return gulp
-    .src(paths.imageFiles)
+    .src(paths.imageFiles + paths.imagePattern)
     .pipe(
       imagemin(
         [
