@@ -1,12 +1,13 @@
 ---
 layout: single
 title: Om cykel-ruter.dk
-exerpt: "Om oprindelsen og ophavsmændene til cykel-ruter.dk."
 permalink: /om/
 author_profile: true
 toc: true
 author_profile: true
 ---
+
+Cykel-ruter.dk er skrevet af cykelbogforfatterne, Lars Olesen og Dina Knudsen, som tidligere har skrevet to cykelbøger, [Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603) og [Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979) og lavet 9 cykelruter til VisitVejle.
 
 ## Om sitet
 

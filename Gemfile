@@ -5,12 +5,15 @@ gem "jekyll", "~> 4.0.0"
 #gem "jekyll-include-cache"
 group :jekyll_plugins do
     gem "jekyll-paginate"
-    gem "jekyll-sitemap"
     gem "jekyll-feed"
     gem "jemoji"
     gem "jekyll-redirect-from"
     gem "jekyll-gist"
     gem 'jekyll-include-cache'
     gem "jekyll-remote-theme"
+    gem "jekyll-sitemap"
 end
 gem 'html-proofer'
+gem 'classifier-reborn'
+gem 'gsl'
+
