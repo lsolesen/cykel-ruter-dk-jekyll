@@ -65,6 +65,10 @@ På Cyklistforbundets hjemmeside [www.dcf.dk](http://www.dcf.dk) kan du læse me
 
 {% include feature_row type="left" %}
 
+## Planlægge tur med børn
+
+Når du planlægger at tage på en familietur, hvor der også skal være plads til, at børnene får en god oplevelse, skal du også overveje, hvor langt de kan cykle. Jeg har skrevet lidt om, hvad mine erfaringer er med mine piger som er [4-10 år, og hvor langt de kan cykle](/barn-cykle-langt/).
+
 ## Samarbejdspartnere
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}

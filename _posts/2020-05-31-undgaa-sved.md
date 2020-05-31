@@ -88,5 +88,3 @@ Du undgår at svede efter cykelturen ved at tænke på følgende:
 - (Hav skiftetøj med)
 
 De fleste vil ikke kunne undgå at svede blot en lille smule efter en cykeltur, så derfor er et sidste råd at tage en ekstra trøje, t-shirt eller skjorte med i tasken, så du kan skifte, når du kommer på arbejde, og eventuelt også en parfume eller deodorant, der kan tage det værste.
-
-{% include feature_row type="left" %}
