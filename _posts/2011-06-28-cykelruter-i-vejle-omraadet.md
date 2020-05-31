@@ -9,6 +9,11 @@ gallery:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
     alt: "#3 Sydjylland"
     title: "#3Sydjylland"
+header:
+  overlay_image: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
+  teaser: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Everton Vila on Unsplash"
+  overlay_filter: 0.2
 ---
 
 I løbet af sommeren skal vi beskrive nogle cykelruter, der starter fra tre cykelvenlige overnatningssteder:

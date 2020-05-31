@@ -5,6 +5,11 @@ tags:
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
+header:
+  overlay_image: https://images.unsplash.com/photo-1464867037750-e4ebec103b42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  teaser: https://images.unsplash.com/photo-1464867037750-e4ebec103b42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Alexey Ruban on Unsplash"
+  overlay_filter: 0.2
 feature_row:
   - image_path: https://www.outmore.dk/img/shopid/7/varer/300/trangia-stormkok-25-5ul-m-gasbr-7315081472558-50-1255.jpg
     alt: "Trangia Stormkøkken"

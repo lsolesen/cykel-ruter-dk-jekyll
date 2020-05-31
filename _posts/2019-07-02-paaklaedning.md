@@ -8,6 +8,11 @@ toc: true
 excpert: "Hvilket cykeltøj skal jeg vælge, når jeg tager på cykelferie?"
 sidebar:
   nav: bikes
+header:
+  overlay_image: https://images.unsplash.com/photo-1508789454646-bef72439f197?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
+  teaser: https://images.unsplash.com/photo-1508789454646-bef72439f197?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Kay Liedl on Unsplash"
+  overlay_filter: 0.2
 ---
 
 **Man kan sagtens cykle i almindeligt tøj, bare det ikke strammer. Men typisk er det mere behageligt at køre med rigtigt cykeltøj - som minimum et par cykelbukser.**

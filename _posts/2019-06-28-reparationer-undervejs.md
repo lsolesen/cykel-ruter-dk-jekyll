@@ -38,6 +38,11 @@ feature_row_minimum:
     btn_class: "btn--success"
 sidebar:
   nav: bikes
+header:
+  overlay_image: https://images.unsplash.com/photo-1523210299746-f23a7af1a413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
+  teaser: https://images.unsplash.com/photo-1523210299746-f23a7af1a413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Lance Grandahl on Unsplash"
+  overlay_filter: 0.2
 ---
 
 **Man kan enten trille ud i det blå under devisen - jeg ta'r en taxa, hvis jeg punkterer, eller man kan pakke lidt reparationsgrej i cykeltasken.**

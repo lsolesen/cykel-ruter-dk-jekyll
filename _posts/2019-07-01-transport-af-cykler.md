@@ -23,6 +23,11 @@ feature_row:
 excerpt: "Hvordan kan jeg transportere cyklen rundt på cykelferien og cykelturen?"
 sidebar:
   nav: bikes
+header:
+  overlay_image: https://images.unsplash.com/photo-1590064661015-b9e0835ba552?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  teaser: https://images.unsplash.com/photo-1590064661015-b9e0835ba552?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Florian Schmaezz on Unsplash"
+  overlay_filter: 0.2
 ---
 
 **Det er let at læsse cykler bag på bilen. Men de offentlige transportmidler kan også give en håndsrækning på ud- og hjemrejsen, eller når man trænger til en hviledag for ben og bag i løbet af ferien.**

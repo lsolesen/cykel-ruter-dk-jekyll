@@ -7,6 +7,7 @@ tags:
 last_modified_at: 2019-04-26T16:59:01Z
 header:
   overlay_image: https://images.jfmedier.dk/images/5/5f/5fb/5fb9ebfc-88c5-4353-a06b-097b161f1df6_1_90_0_0_3264_2448_1440_1080_6cc59a4a.jpg
+  teaser: https://images.jfmedier.dk/images/5/5f/5fb/5fb9ebfc-88c5-4353-a06b-097b161f1df6_1_90_0_0_3264_2448_1440_1080_6cc59a4a.jpg
   caption: "Foto: Torben Juhler, [frdb.dk](https://frdb.dk/artikel/det-er-op-ad-bakke-s%C3%A5-stejle-er-vejles-bakker-2017-5-5)"
   overlay_filter: 0.5
 toc: true

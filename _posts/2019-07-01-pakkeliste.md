@@ -8,6 +8,10 @@ toc: true
 excerpt: "Hvad skal du have med på cykelferien og cykelturen?"
 sidebar:
   nav: bikes
+header:
+  overlay_image: https://images.unsplash.com/photo-1535674691863-e7511582b10c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
+  teaser: https://images.unsplash.com/photo-1535674691863-e7511582b10c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Patrick Hendry on Unsplash"
 ---
 
 **Før man pakker til cykelferien, er det vigtigt at gøre sig klart, om man vil improvisere hen ad vejen, sove på kro eller f.eks. ligge i telt.**
@@ -60,6 +64,8 @@ _God tur!_
 - [ ] Lille lås til bagagen 
 - [ ] Plastikposer til opbevaring 
 - [ ] Solbeskyttelse 
+
+Når du har fundet alle dine ting frem, så skal du jo have det pakket på cyklen. Jeg har skrevet lidt om, hvordan du kan [pakke cyklen her](/hvordan-pakkes-cyklen/).
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=51299" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51299" border="0"></a>
 

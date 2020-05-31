@@ -7,7 +7,7 @@ last_modified_at: 2019-04-26T16:59:01Z
 header:
   overlay_image: https://images.unsplash.com/photo-1551085780-35e6a3fe7871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   teaser: https://images.unsplash.com/photo-1551085780-35e6a3fe7871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-caption: "Photo by Guillaume de Germain on Unsplash"
+  caption: "Photo by Guillaume de Germain on Unsplash"
   overlay_filter: 0.2
 toc: true
 author_profile: true
@@ -96,3 +96,5 @@ Det varierer naturligvis meget, hvor langt børn kan cykle. Jeg vil klart anbefa
 De fleste børn synes det er rigtig sjovt at cykle nogle mindre ture, men for nogen børn er det noget andet, når de kommer ud over 3-4 kilometer, og det kan blive lidt hårdt i benene.
 
 Fortæl gerne i kommentarerne om nogle af dine udflugter med børn, og hvor langt I cyklede.
+
+Du kan også læse mere om vores [tips til at tage børn med på cykelferie](/boern-paa-cykelferie/).

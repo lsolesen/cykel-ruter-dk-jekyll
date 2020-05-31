@@ -44,6 +44,10 @@ feature_row:
     btn_class: "btn--success"
 sidebar:
   nav: bikes
+header:
+  overlay_image: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1647&q=80
+  teaser: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Alex Kotomanov on Unsplash"
 ---
 
 **Man tager en cyklist, en primus, en dansk sommerdag og nogle gode råvarer - og så kan man trylle flot og velsmagende mad frem til cykelturen.**
@@ -61,9 +65,12 @@ Det italienske køkken er rigtig godt at lade sig inspirere af, når der skal la
 Når man er af sted på cykeltur, er det vigtigt med nogle enkle råvarer, der ikke kræver køleskab eller nogle, man nemt kan købe hos den nærmeste købmand. 
 
 Det er en god idé at tage nogle få basisva rer med hjemmefra. Noget, der kan pifte forskellige retter op. Tag f.eks. en flaske god koldpresset olivenolie med, et stort hvidløg, et glas god pesto, og så naturligvis salt og peber. Så kommer du langt. De friske kryd derurter, der hører hjemme i alt slags mad, kan du ofte købe langs vejen eller hos den lokale købmand, nogle kan du også finde i naturen. Pestoen kan bruges direkte på friskkogt pasta, på kartofler eller på dag gammelt brød, du rister med lidt olie på panden, og hvidløget kan pifte stort set alt op. Man skal bare kaste sig ud i det. 
-
 ## Hvad skal du have med?
 
 Jeg bruger de følgende produkter på mine cykelture, hvor jeg skal overnatte.
 
 {% include feature_row id="feature_row" type="left" %}
+
+## Hvilken mad kan jeg lave?
+
+Jeg har skrevet et par [enkle opskrifter, du kan prøve med på din næste tur](enkle-retter-primus). Det allervigtigste er, at du ikke lader dig selv begrænse for meget. Man kan lave rigtig meget forskellig mad i naturen.

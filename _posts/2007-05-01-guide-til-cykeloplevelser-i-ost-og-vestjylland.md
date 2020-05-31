@@ -23,6 +23,11 @@ gallery:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
     alt: "#4 Østjylland"
     title: "#4 Østjylland"
+header:
+  overlay_image: https://images.unsplash.com/photo-1541625602330-2277a4c46182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  teaser: https://images.unsplash.com/photo-1541625602330-2277a4c46182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Coen van den Broek on Unsplash"
+  overlay_filter: 0.2
 ---
 
 ![Forside til guide til cykeloplevelser i Øst- og Vestjylland](/assets/images/baggrundmedforsider_0.jpg)

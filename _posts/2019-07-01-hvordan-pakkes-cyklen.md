@@ -16,6 +16,10 @@ feature_row:
     btn_class: "btn--success"
 sidebar:
   nav: bikes
+header:
+  overlay_image: https://images.unsplash.com/photo-1549937917-3761227f52f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80
+  teaser: https://images.unsplash.com/photo-1549937917-3761227f52f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by WanderLabs on Unsplash"
 ---
 
 **Man kan læsse det hele på bagagebæreren, købe cykletasker eller pakke anhængeren. Der er ingen universal pakkeløsning, men mange gode råd.**

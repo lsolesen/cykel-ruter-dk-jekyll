@@ -7,6 +7,11 @@ last_modified_at: 2019-06-28T16:08:57Z
 excerpt: "Feriecyklen kan både være en decideret turcykel, men du kan også bruge din hverdagscykel. Du skal bare sørge for at vælge en fornuftig rute."
 sidebar:
   nav: bikes
+header:
+  overlay_image: https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1653&q=80
+  teaser: https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by David Marcu on Unsplash"
+  overlay_filter: 0.2
 ---
 
 **Feriecyklen kan sagtens være en bedste morcykel med tre gear, hvis du ændrer et par småting. Men der er muligvis andre cykeltyper, der egner sig bedre til den type cykelferie, du gerne vil på.**

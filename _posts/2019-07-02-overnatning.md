@@ -8,6 +8,11 @@ toc: true
 excerpt: "Du har mange muligheder for at overnatte på cykelferien og cykelturen; Lige fra åben himmel til hoteller? Hvad vælger du?"
 sidebar:
   nav: bikes
+header:
+  overlay_image: https://images.unsplash.com/photo-1551303174-2b0eb4ab8cef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
+  teaser: https://images.unsplash.com/photo-1551303174-2b0eb4ab8cef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Tarn S on Unsplash"
+  overlay_filter: 0.2
 ---
 
 **En god nats søvn giver ny energi, men hvor skal I overnatte? Hotelsenge er magelige, men det løber hurtigt op, hvis hele familien skal med. Camping koster mindre, men giver mere bagage. Og så er der alle de andre muligheder...**
