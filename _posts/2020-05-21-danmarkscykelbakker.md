@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Danmarks største og hårdeste bakker"
-excerpt: "Planlægger du en cykeltur efter hårde, store og stejle bakker, så er der en guide til de hårdeste, største og stejleste cykelbakker for at få så mange højdemeter i benene som muligt."
+title: "Danmarks største, længste, stejleste og hårdeste bakker"
+excerpt: "Planlægger du en cykeltur efter lange, hårde, store og stejle bakker, så er der en guide til de længste, hårdeste, største og stejleste cykelbakker for at få så mange højdemeter i benene som muligt."
 tags:
   - cykelbakker
 last_modified_at: 2019-04-26T16:59:01Z
@@ -22,6 +22,8 @@ feature_row:
     btn_label: "Læs mere*"
     btn_class: "btn--inverse"
 ---
+
+Jeg kan godt lide at udfordre mig selv lidt med lange, hårde bakker, når jeg cykler. Jeg har derfor kigget lidt efter de længste, stejleste, største og hårdeste bakker i Danmark. Her er hvad jeg fandt ud.
 
 Jeg har fundet to rigtig gode sites, som du kan bruge som udgangspunkt for at planlægge din rute, hvis du går efter at få så mange højdemeter i benene som muligt i Danmark. Der er faktisk mange stejler bakker rundt omkring i Danmark - og mange af de stejleste bakker ligger omkring Vejle.
 
