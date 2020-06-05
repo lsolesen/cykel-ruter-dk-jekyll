@@ -73,4 +73,4 @@ Jeg bruger de følgende produkter på mine cykelture, hvor jeg skal overnatte.
 
 ## Hvilken mad kan jeg lave?
 
-Jeg har skrevet et par [enkle opskrifter, du kan prøve med på din næste tur](enkle-retter-primus). Det allervigtigste er, at du ikke lader dig selv begrænse for meget. Man kan lave rigtig meget forskellig mad i naturen.
+Jeg har skrevet et par [enkle opskrifter, du kan prøve med på din næste tur](/enkle-retter-primus/). Det allervigtigste er, at du ikke lader dig selv begrænse for meget. Man kan lave rigtig meget forskellig mad i naturen.
