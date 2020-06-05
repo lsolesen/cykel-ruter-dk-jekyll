@@ -49,7 +49,7 @@ Når du klæder dig på, så kan du også tænke på princippet **lag på lag**.
 
 Hvis det er nødvendigt med regntøj, så kan du med fordel få fat i noget åndbart cykelregntøj for at undgå, at du ikke kan udnytte nedkølingen fra vinden. Du kan tjekke [aktuelle priser og modeller på åndbart regntøj hos cykelexperten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=35898&htmlurl=https://cykelexperten.dk/regntoej-vind/?source=partner-ads).
 
-I den forbindelse kan du også tænke over, hvilken cykelhjelm du bruger. Der findes mange smarte cykelhjelme, hvor der er meget lidt ventilation og luftgennemstrømning i. Vælg en cykelhjelm med masser af ventilationshuller. Cykelhjelme fås i et utal af modeller, priser og farver. Du kan tjekke det [aktuelle udvalg af hjelme hos cykel-partner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelhjelme)
+I den forbindelse kan du også tænke over, hvilken cykelhjelm du bruger. Der findes mange smarte cykelhjelme, hvor der er meget lidt ventilation og luftgennemstrømning i. Vælg en cykelhjelm med masser af ventilationshuller. Cykelhjelme fås i et utal af modeller, priser og farver. Du kan tjekke det [aktuelle udvalg af hjelme hos cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelhjelme)
 
 ## Hold ryggen fri for bagage og sved
 
@@ -88,3 +88,5 @@ Du undgår at svede efter cykelturen ved at tænke på følgende:
 - (Hav skiftetøj med)
 
 De fleste vil ikke kunne undgå at svede blot en lille smule efter en cykeltur, så derfor er et sidste råd at tage en ekstra trøje, t-shirt eller skjorte med i tasken, så du kan skifte, når du kommer på arbejde, og eventuelt også en parfume eller deodorant, der kan tage det værste.
+
+Jeg har skrevet lidt mere om [påklædning på din cykeltur](/paaklaedning/).

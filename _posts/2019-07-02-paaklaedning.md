@@ -5,7 +5,7 @@ tags:
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
-excpert: "Hvilket cykeltøj skal jeg vælge, når jeg tager på cykelferie?"
+excpert: "Hvilket cykeltøj skal jeg vælge, når jeg tager på cykelferie og cykeltur?"
 sidebar:
   nav: bikes
 header:
@@ -23,7 +23,7 @@ Cykelferien bliver bedre, hvis man er klædt rigtigt på. Så er der ikke noget 
 
 Princippet for cykeltøj er, at det skal sidde tæt til kroppen for ikke at flagre og give unødvendig vindmodstand. En cykeltrøje er for det meste lavet af kunststof, der kan transportere sveden væk fra kroppen. Cykeltrøjer har praktiske lommer bagpå, hvor man kan have lappegrej, forplejning m.m. En decideret cykelvindjakke er også tætsiddende og ofte med baglommer. Men almindelige t-shirts eller vind jakker kan naturligvis sagtens bruges. Det er helt op til den enkelte. 
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=53264" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=53264" border="0"></a>
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=53264" target="_blank" rel="nofollow noopener"><img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=53264" border="0"></a>
 
 ## Cykeltøj og regnvejr
 
@@ -35,7 +35,9 @@ Der findes også regntøj, der bare holder regnen ude. Det er en del billigere e
 
 Regntøj, der er designet til at cykle i, har ekstra lange ærmer og ekstra længde i ryg gen. Bukserne skal have god plads omkring bagen og knæene. Der må ikke være for meget benvidde nederst, da bukserne så let kommer ind i kæden. Før køb er det en god idé at prøve regntøjet og så strække armene frem og løfte knæet højt for at se, om tøjet stadig passer. 
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"><img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
+
+Jeg har skrevet lidt om, hvordan du kan [undgå at svede, når du cykler](/undgaa-sved/).
 
 ## Samarbejdspartnere
 

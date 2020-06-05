@@ -157,9 +157,9 @@ Legind har udgivet 8 regionale cykelkort i 2016 i samarbejde med Cyklistforbunde
 
 Cykelkortene fra Legind opdateres og genoptrykkes ikke, men du kan stadig købe dem rundt omkring i boghandlerne. Selvom cykelkortene er forholdsvist nye, så kan ulempen med dem være, at cykelruterne sommetider omlægges, men de fleste ruter er heldigvis de samme stadigvæk. 
 
-Du kan stadig nå at skaffe dig et eksemplar ved boghandlere og webshops. Nedenstående links er reklamelinks. Hvis du køber gennem dem støtter du min side, og det vil jeg blive rigtig glad for.
+Du kan stadig nå at skaffe dig et eksemplar ved boghandlere og webshops. Nedenstående links er reklamelinks til [saxo.dk](https://www.saxo.com/dk/products/search?query=cykelkort). Hvis du køber gennem dem, støtter du min side, og det vil jeg blive rigtig glad for. [Tjek alle Saxos cykelkort](https://www.saxo.com/dk/products/search?query=cykelkort).
 
-{% include gallery id="legind" %}
+{% include gallery id="legind" layout="fourth" %}
 
 ## Nordisk Korthandels regionale cykelkort over Danmark
 
@@ -185,7 +185,7 @@ Du kan tjekke den [aktuelle pris på alle kortene her\*](https://www.scanmaps.dk
 
 Du kan naturligvis også købe kortene enkeltvis. Jeg har lavet et link direkte til kortene nedenunder på [scanmaps.dk](http://www.scanmaps.dk).
 
-{% include gallery id="scanmaps" %}
+{% include gallery id="scanmaps" layout="fourth" %}
 
 ## Har jeg brug for guidebøger?
 
