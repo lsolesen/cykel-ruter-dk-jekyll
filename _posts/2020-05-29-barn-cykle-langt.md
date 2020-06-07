@@ -84,12 +84,13 @@ Hvis du laver en god og hyggelig plan, så kan børn faktisk meget mere end de s
 
 Jeg har lavet følgende uvidenskabelige oversigt over, hvor langt børn kan cykle. Jeg har skelnet mellem en daglig cykeltur, hvor man lige skal til købmanden, og det skal være en god oplevelse og et cykeleventyr, hvor der er gjort lidt ekstra ud af turen og pauserne.
 
-| Alder | Dagligt | Cykeleventyr |
+| Alder | Dagligt | Cykeleventyr / dag |
 |-|-|
 | 4 år | 3-5 km | 5-10 km |
 | 6 år | 4-6 km | 10 - 15 km |
-| 8 år | 8-10 km | 15 - 30 km |
+| 8 år | 8-10 km | 15 - 40 km |
 | 10 år | 10-12 km  | 20-40 km |
+| 12 år | 15-20 km  | 30-80 km |
 
 Det varierer naturligvis meget, hvor langt børn kan cykle. Jeg vil klart anbefale, at du starter med kortere ture, hvor du finder ud af, hvordan de reagerer, når der kommer bakker og modvind også.
 
