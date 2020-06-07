@@ -6,9 +6,9 @@ tags:
   - cykelguide
 last_modified_at: 2020-06-04T16:59:01Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  teaser: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80  
-  caption: "Photo by Blubel on Unsplash"
+  overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
+  teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Annie Spratt on Unsplash"
   overlay_filter: 0.2
 toc: true
 author_profile: true

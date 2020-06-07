@@ -1,5 +1,5 @@
 ---
-title: "Regional Rute 31: Horsens - Silkeborg (Bryrupbanestien)"
+title: "Bryrupbanestien: Regional Rute 31: Horsens - Silkeborg"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
@@ -13,7 +13,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "Ruten fører os behageligt gennem det midtjyske landskab. Størstedelen af tiden følger ruten en nedlagt jernbane, som kun er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm."
+excerpt: "Cykelruten Bryrupbanestien fører os behageligt gennem det midtjyske landskab. Størstedelen af tiden følger ruten en nedlagt jernbane, som kun er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm."
 gps:
   provider: alltrails
   url: https://www.alltrails.com/explore/map/map-c70daf2--5
@@ -22,7 +22,7 @@ gps:
 
 **{{ page.excerpt }}**
 
-Ruten begynder ved Horsens Fjord og følger sydsiden af ferskvandssøen Nørrestrand, som indtil 1915 var en del af fjorden. Fra ruten er der skilte til et fugletårn ved søen, hvor man kan studere søens mere end 200 fuglearter.
+Bryrupbanestien begynder ved Horsens Fjord og følger sydsiden af ferskvandssøen Nørrestrand, som indtil 1915 var en del af fjorden. Fra ruten er der skilte til et fugletårn ved søen, hvor man kan studere søens mere end 200 fuglearter.
 
 På vej ud af Horsens troner det iøjnefaldende Horsens Statsfængsel op på vores venstre side. Der er mulighed for en rigtig interessant rundvisning på fængslets museum. Billetter skal bestilles i forvejen ved henvendelse til Horsens Turistbureau.
 

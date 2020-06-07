@@ -1,11 +1,11 @@
 ---
-title: "Regional Rute 21 Viborg - Herning (Alhedestien)"
+title: "Alhedestien: Regional cykelrute 21 Viborg - Herning"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image /assets/images/routes/regional-rute-21-viborgturen.jpg
-  caption: "Stemningsbillede fra ruten"
+  caption: "Stemningsbillede fra Alhedestien"
   teaser: *image
 category:
   - Regional
@@ -36,7 +36,7 @@ Ved Kølvrå ligger Flyvestation Karup og et militærmuseum, ligesom der er en d
 
 Herefter fortsætter du gennem Ilskov og Sunds til Herning. Der er skrevet en god folder om Alheden, hvor du kan finde flere seværdigheder i området, hvis du har mod på at cykle lidt væk fra ruten. Find folderen på nettet eller kontakt et turistbureau for hjælp.
 
-## Links
+## Links til Alhedestien
 
 - http://www.karup.dk/Default.asp?ID=269
 - http://www.miljo.viborgamt.dk/graphics/Miljo/naturoplevelser/Billeder_Ernsted/Foldere_PDF/Alheden.PDF?LFORMID=7
