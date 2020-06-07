@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "16 tips til cykelturen og cykelferien fra en ekspert"
+title: "16 tips og råd til cykelturen og cykelferien fra en ekspert"
 tags:
   - cykelkort
   - cykelguide
@@ -113,6 +113,8 @@ scanmaps_package:
 
 Jeg elsker at tage på cykeltur, og jeg vil rigtig gerne have selskab af familien. Her har jeg samlet nogle af de tips, jeg bruger for at give medvind på cykelturen og cykelferien.
 
+**De bedste tips og råd til din cykelferie og cykeltur er: afstem forventningerne, planlæg cykelferien sammen, begræns oppakningen (du behøver mindre tøj og toiletgrej, end du tror) og bare kast jer ud i  det. Desto mere du tager med, desto hårdere bliver turen. Lav en prøvetur med al oppakningen og kast jer ud i et dejligt eventyr.**
+
 Hvis du ikke er vant til at tage på længere cykelture eller cykelferier, så stram cykelhjelmen til og læs videre. Og husk i øvrigt at beholde hjelmen på, når du sætter dig i sadlen og begiver dig ud på cykelturen.
 
 ## 1) Planlæg cykelruten og hav et kort med
@@ -125,11 +127,11 @@ Jeg har skrevet en artikel om, [hvilke kort der dækker cykelruterne i Danmark](
 
 Inden I tager afsted er der flere spørgsmål at besvare:
 
-- Hvor skal I cykle hen?
+- Hvor skal I cykle hen?  
 - Hvor langt skal I cykle om dagen?
 - Skal vi cykle alle dage?
 - **Er cyklerne overhovedet klar?** Har du fået servicetjekket den for nylig? Jeg er engang kommet afsted på en cykel, hvor dækkene nærmest var mørnet. Det kostede en del lapninger undervejs.
-- Skal I booke overnatning? I højsæsonen kan der være fyldt på mange vandrehjemmene og bed & breakfast. Du kan også udnytte den lokale turistinformation til at få flere muligheder. Jeg har flere gange selv brugt [AirBnb\*](/go/airbnb/) og været rigtig glad for det. Hvis du bruger mit [link til AirBnb\*](/go/airbnb/) får du op til 303 kroner til din første rejse.
+- **Skal I booke overnatning?** I højsæsonen kan der være fyldt på mange vandrehjemmene og bed & breakfast. Du kan også udnytte den lokale turistinformation til at få flere muligheder. Jeg har flere gange selv brugt [AirBnb\*](/go/airbnb/) og været rigtig glad for det. Hvis du bruger mit [link til AirBnb\*](/go/airbnb/) får du op til 303 kroner til din første rejse.
 
 ## 2) Afstem forventningerne
 
