@@ -1,8 +1,7 @@
 ---
 layout: single
-title: Guidebog til cykeloplevelser og cykelruter i Vestjylland
+title: Cykelruter i Vestjylland - Den mest komplette guide
 permalink: /cykelguide-vestjylland/
-excerpt: "Cykelguide til cykelruter, cykelferie og cykeloplevelser i Østjylland."
 author_profile: true
 sidebar:
   title: "Om Cykelguide til cykeloplevelser i Vestjylland"
@@ -16,7 +15,12 @@ gallery:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
     alt: "#2 Vestjylland og Limfjordslandet"
     title: "#2 Vestjylland og Limfjordslandet"
+toc: true
 ---
+
+Jeg har skrevet en guidebog med cykelruter i Vestjylland. Jeg har siden samlet alle cykelruterne her på siden, så du gratis kan læse om alle ruterne, når du planlægger din cykelferie og vil have cykeloplevelser i Vestjylland.
+
+## Forord til Vestjylland - Guidebog til cykelruter og cykeloplevelser
 
 _Jørn Rye Rasmussen, kulturudvalgsformand i Silkeborg og ivrig cyklist_
 
@@ -34,10 +38,14 @@ Men først og fremmest – for nu at bruge en lettere omskrivning at solen Kierk
 
 _Rigtig god fornøjelse – og god tur!_
 
+## Cykelruter i Østjylland med GPX-trails
+
+<iframe class="alltrails" src="https://www.alltrails.com/widget/list/vestjylland?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+
 {% assign site_posts = site.routes | where: "tags", "Guidebog Vestjylland" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
-## Cykelruter i Vestjylland
+## {{ site_posts.size }} cykelruter i Vestjylland
   {% for post in site_posts %}
     {% include archive-single.html %}
   {% endfor %}
@@ -45,6 +53,8 @@ _Rigtig god fornøjelse – og god tur!_
 
 [Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger}
 
-<iframe class="alltrails" src="https://www.alltrails.com/widget/list/vestjylland?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+## Kort over cykelruter i Vestjylland
 
 {% include gallery %}
+
+Jeg har skrevet en [guide til de bedste cykelkort over Vestjylland](/cykelkort/).

@@ -1,8 +1,7 @@
 ---
 layout: single
-title: Cykelguide for VisitVejle - cykelruter på Vejle-egnen
+title: Cykelruter omkring Vejle - Cykelguide for VisitVejle
 permalink: /cykelguide-visitvejle/
-excerpt: "Cykelguide til cykelferie, cykelruter og cykeloplevelser i Vejle og omegn."
 author_profile: true
 toc: false
 classes: wide
@@ -11,14 +10,17 @@ gallery:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
     alt: "#3 Sydjylland"
     title: "#3Sydjylland"
+toc: true
 ---
 
-Jeg har skrevet nogle cykelruter med udgangspunkt i Randbøldal Camping, Danhostel Vejle og Hagen Strand Camping.
+Jeg har lavet og beskrevet nogle cykelruter omkring Vejle. Ruterne tager sit udgangspunkt fra enten Randbøldal Camping, Danhostel Vejle eller Hagen Strand Camping.
+
+Jeg har lavet tre cykelruter ud fra hver campingplads. Cykelruterne er af tre forskellige længder og virkelig smukke.
 
 {% assign site_posts = site.routes | where: "tags", "VisitVejle Cykelguide" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
-<h2>Cykelruter i Vejleområdet</h2>
+<h2>{{ site_posts.size }} cykelruter omkring Vejle</h2>
 <div class="grid__wrapper">
   {% for post in site_posts %}
     {% include archive-single.html type="grid" %}
@@ -26,7 +28,7 @@ Jeg har skrevet nogle cykelruter med udgangspunkt i Randbøldal Camping, Danhost
 </div>
 {% endif %}
 
-<div class="wrapper" style="clear: both;">
+<div class="feature_wrapper" style="clear: both;">
 
 <h2>Hagen Strand Camping</h2>
 
@@ -42,4 +44,8 @@ Jeg har skrevet nogle cykelruter med udgangspunkt i Randbøldal Camping, Danhost
 
 </div>
 
+<h2>Cykelkort med Vejle</h2>
+
 {% include gallery %}
+
+<p>Jeg har skrevet en guide til at vælge de <a href="/cykelkort/">bedste cykelkort</a>. Der er lavet nogle ganske glimrende cykelkort med udgangspunkt i Sydjylland, hvor cykelruterne fra Vejle er i.</p>
