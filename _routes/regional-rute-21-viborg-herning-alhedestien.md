@@ -37,10 +37,4 @@ Ved Kølvrå ligger Flyvestation Karup og et militærmuseum, ligesom der er en d
 
 Herefter fortsætter du gennem Ilskov og Sunds til Herning. Der er skrevet en god folder om Alheden, hvor du kan finde flere seværdigheder i området, hvis du har mod på at cykle lidt væk fra ruten. Find folderen på nettet eller kontakt et turistbureau for hjælp.
 
-## Links til Alhedestien
-
-- http://www.karup.dk/Default.asp?ID=269
-- http://www.miljo.viborgamt.dk/graphics/Miljo/naturoplevelser/Billeder_Ernsted/Foldere_PDF/Alheden.PDF?LFORMID=7
-- http://www2.skovognatur.dk/vandretursfoldere/74/74alheden.htm
-- http://www.miljo.viborgamt.dk/sw4662.asp
-- https://alleud.dk/alhedestien-viborg-herning-banesti/
+## Cykelkort over Alhedestien
