@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "15 tankevækkende tips til cykeltur og cykelferie med børn"
+permalink: /boern-paa-cykelferie/
 tags:
   - cykelkort
   - cykelguide
@@ -111,7 +112,7 @@ scanmaps_package:
     title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
 ---
 
-Jeg sidder og planlægger min næste cykeltur med mine børn, så jeg har samlet de bedste råd til at være på cykeltur og cykelferie med børn.
+Jeg sidder og planlægger min næste cykeltur og cykelferie med mine børn. Jeg har samlet de bedste tips og råd til, hvad man skal tænke på, hvis man vil på cykeltur og cykelferie med børn.
 
 **Cykeltur og cykelferie med børn er en virkelig god oplevelse, når du tænker over et par ting på forhånd. Vælg en god cykelrute, sæt tempoet ned og vær tålmodig og planlæg det uforudsete. Drop skærmene og skru op for nærværet. Og så hjælper snacks altid på humøret.**
 
@@ -217,7 +218,7 @@ Tænk over følgende når du vælger cykelrute:
 - Vælg en skiltet rute, så børnene også har mulighed for at følge med i, hvilken vej ruten går.
 - Vælg en rute hvor det er muligt at holde pauser - og hvor man måske kan lege lidt undervejs.
 
-Jeg har skrevet en anden artikel om, hvordan du vælger den perfekte [cykelrute til en cykeltur med børn](/cykelrute-born/).
+Jeg har skrevet et andet indlæg om, hvordan du vælger den perfekte [cykelrute til en cykeltur med børn](/cykelrute-born/).
  
 ## 10) Tilpas cykelferiens etaper til børnenes alder og erfaring
 
@@ -288,6 +289,8 @@ Det kan virkelig betale sig at bruge tid på at gøre cyklerne klar til strabads
 Hvis det er første gang, du skal køre med meget bagage, så kan det også være en fordel at tjekke gearingen på cyklen. Hvis du er vant til at køre på en ulastet cykel, så passer gearene sikkert perfekt. Men hvad når du op ad bakke skal til at trække 10-15 kg ekstra pr. Cykel.
 
 Husk at justeringen af cyklen også gælder børnenes cykel. Jeg er kommet afsted en gang, hvor jeg ikke havde tjekket dækkene ordentligt på min piges cykel lige efter, at hun var blevet glad for at lave bremsespor. Det var en meget nervøs far, der bekymret kiggede efter, hvornår hun punkterede på det ret tyndslidte dæk.
+
+Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport af dit barn undervejs på cykelturen]({% link _posts/2019-07-01-boern-cykel-paa-cykelferie.md %}).
 
 ## Klar til cykelferien med børn
 

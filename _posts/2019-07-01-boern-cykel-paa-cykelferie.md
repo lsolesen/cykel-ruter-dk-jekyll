@@ -1,5 +1,5 @@
 ---
-title: "Børn på cykelferie og cykeltur"
+title: "Børn på cykelferie og cykeltur - hvilken cykel eller transport?"
 tags:
   - cykelferie
   - gode råd
@@ -74,7 +74,11 @@ På Cyklistforbundets hjemmeside [www.dcf.dk](http://www.dcf.dk) kan du læse me
 
 Når du planlægger at tage på en familietur, hvor der også skal være plads til, at børnene får en god oplevelse, skal du også overveje, hvor langt de kan cykle. Jeg har skrevet lidt om, hvad mine erfaringer er med mine piger som er [4-10 år, og hvor langt de kan cykle](/barn-cykle-langt/).
 
-## Samarbejdspartnere
+Jeg har også skrevet et indlæg med en masse gode tips til at tage [med børn på cykelferie og cykeltur. Tjek dem ud her!](/boern-paa-cykelferie/).
+
+## Besøg vores samarbejdspartnere
+
+Du kan besøge vores samarbejdspartnere for at finde udstyr til børnenes cykeltur.
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
 
