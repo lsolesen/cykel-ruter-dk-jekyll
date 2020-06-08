@@ -1,5 +1,5 @@
 ---
-title: "Regional Rute 33: Vissing Kloster til Tinnet Krat"
+title: "Bindeballestien: Regional cykelrute 36 Vejle - Billund"
 excerpt: "Bindeballestien er en cykelrute, der kører langs en gammel banesti, der kører fra Vejle til Bindeballe Købmandsgård og videre til Billund."
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
