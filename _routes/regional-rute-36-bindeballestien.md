@@ -1,13 +1,13 @@
 ---
 title: "Regional Rute 33: Vissing Kloster til Tinnet Krat"
-excerpt: "Bindeballestien er en gammel banesti, der kører fra Vejle til Bindeballe Købmandsgård og videre til Billund."
+excerpt: "Bindeballestien er en cykelrute, der kører langs en gammel banesti, der kører fra Vejle til Bindeballe Købmandsgård og videre til Billund."
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
-  overlay_image: &image https://images.unsplash.com/photo-1576072385717-aa32b3ca1386?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
-  caption: "Photo by Fat Lad At The Back on Unsplash"
-  teaser: *image
+  overlay_image: &image https://c.pxhere.com/photos/e9/95/bike_rapeseed_field_way_tour_tourism_nature_the_cultivation_of-877564.jpg!d
+  caption: "Pxhere - [via](https://pxhere.com/da/photo/877564)"
+  teaser: https://c.pxhere.com/photos/e9/95/bike_rapeseed_field_way_tour_tourism_nature_the_cultivation_of-877564.jpg!d
 category:
   - Regional
 tags:
