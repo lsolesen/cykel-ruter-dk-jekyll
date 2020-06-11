@@ -138,7 +138,7 @@ Det kan godt være, at børnene klager lidt og brokker sig, men de kan også væ
 
 Hvis man tror på børnene og bakker dem op, så kan de klare de fleste udfordringer. Og du kan bruge de tidligere oplevelser til at trække børnene gennem nye udfordringer, som de har besluttet sig for, at “de ikke kan”. 
  
-## 3) Børn elsker fordybelsestid med forældrene
+## 3) Børn elsker tid med forældrene
 
 En cykelferie er en unik mulighed for at være sammen i familien. Vi er sammen om et fælles projekt, men ofte på ret lidt plads.
  
@@ -197,7 +197,7 @@ I er taget på cykeltur for at få en god fælles oplevelse med at cykle og vær
  
 Det er ikke en god oplevelse for mig at kæmpe gennem regnvejr og vind, og så er det helt sikkert heller ikke for børnene.
  
-## 8) Vær afslappet med udstyret
+## 8) Udstyret betyder ikke så meget
 
 Man kan sagtens starte sin første cykelferie og cykeltur med det udstyr, du allerede har eller kan låne dig frem til. Når I har været afsted første gang, så kan I supplere op med udstyr. Men børnene vokser hurtigt ud af udstyret, og måske vil I næste gang overnatte på en anden måde.
 
@@ -220,7 +220,7 @@ Tænk over følgende når du vælger cykelrute:
 
 Jeg har skrevet et andet indlæg om, hvordan du vælger den perfekte [cykelrute til en cykeltur med børn](/cykelrute-born/).
  
-## 10) Tilpas cykelferiens etaper til børnenes alder og erfaring
+## 10) Tilpas etaperne til børnenes alder og erfaring
 
 En cykeltur og cykelferie bliver kun en rigtig god oplevelse, hvis børnene oplever, at de kan mestre udfordringen. Derfor skal du tilpasse den enkelte cykeltur til deres alder og erfaring.
  
@@ -292,7 +292,7 @@ Husk at justeringen af cyklen også gælder børnenes cykel. Jeg er kommet afste
 
 Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport af dit barn undervejs på cykelturen]({% link _posts/2019-07-01-boern-cykel-paa-cykelferie.md %}).
 
-## Klar til cykelferien med børn
+## Klar til cykelferie med børn
 
 Så burde du være klar til cykelferien med børn. 
 

@@ -17,7 +17,3 @@ feature_row:
 ---
 
 {% include feature_row type="center" %}
-
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
-
-{% include gallery array=ads %}
