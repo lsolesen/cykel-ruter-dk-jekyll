@@ -31,7 +31,13 @@ Jeg blev i dag spurgt af en journalist med forslag til gode cykelruter omkring �
 
 Det var også en god opgave lige at få samlet ruterne tæt på Århus i et indlæg, så det har jeg gjort her. Der er både nationale cykelruter og regionale cykelruter omkring Århus.
 
-Der er virkelig mange flotte cykelruter i området. Du kan både køre langs vandet ud mod Djursland, og du kan køre sydpå langs vandet. Du kan også køre indenlands i noget af den flotteste natur i Danmark forbi Skanderborg og vestpå.
+Der er virkelig mange flotte cykelruter i området omkring Århus. 
+
+Du kan både køre langs vandet ud mod Djursland, hvor du kan opleve 250 km kyststrækning med mange børnevenlige strande. Du kan også køre igennem Mols Bjerge. En af ruterne vil bringe dig ud mod de hyggelige købstæder Ebeltoft og Grenaa.
+
+Du kan også køre indenlands i noget af den flotteste natur i Danmark forbi Skanderborg og vestpå. Her kommer du forbi søer, gennem skove og oplever, hvordan landskabet har reageret på istiden. Det kan være en god ide at tjekke bakkeprofilen for din rute, inden du tager afsted, da området også kan byde på en del bakker.
+
+I det hele taget er der mange muligheder, og du kan se endnu flere muligheder under de ruter, jeg har beskrevet til [cykelguiden til Østjylland]({% link _pages/cykelguide-oestjylland.md %}).
 
 ## Cykelruter med udgangspunkt i Århus
 
