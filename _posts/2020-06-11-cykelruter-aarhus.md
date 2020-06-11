@@ -51,11 +51,11 @@ Der er masser af cykelruter i Århus Kommune, og nogle af dem tager sit udgangsp
 - [Regional cykelrute 11 fra Aarhus til Silkeborg]({% link _routes/regional-rute-11-funder-silkeborg-aarhus.md %})
 - [Regional cykelrute 14 fra Odder til Skanderborg]({% link _routes/regional-rute-11-funder-silkeborg-aarhus.md %})
 - [Regional cykelrute 16 fra Aarhus til Favrskov, ad Viborgvej]({% link _routes/regional-rute-16-aarhus-viborg.md %})
-- [Regional cykelrute 18 fra Aarhus til Favrskov, ad Randersvej](({% link _routes/regional-rute-18-aarhus-norup.md %}))
+- [Regional cykelrute 18 fra Aarhus til Favrskov, ad Randersvej]({% link _routes/regional-rute-18-aarhus-norup.md %})
 
 ## Regionale cykelruter omkring Skanderborg
 
-- [Regional cykelrute 15 fra Stilling til Elling](({% link _routes/regional-rute-15-stilling-ejer-elling.md %}))
+- [Regional cykelrute 15 fra Stilling til Elling]({% link _routes/regional-rute-15-stilling-ejer-elling.md %})
 
 ## Frem og tilbage eller rundtur?
 
