@@ -16,7 +16,7 @@ author: lsolesen
 cykelmekaniker:
   - image_path: https://imgcdn.saxo.com/_9788717044654/0x500
     alt: "Cykelreparation"
-    title: "Cykelreperation"
+    title: "Cykelreparation"
     excerpt: "Cykelreparation dækker alt lige fra lapninger og daglig vedligeholdelse til avancerede teknikker til hjulopretning og justering af gear eller bremser på din mountainbike."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
     btn_label: "Læs mere"

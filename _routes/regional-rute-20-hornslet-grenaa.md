@@ -13,6 +13,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
+  - Djursland
 excerpt: "Denne rute fører tværs over Jyllands næse. Den går langs de stille, djurske veje og en del af ruten køres på stier. Det er højst sandsynligt, at man møder flere cyklister end bilister på turen gennem de rolige landskaber."
 gps:
   url: https://www.alltrails.com/explore/map/map-c68c9c8--9

@@ -13,6 +13,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
+  - Århus
 excerpt: "Denne rute fra Jyllands nuværende hovedby til landsdelens historiske magtcentrum fører gennem et meget seværdigt landskab med mulighed for interessante aktiviteter undervejs."
 gps:
   url: https://www.alltrails.com/explore/map/map-17eb7ec--7
