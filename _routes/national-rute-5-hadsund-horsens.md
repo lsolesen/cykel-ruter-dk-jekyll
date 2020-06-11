@@ -12,7 +12,7 @@ category:
 tags:
   - cykelrute
   - national
-  - Guidebog Vestjylland
+  - Guidebog Østjylland
   - Djursland
 excerpt: "Fra nord til syd følger ruten Østjyllands kystlinje og flere steder er der gode bademuligheder i Kattegat nær de store og små turistbesøgte kystbyer."
 gps:
