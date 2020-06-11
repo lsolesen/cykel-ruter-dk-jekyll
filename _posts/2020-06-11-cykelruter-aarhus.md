@@ -75,6 +75,15 @@ Jeg har skrevet et indlæg om, hvordan man [vælger et godt cykelkort](/cykelkor
 
 Du kan også downloade ruterne som GPS eller GPX-track og have dem på din telefon. Hvis du går ind på de enkelte ruter, så har jeg forsøgt at tegne ruterne i Alltrails, som er et gratis program, du kan downloade til din Smartphone.
 
+## Typiske begynderfejl
+
+- **Cykler for langt**. Hvis du ikke får planlagt ruten ordentligt eller tjekker den på et kort (det gælder også bakkeprofilen), så kan du ende med at cykle længere, end du har lyst til. Det er bedre at cykle for kort på de første ture.
+- **Din cykel passer ikke**. Husk at få indstillet sadlen, så den passer til dig.
+- **Glemmer noget at spise**. En stor del af en cykeltur er også at nyde turen. Det er en rigtig god ide at have snacks med - og du skal i hvert fald have noget at drikke med.
+- **Bukserne gnaver**. Du skal sidde mange timer i sadlen, så sørg for at dine bukser ikke kommer til at gnave. Den fejl har jeg lavet et par gange. Du behøver ikke cykelshorts, men hvis du vælger at køre i cykelshorts, så skal du _ikke_ have underbukser på nedenunder.
+- **Du glemmer ting til punkteringer**. Det er en risiko, at du punkterer. Man kan fx få selvklæbende lapper og en billig pumpe.
+- **Du har for meget tøj på**. Du skal forsøge at ramme en passende temperatur på hele cykelturen. Jeg har skrevet et indlæg om, hvordan du [undgår at svede på cyklen]({% link _posts/2020-05-31-undgaa-sved.md %}). I øvrigt er det bedste, hvis du kan have bagagen på cyklen og ikke på ryggen i en rygsæk.
+
 ***
 
 {% assign site_posts = site.routes | where: "tags", "Århus" | sort: "title" %}
