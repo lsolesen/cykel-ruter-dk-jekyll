@@ -27,7 +27,7 @@ feature_row:
     title: "Cykelkort Danmark og København"
     alt: "Cykelkort Danmark og København"
     excerpt: "Danmarkskortet i 3. udgave er nu med cykelkort på begge sider af kortet. Udover Danmarkskortet i målestok 1:500.000 får man også et cykelkort over Storkøbenhavn i målestok 1:35.000."
-    url: "https://www.scanmaps.dk/0251c83"
+    url: "https://www.scanmaps.dk/0251c83?G=020"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
 legind:
@@ -61,53 +61,53 @@ legind:
     title: "#8 Bornholm"
 scanmaps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_nordlige_sj_lland_1.jpg
-    url: https://www.scanmaps.dk/0251d57
+    url: https://www.scanmaps.dk/0251d57?G=020
     alt: "#1 Nordlige Sjælland"
     title: "#1 Nordlige Sjælland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_sydlige_sj_lland_1.jpg
-    url: https://www.scanmaps.dk/0251d58
+    url: https://www.scanmaps.dk/0251d58?G=020
     alt: "#2 Sydlige Sjælland, Møn, Lolland og Falster"
     title: "#2 Sydsjælland, Møn, Lolland og Falster"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
-    url: https://www.scanmaps.dk/0251f59
+    url: https://www.scanmaps.dk/0251f59?G=020
     alt: "#3 Fyn, Ærø, Tåsinge og Langeland"
     title: "#3 Fyn, Ærø, Tåsinge og Langeland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
-    url: https://www.scanmaps.dk/0251d60
+    url: https://www.scanmaps.dk/0251d60?G=020
     alt: "#4 Østlige Jylland"
     title: "#4 Østlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
-    url: https://www.scanmaps.dk/0251d63
+    url: https://www.scanmaps.dk/0251d63?G=020
     alt: "#5 Nordlige Jylland"
     title: "#5 Nordlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_vestlige_jylland.jpg
-    url: https://www.scanmaps.dk/0251d62
+    url: https://www.scanmaps.dk/0251d62?G=020
     alt: "#6 Vestlige Jylland"
     title: "#6 Vestlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
-    url: https://www.scanmaps.dk/0251d61
+    url: https://www.scanmaps.dk/0251d61?G=020
     alt: "#7 Sydlige Jylland"
     title: "#7 Sydlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_bornholm.jpg
-    url: https://www.scanmaps.dk/0251d64
+    url: https://www.scanmaps.dk/0251d64?G=020
     alt: "#8 Bornholm"
     title: "#8 Bornholm"
 cykelguide:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
-    url: https://www.scanmaps.dk/0251f94
+    url: https://www.scanmaps.dk/0251f94?G=020
     alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
     title: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_nordlige_sj_lland_forside.jpg
-    url: https://www.scanmaps.dk/0251d78
+    url: https://www.scanmaps.dk/0251d78?G=020
     alt: "Nordlige Sjælland Cykelkort og guide"
     title: "Nordlige Sjælland Cykelkort og guide"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_sydlige_sj_lland_forside.jpg
-    url: https://www.scanmaps.dk/0251d79
+    url: https://www.scanmaps.dk/0251d79?G=020
     alt: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
     title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
 scanmaps_package:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251d59_1.jpg
-    url: https://www.scanmaps.dk/0251d59
+    url: https://www.scanmaps.dk/0251d59?G=020
     alt: "8 Cykelkort for Danmark fra Nordisk Korthandel"
     title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
 ---

@@ -22,7 +22,7 @@ bikemaps:
     alt: "#4 Østjylland"
     title: "#4 Østjylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
-    url: https://www.scanmaps.dk/0251d60
+    url: https://www.scanmaps.dk/0251d60?G=020
     alt: "#4 Østlige Jylland"
     title: "#4 Østlige Jylland"
 ---
