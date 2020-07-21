@@ -56,3 +56,5 @@ Efter Mølvang skal vi sørge for at fange national cykelrute 3 (Hærvejen), som
 Kort efter vi har passeret Bredsten Landevej, kan du holde pause ved Naturstedet Gårdbutik, hvor vi kan sidde ved de opstillede bænke eller søge ly i lysthuset og nyde sit medbragte mad eller kigge ind i den meget blandede landhandel, hvor der altid bydes på gratis kaffe og en hyggelig snak med stedets indehaver eller de andre gæster.
 
 Efter naturstedet fortsætter ruten relativt fladt gennem et skiftende landskab. Vi passerer Rolighedsvej, og på en blæsende dag glæder vi os over at der efterhånden kommer mere og mere bevoksning omkring vejen, som vi nærmer os Gødding Skov, hvor træerne begynder at række ud over vejen og danne et naturligt halvtag. Fra Gødding Skov fortsætter vi tilbage til Randbøl.
+
+{% include maps-ad.md %}

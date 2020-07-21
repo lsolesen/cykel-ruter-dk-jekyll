@@ -33,3 +33,5 @@ Ved Pøt Mølle nyder vi den lange tur nedad ved passagen over Granslev Å genne
 Allerede få kilometer herefter bevæger vi os ind på en lille jordvej gennem endnu en stejl, skovdækket ådal ved Voermølle å. Dette smukke område hører under herregården Bidstrup fra 1710, som ligger få kilometer vest for Svejstrup. Bygningsanlægget, den tilhørende park og voldgravene er et flot syn, som dog må nydes fra den åbne gårdsplads, da resten er forment adgang.
  
 På det sidste stykke inden Randers' mere travle byliv er der mulighed for et kig ud over de jyske landskaber fra et udsigstpunkt 131 m over vandoverfladen på Lysnet bakken, som ligger lidt vest for ruten ved Vissing. Herfra har vi dog stadig et par bakker at bestige, før vi kan trille ned mod rutens afslutning i Randers by.
+
+{% include maps-ad.md %}

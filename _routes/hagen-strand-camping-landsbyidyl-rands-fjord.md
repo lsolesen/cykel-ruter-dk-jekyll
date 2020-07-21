@@ -34,3 +34,5 @@ Vi følger cykelrute 58 indtil vi har mulighed for at køre nordpå via regional
 Efter Børkop kører vi via de små hyggelige byer Andkær og Sellerup til Brejning. I Brejning kan vi med fordel køre lidt fra ruten for at nyde området omkring lystbådehavnen og stranden, eller gå en tur omkring Comwell Kellers Park hotellet, hvor man heller ikke kan undgå at blive fristet til at slappe af i deres spa. 
 
 Efter Brejning fortsætter vi sydpå og kører nordom Gårslev, hvor man kan lave en afstikker til Gårslev Kirke, som har en rigt udsmykket altertavle og en prædikestol med en lydhimmel fra 1600-tallet, inden vi er tilbage ved udgangspunktet for en dejlig cykeltur.
+
+{% include maps-ad.md %}

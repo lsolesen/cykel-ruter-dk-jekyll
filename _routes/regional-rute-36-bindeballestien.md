@@ -55,3 +55,5 @@ Naturrum Kirstinelyst er et levende oplevelsescenter og samtidig porten til Rand
 En kort del af ruten følger nu den trafikerede Koldingvej, men efter 700 meter er man tilbage på sporet og følger snart den flotte natur langs Billund Bæk og naturområderne syd for Billund inden turen går til Billund, der bl.a. er hjemsted for de store attraktioner LEGOLAND® og Lalandia.
 
 ## Cykelkort over Bindeballestien
+
+{% include maps-ad.md %}

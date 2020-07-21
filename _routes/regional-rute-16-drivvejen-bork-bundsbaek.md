@@ -37,3 +37,5 @@ Hvis du gerne vil se alt i området, kan du fra Bundsbæk Mølle Vandrehjem find
 
 - [http://www.skjern-egvad-museum.dk/kort.html](http://www.skjern-egvad-museum.dk/kort.html)
 - [http://www.ribeamt.dk/graphics/NATUR_OG_MILJO/Ud_i_naturen/vandreruter/28698-Drivvejen_Folder-1.pdf](http://www.ribeamt.dk/graphics/NATUR_OG_MILJO/Ud_i_naturen/vandreruter/28698-Drivvejen_Folder-1.pdf)
+
+{% include maps-ad.md %}

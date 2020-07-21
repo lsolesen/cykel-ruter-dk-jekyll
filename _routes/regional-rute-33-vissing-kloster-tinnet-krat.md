@@ -31,3 +31,5 @@ Vi fortsætter langs Gudenådalen indtil Åle, hvor vi drejer vest mod Hjortsvan
 Mod rutens slutning støder vi på den nationale cykelrute 3, som kører langs hærvejen. Her er også skilte til Margrethediget, en lav jordvold med grøft mod syd. Den har oprindeligt været længere og har spærret Hærvejen mellem mosedrag mod øst og højderne mod vest. Der er fundet rester af våben på markerne omkring diget og en lille masiv kanonkugle i selve volden. Folkeoverleveringer tilskriver værket Erik Klippings mor, Margrete Springhest, og det holstensk-sønderjyske angreb på Danmark i 1260.
  
 Ruten slutter ved Tinnet krat, der tilsammen med de omliggende krat udgør Danmarks største egekrat, der har overlevet kreaturernes nedbidning. Her kan man også se Gudenåens udspring fra en lille kilde ca. 100 m nord for Tinnetgård.
+
+{% include maps-ad.md %}

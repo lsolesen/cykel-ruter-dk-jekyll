@@ -47,11 +47,14 @@ I Haurvig ligger Abelines gård, der er en klitgård fra 1870. Gården viser, hv
 - Jyllandsakvariet
 - Flyvholm Redningsstation
 - Jens Søndergårds Museum
-- Bovjerg FyrStrandingsmuseet i Thorsminde
+- Bovjerg Fyr
+- Strandingsmuseet i Thorsminde
 - Husby Klitplantage
 - Vest Stadil Fjord
 
 ## Links
 
-- www.northsea-cycle.com 
-- http://vestkystruten.dk/da/forside/
+- [Se mere om Vestkystruten](www.northsea-cycle.com)
+- [Vestkystruten](http://vestkystruten.dk/da/forside/)
+
+{% include maps-ad.md %}

@@ -21,3 +21,7 @@ gps:
 ---
 
 **{{ page.excerpt }}**
+
+Hvis du har brug for yderligere beskrivelse, så brug kommentarerne. Den er under udarbejdelse.
+
+{% include maps-ad.md %}

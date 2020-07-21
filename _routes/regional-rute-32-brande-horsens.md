@@ -27,3 +27,5 @@ På vej ud af Brande kan du få en svalende dukkert i en badesøen, og ellers gl
 Fra Tinnet Krat køres gennem Hjortsvang og Åle til Rask Mølle. Fra Rask Mølle kan man tage en afstikker mod syd til Uldum og besøge det arbejdende museum, Uldum Mølle. Møllen blev bygget 1895, men er flot bevaret. Herfra fortsætter turen mod Horsens via Flemming, og kort tid efter at have drejet mod syd i Kørup krydses Bygholm Å, som du følger på grusvej mod Bygholm Sø.
  
 Indkørslen til Horsens kan næsten ikke gøres bedre, da du kører ned ad bakke i træernes skygge med udsigten over Bygholm Sø på venstre hånd. Ved den vestlige ende af Bygholm sø ligger den flot bevarede jættestue, Grønhøj, hvorom du kan få mere information på skiltet ved indgangen. I Horsens fortsætter ruten gennem den grønne Bygholm Park som en perfekt afslutning på en lang og dejlig rute.
+
+{% include maps-ad.md %}

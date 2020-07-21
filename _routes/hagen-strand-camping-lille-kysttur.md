@@ -38,3 +38,5 @@ Fra Bredstrup fortsætter turen med den skiltede cykelrute 58 mod Egum og Vejlby
 _**Anbefalet omvej:** I Egeskov er der igen mulighed for indkøb, inden turen kan ud mod det smukke, fredede naturområde ved Trelde Næs, hvor vi kan gå en tur langs den fine badestrand eller udforske naturstierne i Trelde skov på 1, 2 og 3 km mærket med henholdsvis rødt, gult og blåt. Ved næssets yderste spids kan vi se både til Lillebælt og Vejle Fjord. Her finder vi også Troldehuset, som er opført af Næssets tidligere ejer, og det gamle savværk på stranden ved Kulvig Havn, der nu huser et naturcenter for område. Der er mulighed for at benytte sig af offentligt toilet._
 
 På turen hjemad trilles igen ned ad den 875 meter lange, lette bakke på Trelde Næsvej mod cykelrute 5, som igen fører jer nordpå til Høll og Hvidbjerg på vejen hjem. 
+
+{% include maps-ad.md %}

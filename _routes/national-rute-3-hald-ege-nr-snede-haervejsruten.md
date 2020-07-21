@@ -49,3 +49,6 @@ Hvis du trænger til lidt byliv er næste større by i nærheden af ruten Nr. Sn
 Efter Rørbæk Sø triller du videre sydover gennem terrænet ad den snoede grusvej mod Det Store Vandskel ved Tinnet Krat. Her kan du finde starten på Danmarks vandrigeste å, Skjern Å, og Danmarks længste å, Gudenåen. I dette område kan du også se de største sammenhængende egekrat i landet. Egekrattene er skabt fordi man huggede stammerne ned til bunden, hvorefter træerne dannede nye skud fra roden. Lige syd for Tinnet Krat ligger Margrethediget, der er en 150 meter lang forsvarsvold anlagt vinkelret på Hærvejen. Kong Frederik den 7. satte fredningsstenen i 1861, mens bonden, Per Limkaster, formanede kongen med ordene: "Di må fanden raspe mæ ætt gå å trej mi havrr nie".
 
 Efter en længere tur på grusvej, er der igen sikker asfalt under hjulene, mens du træder det sidste stykke op mod den højt beliggende Øster Nykirke og Sankt Peder helligkilde, som ligger overfor kirken. I dag er kilden dog ikke særligt indbydende. Beskrivelsen har ender i Nørre Kollemorten, men hvis du ikke er helt mørbanket fra dagens strabadser, kan du køre videre mod Givskud, hvor især Løveparken er et besøg værd.
+
+{% include maps-ad.md %}
+

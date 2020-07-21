@@ -39,3 +39,5 @@ Et godt stykke efter Bjerringbro kommer vi til Busbjerg, som er en 92 m høj bak
 På det sidste stykke vej til Randers passerer vi bl.a. middelalderkirken, Ørum Kirke, som ligger smukt alene på toppen af en 76 m høj bakke med endnu en fantastisk udsigt. Herfra fortsætter ruten ad en allé forbi den mindre herregård Christianslund.
  
 Inden længe når vi Randers, hvor Gudenåen efterhånden er begyndt at brede sig godt i landskabet.
+
+{% include maps-ad.md %}

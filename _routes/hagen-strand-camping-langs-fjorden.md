@@ -40,3 +40,5 @@ Efter Munkebjerg Hotel fortsættes af lidt fladere vej, inden det igen går neda
 Godt mætte og efterhånden godt brugte af det kuperede terræn forsætter turen mod Brejning, hvor vi kan nyde livet på marinaen, ved stranden eller lade os friste af ren, uforfalsket afslapning på Comwell Keller Park og Spa. Her kan vi også starte en gåtur i Brejning fra den gamle befæstningsvold fra vikingetiden, Trindhøj.
 
 Efter Brejning følges fortsat den nationale cykelrute 5 tæt forbi Gårslev, hvor vi kan tage en afstikker til Gårslev Kirke, der kan byde på en rigt udsmykket altertavle. Langs den sidste del af ruten kan der flere steder langs vejen om sommeren købes fx hjemmeavlede jordbær, ærter og kartofler.
+
+{% include maps-ad.md %}

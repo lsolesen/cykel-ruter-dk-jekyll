@@ -36,3 +36,6 @@ Efter Sevel kan du begynde at følge skiltene mod Hjerl Hede Frilandsmuseum, der
 Drej herefter mod Nr. Lem og op mod Rødding, hvor du kommer tæt forbi Spøttrup Borg. Borgen er fra middelalderen og er omgivet af grave og volde. I borgparken findes et anlæg med en af landets største samlinger af lægeurter. Ikke langt fra borgen ligger den genoprettede Spøttrup Sø, hvor der er et fugletårn, så alle med en kikkert kan nyde det rige fugleliv omkring søen. Fra Rødding kan du skyde genvej mod Krejbjerg, hvor ruten for en kort stund genforenes med national cykelrute 12. Du kan vælge at fortsætte østpå gennem Oddense og Jebjerg mod Grinderslev, hvor byens sognekirke har en lang historie. Oprindeligt var den en del af Grinderslev Kloster, der blev grundlagt i 1175 som Sallings eneste middelalderlige kloster.
 
 Efter Grindslev kører du tæt forbi den genoprettede natur omkring Brokholm Sø, inden ruten igen møder national cykelrute 12 tæt på kysten ved Risgåde Bredning. Læs mere om mulighederne for at komme videre herfra under den nationale cykelrute 12. Det var et forslag til, hvordan du kan køre den regionale cykelrute 20, men med et kort i hånden kan du selv lave dine egne opdagelser på Skive-egnen.
+
+{% include maps-ad.md %}
+

@@ -22,4 +22,7 @@ gps:
 
 **{{ page.excerpt }}**
 
-Ikke skrevet endnu
+Ikke skrevet endnu. Skriv i kommentarerne, hvis du har behov for den, så får vi den lagt op også.
+
+{% include maps-ad.md %}
+

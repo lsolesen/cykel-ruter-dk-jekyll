@@ -40,3 +40,5 @@ Følg igen ruten og de blå pile mod den gamle skovvej i Springbjerg Plantage og
 Herfra kører vi videre mod Bindeballe og Randbøldal ad asfaltvejen. Her passerer vi et hedeområde med klitter og Bindeballe Sø. Uden for Bindeballegård står der en lille sten ved vejen, der stammer helt tilbage fra landboreformen i 1700-tallet. På stenen er der en inskription fra den nye selvbevidste bondestand. 
 
 Tilbage i Randbøldal er det måske tid til at stille cyklen for i dag og i stedet besøge Randbøldal-museet, som fortæller om Randbøldals storhedstid i 1700-tallet i forbindelse med anlæggelsen af papirfabrikken, som indledte den jyske industrielle revolution baseret på vandkraft. Når det er gjort, kan vi slutte dagen på kroen.
+
+{% include maps-ad.md %}

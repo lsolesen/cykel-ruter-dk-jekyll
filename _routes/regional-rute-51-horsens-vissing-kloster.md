@@ -31,3 +31,5 @@ Det kan være en god ide at pakke en stor madpakke. Dels fordi ruten byder på a
 Mod rutens afslutning kører vi gennem Dørup og Højlund Skov langs sydsiden af Mossø, som er Jyllands største sø. Området omkring søen og Gudenåen har tiltrukket flere klostre gennem tiden. Ruten passerer forbi det gamle Voer Kloster, hvor Kloster Mølle ligger idag. Her boede benediktinerordenen indtil reformationen i 1536, hvor den katolske kirkes gods overgik til kongen. Siden hen blev klosteret brugt til papfremstilling. Ikke langt herfra ligger Sukkertoppen, som er et 108 m højt udkigspunkt, hvorfra man kan se ud over Mossø og Gudenådalens terasser. Sukkertoppen har navn efter sit hvide sukkerlignende sand, som tidligere var blottet for vegetation. Du kan vælge at cykle tæt helt hen til "toppen", men ellers er der afmærket en smuk vandrerute fra Kloster Mølle.
  
 Det indbydende område har også tiltrukket cykelruterne 4, 8, 30 og 33, som der er nær forbindelse til ved rutens afslutning, så der er al grund til at fortsætte videre i det midtjyske højland. 
+
+{% include maps-ad.md %}

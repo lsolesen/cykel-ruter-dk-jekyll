@@ -33,3 +33,5 @@ Ruten krydser herefter Skals Å og går gennem Lindum Skov for at fortsætte mod
 Vejen ud af Viborg går forbi Viborg Hedeplantage, hvor du kan se rester af gamle hulveje (hærvejsspor) og flere gravhøje. Ved en lille rasteplads langs ruten er der opsat en vejtromle af granit. Stenen er sat som minde om de vejfarende, og inskriptionen på tromlen er forfattet af Peter Seeberg. Hvis du har mod på lidt opdagelse i skoven, kan man finde et par tilgroede høje, der er opkaldt efter nogle af de mest berygtede vejfarende; Røverhøjene.
 
 Hærvejsruten fortsætter langt ned i landet. Du kan læse om fortsættelsen i Cykelguide for Vestjylland.
+
+{% include maps-ad.md %}

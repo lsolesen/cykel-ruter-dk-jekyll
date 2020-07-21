@@ -22,4 +22,7 @@ gps:
 
 **{{ page.excerpt }}**
 
-Mangler beskrivelse.
+Mangler beskrivelse. Brug kommentarerne, hvis du har brug for den.
+
+{% include maps-ad.md %}
+

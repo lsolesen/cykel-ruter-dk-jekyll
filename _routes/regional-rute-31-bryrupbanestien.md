@@ -42,3 +42,5 @@ Mellem Bryrup og Vrads fungerer den gamle bane som veteranbane, der om sommeren 
 Lidt efter lidt lukker træerne sig mere om stien, og vi kører i svalende skygge, inden vi når til den hyggelige Silkeborg by med dens mange cafeer og folkeliv.
 
 ## Cykelkort over Bryupbanestien
+
+{% include maps-ad.md %}

@@ -31,3 +31,5 @@ Fra Spentrup fortsætter vi ud forbi kornmarker og plantageområder, indtil land
 Er du nærmere interesseret i fortidens grave foreslås en afstikker til jernaldergraven ved Hem. I Kærbybro drejes fra ruten mod Hem, til venstre i følgende t-kryds og til højre ad første markvej. I modsætning til sten- og bronzealderens iøjnefaldende gravhøje syner graven umiddelbart ikke af så meget i landskabet, da den er anlagt under flad mark trods dens beliggenhed nær en bakke. Der er mulighed for at kigge ned i gravens stenkiste og infoskilte på stedet uddyber fundet nærmere. Anderledes storladent ligger bronzealdergraven, Hohøj, på toppen af en 110 m høj bakke og er Danmarks største gravhøj. Nord for Hem Skov fører ruten os lige forbi højen og efter vores anstrengelser mod toppen er den storslåede udsigt fra toppen velfortjent.
  
 Herfra kan vi trille resten ad vejen ind mod rutens slutning i Mariagers smukke bykerne. Du kan læse mere om Mariager under beskrivelsen af regional cykelrute 32.
+
+{% include maps-ad.md %}

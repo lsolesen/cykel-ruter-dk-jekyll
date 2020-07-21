@@ -24,4 +24,6 @@ related: "National Cykelrute 2"
 
 **{{ page.excerpt }}**
 
-Følger senere
+Følger senere. Brug kommentarerne, hvis vi skal sætte lidt fart på at få beskrevet ruten færdig.
+
+{% include maps-ad.md %}

@@ -37,3 +37,5 @@ Ruten fortsætter lettere kuperet mod Odder, hvor du kan besøge egnsmuseet der 
 Efter Odder kommer du tæt forbi Herregården Rathlousdal, der ligger smukt i udkanten af et skovområde i Odder Ådal. I 1773 blev der anlagt en udstrakt park omkring gårdens hovedbygning, som nu er nedrevet. Parken indeholder mange sjældne træer. Det er oplagt at tage en vandre tur og se de bevarede bygninger og hele arealet, som er et smukt eksempel på et dansk herregårdslandskab.
 
 Efter Odder fortsætter ruten ud til kysten, hvor den får kontakt med den nationale cykelrute 5 ved Rude Strand. Syd for Rude Strand er der en god badestrand, hvor du kan køle varme fødder og slikke lidt sol.
+
+{% include maps-ad.md %}

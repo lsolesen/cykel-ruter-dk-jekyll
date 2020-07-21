@@ -31,3 +31,4 @@ Du kan dreje fra ruten mod Hundslund, hvor lokale hænder har bygget en naturleg
  
 Ruten slutter ikke langt herfra i Ålstrup, som er en fin, lille by med bindingsværkshuse. Her får ruten kontakt med den nationale cykelrute 5. Så hvis dit tråd stadig er let, og du har mod på flere oplevelser, kan du følge denne rute hele vejen langs den jyske østkyst.
 
+{% include maps-ad.md %}

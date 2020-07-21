@@ -42,3 +42,5 @@ Vejen forbi Alling Sø er flot, og på den anden side af søen ligger ensomt på
 
 - http://www.faaborg-nielsen.dk/Grathehede.html
 - http://tm.ringamt.dk/cykelvandre/rute49/turbeskrivelse.htm
+
+{% include maps-ad.md %}

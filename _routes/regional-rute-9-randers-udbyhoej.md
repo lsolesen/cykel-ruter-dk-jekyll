@@ -33,3 +33,5 @@ Fra Støvringgård er det en fornøjelse at trille videre ned af bakken mod Mell
 I Tvede udfordres vi på grusvej, der giver støv i munden, så et stop ved Pumpestationen kan være kærkomment. Hvis ikke for at skylle munden, så for at gå op på digerne og nyde naturen og udsigten et øjeblik. Kigger vi os godt omkring kan vi få øje på nogle af de mange gravhøje, som ruten passerer tæt forbi. Efter grusvejen skal der trampes godt op af den lange bakke mod Øster Tørslev, men alle vores anstrengelser belønner sig, da udsigten fra toppen er formidabel ud over de bølgende marker kun afbrudt af små lunde af træer og fjordens blå vand i horisonten.
  
 Ruten slutter i Udbyhøj ved det lille færgeleje. Her er desuden mulighed for at bade ved en lille strand til venstre for lejet.
+
+{% include maps-ad.md %}

@@ -31,3 +31,5 @@ Resten af vejen kører vi langs fjorden ind mod Skive, hvor der lige nord for by
 I Skive kan man se Skives 11 Stjerner. Det er skulpturer tegnet af den berømte tegnestue Jacob Jensen Design. Skulpturerne står placeret i rundkørsler i Skiveegnen og skal minde befolkningen om nytænkning og kreativitet i en forandrende verden. Du kommer forbi et par af skulpturerne, hvis du følger ruten rundt i byen. Fra byen kan man også tage på pirat- og solnedgangsture med et gammelt træskib. Der er dog ikke adgang alle dage, så man bør lige tjekke ved turistbureauet for at planlægge en tur.
 
 National cykelrute 2 fortsætter videre mod Hanstholm, men vores beskrivelse slutter her.
+
+{% include maps-ad.md %}

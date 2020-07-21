@@ -37,3 +37,5 @@ Fra Hobro læner du dig ind over styret for at køre op af fjordskrænten mod Va
 Med den smukke udsigt over fjorden som tro følgesvend når du hurtigt tættere på Hadsund. På vejen passerer du bl.a. den mindre herregård, Ovegård, med tilhørende arealer og den flotte kirke i Vive, hvis granitkvadrer stammer helt tilbage fra ca midten af 1200-tallet. I Hadsund kan man på byens Egnsmuseum blive klog på områdets historie og de perioder, der har haft afgørende betydning for byens nuværende position som handelsby. Hvis man på nærmere og mere praktisk hold vil vide mere herom kan man gå en tur i gågadens handelsliv, hvor gadens café- og butiksliv og de flotte vand- og stenskulpturer skaber en hyggelig atmosfære. Enkelte lørdage bliver der afholdt gammeldags torvedag i gaden.
  
 Fra Hadsund til Mariager følger ruten først den nationale cykelrute 5 til Norup og derefter den regional cykelrute 18 til Mariager. Du kan læse mere om denne strækning under beskrivelsen af disse ruter.
+
+{% include maps-ad.md %}

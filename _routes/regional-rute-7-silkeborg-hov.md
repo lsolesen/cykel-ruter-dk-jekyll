@@ -36,3 +36,4 @@ Ruten tager en lille bue uden om Odder gennem Torrild og Over Randlev. Landskabe
 
 Ved Hov får ruten kontakt med den nationale cykelrute 5. Der er også færgeforbindelse til Samsø og Tunø. Nord for byen er der en udmærket strand til et svalende bad.
 
+{% include maps-ad.md %}

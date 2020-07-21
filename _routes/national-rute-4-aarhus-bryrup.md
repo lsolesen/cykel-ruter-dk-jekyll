@@ -34,3 +34,5 @@ Vi krydser Gudenåens rolige vand indrammet af lavthængende trægrene på vejen
 Fra Vinding følger ruten en nedlagt jernbane til Bryrup. Om sommeren genoplives banen mellem Bryrup og Vrads til stor fornøjelse for turister, der transporteres op ad den stride bakke til Vrads (se mere under regional cykelrute 31). 
 
 Dette område egner sig godt til mindre ophold på ruten, inden man kan vælge at følge national cykelrute 4 videre mod vest. Denne del af ruten er beskrevet i Cykelguide til Vestjylland.
+
+{% include maps-ad.md %}

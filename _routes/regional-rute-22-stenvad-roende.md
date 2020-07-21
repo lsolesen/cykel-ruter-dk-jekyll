@@ -38,3 +38,5 @@ Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der n
 ## Rettelser til skiltningen
 
 - Dårlige skiltning på 22 mod Skarresø
+
+{% include maps-ad.md %}

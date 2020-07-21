@@ -52,3 +52,5 @@ I sadlen igen arbejder vi os ud af Jelling for at trille hurtigt ned af bakken m
 Fra Fårup sø fortsættes videre langs vejen fra Jelling, indtil et skilt viser ad Tingvejen mod Skibet. Udsigten præges igen af bølgende kornmarker og I kommer forbi en skæg træskulptur på vejen ind til Jennum, hvor der er også er mulighed for at handle lidt.
  
 Resten af vejen mod Skibet nyder vi den lange bakke nedad.
+
+{% include maps-ad.md %}

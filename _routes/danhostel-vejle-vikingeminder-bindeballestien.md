@@ -56,3 +56,4 @@ Længere fremme på ruten kommer vi forbi Vingsted Centret - et aktivitets- og k
 
 Resten af vejen ind mod Skibet køres tæt langs Vejle Å. Flere gange krydses åen over små træbroer, der inviterer til et kort stop for at opleve vandets mediterende effekt. Vi kører også forbi Haraldskær Fabrik fra 1741, der i sin tid udnyttede åens vandkraft til fremstilling af kobbervarer, leer og søm. Og ikke langt herfra kan man imponeres af den gamle Haraldskær herregård fra 1434, der i dag huser et konferencehotel. Husk at vende blikket mod den fine gamle Skibet kirke på stiens nordside med kalkmalerier fra ca. år 1200, inden ruten drejer under motortrafikvejen ind til Skibet by. 
 
+{% include maps-ad.md %}

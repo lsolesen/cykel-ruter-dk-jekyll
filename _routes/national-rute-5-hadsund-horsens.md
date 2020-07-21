@@ -50,3 +50,5 @@ Herfra følger vi grusstien gennem det sidste stykke skov til det meget besøgte
 I Hov er der færgeforbindelse til Samsø og Tunø. Et kort stykke fra byen ligger Bjørnkær ruinerne, som er en skøn grøn plet, hvor børn kan løbe rundt og lege vikinger, mens de voksne nyder historiens vingesus. Ved godset Gersdorffslund kan man i et af de gamle træer ved vejen se et lille lysthus, hvor det formodes, at H.C. Andersen til den storslåede udsigt over Kattegat har skrevet et af sine eventyr.
 
 Ti km herfra kører vi ind på strækningen langs Horsens Fjord. Nær de fredede Sondrup Bakker ved udsigtshøjene i Trustrup får man en af de bedste udsigter over fjorden. Det højeste punkt ligger 70 m over havet, og fra højene udgår et netværk af små, bugtede stier - et rigtigt godt sted at gå på opdagelse for folk i alle aldre. Skilte viser vej fra ruten til højene. Herfra følger vi den lille fjordsti hele vejen ind til bylivet i Horsens.
+
+{% include maps-ad.md %}

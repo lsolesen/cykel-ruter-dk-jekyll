@@ -37,3 +37,5 @@ Tag evt. en lille afstikker fra ruten til Skibbild for at besøge Danmarks enest
 Efter mosen nærmer du dig Arnborg og kirken på den østlige side af ruten. Her krydser du både Skjern Å og den nationale cykelrute 4. I krydset ligger et lille kombineret hjemstavnshus og naturcenter, som er drevet på frivillig basis. Naturcenteret fortæller om Det danske Hedeselskab, engvandingssystemerne og områdets naturgenopretningsprojektet, mens hjemstavnshuset er et historisk tilbageblik på egnen.
 
 Resten af vejen til Brande kører du på sydsiden af Skjern Å, hvor noget af ruten køres på udfordrende grusvej. I Brande by kan du slappe af på Storetorv i byens centrum, og du kan lægge mærke til de mange gavlmalerier, der især pryder bygningerne i området mellem Storegade og Stationsvej. Når du nu har fået de kulturelle briller på, kan du også kigge forbi remisen, som er omdannet til et levende kunstnerværksted.
+
+{% include maps-ad.md %}

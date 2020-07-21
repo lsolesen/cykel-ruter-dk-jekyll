@@ -38,3 +38,5 @@ Fra Hornslet passerer vi en stigning over den markante bakke nord for Kalø Vig,
 ## Noter 
 
 - [Kare](http://www.aaa.dk/aaa/landsbyerdk.pdf)
+
+{% include maps-ad.md %}

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Vælg det perfekte cykelkort til Danmark og din cykeltur!"
+title: "Vælg det rigtige cykelkort over Danmark til din cykeltur [2020]"
 tags:
   - cykelkort
   - cykelguide
@@ -8,7 +8,7 @@ last_modified_at: 2020-06-04T16:59:01Z
 header:
   overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
   teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: "Photo by Annie Spratt on Unsplash"
+  caption: "Cykelkort til Danmark og din cykeltur. Photo by Annie Spratt on Unsplash"
   overlay_filter: 0.2
 toc: true
 author_profile: true
@@ -24,64 +24,64 @@ feature_row:
 legind:
   - image_path: https://imgcdn.saxo.com/_9788771552980/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980
-    alt: "#1 Nordjylland"
+    alt: "Cykelkort #1 Nordjylland"
     title: "#1 Nordjylland"
   - image_path: https://imgcdn.saxo.com/_9788771552997/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
-    alt: "#2 Vestjylland og Limfjordslandet"
+    alt: "Cykelkort #2 Vestjylland og Limfjordslandet"
     title: "#2 Vestjylland og Limfjordslandet"
   - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
-    alt: "#3 Sydjylland"
-    title: "#3Sydjylland"
+    alt: "Cykelkort #3 Sydjylland"
+    title: "#3 Sydjylland"
   - image_path: https://imgcdn.saxo.com/_9788771553017/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
-    alt: "#4 Østjylland"
+    alt: "Cykelkort #4 Østjylland"
     title: "#4 Østjylland"
   - image_path: https://imgcdn.saxo.com/_9788771553024/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-5-fyn_ukendt_9788771553024
-    alt: "#5 Fyn"
+    alt: "Cykelkort #5 Fyn"
     title: "#5 Fyn"
   - image_path: https://imgcdn.saxo.com/_9788771553048/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-7-sydsjaelland-moen-og-lolland-falster_ukendt_9788771553048
-    alt: "#7 Sydsjælland, Møn og Lolland-Falster"
+    alt: "Cykelkort #7 Sydsjælland, Møn og Lolland-Falster"
     title: "#7 Sydsjælland, Møn og Lolland-Falster"
   - image_path: https://imgcdn.saxo.com/_9788771553055/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-8-bornholm_ukendt_9788771553055
-    alt: "#8 Bornholm"
+    alt: "Cykelkort #8 Bornholm"
     title: "#8 Bornholm"
 scanmaps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_nordlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d57?G=020
-    alt: "#1 Nordlige Sjælland"
+    alt: "Cykelkort #1 Nordlige Sjælland"
     title: "#1 Nordlige Sjælland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_sydlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d58?G=020
-    alt: "#2 Sydlige Sjælland, Møn, Lolland og Falster"
+    alt: "Cykelkort #2 Sydlige Sjælland, Møn, Lolland og Falster"
     title: "#2 Sydsjælland, Møn, Lolland og Falster"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
     url: https://www.scanmaps.dk/0251f59?G=020
-    alt: "#3 Fyn, Ærø, Tåsinge og Langeland"
+    alt: "Cykelkort #3 Fyn, Ærø, Tåsinge og Langeland"
     title: "#3 Fyn, Ærø, Tåsinge og Langeland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
     url: https://www.scanmaps.dk/0251d60?G=020
-    alt: "#4 Østlige Jylland"
+    alt: "Cykelkort #4 Østlige Jylland"
     title: "#4 Østlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d63?G=020
-    alt: "#5 Nordlige Jylland"
+    alt: "Cykelkort #5 Nordlige Jylland"
     title: "#5 Nordlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_vestlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d62?G=020
-    alt: "#6 Vestlige Jylland"
+    alt: "Cykelkort #6 Vestlige Jylland"
     title: "#6 Vestlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d61?G=020
-    alt: "#7 Sydlige Jylland"
+    alt: "Cykelkort #7 Sydlige Jylland"
     title: "#7 Sydlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_bornholm.jpg
     url: https://www.scanmaps.dk/0251d64?G=020
-    alt: "#8 Bornholm"
+    alt: "Cykelkort #8 Bornholm"
     title: "#8 Bornholm"
 cykelguide:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
@@ -103,7 +103,7 @@ scanmaps_package:
     title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
 ---
 
-Når du skal på cykeltur i Danmark er det rigtig godt at kunne finde vej. Jeg har flere gange lavet den fejl ikke at medbringe et cykelkort, der er detaljeret nok. Der findes nogle rigtig gode cykelkort, som du kan bruge, når du planlægger din cykeltur.
+Når du skal på cykeltur i Danmark, er det rigtig godt at kunne finde vej. Jeg har flere gange lavet den fejl ikke at medbringe et cykelkort, der er detaljeret nok. Der findes nogle rigtig gode cykelkort, som du kan bruge, når du planlægger din cykeltur.
 
 **Et cykelkort er et speciallavet kort med høj detaljeringsgrad, hvor cykelruterne er indtegnet. I Danmark er der 11 nationale cykelruter og virkelig mange regionale ruter og veje med cykelsti. På et godt cykelkort, kan du også finde markeringer af vandrehjem, campingpladser, turistinformationer og måske handlemuligheder. Sørg for at købe et holdbart kort.**
 
@@ -234,3 +234,5 @@ Men husk uanset om du bruger lidt moderne teknologi til at hjælpe dig med steds
 I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste cykelkort over Danmark på markedet, og de kan holde til flere end bare en cykeltur.
 
 {% include gallery id="scanmaps_package" %}
+
+[Tjek priserne hos Scanmaps](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020){: .btn .btn--large .btn--info}

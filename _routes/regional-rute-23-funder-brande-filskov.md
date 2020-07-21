@@ -31,3 +31,5 @@ Fra Ejstrup fortsætter ruten mod Brande. I udkanten af byen kommer du tæt forb
 På vej ud af Brande krydser du hovedvejen mod Give. Her kan du tage en kort afstikker til Langkjær Møllegård, hvor de private ejere siden 1977 har indrettet deres kæmpestore have med søer, vandløb og mange flotte blomsterbede. Tilbage på ruten går turen nu mod Blåhøj. På Skovbjerggård kan du finde en privatejet udstilling af veterantraktorer, gamle landbrugsmaskiner og redskaber, hvor du også kan spise din medbragte mad. Udstillingen er kun åben efter aftale (telefon 75345021).
 
 Udhvilet går det sidste stykke af ruten over Hallundbæk, hvor du forlader stien det sidste stykke til Filskov og fortsætter på mindre veje.
+
+{% include maps-ad.md %}
