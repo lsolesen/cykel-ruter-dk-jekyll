@@ -9,7 +9,7 @@ last_modified_at: 2020-06-04T16:59:01Z
 header:
   overlay_image: https://c.pxhere.com/photos/20/b0/person_human_child_girl_bike_cycling_in_motion_in_action-875842.jpg!d
   teaser: https://c.pxhere.com/photos/20/b0/person_human_child_girl_bike_cycling_in_motion_in_action-875842.jpg!d
-  caption: "Pxhere [via](https://pxhere.com/da/photo/875842)"
+  caption: "Tips til cykelferie og cykeltur med børn. Pxhere [via](https://pxhere.com/da/photo/875842)"
   overlay_filter: 0.2
 toc: true
 author_profile: true
@@ -20,7 +20,7 @@ cykelmekaniker:
     title: "Cykelreparation"
     excerpt: "Cykelreparation dækker alt lige fra lapninger og daglig vedligeholdelse til avancerede teknikker til hjulopretning og justering af gear eller bremser på din mountainbike."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
-    btn_label: "Læs mere"
+    btn_label: "Tjek prisen hos Saxo*"
     btn_class: "btn--success"
 feature_row:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort-500000-forside_03.jpg
@@ -28,7 +28,7 @@ feature_row:
     alt: "Cykelkort Danmark og København"
     excerpt: "Danmarkskortet i 3. udgave er nu med cykelkort på begge sider af kortet. Udover Danmarkskortet i målestok 1:500.000 får man også et cykelkort over Storkøbenhavn i målestok 1:35.000."
     url: "https://www.scanmaps.dk/0251c83?G=020"
-    btn_label: "Læs mere*"
+    btn_label: "Tjek prisen hos Scanmaps*"
     btn_class: "btn--success"
 legind:
   - image_path: https://imgcdn.saxo.com/_9788771552980/0x500

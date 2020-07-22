@@ -54,7 +54,6 @@ I Haurvig ligger Abelines gård, der er en klitgård fra 1870. Gården viser, hv
 
 ## Links
 
-- [Se mere om Vestkystruten](www.northsea-cycle.com)
 - [Vestkystruten](http://vestkystruten.dk/da/forside/)
 
 {% include maps-ad.md %}

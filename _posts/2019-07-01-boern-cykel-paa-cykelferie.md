@@ -6,12 +6,12 @@ tags:
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
 feature_row:
-  - image_path: https://cykelexperten.dk/wp-content/uploads/2018/06/unnamed-9.jpg
-    alt: "Nordic Cab Active 2-i-1"
-    title: "Nordic Cab Active 2-i-1"
-    excerpt: "Genial cykeltrailer. Nordic Cab Active cykel- og barnevogn er en særdeles familievenlig vogn, som tilgodeser alle dine / jeres behov."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/anhaengerbarnevogn-nordic-cab-active-2-1/"
-    btn_label: "Læs mere"
+  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/8702229b-2e9e-48f8-995c-1eb200c53dec/10101803_A_default.jpg
+    alt: "# Thule Coaster XT - Cykeltrailer til 2 børn"
+    title: "# Thule Coaster XT Cykeltrailer"
+    excerpt: "Genial cykeltrailer. Coaster XT er en cykeltrailer med plads til 2 børn fra Thule. Her er du garanteret et holdbart transportmiddel med ekstra bagageplads, som du sikkert og komfortabelt kan transportere dine børn i."
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/boernetrailere/thule-coaster-xt---cykeltrailer-til-2-boern---sortturkis
+    btn_label: "Tjek prisen hos cykelpartner.dk"
     btn_class: "btn--success"
 feature_row_bee:
   - image_path: https://www.fotoagent.dk/single_picture/10678/138/mega/BU945203.jpg
