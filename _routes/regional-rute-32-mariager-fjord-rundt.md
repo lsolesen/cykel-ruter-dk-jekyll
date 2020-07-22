@@ -1,5 +1,5 @@
 ---
-title: "Regional rute 32 Mariager - Hobro - Hadsund - Mariager (Mariager Fjord rundt)"
+title: "Regional rute 32: Mariager - Hobro - Hadsund - Mariager (Mariager Fjord rundt)"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
@@ -22,7 +22,9 @@ gps:
 
 **{{ page.excerpt }}**
 
-I Mariager kan du gå en tur på de toppede brosten blandt bindingsværkshuse med roser og stokroser. Byens idylliske centrum er sjældent velbevaret. Her ligger også Danmarks Saltcenter, hvor du kan opleve saltminen, tage et saltbad, besøge sydehytten, prøve den interaktive multimedie-biograf, eller bare nyde udsigten over fjorden fra caféen eller Salthaven med salttålende planter. Byens beliggenhed helt ned til fjorden giver desuden mulighed for at sejle en tur med hjuldamperen, Svanen, rundt til fjordens mange seværdigheder. Mens du nyder frokosten ombord, sejler du forbi små hyggelige fiskerlejer, store fuglekolonier, strandenge med kvæg græssende ved vandkanten og måske endda sæler og marsvin tumlende langs skibssiden. Du kan også vente med at spise frokost, indtil du sidder behageligt mellem enebærbuske og vildroser i de fredede Bramslev bakker. Der er desuden mulighed for at leje kanoer og prøve kræfter med den 36 km lange fjord på egen hånd.
+I Mariager kan du gå en tur på de toppede brosten blandt bindingsværkshuse med roser og stokroser. Byens idylliske centrum er sjældent velbevaret. Her ligger også Danmarks Saltcenter, hvor du kan opleve saltminen, tage et saltbad, besøge sydehytten, prøve den interaktive multimedie-biograf, eller bare nyde udsigten over fjorden fra caféen eller Salthaven med salttålende planter.
+
+Byens beliggenhed helt ned til fjorden giver desuden mulighed for at sejle en tur med hjuldamperen, Svanen, rundt til fjordens mange seværdigheder. Mens du nyder frokosten ombord, sejler du forbi små hyggelige fiskerlejer, store fuglekolonier, strandenge med kvæg græssende ved vandkanten og måske endda sæler og marsvin tumlende langs skibssiden. Du kan også vente med at spise frokost, indtil du sidder behageligt mellem enebærbuske og vildroser i de fredede Bramslev bakker. Der er desuden mulighed for at leje kanoer og prøve kræfter med den 36 km lange fjord på egen hånd.
 
 Hvis du vil forlade ruten for en stund, kører der et veterantog mellem Mariager til Handest. Toget fungerer som aktivt og levende museum, hvorfra man samtidig får gode naturoplevelser gennem nogle af de forholdsvist øde områder langs banen. Sørg dog for at tjekke køreplanen først, for toget kører ikke hver dag.
  

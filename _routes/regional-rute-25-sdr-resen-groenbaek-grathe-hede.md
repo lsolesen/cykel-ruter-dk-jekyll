@@ -5,7 +5,7 @@ last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://jonrahrrunning.files.wordpress.com/2012/09/20120923-231322.jpg
-  caption: "Stemningsbillede fra Jon Rahr Running"
+  caption: "Stemningsbillede fra Grathe Hede cykelruten. Taget af Jon Rahr Running"
   teaser: *image
 category:
   - Regional
@@ -13,11 +13,12 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "En relativt flad rute der veksler mellem hedelyngområder, marker og folde - og så er der sket nogle interessante historiske begivenheder i området."
+excerpt: "Grathe Hede-ruten er en relativt flad rute, der veksler mellem hedelyngområder, marker og folde - og så er der sket nogle interessante historiske begivenheder i området."
 gps:
   url: https://www.alltrails.com/explore/map/map-7ea25c9--10
   id: https://www.alltrails.com/widget/map/map-7ea25c9--10
   provider: alltrails
+toc: true
 ---
 
 **{{ page.excerpt }}**
@@ -27,6 +28,8 @@ Start ruten i Sdr. Resen med at besøge Danmarks største hedeareal, Kongens Min
 Ud af Sdr. Resen følger du Karup Å, som er et af Danmarks reneste vandløb og med et fiskekort kan du prøve at fange aftensmaden. Du kører med Alheden på den nordlige side af vejen og Karup Å på den sydlige side af vejen til Karup, hvor ruten krydser den regionale rute 21. Du kan læse mere om Alheden og området omkring Karup under den regionale rute 21. I Karup tiltrak Vor Frue Kilde i middelalderen både syge og pilgrimme fra hele landet, men kilden er for længst udtørret, så hvis du skal have forfriskninger, er det hos købmanden.
  
 Fra Karup følger du Haller Å et langt stykke. Kort tid efter du at have krydset åen første gang, kan den eventyrlystne begive sig ind i Ulvedal Plantage for at prøve at finde Jens Langknivs Røverstue. Jens Langkniv levede i midten af 1600-tallet, og blev opfattet som en jysk Robin Hood. Han var bevæbnet med en kniv, der var bundet fast i en lang line, så han kunne kaste den og trække den til sig igen. Man er ikke fuldstændig sikker på, at Jens Langkniv rent faktisk havde tilholdssted her, men den 36 meter lange langdysse, der består af 62 store randsten og to stenkamre, er et kuriøst historisk besøg.
+
+## Grathe Hede-ruten fører dig forbi Grathe Hede
  
 Næste gang du krydser Haller Å har du Kompedal Plantage og Grathe Hede (Gråheden) syd for ruten. Du kører igennem Knudstrup mod Lille Gråskov. Her møder ruten den nationale rute 3. Du kan vælge at tage en lille afstikker til Thorning og se Blickeregnens museum, eller du kan følge ruten videre sydpå mod historiens vingesus.
  
@@ -40,7 +43,9 @@ Vejen forbi Alling Sø er flot, og på den anden side af søen ligger ensomt på
 
 ## Links
 
-- http://www.faaborg-nielsen.dk/Grathehede.html
-- http://tm.ringamt.dk/cykelvandre/rute49/turbeskrivelse.htm
+- [Om Grathe Hede](http://www.faaborg-nielsen.dk/Grathehede.html)
+- [Turbeskrivelse på Grathe Hede-ruten](http://tm.ringamt.dk/cykelvandre/rute49/turbeskrivelse.htm)
+
+## Kort over Grathe Hede-cykelruten
 
 {% include maps-ad.md %}
