@@ -1,11 +1,13 @@
 ---
 layout: single
 title: Cykelruter i Vestjylland - Den mest komplette guide
-permalink: /cykelguide-vestjylland/
+permalink: /cykelruter-vestjylland/
+redirect_from:
+  - /cykelguide-vestjylland/
 author_profile: true
 sidebar:
-  title: "Om Cykelguide til cykeloplevelser i Vestjylland"
-  text: "Guiden til cykelruter i Vestjylland blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
+  - title: "Om Cykelguide til cykeloplevelser i Vestjylland"
+    text: "Guiden til cykelruter i Vestjylland blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
 gallery:
   - image_path: https://imgcdn.saxo.com/_9788771552980/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980
@@ -34,7 +36,9 @@ Denne cykelguide indeholder beskrivelser af en masse spændende ture. Naturen er
 
 Tag på opdagelse i de store byer. Gå på museumsbesøg. Spis på de små cafeer. Brug de mange forskellige overnatningsmuligheder. Gør en god handel. Og gør dig klar til næste tur. Gennem landskabet. Til næste by. Gør holdt så mange steder som muligt. 
 
-Men først og fremmest – for nu at bruge en lettere omskrivning at solen Kierkegaard: "Tab for alt i verden ikke lysten til at cykle. Man kan cykle sig sine bedste tanker til". 
+Men først og fremmest – for nu at bruge en lettere omskrivning at solen Kierkegaard:
+
+> "Tab for alt i verden ikke lysten til at cykle. Man kan cykle sig sine bedste tanker til". 
 
 _Rigtig god fornøjelse – og god tur!_
 
