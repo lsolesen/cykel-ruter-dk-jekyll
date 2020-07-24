@@ -94,17 +94,17 @@ feature_row:
     btn_label: "Besøg Viborg Kommune"
     btn_class: "btn--success"
   - url: https://www.visitmors.dk/danmark/cykelferie-2
-    image_path: https://www.danskturismefremme.dk/api/drupal/sites/aktivdanmark.com/files/styles/tile_medium/public/2019-10/Cykelbillede%20-%20Viborg%20Stjernerute.jpg
+    image_path: https://www.danskturismefremme.dk/api/drupal/sites/aktivdanmark.com/files/styles/tile_medium/public/2019-10/Mors%20Oksb%C3%B8l_35949.jpg
     title: "Cykelferier på Mors"
     alt: "Cykelferier på Mors"
-    excerpt: "Mors har alle elementer, der giver hele familien en udbytterig ferie på to hjul. Morsø Turistbureau arrangerer færdigpakkede cykelture i Nordjylland, Limfjordsområdet og på øen Mors."
+    excerpt: "Mors har alle elementer, der giver hele familien en udbytterig ferie på to hjul. Morsø Turistbureau arrangerer færdigpakkede cykelture i Nordjylland, Limfjordsområdet og på øen Mors."
     btn_label: "Besøg VisitMors"
     btn_class: "btn--success"
   - url: https://www.ferievedlimfjorden.dk/limfjorden/oplevelser/cykeltur
     image_path: https://www.danskturismefremme.dk/api/drupal/sites/aktivdanmark.com/files/styles/tile_medium/public/2019-10/cykel-fur-par-limfjorden.jpg?h=0e4a4245&itok=I8420dj5
     title: "Fjordruten - cykelferie ved Limfjorden"
     alt: "Fjordruten - cykelferie ved Limfjorden"
-    excerpt: "Masser af frisk luft og tid til at nyde landskabets former og farver, dét er cykelferie, og det er for alle aldre! Ved Limfjorden har vi kilometervis af gode cykelstier og afmærkede ruter, så hop op på cyklen og kør ud i det blå - for alting opleves bedre fra en cykelsaddel!"
+    excerpt: "Masser af frisk luft og tid til at nyde landskabets former og farver, dét er cykelferie, og det er for alle aldre! Ved Limfjorden har vi kilometervis af gode cykelstier og afmærkede ruter, så hop op på cyklen og kør ud i det blå - for alting opleves bedre fra en cykelsaddel!"
     btn_label: "Besøg Ferie Ved Limfjorden"
     btn_class: "btn--success"
   - url: https://www.haervej.dk/haervejen/cykelferie/cykelferie
@@ -154,6 +154,7 @@ bikemaps:
     url: https://www.scanmaps.dk/0251d59?G=020
     alt: "8 Cykelkort for Danmark fra Nordisk Korthandel"
     title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
+classes: wide
 ---
 
 Jeg har samlet alle de cykelruter, cykelture og cykelstier i Danmark, jeg kunne finde i denne oversigt over forskellige cykeloplevelser i Danmark.
@@ -166,13 +167,11 @@ I vores oversigt finder du forslag til cykelruter i og omkring de største byer 
 
 I Danmark findes der tusindvis af skiltede og [kortlagte nationale og regionale cykelruter]({% link _posts/2020-06-04-cykelkort.md %}). I alt findes der i Danmark 12.000 km cykelruter.
 
-Jeg har selv skrevet en oversigt over [cykelruter i Østjylland]({% link _posts/cykelguide-oestjylland.md %}), [Vestjylland]({% link _posts/cykelguide-oestjylland.md %}) og [Vejle]({% link _posts/cykelguide-visitvejle.md %}).
+Jeg har selv skrevet en oversigt over [cykelruter i Østjylland]({% link _pages/cykelguide-oestjylland.md %}), [Vestjylland]({% link _pages/cykelguide-oestjylland.md %}) og [Vejle]({% link _pages/cykelguide-visitvejle.md %}).
 
 Hvis du synes, der mangler et link på oversigten, så brug endelig kommentarerne.
 
 {% include feature_row type="left" %}
-
-***
 
 ## Cykelkort til cykelruter i Danmark
 
