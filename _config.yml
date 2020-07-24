@@ -92,6 +92,9 @@ author:
     - label: "Støt sitet"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/lsolesen"
+    - label: "Køb cykelkort*"
+      icon: "fas fa fa-map-marker"
+      url: "https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort&G=020"
 
 
 # Reading Files
