@@ -3,11 +3,11 @@ main:
   - title: "Ruter"
     url: /ruter/
   - title: "Vestjylland"
-    url: /cykelguide-vestjylland/
+    url: /cykelruter-vestjylland/
   - title: "Østjylland"
-    url: /cykelguide-oestjylland/
+    url: /cykelruter-oestjylland/
   - title: "VisitVejle"
-    url: /cykelguide-visitvejle/
+    url: /cykelruter-vejle/
   - title: "Inspiration"
     url: /inspiration/
   - title: "Om"

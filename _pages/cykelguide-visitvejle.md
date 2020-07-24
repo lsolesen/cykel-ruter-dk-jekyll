@@ -1,7 +1,9 @@
 ---
 layout: single
 title: Cykelruter omkring Vejle - Cykelguide for VisitVejle
-permalink: /cykelguide-visitvejle/
+permalink: /cykelruter-vejle/
+redirect_from:
+  - /cykelguide-visitvejle/
 author_profile: true
 classes: wide
 gallery:
