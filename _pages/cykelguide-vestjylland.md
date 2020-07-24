@@ -5,7 +5,7 @@ permalink: /cykelguide-vestjylland/
 author_profile: true
 sidebar:
   title: "Om Cykelguide til cykeloplevelser i Vestjylland"
-  text: "Bogen blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
+  text: "Guiden til cykelruter i Vestjylland blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
 gallery:
   - image_path: https://imgcdn.saxo.com/_9788771552980/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980
@@ -51,7 +51,7 @@ _Rigtig god fornøjelse – og god tur!_
   {% endfor %}
 {% endif %}
 
-[Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger}
+[Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger }
 
 ## Kort over cykelruter i Vestjylland
 

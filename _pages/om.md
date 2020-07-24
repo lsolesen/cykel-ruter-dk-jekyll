@@ -4,10 +4,9 @@ title: Om cykel-ruter.dk
 permalink: /om/
 author_profile: true
 toc: true
-author_profile: true
 ---
 
-Cykel-ruter.dk er skrevet af cykelbogforfatterne, Lars Olesen og Dina Knudsen, som tidligere har skrevet to cykelbøger, [Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603) og [Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979) og lavet 9 cykelruter til VisitVejle.
+Cykel-ruter.dk er skrevet af cykelbogforfatterne, Lars Olesen og Dina Knudsen, som tidligere har skrevet to cykelbøger, [Østjylland - guidebog til cykeloplevelser]({% link _pages/cykelguide-oestjylland.md %}) og [Vestjylland - guidebog til cykeloplevelser]({% link _pages/cykelguide-vestjylland.md %}) og lavet 9 cykelruter til VisitVejle.
 
 ## Om sitet
 
@@ -28,9 +27,9 @@ Det er naturligvis ikke tilladt at bruge materiale fra siden uden skriftlig till
 
 Hvis du selv har beskrevet cykelruter, som du gerne vil have online, så andre kan læse dine beskrivelser, så er du meget velkommen til at kontakte os. Vi betaler ikke for eksternt indhold, men du bibeholder selv rettighederne til dine tekster og billeder.
 
-[Lån Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603){: .btn .btn--large .btn--danger}
+[Lån Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603){: .btn .btn--large .btn--danger }
 
-[Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger}
+[Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger }
 
 Vi bruger billder fra [Unsplash](http://unsplash.com) og [Pxhere](https://pxhere.com/).
 

@@ -6,9 +6,9 @@ tags:
   - cykelguide
 last_modified_at: 2020-06-04T16:59:01Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  teaser: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: "Photo by Blubel on Unsplash"
+  overlay_image: https://c.pxhere.com/photos/c2/2b/cyclists_uphill_training_cycling_bike_tour_nature_sport-411405.jpg!d
+  teaser: https://c.pxhere.com/photos/c2/2b/cyclists_uphill_training_cycling_bike_tour_nature_sport-411405.jpg!d
+  caption: "Tips og råd til cykelturen. [Pxhere](https://pxhere.com/da/photo/411405)"
   overlay_filter: 0.2
 toc: true
 author_profile: true

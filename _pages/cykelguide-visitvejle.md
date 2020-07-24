@@ -3,17 +3,16 @@ layout: single
 title: Cykelruter omkring Vejle - Cykelguide for VisitVejle
 permalink: /cykelguide-visitvejle/
 author_profile: true
-toc: false
 classes: wide
 gallery:
   - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000"
     alt: "#3 Sydjylland"
-    title: "#3Sydjylland"
+    title: "#3 Sydjylland"
 toc: true
 ---
 
-Jeg har lavet og beskrevet nogle cykelruter omkring Vejle. Ruterne tager sit udgangspunkt fra enten Randbøldal Camping, Danhostel Vejle eller Hagen Strand Camping.
+Jeg har lavet og beskrevet nogle cykelruter omkring Vejle. Cykelruterne tager sit udgangspunkt fra enten Randbøldal Camping, Danhostel Vejle eller Hagen Strand Camping.
 
 Jeg har lavet tre cykelruter ud fra hver campingplads. Cykelruterne er af tre forskellige længder og virkelig smukke.
 
@@ -28,7 +27,7 @@ Jeg har lavet tre cykelruter ud fra hver campingplads. Cykelruterne er af tre fo
 </div>
 {% endif %}
 
-<div class="feature_wrapper" style="clear: both;">
+<div class="feature__wrapper">
 
 <h2>Hagen Strand Camping</h2>
 
