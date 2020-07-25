@@ -1,0 +1,24 @@
+{% assign type = include.type | default: "Indendørs" %}
+{% assign met_values = site.data.met | where_exp: "item", "item.Lokation contains type" | sort: "MET" %}
+
+<table id="METTable">
+  {% for row in met_values %}
+    {% if forloop.first %}
+    <thead>
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    </thead>
+    {% endif %}
+    {% if forloop.length == 1 %}
+    <tbody>
+    {% endif %}
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+    {% if forloop.last %}
+    {% endif %}
+  {% endfor %}
+</table>
