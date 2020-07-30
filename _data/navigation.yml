@@ -6,6 +6,8 @@ main:
     url: /cykelruter-vestjylland/
   - title: "Østjylland"
     url: /cykelruter-oestjylland/
+  - title: "Nationale"
+    url: /nationale-cykelruter/
   - title: "VisitVejle"
     url: /cykelruter-vejle/
   - title: "Inspiration"

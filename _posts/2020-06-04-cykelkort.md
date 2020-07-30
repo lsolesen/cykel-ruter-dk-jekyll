@@ -101,6 +101,35 @@ scanmaps_package:
     url: https://www.scanmaps.dk/0251d59?G=020
     alt: "8 Cykelkort for Danmark fra Nordisk Korthandel"
     title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
+bikeline:
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
+    url: https://www.scanmaps.dk/0251a67?G=020
+    alt: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
+    title: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
+    excerpt: "Vestkystruten er en del af den internationale cykelrute Eurovelo 12 Nordsøcykelruten. Vestkystruten er i alt 560 km langs Vestkysten, men er altså en del ef en international cykelrute på i alt 5.942 km."
+    btn_label: "Tjek prisen*"
+    btn_class: "btn--success"
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251b18.jpg
+    url: https://www.scanmaps.dk/0251b18?G=020
+    alt: "Kort over Hærvejen - Heerweg/Ochsenweg (von Viborg nach Hamburg)"
+    title: "Nationalrute 3: Hærvejsruten. Heerweg/Ochsenweg (von Viborg nach Hamburg)"
+    excerpt: "Hærvejen er flere hundrede kilometer vandre- og cykelrute, der løber på langs ned gennem Jylland. Dette cykelkort er virkelig godt og detaljeret, selvom det er på tysk."
+    btn_label: "Tjek prisen*"
+    btn_class: "btn--success"
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg
+    url: https://www.scanmaps.dk/0251g04?G=020
+    alt: "Kort over Nationalrute 8. Der Ostsee-Radweg - Dänemark"
+    title: "Nationalrute 8: Østersøruten. Der Ostsee-Radweg - Dänemark"
+    excerpt: "Kortbogen dækker Nationalrute 8 - Østersøruten. En cykeltur gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. En ting er sikkert, den smukke og varierede natur og det rige kulturlandskab vil gøre din cykelferie langs den danske Østersørute til en uforglemmelig oplevelse."
+    btn_label: "Tjek prisen*"
+    btn_class: "btn--success"
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0222650_1.jpg
+    url: https://www.scanmaps.dk/0222650?G=020
+    alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
+    title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
+    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort*](https://www.scanmaps.dk/0251d57?G=020)."
+    btn_label: "Tjek prisen*"
+    btn_class: "btn--success"
 ---
 
 Når du skal på cykeltur i Danmark, er det rigtig godt at kunne finde vej. Jeg har flere gange lavet den fejl ikke at medbringe et cykelkort, der er detaljeret nok. Der findes nogle rigtig gode cykelkort, som du kan bruge, når du planlægger din cykeltur.
@@ -187,7 +216,19 @@ Du kan naturligvis også købe kortene enkeltvis. Jeg har lavet et link direkte 
 
 {% include gallery id="scanmaps" layout="fourth" %}
 
-## Har jeg brug for guidebøger?
+## Bikelines tysksprogede kortbøger
+
+Forlaget Estebauer producerer en serie af cykelkort [Bikeline\*](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020), hvor et par af kortene dækker fire af de 11 nationale cykelruter. Kortbøgerne sælges fra [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020) og dækker Nationalrute 1 Vestkystruten, Nationalrute 3: Hærvejsruten, Nationalrute 8: Østersøruten og i nogen udstrækning Nationalrute 9: Helsingør-Gedser.
+
+{% include gallery id="bikeline" caption="Kortbøgerne sælges fra [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020)" %}
+
+### Værd at vide om Bikelines cykelkort
+
+- Teksterne i Bikelines kortbøger er på tysk, men kortene er alligevel lette at bruge. På selve kortene er der jo ikke tekst, men her skal du aflæse vejene og landskabet.
+- I detaljeringsgrad udmærker kortene sig virkelig. Du får oplysninger om rutens underlag, seværdigheder undervejs, højdeprofiler, hvor langt der er mellem tingene, overnatningsmuligheder.
+- Kortene passer perfekt ned i de fleste cykelkortholdere. De er lavet i et aflangt format med spiralryg, og derfor går de ikke i stykker så let som kort, der skal foldes ind og ud. Papiret er også vandfast, hvilket er en kæmpe fordel med vores lidt uforudsigelige sommervejr.
+
+## Har jeg også brug for guidebøger til cykelturen?
 
 Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. Jeg synes det kan være ret inspirerende at læse gennem guidebøger for at få lidt ideer om, hvilken rute, man skal vælge. Du kan naturligvis efterhånden også finde en del informationer om forskellige ruter online.
 
@@ -235,4 +276,4 @@ I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste 
 
 {% include gallery id="scanmaps_package" %}
 
-[Tjek priserne hos Scanmaps](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020){: .btn .btn--large .btn--info}
+[Tjek priserne hos Scanmaps](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020){: .btn .btn--large .btn--info }

@@ -7,10 +7,10 @@ header:
   teaser: *image
   caption: "Billede fra Bikepacking & Cycling Adventures Denmark"
 category:
-  - National
+  - Regional
 tags:
   - cykelrute
-  - national
+  - regional
   - Guidebog Vestjylland
 excerpt: "Ruten følger nogle af de gamle drivveje, hvor kreaturer blev drevet til og fra græsning på engene eller til de store kvægmarkeder i Nordtyskland. Tag dig tid til at læse informationstavlerne ved de forskellige kulturspor."
 gps:
