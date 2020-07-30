@@ -38,7 +38,7 @@ created_at: 2019-10-03T09:48:02+02:00
 last_modified_at: 2020-03-03T09:48:02+02:00
 ---
 
-I Danmark findes der et unikt netværk af cykelruter på 3.500 km, som består af 11 nationale cykelruter. Disse cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture.
+I Danmark findes der et unikt netværk af cykelruter på 3.500 km, som består af 11 nationale cykelruter. Disse cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Vi beskriver her de nationale cykelruter, og hvordan du finder kort til cykelruterne.
 
 ## Tre typer af nationale cykelruter
 
@@ -96,7 +96,7 @@ Vi har beskrevet de nationale cykelruter her:
 
 ## Kort over de nationale cykelruter
 
-Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de nationale cykelruter.
+Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de nationale cykelruter. Du kan få et overblik over de [nationale cykelruter på Vejdirektoratets side](https://www.vejdirektoratet.dk/faq-svar/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter).
 
 Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor man kan blive i tvivl.
 
