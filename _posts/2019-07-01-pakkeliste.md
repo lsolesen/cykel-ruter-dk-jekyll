@@ -44,7 +44,7 @@ _God tur!_
 - [ ] Regntøj
 - [ ] Sko-overtræk, der holder regnen ude 
 - [ ] Sko med stiv sål 
-- [ ] [Cykelhjelm\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=57503) 
+- [ ] Cykelhjelm
 
 ### Kort
 
