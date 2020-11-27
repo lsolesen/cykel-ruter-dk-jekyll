@@ -7,8 +7,8 @@ last_modified_at: 2019-06-28T16:08:57Z
 toc: true
 feature_row:
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/8702229b-2e9e-48f8-995c-1eb200c53dec/10101803_A_default.jpg
-    alt: "# Thule Coaster XT - Cykeltrailer til 2 børn"
-    title: "# Thule Coaster XT Cykeltrailer"
+    alt: "Thule Coaster XT - Cykeltrailer til 2 børn"
+    title: "Thule Coaster XT Cykeltrailer"
     excerpt: "Genial cykeltrailer. Coaster XT er en cykeltrailer med plads til 2 børn fra Thule. Her er du garanteret et holdbart transportmiddel med ekstra bagageplads, som du sikkert og komfortabelt kan transportere dine børn i."
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/boernetrailere/thule-coaster-xt---cykeltrailer-til-2-boern---sortturkis
     btn_label: "Tjek prisen hos cykelpartner.dk"
