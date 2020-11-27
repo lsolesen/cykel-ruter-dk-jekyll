@@ -34,3 +34,16 @@ Vores opgave er:
 Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
 
 {% include gallery %}
+
+## Se alle cykelruterne i Vejle området
+
+{% assign site_posts = site.routes | where: "tags", "VisitVejle Cykelguide" | sort: "title" %}
+
+{% if site_posts.size > 0 %}
+<h2>{{ site_posts.size }} cykelruter omkring Vejle</h2>
+<div class="grid__wrapper">
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+{% endif %}

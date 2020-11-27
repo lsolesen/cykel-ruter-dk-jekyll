@@ -38,7 +38,7 @@ created_at: 2019-10-03T09:48:02+02:00
 last_modified_at: 2020-03-03T09:48:02+02:00
 ---
 
-I Danmark findes der et unikt netværk af cykelruter på 3.500 km, som består af 11 nationale cykelruter. Disse cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Vi beskriver her de nationale cykelruter, og hvordan du finder kort til cykelruterne.
+I Danmark findes der et unikt netværk af 11 nationale cykelruter på hele 3.500 km cykelvenlige ruter. De nationale cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Vi beskriver her de nationale cykelruter, og hvordan du finder kort til cykelruterne.
 
 ## Tre typer af nationale cykelruter
 
@@ -46,27 +46,27 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 ### Nord-sydgående ruter
 
-- Nationalrute 1: Vestkystruten, der følger Jyllands vestkyst
-- Nationalrute 3: Hærvejen, der går op gennem Jylland
-- Nationalrute 5: Østkystruten, der følger Jyllands østkyst
-- Nationalrute 7: fra Sjællands Odde til Rødby Havn
-- Nationalrute 9: fra Helsingør til Gedser
+- National cykelrute 1: Vestkystruten, der følger Jyllands vestkyst
+- National cykelrute 3: Hærvejen, der går op gennem Jylland
+- National cykelrute 5: Østkystruten, der følger Jyllands østkyst
+- National cykelrute 7: fra Sjællands Odde til Rødby Havn
+- National cykelrute 9: fra Helsingør til Gedser
 
 ### Øst-vestgående ruter, der alle ender i København:
 
-- Nationalrute 2: fra Hanstholm til København
-- Nationalrute 4: fra Søndervig til København
-- Nationalrute 6: fra Esbjerg til København
+- National cykelrute 2: fra Hanstholm til København
+- National cykelrute 4: fra Søndervig til København
+- National cykelrute 6: fra Esbjerg til København
 
 ### Rundture
 
-- Nationalrute 8, Østersøruten – der har facon som et liggende ottetal og forbinder Syddanmarks øer og landsdele
-- Nationalrute 10, Bornholm Rundt – der følger kyststækningen hele øen rundt
-- Nationalrute 12, Limfjordsruten – der følger Limfjordens syd- og nordlige bredder fra Hals i Øst til Thyborøn i vest
+- National cykelrute 8, Østersøruten – der har facon som et liggende ottetal og forbinder Syddanmarks øer og landsdele
+- National cykelrute 10, Bornholm Rundt – der følger kyststækningen hele øen rundt
+- National cykelrute 12, Limfjordsruten – der følger Limfjordens syd- og nordlige bredder fra Hals i Øst til Thyborøn i vest
 
 ## Oversigt over de nationale cykelruter
 
-| Navn	| Længde	| Asfalt	| Kommentar |
+| Navn	| Længde	| Asfalt	| Procent | Kommentar |
 |-|-|-|-|
 | N1	| Vestkystruten	| 560 km	| 70 %	| Rudbøl - Skagen |
 | N2	| Hanstholm-København	| 420 km	| 80 %	| 

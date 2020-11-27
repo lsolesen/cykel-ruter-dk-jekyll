@@ -20,6 +20,10 @@ feature_row:
     btn_class: "btn--success"
 ---
 
+Her har vi samlet en række cykelruter i Danmark. Vi har også lavet dedikerede sider til de [nationale cykelruter]({% link _pages/nationale-cykelruter.md %}), [cykelruter omkring Vejle]({% link _pages/cykelguide-visitvejle.md %}) eller cykelruter i [Østjylland]({% link _pages/cykelguide-oestjylland.md %}) eller [Vestjylland]({% link _pages/cykelguide-vestjylland.md %}).
+
 ## Cykelture i Danmark
 
 {% include feature_row type="left" %}
+
+## Cykelruter og cykelstier i Danmark

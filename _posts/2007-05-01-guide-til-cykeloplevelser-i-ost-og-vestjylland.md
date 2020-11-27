@@ -1,6 +1,6 @@
 ---
-title: "Guide til cykeloplevelser og cykelruter i Øst- og Vestjylland"
-excerpt: "Vi har skrevet en guide til cykelferie, cykelruter og cykeloplevelser i Øst- og Vestjylland."
+title: "Guide til cykeloplevelser og cykelruter i Østjylland og Vestjylland"
+excerpt: "Vi har skrevet en guide til cykelferie, cykelruter og cykeloplevelser i Østjylland og Vestjylland."
 tags:
   - cykelferie
 last_modified_at: 2019-04-26T16:59:01Z
@@ -36,8 +36,28 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 
 <del>Du kan købe bøgerne på [Dansk Cyklistforbunds hjemmeside](http://www.dcf.dk/).</del>
 
-[Lån Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603){: .btn .btn--large .btn--danger}
+{% assign site_posts = site.routes | where: "tags", "Guidebog Østjylland" | sort: "title" %}
 
-[Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger}
+{% if site_posts.size > 0 %}
+## {{ site_posts.size }} cykelruter i Østjylland
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+[Lån Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603){: .btn .btn--large .btn--danger }
+
+{% assign site_posts = site.routes | where: "tags", "Guidebog Vestjylland" | sort: "title" %}
+
+{% if site_posts.size > 0 %}
+## {{ site_posts.size }} cykelruter i Vestjylland
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+[Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger }
+
+## Køb cykelkort til Østjylland og Vestjylland
 
 {% include gallery layout="half" %}
