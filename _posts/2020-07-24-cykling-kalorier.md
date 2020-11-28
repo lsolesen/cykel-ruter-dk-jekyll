@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Kalorier og cykling: Hvad forbrænder du ved at cykle? [2020]"
+title: "Kalorier og cykling: Hvad forbrænder du ved at cykle? 🚴"
 tags:
   - energiforbrug
 last_modified_at: 2020-07-24T16:59:01Z
@@ -8,7 +8,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
   teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
   overlay_filter: 0.2
-  caption: "Kalorier og cykling: Hvad forbrænder du ved at cykle?"
+  caption: "Kalorieforbrænding, kalorier og cykling: Hvad forbrænder du ved at cykle?"
 toc: true
 author_profile: true
 author: lsolesen
@@ -30,11 +30,11 @@ puls:
     btn_label: "Tjek prisen hos proshop.dk*"
 ---
 
-Mange spørger hvor mange kalorier man forbrænder ved at cykle? Jeg har researchet lidt på, hvordan man regner ens forbrænding og forbrug af kalorier ved cykling?
+Mange spørger hvor mange kalorier, man forbrænder ved at cykle? Jeg har researchet lidt på, hvordan man regner ens kalorieforbrænding og energiforbrug ved cykling?
 
-Der står meget [vrøvl](http://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) rundt omkring på nettet i forhold til, hvordan man udregner energiforbruget på en cykeltur.
+Der står meget [vrøvl om forbrænding af kalorier på cykel](http://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) rundt omkring på nettet i forhold til, hvordan man udregner energiforbruget på en cykeltur. Vi har lavet en beregner, der kan hjælpe dig med at regne ud, hvor mange kalorier, man forbrænder ved at cykle.
 
-For at udregne hvor mange [kalorier](https://www.motionsplan.dk/hvad-er-kalorier/) man bruger, så handler det om, hvilken intensitet du kører med.
+For at udregne hvor mange [kalorier](https://www.motionsplan.dk/hvad-er-kalorier/) man bruger, så handler det også om, hvilken intensitet du cykler med.
 
 ## Kalorieforbrænding ved cykling
 
@@ -79,7 +79,7 @@ Hvis ikke du har adgang til wattmålere, så kan du også med pulsen få en mere
 
 {% include table-met.html type="Indendørs" %}
 
-## Forbrændingen af kalorier er et estimat
+## Forbrændingen af kalorier ved cykling er et estimat
 
 Husk at udregningerne og tommelfingerreglerne bare er estimater - altså gennemsnitlige gæt på, hvor mange kalorier der forbrændes ved cykling.
 
@@ -91,7 +91,7 @@ Gennemsnittet for cykling er omkring en MET på 7,5, mens fx meget anstrengende 
 
 Forskellige mennesker har dog forskelligt kalorieforbrug, fordi de har deres egen unikke metabolisme. Så husk at MET-værdierne bare er et estimat.
 
-## Hvad bruger du kalorierne til på cykel?
+## Hvad bruger du energien til på cykel?
 
 Når du bruger dine muskler, så starter kroppen med at bruge ekstra ilt for at forbrænde kulhydrat og fedt, så du kan skabe ATP. ATP er kroppens energimolekyle.
 
@@ -144,7 +144,7 @@ Hvor meget du forbrænder ved en given aktivitet hænger nøje sammen med varigh
 
 Om det er bedst at lave [kontinuerlig træning eller intervaltræning](https://www.motionsplan.dk/artikel/er-kontinuerlig-traening-eller-intervaltraening-bedst-for-fedtforbraendningen) afhænger bl.a. også af tidsforbruget i træningen. Hvis du fx kører intervaller i 20 minutter sammenlignet med 1 times cykling med moderat intensitet, så forbrænder du mest ved den moderate træning viser studier af [Skelly et al. (2014)](https://doi.org/10.1139/apnm-2013-0562).
 
-## Kalorieberegner på cykel
+## Kalorieberegner for cykel
 
 Hvis du gerne vil beregne hvor mange kalorier, du forbrænder ved forskellige aktiviteter, så tjek den fede [kalorierberegner ud på motionsplan.dk](https://www.motionsplan.dk/met/).
 
@@ -181,7 +181,7 @@ For at sætte tingene lidt i perspektiv, så har du altså brug for en del kalor
 - 100 g chokolade = 545 kalorier
 - 100 g gulerod = 41 kalorier
 
-## Opsamling
+## Opsamling på kalorieforbrænding for cykling
 
 Selvom MET-beregneren primært medtager hastigheden som parameter, når man skal vælge sin cykelintensitet, så der det altså lidt misvisende.
 
@@ -197,4 +197,8 @@ Jeg er selv utrolig glad for mit [Garmin Fenix](https://www.partner-ads.com/dk/k
 
 ## Referencer om kalorier og cykling
 
+<details markdown="1">
+  <summary>Se referencer om kalorieforbrænding på cykel</summary>
+
 - Skelly, Lauren E., Patricia C. Andrews, Jenna B. Gillen, Brian J. Martin, Michael E. Percival, og Martin J. Gibala. 2014. “High-Intensity Interval Exercise Induces 24-h Energy Expenditure Similar to Traditional Endurance Exercise despite Reduced Time Commitment”._Applied Physiology, Nutrition, and Metabolism = Physiologie Appliquee, Nutrition Et Metabolisme_39 (7): 845–48. [https://doi.org/10.1139/apnm-2013-0562](https://doi.org/10.1139/apnm-2013-0562).
+</details>

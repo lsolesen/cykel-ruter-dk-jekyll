@@ -5,7 +5,7 @@ tags:
   - gode råd
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
-excpert: "Grundig planlægning af cykelturen og cykelferien kan gøre tingene lettere, men planlæg også muligheden for at være spontan."
+excerpt: "Grundig planlægning af cykelturen og cykelferien kan gøre tingene lettere, men planlæg også muligheden for at være spontan."
 header:
   overlay_image: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=80
   teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
@@ -44,7 +44,7 @@ sidebar:
   nav: bikes
 ---
 
-**Nøglen til en uforglemmelig god cykel ferie er: Planlægning og evnen til spon tant at ændre planer.**
+**Nøglen til en uforglemmelig god cykel ferie er: Planlægning og evnen til spontant at ændre planer.**
 
 Ud i det blå og lad os se hvad skæbnen bringer. Det kan være opskriften på en super cykelferie. De fleste har det dog bedst med et minimum af planlægning. 
 
