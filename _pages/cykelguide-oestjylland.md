@@ -61,6 +61,8 @@ _Rigtig god fornøjelse – og god tur!_
 
 [Lån Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603){: .btn .btn--large .btn--danger }
 
+Desværre kan cykelguidebogen over Østjylland ikke længere købes. Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter) og på [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020).
+
 ## Kort over cykelruter i Østjylland
 
 {% include gallery %}
