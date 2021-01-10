@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Vælg det rigtige cykelkort over Danmark til din cykeltur [2020] 🗺"
+title: "Vælg det rigtige cykelkort over Danmark til din cykeltur [2021] 🗺"
 tags:
   - cykelkort
   - cykelguide
@@ -162,11 +162,11 @@ Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cyke
 > Cykelkortet er et planlægningskort, der giver overblik over cykelmuligheder.
 > På den anden side af kortet har man et kort over Storkøbenhavn i målestok 1:35.000, som er et detaljeret kort over Københavns cykelstier og cykelruter.
 
---- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83)</cite>
+--- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020)</cite>
 
 Ulempen ved kortet er, at det er udgivet i 2017. De seneste par år er der lavet enkelt omlægninger på nogle cykelruter, og derfor kan man ikke være helt sikker på, at alle ruterne er rigtige på kortet. Jeg håber, at der snart kommer en opdatering, som tager de nyeste omlægninger med i betragtning.
 
-Du kan [købe kortet hos Nordisk Korthandel](https://www.scanmaps.dk/0251c83). Jeg synes helt sikkert, at prisen er rimelig for et kort af fin kvalitet - og selvom der er mange ruter på kortet, synes jeg stadig, at det er overskueligt.
+Du kan [købe kortet hos Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020). Jeg synes helt sikkert, at prisen er rimelig for et kort af fin kvalitet - og selvom der er mange ruter på kortet, synes jeg stadig, at det er overskueligt.
 
 Hvis du vil planlægge din tur i detaljer, så synes jeg dog ikke, at oversigtskortet kan stå helt alene.
 
@@ -179,16 +179,6 @@ Så er det bedre at finde et regionalt cykelkort, som har et lidt mindre målest
 Jeg har fundet to forskellige cykelkortserier, der er udgivet af to forskellige forlag: Legind og Nordisk Korthandel. De har et målestoksforhold på 1:100.000, og de er rigtig gode at have med på turen, så du kan finde vej.
 
 Du kan stadig købe begge serier af regionale cykelkort, men Legind og Cyklistforbundets cykelkortserie genoptrykkes ikke. Jeg knytter lige et par kommentarer til begge kortserier.
-
-## Legind og Cyklistforbundets 8 regionale cykelkort
-
-Legind har udgivet 8 regionale cykelkort i 2016 i samarbejde med Cyklistforbundet. Jeg synes godt om disse cykelkort, der leveres i en papæske, og de er relativt robuste at have med på tur. Cykelkortene er udformet meget klassisk og fylder 12,5 cm x 23 cm.
-
-Cykelkortene fra Legind opdateres og genoptrykkes ikke, men du kan stadig købe dem rundt omkring i boghandlerne. Selvom cykelkortene er forholdsvist nye, så kan ulempen med dem være, at cykelruterne sommetider omlægges, men de fleste ruter er heldigvis de samme stadigvæk. 
-
-Du kan stadig nå at skaffe dig et eksemplar ved boghandlere og webshops. Nedenstående links er reklamelinks til [saxo.dk](https://www.saxo.com/dk/products/search?query=cykelkort). Hvis du køber gennem dem, støtter du min side, og det vil jeg blive rigtig glad for. [Tjek alle Saxos cykelkort](https://www.saxo.com/dk/products/search?query=cykelkort).
-
-{% include gallery id="legind" layout="fourth" %}
 
 ## Nordisk Korthandels regionale cykelkort over Danmark
 
@@ -208,13 +198,23 @@ Du kan se en lille video her af kortenes holdbarhed:
 
 {% include video provider="youtube" id="8Mab1GDTrgw" %}
 
-Du kan købe kortene direkte hos Nordisk Korthandel på [scanmaps.dk](http://www.scanmaps.dk). Nordisk Korthandel har været så venlige at give mit en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
+Du kan købe kortene direkte hos Nordisk Korthandel på [scanmaps.dk](http://www.scanmaps.dk?G=020). Nordisk Korthandel har været så venlige at give mit en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
 
 Du kan tjekke den [aktuelle pris på alle kortene her\*](https://www.scanmaps.dk/0251d59). Nordisk Korthandel plejer at have et godt tilbud, hvis du vil købe alle cykelkortene på en gang.
 
-Du kan naturligvis også købe kortene enkeltvis. Jeg har lavet et link direkte til kortene nedenunder på [scanmaps.dk](http://www.scanmaps.dk).
+Du kan naturligvis også købe kortene enkeltvis. Jeg har lavet et link direkte til kortene nedenunder på [scanmaps.dk](http://www.scanmaps.dk?G=020).
 
 {% include gallery id="scanmaps" layout="fourth" %}
+
+## Legind og Cyklistforbundets 8 regionale cykelkort
+
+Legind har udgivet 8 regionale cykelkort i 2016 i samarbejde med Cyklistforbundet. Jeg synes godt om disse cykelkort, der leveres i en papæske, og de er relativt robuste at have med på tur. Cykelkortene er udformet meget klassisk og fylder 12,5 cm x 23 cm.
+
+Cykelkortene fra Legind opdateres og genoptrykkes ikke, men du kan stadig købe dem rundt omkring i boghandlerne. Selvom cykelkortene er forholdsvist nye, så kan ulempen med dem være, at cykelruterne sommetider omlægges, men de fleste ruter er heldigvis de samme stadigvæk. 
+
+Du kan stadig nå at skaffe dig et eksemplar ved boghandlere og webshops. Nedenstående links er reklamelinks til [saxo.dk](https://www.saxo.com/dk/products/search?query=cykelkort). Hvis du køber gennem dem, støtter du min side, og det vil jeg blive rigtig glad for. [Tjek alle Saxos cykelkort](https://www.saxo.com/dk/products/search?query=cykelkort).
+
+{% include gallery id="legind" layout="fourth" %}
 
 ## Bikelines tysksprogede kortbøger
 
@@ -234,7 +234,7 @@ Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. 
 
 Nordisk Korthandel har faktisk udgivet tre cykelguidebøger i forbindelse med deres cykelkortserie. Cykelguiden er skrevet af Jens Erik Larsen, og de giver nogle forskellige turforslag til cykelture på Sjælland, Fyn og øerne.
 
-Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan købe guidebøgerne alene. Tjek prisen ud på [scanmaps.dk](http://www.scanmaps.dk) ved at klikke på den bog, du er interesseret i nedenunder.
+Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan købe guidebøgerne alene. Tjek prisen ud på [scanmaps.dk](http://www.scanmaps.dk?G=020) ved at klikke på den bog, du er interesseret i nedenunder.
 
 {% include gallery id="cykelguide" %}
 
