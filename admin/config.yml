@@ -1,4 +1,4 @@
-name: motionsplan
+name: cykel-ruter
 
 backend:
   name: github
@@ -11,13 +11,13 @@ backend:
   cms_label_prefix: netlify-cms/
   open_authoring: true
 
-media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
-
 site_url: https://www.cykel-ruter.dk
 display_url: https://www.cykel-ruter.dk
 logo_url: https://www.cykel-ruter.dk/android-chrome-192x192.png
 
 show_preview_links: false
+
+media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
 editor:
   preview: false
