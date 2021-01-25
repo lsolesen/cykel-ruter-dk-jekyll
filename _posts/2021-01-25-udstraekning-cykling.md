@@ -112,7 +112,7 @@ scanmaps_package:
     title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
 ---
 
-Cykling og cykelture er en fantastisk motionsform, men når du cykler så sidder du også lang tid i en nogenlunde fastl¨ås stilling. Det kan skabe ømhed i nakken, lænden, hofterne og benene.
+Cykling og cykelture er en fantastisk motionsform, men når du cykler så sidder du også lang tid i en nogenlunde fastlåst stilling. Det kan skabe ømhed i nakken, lænden, hofterne og benene.
 
 Jeg har gode erfaringer med at strække ud efter cykling og mine cykelture. Det får mig til at føle, at kroppen er mindre spændt og jeg føler mere frihed i kroppen. Der er skrevet meget vrøvl om udstrækning rundt omkring, men på motionsplan.dk kan du læse dybdegående om [effekten af udstrækning og udspænding i en komplet guide](https://www.motionsplan.dk/udstraekning-udspaending/).
 
