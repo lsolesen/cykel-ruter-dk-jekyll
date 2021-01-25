@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cykelruter, supercykelstier og cykelkort København [2020]"
+title: "Cykelruter, supercykelstier og cykelkort København [2021]"
 tags:
   - cykelkort
   - cykelguide

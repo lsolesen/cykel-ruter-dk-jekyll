@@ -1,6 +1,6 @@
 ---
 layout: single
-title: &title "Cykelruter, cykelture og cykelstier i Danmark [2020]"
+title: &title "Cykelruter, cykelture og cykelstier i Danmark [2021]"
 tags:
   - cykelkort
   - cykelguide
