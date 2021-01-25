@@ -154,7 +154,7 @@ Udfyld tallene i beregneren for at beregne hvor mange kalorier du forbrænder un
 
 Du indtaster din vægt, din cykelaktivitet og tidsforbruget på cyklen, og så finder du ud af, hvor mange kalorier du forbrænder i løbet af turen.
 
-## Kaloriebergner for cykling
+## Kalorieberegner for cykling
 
 {% include calculate-met.html %}
 
@@ -162,7 +162,7 @@ Du indtaster din vægt, din cykelaktivitet og tidsforbruget på cyklen, og så f
 
 Hanne vejer fx 70 kg og bruger omkring 20 minutter til at cykle på arbejde. Hanne cykler omkring omkring 25 km/t. Det giver i alt et kalorieforbrug på 231 kcal på cykelturen.
 
-Et andet eksempel er hvis du er på cykelferie og i løbet af dagen aktivt cykler 50 kilometer fordelt over 4 timers aktiv cykling. Da du har oppakning med, så du formentlig vælge 'cykling generelt' som en nogenlunde rettesnor for dit kalorieforbrug. Jeg vejer fx 81 kg og jeg ville på de 4 timer forbruge 2430 kcal.
+Et andet eksempel er hvis du er på cykelferie og i løbet af dagen aktivt cykler 50 kilometer fordelt over 4 timers aktiv cykling. Da du har oppakning med, så kan du formentlig vælge 'cykling generelt' som en nogenlunde rettesnor for dit kalorieforbrug. Jeg vejer fx 81 kg og jeg ville på de 4 timer forbruge 2430 kcal.
 
 Et par eksempler på energiforbruget for en person, der vejer 70 kg og som cykler omkring 20 km/t på en daglig tur til arbejde, der tager et forskelligt antal minutter. Jeg har valgt 'cykling generelt' i dette eksempel.
 
@@ -183,9 +183,11 @@ For at sætte tingene lidt i perspektiv, så har du altså brug for en del kalor
 
 ## Opsamling på kalorieforbrænding for cykling
 
-Selvom MET-beregneren primært medtager hastigheden som parameter, når man skal vælge sin cykelintensitet, så der det altså lidt misvisende.
+MET-beregneren primært medtager hastigheden som parameter, når man skal vælge sin cykelintensitet, så der er det altså lidt misvisende.
 
 For at udregne din forbrænding på cykel, så kan du gøre det endnu mere præcist med en wattmåler eller et pulsur.
+
+Du kan læse mere om, [hvor meget du forbrænder ved at gå på motionsplan.dk](https://www.motionsplan.dk/forbraending-ved-gaa-gang/).
 
 Hvis du har lyst til at støtte dette site, så kan du overveje at købe hos en af vores partnere, hvor vi får en lille kommision, hvis du køber gennem vores links.
 
