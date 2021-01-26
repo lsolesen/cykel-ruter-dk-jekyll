@@ -105,11 +105,6 @@ cykelguide:
     url: https://www.scanmaps.dk/0251d79?G=020
     alt: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
     title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
-scanmaps_package:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251d59_1.jpg
-    url: https://www.scanmaps.dk/0251d59?G=020
-    alt: "8 Cykelkort for Danmark fra Nordisk Korthandel"
-    title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
 ---
 
 Jeg sidder og planlægger min næste cykeltur og cykelferie med mine børn. Jeg har samlet de bedste tips og råd til, hvad man skal tænke på, hvis man vil på cykeltur og cykelferie med børn.
@@ -296,6 +291,4 @@ Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport
 
 Så burde du være klar til cykelferien med børn. 
 
-God tur! Hvis du vil have endnu flere råd til din cykeltur og cykelferie, så har jeg skrevet et indlæg, der primært retter sig mod de [voksne på cykeltur her](/raad-til-cykelturen/).
-
-{% include gallery id="scanmaps_package" %}
+God tur! Hvis du vil have endnu flere råd til din cykeltur og cykelferie, så har jeg skrevet et indlæg, der primært retter sig mod de [voksne på cykeltur her](/raad-til-cykelturen/) og husk også at tjekke guiden til at [vælge det rigtige cykelkort til din cykelferie i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).

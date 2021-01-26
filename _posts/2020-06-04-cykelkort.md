@@ -88,19 +88,14 @@ cykelguide:
     url: https://www.scanmaps.dk/0251f94?G=020
     alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
     title: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_nordlige_sj_lland_forside.jpg
-    url: https://www.scanmaps.dk/0251d78?G=020
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkorth_fte_forside_nordlige_sj_lland.jpg
+    url: https://www.scanmaps.dk/0251d76?G=020
     alt: "Nordlige Sjælland Cykelkort og guide"
     title: "Nordlige Sjælland Cykelkort og guide"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_sydlige_sj_lland_forside.jpg
     url: https://www.scanmaps.dk/0251d79?G=020
     alt: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
     title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
-scanmaps_package:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251d59_1.jpg
-    url: https://www.scanmaps.dk/0251d59?G=020
-    alt: "8 Cykelkort for Danmark fra Nordisk Korthandel"
-    title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
 bikeline:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
     url: https://www.scanmaps.dk/0251a67?G=020
@@ -200,7 +195,7 @@ Du kan se en lille video her af kortenes holdbarhed:
 
 Du kan købe kortene direkte hos Nordisk Korthandel på [scanmaps.dk](http://www.scanmaps.dk?G=020). Nordisk Korthandel har været så venlige at give mit en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
 
-Du kan tjekke den [aktuelle pris på alle kortene her\*](https://www.scanmaps.dk/0251d59). Nordisk Korthandel plejer at have et godt tilbud, hvis du vil købe alle cykelkortene på en gang.
+Du kan tjekke den [aktuelle pris på alle kortene her\*](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort?G=020). Nordisk Korthandel plejer at have et godt tilbud, hvis du vil købe alle cykelkortene på en gang.
 
 Du kan naturligvis også købe kortene enkeltvis. Jeg har lavet et link direkte til kortene nedenunder på [scanmaps.dk](http://www.scanmaps.dk?G=020).
 
@@ -274,6 +269,6 @@ Men husk uanset om du bruger lidt moderne teknologi til at hjælpe dig med steds
 
 I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste cykelkort over Danmark på markedet, og de kan holde til flere end bare en cykeltur.
 
-{% include gallery id="scanmaps_package" %}
+{% include gallery id="scanmaps" %}
 
 [Tjek priserne hos Scanmaps](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020){: .btn .btn--large .btn--info }

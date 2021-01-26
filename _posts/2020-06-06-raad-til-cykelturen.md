@@ -104,11 +104,6 @@ cykelguide:
     url: https://www.scanmaps.dk/0251d79?G=020
     alt: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
     title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
-scanmaps_package:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251d59_1.jpg
-    url: https://www.scanmaps.dk/0251d59?G=020
-    alt: "8 Cykelkort for Danmark fra Nordisk Korthandel"
-    title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
 ---
 
 Jeg elsker at tage på cykeltur, og jeg vil rigtig gerne have selskab af familien. Her har jeg samlet nogle af de tips, jeg bruger for at give medvind på cykelturen og cykelferien.
@@ -279,6 +274,4 @@ Derudover er det værd at huske at man kommer langt med et smil og et venligt or
 
 ## Flere råd
 
-Hvis du har flere råd, så del dem endelig i kommentarerne.
-
-{% include gallery id="scanmaps_package" %}
+Hvis du har flere råd, så del dem endelig i kommentarerne. Husk også at tjekke vores guide til at få [valgt det rigtige cykelkort til din cykeltur i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).

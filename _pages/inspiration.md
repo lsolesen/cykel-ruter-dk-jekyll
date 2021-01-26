@@ -66,8 +66,8 @@ cykelguide:
     url: https://www.scanmaps.dk/0251f94?G=020
     alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
     title: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_nordlige_sj_lland_forside.jpg
-    url: https://www.scanmaps.dk/0251d78?G=020
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkorth_fte_forside_nordlige_sj_lland.jpg
+    url: https://www.scanmaps.dk/0251d76?G=020
     alt: "Nordlige Sjælland Cykelkort og guide"
     title: "Nordlige Sjælland Cykelkort og guide"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_sydlige_sj_lland_forside.jpg

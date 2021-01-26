@@ -96,19 +96,14 @@ cykelguide:
     url: https://www.scanmaps.dk/0251f94?G=020
     alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
     title: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_nordlige_sj_lland_forside.jpg
-    url: https://www.scanmaps.dk/0251d78?G=020
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkorth_fte_forside_nordlige_sj_lland.jpg
+    url: https://www.scanmaps.dk/0251d76?G=020
     alt: "Nordlige Sjælland Cykelkort og guide"
     title: "Nordlige Sjælland Cykelkort og guide"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_sydlige_sj_lland_forside.jpg
     url: https://www.scanmaps.dk/0251d79?G=020
     alt: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
     title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
-scanmaps_package:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251d59_1.jpg
-    url: https://www.scanmaps.dk/0251d59?G=020
-    alt: "8 Cykelkort for Danmark fra Nordisk Korthandel"
-    title: "8 Cykelkort for Danmark fra Nordisk Korthandel"
 ---
 
 Jeg er lige ved at lede efter den perfekte cykelrute til børn. Jeg vil nemlig gerne på cykeltur med mine 5 til 9-årige piger, og jeg har kigget lidt på forskellige råd til at vælge en god børnevenlig cykelrute?
@@ -139,7 +134,6 @@ Tænk over følgende når du vælger cykelrute:
 
 ## Cykelruter og råd til børn
 
-Jeg har skrevet et andet indlæg [med en række tankevækkende tips til cykelturen med børn]({% link _posts/2020-06-07-raad-til-cykelturen-med-boern.md %}).
+Jeg har skrevet et andet indlæg [med en række tankevækkende tips til cykelturen med børn]({% link _posts/2020-06-07-raad-til-cykelturen-med-boern.md %}), og så husk at få fat i et [godt cykelkort]({% link _posts/2020-06-04-cykelkort.md %}).
 
-
-{% include gallery id="scanmaps_package" %}
+{% include gallery id="scanmaps" %}
