@@ -10,3 +10,6 @@ Gemfile.lock
 npm-debug.log
 .jekyll-cache
 package-lock.json
+_posts/.ztr-directory
+_pages/.ztr-directory
+.ztr-directory
