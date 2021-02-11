@@ -111,7 +111,7 @@ Her har jeg samlet nogle cykelcitater til os, der bare godt kan lide at cykle en
 ***
 {% endfor %}
 
-{% commen %}
+{% comment %}
 Når man snakker om træningsplanlægning, så synes jeg Jim Wendler fanger det meget godt med dette citat.
 
 {% include pinterest image_path="/assets/images/pinterest/wendler-accessories.png" data-pin-media="/assets/images/pinterest/wendler-accessories.png" %}
