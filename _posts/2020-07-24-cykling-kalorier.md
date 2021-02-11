@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Kalorier og cykling: Hvad forbrænder du ved at cykle? 🚴"
+permalink: /cykling-kalorier/
 tags:
   - energiforbrug
 last_modified_at: 2020-07-24T16:59:01Z

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Danmarks største, længste, stejleste og hårdeste bakker"
+permalink: /danmarkscykelbakker/
 excerpt: "Planlægger du en cykeltur efter lange, hårde, store og stejle bakker, så er der en guide til de længste, hårdeste, største og stejleste cykelbakker for at få så mange højdemeter i benene som muligt."
 tags:
   - cykelbakker

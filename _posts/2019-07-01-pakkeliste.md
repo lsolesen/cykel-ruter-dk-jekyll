@@ -1,5 +1,6 @@
 ---
 title: "Pakkeliste til cykelferien og cykelturen"
+permalink: /pakkeliste/
 tags:
   - cykelferie
   - gode råd

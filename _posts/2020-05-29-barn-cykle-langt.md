@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Hvor langt kan børn cykle? Se kilometertallene fra 4-10 år!"
+permalink: /barn-cykle-langt/
 tags:
   - sved
 last_modified_at: 2019-04-26T16:59:01Z
