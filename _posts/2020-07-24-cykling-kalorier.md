@@ -30,7 +30,7 @@ puls:
     btn_label: "Tjek prisen hos proshop.dk*"
 ---
 
-Mange spørger hvor mange kalorier, man forbrænder ved at cykle? Jeg har researchet lidt på, hvordan man regner ens kalorieforbrænding og energiforbrug ved cykling?
+Her får du svaret på, hvor mange kalorier, du forbrænder ved at cykle? Læs mere om, hvordan du regner din kalorieforbrænding og energiforbrug ved cykling?
 
 Der står meget [vrøvl om forbrænding af kalorier på cykel](http://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) rundt omkring på nettet i forhold til, hvordan man udregner energiforbruget på en cykeltur. Vi har lavet en beregner, der kan hjælpe dig med at regne ud, hvor mange kalorier, man forbrænder ved at cykle.
 
@@ -79,7 +79,7 @@ Hvis ikke du har adgang til wattmålere, så kan du også med pulsen få en mere
 
 {% include table-met.html type="Indendørs" %}
 
-## Forbrændingen af kalorier ved cykling er et estimat
+## Forbrænding af kalorier ved cykling er et estimat
 
 Husk at udregningerne og tommelfingerreglerne bare er estimater - altså gennemsnitlige gæt på, hvor mange kalorier der forbrændes ved cykling.
 
@@ -109,7 +109,7 @@ Hvis du er interesseret i at vide mere om kroppens tilpasninger til fx kondition
 
 *[ATP]: Adenosine Triphosphate
 
-## Hvor mange kalorier bruger man på at cykle en kilometer?
+## Hvor mange kalorier forbrænder man ved at cykle en kilometer?
 
 [Nogle](http://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) foreslår, at det giver mest mening at udregne kalorieforbruget pr. kilometer frem for pr. minut, men det passer ikke!
 
@@ -144,7 +144,7 @@ Hvor meget du forbrænder ved en given aktivitet hænger nøje sammen med varigh
 
 Om det er bedst at lave [kontinuerlig træning eller intervaltræning](https://www.motionsplan.dk/artikel/er-kontinuerlig-traening-eller-intervaltraening-bedst-for-fedtforbraendningen) afhænger bl.a. også af tidsforbruget i træningen. Hvis du fx kører intervaller i 20 minutter sammenlignet med 1 times cykling med moderat intensitet, så forbrænder du mest ved den moderate træning viser studier af [Skelly et al. (2014)](https://doi.org/10.1139/apnm-2013-0562).
 
-## Kalorieberegner for cykel
+## Hvor mange kalorier forbrænder man ved at cykle?
 
 Hvis du gerne vil beregne hvor mange kalorier, du forbrænder ved forskellige aktiviteter, så tjek den fede [kalorierberegner ud på motionsplan.dk](https://www.motionsplan.dk/met/).
 
@@ -154,11 +154,11 @@ Udfyld tallene i beregneren for at beregne hvor mange kalorier du forbrænder un
 
 Du indtaster din vægt, din cykelaktivitet og tidsforbruget på cyklen, og så finder du ud af, hvor mange kalorier du forbrænder i løbet af turen.
 
-## Kalorieberegner for cykling
+## Beregner til kalorieforbrænding ved cykling
 
 {% include calculate-met.html %}
 
-## Eksempel fra kalorieberegneren til cykling
+## Eksempel fra kalorieberegner til cykling
 
 Hanne vejer fx 70 kg og bruger omkring 20 minutter til at cykle på arbejde. Hanne cykler omkring omkring 25 km/t. Det giver i alt et kalorieforbrug på 231 kcal på cykelturen.
 
