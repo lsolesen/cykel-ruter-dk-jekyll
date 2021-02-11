@@ -2,6 +2,7 @@
 layout: single
 title: &title "Cykelruter, cykelture og cykelstier i Danmark [2021]"
 tags:
+  - cykelruter
   - cykelkort
   - cykelguide
   - cykelture
@@ -20,7 +21,7 @@ feature_row:
 #    image_path: https://www.danskturismefremme.dk/api/drupal/sites/aktivdanmark.com/files/styles/tile_medium/public/2019-10/Denmark%20by%20bike%20Djursland_44155.jpg
     title: "Denmark by Bike"
     alt: "Denmark by Bike - Cykelruter i Danmark"
-    excerpt: "På DenmarkByBike finder du nogle af de bedste cykelture Danmark har at byde på. Du kan både finde afmærkede ruter og turforslag. De afmærkede ruter er nemme at kende på de blå rutetavler, som du også finder ude på ruten. Kortene kan downloades via den gratis app Naviki."
+    excerpt: "På DenmarkByBike finder du nogle af de bedste cykelture Danmark har at byde på. Du kan både finde afmærkede ruter og turforslag. De afmærkede cykelruter er nemme at kende på de blå rutetavler, som du også finder ude på ruten. Kortene kan downloades via den gratis app Naviki."
     btn_label: "Besøg DenmarkByBike"
     btn_class: "btn--success"
   - url: http://www.udinaturen.dk/?searchid=8bbd8407-568b-4440-ab95-2d5b5f370b31#{%22x%22:671157,%22y%22:6240022,%22zoom%22:2}
@@ -152,7 +153,7 @@ feature_row:
 classes: wide
 ---
 
-Jeg har samlet alle de cykelruter, cykelture og cykelstier i Danmark, jeg kunne finde i denne oversigt over forskellige cykeloplevelser i Danmark.
+Jeg har samlet cykelruter, cykelture og cykelstier i Danmark i denne oversigt over forskellige cykeloplevelser i Danmark. 
 
 Mange af de danske cykelruter er skiltede nationale og regionale cykelruter. 
 
@@ -166,9 +167,10 @@ Jeg har selv skrevet en oversigt over [cykelruter i Østjylland]({% link _pages/
 
 Hvis du synes, der mangler et link på oversigten, så brug endelig kommentarerne.
 
+## Cykelruter i Danmark
+
 {% include feature_row type="left" %}
 
 ## Cykelkort til cykelruter i Danmark
 
 Jeg har skrevet et indlæg om, hvordan man [vælger et godt cykelkort](/cykelkort/) til de forskellige danske cykelruter.
-
