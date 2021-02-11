@@ -111,4 +111,8 @@ Du kan også downloade ruterne som GPS eller GPX-track og have dem på din telef
 
 ## Tips og tricks til din cykeltur
 
-Hvis du er klar på at kaste dig ud i en cykeltur omkring Århus, Favrskov, Djursland og Skanderborg, så er det bare at kaste dig ud i det. Jeg har skrevet lidt [flere tips til at tage på cykeltur]({% link _posts/2020-06-06-raad-til-cykelturen.md %})
+Hvis du er klar på at kaste dig ud i en cykeltur omkring Århus, Favrskov, Djursland og Skanderborg, så er det bare at kaste dig ud i det. Jeg har skrevet lidt [flere tips til at tage på cykeltur]({% link _posts/2020-06-06-raad-til-cykelturen.md %}).
+
+## Andre cykelruter i Danmark
+
+Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _posts/2020-07-18-cykelruter-oversigt.md %}).

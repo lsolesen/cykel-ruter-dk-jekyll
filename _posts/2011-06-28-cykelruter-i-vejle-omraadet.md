@@ -47,3 +47,7 @@ Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
   {% endfor %}
 </div>
 {% endif %}
+
+## Andre cykelruter i Danmark
+
+Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _posts/2020-07-18-cykelruter-oversigt.md %}).

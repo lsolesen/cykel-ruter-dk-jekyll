@@ -163,7 +163,7 @@ I vores oversigt finder du forslag til cykelruter i og omkring de største byer 
 
 I Danmark findes der tusindvis af skiltede og [kortlagte nationale og regionale cykelruter]({% link _posts/2020-06-04-cykelkort.md %}). I alt findes der i Danmark 12.000 km cykelruter.
 
-Jeg har selv skrevet en oversigt over [cykelruter i Østjylland]({% link _pages/cykelguide-oestjylland.md %}), [Vestjylland]({% link _pages/cykelguide-oestjylland.md %}) og [Vejle]({% link _pages/cykelguide-visitvejle.md %}).
+Jeg har selv skrevet en oversigt over [cykelruter i Østjylland]({% link _pages/cykelguide-oestjylland.md %}), [cykelruter i Vestjylland]({% link _pages/cykelguide-oestjylland.md %}) og [cykelture i Vejle]({% link _pages/cykelguide-visitvejle.md %}). Du kan også tjekke [cykelruter omkring Århus, Skanderborg, Djursland og Favrskov](/cykelruter-aarhus/) eller [cykelruter i København]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}).
 
 Hvis du synes, der mangler et link på oversigten, så brug endelig kommentarerne.
 

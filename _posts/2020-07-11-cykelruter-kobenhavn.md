@@ -105,3 +105,8 @@ På cykelkortet kan du se alle de etablerede grønne cykelruter, nationale cykel
 Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af [Cykelkort Danmark og København fra scanmaps.dk\*](https://www.scanmaps.dk/0251c83?G=020). Det bliver jævnligt opdateret, så det kommer til at indeholde de nyest forbedringer til cykelstierne i København.
 
 {% include gallery id="bikemaps" %}
+
+## Andre cykelruter i Danmark
+
+Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _posts/2020-07-18-cykelruter-oversigt.md %}).
+

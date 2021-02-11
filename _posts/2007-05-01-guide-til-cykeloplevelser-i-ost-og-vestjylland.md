@@ -61,3 +61,7 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 ## Køb cykelkort til Østjylland og Vestjylland
 
 {% include gallery layout="half" %}
+
+## Andre cykelruter i Danmark
+
+Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _posts/2020-07-18-cykelruter-oversigt.md %}).
