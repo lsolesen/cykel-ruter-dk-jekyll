@@ -119,6 +119,8 @@ Når man snakker om træningsplanlægning, så synes jeg Jim Wendler fanger det 
 
 ## {{ page.feature_quotes.size }} citater om cykling og landevejscykling
 
+{% include video id="cFbhBjalpN8" provider="youtube" %}
+
 Landevejsrytterne har naturligvis en række gyldne citater om cykling, cykelruter og det at cykle i det hele taget. Når man tænker på, at cykelrytterne har siddet i sadlen i 6-8 timer på i et hårdt cykelløb eller etapeløb og lige efter løbet får stukket en mikrofon op i ansigtet, så er det imponerende, hvad de sommetider får svaret.
 
 Her kan du se de bedste af cykelcitaterne fra [feltet.dk](https://www.feltet.dk/nyheder/top_15_over_de_bedste_cykelcitater/). Jeg har udeladt et, som ikke rigtig passer ind i den måde, man kan snakke om hinanden.
