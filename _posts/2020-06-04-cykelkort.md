@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Vælg det rigtige cykelkort over Danmark til din cykeltur [2021] 🗺"
+permalink: /cykelkort/
 tags:
   - cykelkort
   - cykelguide
