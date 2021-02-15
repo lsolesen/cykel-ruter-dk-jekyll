@@ -1,13 +1,14 @@
 ---
 layout: single
-title: "Sådan undgår du at blive svedig når du cykler"
+title: &title "Sådan undgår du at blive svedig, når du cykler"
 tags:
   - sved
 last_modified_at: 2019-04-26T16:59:01Z
 header:
   overlay_image: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   teaser: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80  
-  caption: "Photo by Blubel on Unsplash"
+  caption: *title
+  alt: "Photo by Blubel on Unsplash"
   overlay_filter: 0.2
 toc: true
 author_profile: true
@@ -89,4 +90,4 @@ Du undgår at svede efter cykelturen ved at tænke på følgende:
 
 De fleste vil ikke kunne undgå at svede blot en lille smule efter en cykeltur, så derfor er et sidste råd at tage en ekstra trøje, t-shirt eller skjorte med i tasken, så du kan skifte, når du kommer på arbejde, og eventuelt også en parfume eller deodorant, der kan tage det værste.
 
-Jeg har skrevet lidt mere om [påklædning på din cykeltur](/paaklaedning/).
+Jeg har skrevet lidt mere om [påklædning på din cykeltur](/paaklaedning/), og du kan også læse mere om at [undgå sved i øjnene på cykel](https://www.motionsplan.dk/undgaa-sved-i-ojnene/).
