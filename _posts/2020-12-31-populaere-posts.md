@@ -3,7 +3,8 @@ title: &title "Populære blog posts på Cykel-ruter.dk i 2020 🥇"
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1463587480257-3c60227e1e52?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80
-https://images.unsplash.com/photo-1463587480257-3c60227e1e52?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80  title: *title
+  teaser: https://images.unsplash.com/photo-1463587480257-3c60227e1e52?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  caption: *title
 tags:
   - webclips
 category:
