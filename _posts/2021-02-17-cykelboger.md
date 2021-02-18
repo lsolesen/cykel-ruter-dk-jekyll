@@ -29,7 +29,7 @@ feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771418880/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/de-hoeje-bjerge_daniel-friebe_hardback_9788771418880
     title: De høje bjerge
-    excerpt: "_De høje bjerge_ beskrives Europas 50 mest legendariske stigninger. Det er en perfekt bog, hvis du ønsker lidt inspiration til det næste bjerg som skal cykles. Hver stigning beskrives med flotte billeder, profiler af stigningerne og kort."
+    excerpt: "I cykelbogen _De høje bjerge_ beskrives Europas 50 mest legendariske stigninger. Det er en perfekt bog, hvis du ønsker lidt inspiration til det næste bjerg som skal cykles. Hver stigning beskrives med flotte billeder, profiler af stigningerne og kort."
     btn_class: btn--danger
     btn_label: Se prisen hos Saxo*
   - image_path: https://cdn6.tales.dk/00019/15424/cover.1494853237.jpg
@@ -38,7 +38,7 @@ feature_row:
     excerpt: "Fortællingen om Jens Voigts vej til professionel cykelsport er bemærkelsesværdig. Lige fra hans opvækst i Østtyskland, hvor Tour de France blot var noget, man hørte rygter om, til den sene professionelle debut i 1997 og de mange bedrifter, der fulgte på landevejene i de efterfølgende år."
     btn_class: btn--success
     btn_label: Se prisen hos Tales*
-- image_path: https://www.gucca.dk/racercykel-traening-bog-p280085
+  - image_path: https://www.gucca.dk/racercykel-traening-bog-p280085
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=9399&htmlurl=https://www.gucca.dk/racercykel-traening-bog-p280085
     title: Racercykel træning
     excerpt: "Vil du gerne have en bog om, hvordan du skal sammensætte din træning, kost og øvelser for at optimere din performance, så kan cykelbogen _Racercykel træning_anbefales. I bogen bliver du guidet igennem flere forskellige niveauer af din cykeltræning – ligefra det basale om til det mere avanceret såsom hvordan du fx optimerer din restituering."
@@ -100,3 +100,5 @@ Her har jeg valgt {{ page.feature_row.size }} cykelbøger, som du kan lade dig i
 Hvis du vil have inspiration til flere cykelbøger, så kan du kigge hos nogle af vores samarbejdspartnere. Hvis du gerne vil støtte dette site, så er links reklamelinks. Vi får en lille kommision for hvert salg, men din pris er den samme, hvis du vælger at købe en bog efter at have klikket på vores links.
 
 Vi har også skrevet andre sider med [anden inspiration til cykling](/inspiration/) eller en guide til at finde det [rigtige cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+
+{% include feature_row id="feature_row_partners"  %}
