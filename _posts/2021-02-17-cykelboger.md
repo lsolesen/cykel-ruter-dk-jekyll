@@ -83,7 +83,7 @@ feature_row_partners:
     title: Find cykelbøger hos Gucca
 ---
 
-Her er forslag til dig, der er på udkig efter gode cykelbøger. Der er ikke noget bedre end at læse en god cykelbog, mens du restituerer efter en hård cykeltur.
+Her er forslag til dig, der er på udkig efter gode cykelbøger. Der er ikke noget bedre end at læse en god cykelbog, mens du restituerer efter en hård cykeltur - eller ankommer til din destination på din cykeltur.
 
 Jeg har her udvalgt en række gode cykelbøger, som du kan blive inspireret af. Bøgerne er fyldt med gode anekdoter og fortællinger fra cykelsportens helt, tips til træning og hvordan du kommer i god cykelform uanset om du vil køre på [stejle bakker i Danmark]({% link _posts/2020-05-21-danmarkscykelbakker.md %}), søger inspiration til en tur til Alperne, køre watt træning eller er interesseret [cykelruter i Danmark]({% link _posts/2020-07-18-cykelruter-oversigt.md %}).
 
