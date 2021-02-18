@@ -154,7 +154,7 @@ Jeg har samlet alle mine bedste anbefalinger og inspiration til at dykke længer
 
 ## Gode bøger om cykelferie og cykeloplevelser
 
-På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter) og på [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020) kan du finde en masse spændende bøger om cykelruter. Husk at få [opdaterede cykelkort med på din rejse\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort)
+På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter) og på [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020) kan du finde en masse spændende bøger om cykelruter. Husk at få [opdaterede cykelkort med på din rejse\*](https://www.scanmaps.dk/cykel.html?G=020).
 
 {% include feature_row type="left" %}
 
@@ -171,6 +171,8 @@ Læs mere om, hvordan du [vælger det rigtige cykelkort til cykeltur og cykelfer
 ## Cykelguidebøger
 
 {% include feature_row id="cykelguide" type="left" %}
+
+Hvis du er interesseret i andre [cykelbøger, så tjek mine forslag](/cykelboeger-bedste-boeger-om-cykling/).
 
 ## Transport af cykler
 
