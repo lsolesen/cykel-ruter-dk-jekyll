@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Ruter"
+  - title: "Cykelruter"
     url: /ruter/
   - title: "Vestjylland"
     url: /cykelruter-vestjylland/
@@ -14,7 +14,37 @@ main:
     url: /inspiration/
   - title: "Om"
     url: /om/
-
+blog:
+  - title: "Populære Sider"
+    children:
+      - title: "Cykelkort Danmark"
+        url: /cykelkort/
+      - title: "Børn på cykeltur"
+        url: /boern-paa-cykelferie/
+      - title: "Hvordan pakkes cyklen?"
+        url: /hvordan-pakkes-cyklen/
+      - title: "Pakkeliste til cykeltur"
+        url: /pakkeliste/
+      - title: "Planlægning af cykelturen"
+        url: /planlaegning-af-turen/
+      - title: "Valg af cykel"
+        url: /valg-af-cykel/
+      - title: "Påklædning til cykelturen"
+        url: /paaklaedning/
+      - title: "Reparationer af cykel"
+        url: /reparationer-undervejs/
+      - title: "Cykelruter Danmark"
+        url: /cykelruter-oversigt/
+      - title: "Nationale cykelruter"
+        url: /nationale-cykelruter/
+      - title: "Cykelruter København"
+        url: /cykelruter-koebenhavn/
+      - title: "Cykelruter Århus"
+        url: /cykelruter-aarhus/
+      - title: "Cykelruter Vestjylland"
+        url: /cykelruter-vestjylland/
+      - title: "Cykelruter Østjylland"
+        url: /cykelruter-oestjylland/
 bikes:
   - title: "Links"
     children:
@@ -22,13 +52,13 @@ bikes:
         url: /transport-af-cykler/
       - title: "Børn på cykelferie"
         url: /boern-paa-cykelferie/
-      - title: "Hvordan pakkes cyklen"
+      - title: "Hvordan pakkes cyklen?"
         url: /hvordan-pakkes-cyklen/
-      - title: "Pakkeliste"
+      - title: "Pakkeliste til cykeltur"
         url: /pakkeliste/
       - title: "Mad på cykelturen"
         url: /flot-mad-til-cykelturen/
-      - title: "Overnatning"
+      - title: "Overnatning på cykeltur"
         url: /overnatning/
       - title: "Planlægning af cykelturen"
         url: /planlaegning-af-turen/
@@ -36,5 +66,5 @@ bikes:
         url: /valg-af-cykel/
       - title: "Påklædning til cykelturen"
         url: /paaklaedning/
-      - title: "Reparationer undervejs"
+      - title: "Reparationer af cykel"
         url: /reparationer-undervejs/

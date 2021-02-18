@@ -256,6 +256,9 @@ defaults:
       share: true
       related: true
       toc: false
+      sidebar:
+        title: "Populære sider"
+        nav: blog
 # _routes
   - scope:
       path: ""
@@ -272,6 +275,9 @@ defaults:
         overlay_color: "#000"
       tag_archive_path: /rutetags/
       category_archive_path: /rutekategorier/
+      sidebar:
+        title: "Populære sider"
+        nav: blog
 # _redirects
   - scope:
       path: ""
