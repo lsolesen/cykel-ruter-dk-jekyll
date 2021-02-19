@@ -20,7 +20,7 @@ feature_row:
     excerpt: "Hvis du skal nøjes med én cykelbog, så er _Cykel Almanak_ skrevet af Rolf Sørensen et rigtig godt bud. Bogen har 500 sider med en løbskalender med 100 af verdens væsentligste løb beskrives. Du får også et et cykeltræningsprogram over 12 måneder for 3 niveauer. Derudover krydres bogen med interviews med nogle af de største cykelstjerner, tips og tricks samt lækre cykelfotos i en fotoserie."
     btn_class: btn--danger
     btn_label: Se prisen hos Saxo*
-  - image_path: 
+  - image_path: https://cdn6.tales.dk/00128/12226/cover.1612238412.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/sort-kaffe-hvide-sokker-takt-tone-og-traditioner-paa-landevejen_tonny-vorm_9788740041675
     title: Sort kaffe & hvide sokker
     excerpt: "I cykelbogen _Sort Kaffe & Hvide Sokker_ samles interviews med 12 af Danmarks bedste cykelryttere gennem tiden. Bjarne Riis, Rolf Sørensen m.fl. deler sjove oplevelser, genistreger og taktiske brølere. Bogen er glimrende underholdning for de passionerede cykelfans og dedikerede cykelmotionister med tips og tricks om cyklen, tøjet og træningen fra de bedste."
@@ -38,7 +38,7 @@ feature_row:
     excerpt: "Fortællingen om Jens Voigts vej til professionel cykelsport er bemærkelsesværdig. Lige fra hans opvækst i Østtyskland, hvor Tour de France blot var noget, man hørte rygter om, til den sene professionelle debut i 1997 og de mange bedrifter, der fulgte på landevejene i de efterfølgende år."
     btn_class: btn--success
     btn_label: Se prisen hos Tales*
-  - image_path: https://www.gucca.dk/racercykel-traening-bog-p280085
+  - image_path: https://content.gucca.dk/covers/big/r/a/racercykel-traening_280085.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=9399&htmlurl=https://www.gucca.dk/racercykel-traening-bog-p280085
     title: Racercykel træning
     excerpt: "Vil du gerne have en bog om, hvordan du skal sammensætte din træning, kost og øvelser for at optimere din performance, så kan cykelbogen _Racercykel træning_anbefales. I bogen bliver du guidet igennem flere forskellige niveauer af din cykeltræning – ligefra det basale om til det mere avanceret såsom hvordan du fx optimerer din restituering."
@@ -91,7 +91,7 @@ Jeg har også inkluderet cykelbøger om [cykelreparation]({% link _posts/2019-06
 
 # Liste over cykelbøger 2021
 
-Her har jeg valgt {{ page.feature_row.size }} cykelbøger, som du kan lade dig inspirere af, hvis du gerne vil have en god cykelbog.
+Her har jeg valgt {{ page.feature_row.size }} cykelbøger, som du kan lade dig inspirere af, hvis du gerne vil have en god cykelbog. Jeg håber, at du finder nogle interessante bøger at dykke ned i. Linksene er reklamelinks, men du skal også huske, at du kan låne en del af bøgerne gratis på [biblioteket](https://bibliotek.dk/) eller på [eReolen](https://ereolen.dk/).
 
 {% include feature_row type="left" %}
 
