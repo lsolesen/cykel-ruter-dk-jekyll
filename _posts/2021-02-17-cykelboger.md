@@ -74,6 +74,12 @@ feature_row:
     excerpt: "Vil du gerne lære mere om mountainbike, så du får en bedre forståelse af køreteknikken, hvordan du træner optimalt, hvordan du vedligeholder din cykel, så er _Mountainbike_ bogen af cykeltræneren Per Henrik Brask et rigtig godt bud."
     btn_class: btn--danger
     btn_label: Se prisen hos Saxo*
+  - image_path: https://cdn6.tales.dk/00003/07229/cover.1536040807.jpg
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/cykeltraening-optimer-dine-praestationer-med-effekttraening_claus-hechmann_9788702189179
+    title: Cykeltræning - Optimer dine præstationer med effekttræning
+    excerpt: "Cykeltræning er en fokuseret og præcis guide til at forbedre dine præstationer på cyklen med effekttræning. Princippet er enkelt: Du skal træne i at kunne cykle så hurtigt som muligt i så lang tid som muligt. Det gør du ved at stimulere din fedtforbrændning, og det kræver, at du træner din udholdenhed med varieret intensitet, hovedsageligt i de lette til moderate træningszoner og over rigtig mange kilometer."
+    btn_class: btn--success
+    btn_label: Se prisen hos Tales*
 feature_row_partners:
   - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelb%C3%B8ger
     title: Find cykelbøger hos Saxo
@@ -83,13 +89,13 @@ feature_row_partners:
     title: Find cykelbøger hos Gucca
 ---
 
-Her er forslag til dig, der er på udkig efter gode cykelbøger. Der er ikke noget bedre end at læse en god cykelbog, mens du restituerer efter en hård cykeltur - eller ankommer til din destination på din cykeltur.
+Her er {{ page.feature_row.size }} forslag til dig, der er på udkig efter gode cykelbøger. Der er ikke noget bedre end at læse en god cykelbog, mens du restituerer efter en hård cykeltur - eller ankommer til din destination på din cykeltur.
 
 Jeg har her udvalgt en række gode cykelbøger, som du kan blive inspireret af. Bøgerne er fyldt med gode anekdoter og fortællinger fra cykelsportens helt, tips til træning og hvordan du kommer i god cykelform uanset om du vil køre på [stejle bakker i Danmark]({% link _posts/2020-05-21-danmarkscykelbakker.md %}), søger inspiration til en tur til Alperne, køre watt træning eller er interesseret [cykelruter i Danmark]({% link _posts/2020-07-18-cykelruter-oversigt.md %}).
 
 Jeg har også inkluderet cykelbøger om [cykelreparation]({% link _posts/2019-06-28-reparationer-undervejs.md %}). En bog om cykling er en rigitig god inspiration og gaveide til cykelentusiasten. Og der er rigtig mange cykelbøger, som du kan lade dig inspirere af i denne liste over gode bøger om cykling.
 
-# Liste over cykelbøger 2021
+# Liste med {{ page.feature_row.size }} cykelbøger 2021
 
 Her har jeg valgt {{ page.feature_row.size }} cykelbøger, som du kan lade dig inspirere af, hvis du gerne vil have en god cykelbog. Jeg håber, at du finder nogle interessante bøger at dykke ned i. Linksene er reklamelinks, men du skal også huske, at du kan låne en del af bøgerne gratis på [biblioteket](https://bibliotek.dk/) eller på [eReolen](https://ereolen.dk/).
 
