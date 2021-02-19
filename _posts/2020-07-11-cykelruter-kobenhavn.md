@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Cykelruter, supercykelstier og cykelkort København [2021]"
+permalink: /cykelruter-koebenhavn/
 tags:
   - cykelkort
   - cykelguide
@@ -109,4 +110,3 @@ Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af [Cykelko
 ## Andre cykelruter i Danmark
 
 Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _posts/2020-07-18-cykelruter-oversigt.md %}).
-
