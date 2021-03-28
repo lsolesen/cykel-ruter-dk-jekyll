@@ -1,5 +1,6 @@
 ---
 title: &title "Populære blog posts på Cykel-ruter.dk i 2020 🥇"
+redirect_from: /webclips/populaere-posts/
 permalink: /populaere-posts/
 language: da
 header:
