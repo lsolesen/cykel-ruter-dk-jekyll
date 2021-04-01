@@ -156,4 +156,4 @@ Du kender sikkert også en masse andre citater om cykling og det at cykle. Brug 
 
 {% include gallery id="feature_row_ads" caption="Citater om cykling og cykelcitater (reklamelinks)" %}
 
-Du kan se endnu flere citater om [cykling og cykelryttere på plakaterne.dk](/cykelrytter-cykling-plakater/).
+Du kan se endnu flere citater om [cykling og cykelryttere på plakaterne.dk](https://www.plakaterne.dk/cykelrytter-cykling-plakater/).
