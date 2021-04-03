@@ -1,6 +1,6 @@
 ---
 layout: single
-title: &title "Danmarks regionale Cykelruter: Hvor finder jeg kort [2020]?"
+title: &title "Danmarks regionale Cykelruter: Hvor finder jeg kort [2021]?"
 permalink: /regionale-cykelruter/
 author_profile: true
 classes: wide
@@ -70,3 +70,13 @@ Hvilket cykelkort du skal bruge til de regionale cykelruter afhænger naturligvi
 Jeg har skrevet en guide til de [rigtige cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}), som du måske kan lade dig inspirere af.
 
 Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter), [Tales\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/boeger/tag/cykelruter/) og på [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020). Det er reklamelinks, og hvis du bruger dem, tjener jeg en lille smule kommision, som er med til at finansiere driften af dette site. **Din pris er den samme**.
+
+## Download GPS og GPX-track af de regionale cykelruter
+
+Det er faktisk ikke så let at finde nogle steder, hvor du kan downloade de nationale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
+
+Du kan finde nogle af de regionale cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem. 
+
+Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade nogle af de regionale cykelruter fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise.
+
+{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.png" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de regionale cykelruter frem." alt="waymarkedtrails gpx regionale cykelruter" %}

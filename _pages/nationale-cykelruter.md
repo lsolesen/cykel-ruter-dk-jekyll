@@ -1,6 +1,6 @@
 ---
 layout: single
-title: &title "Danmarks Nationale Cykelruter: Hvor finder jeg kort [2020]?"
+title: &title "Danmarks Nationale Cykelruter: Hvor finder jeg kort [2021]?"
 permalink: /nationale-cykelruter/
 author_profile: true
 classes: wide

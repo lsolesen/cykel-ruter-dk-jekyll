@@ -270,7 +270,11 @@ For mig er tricket med at tegne ruten på GPS-uret blevet helt obligatorisk for 
 
 ## Hvor kan jeg finde kort over de nationale cykelruter?
 
-Du kan finde de nationale cykelruter i cykelkortene præsenteret på denne side. Hvis du gerne vil finde cykelkort over de nationale cykelruter, så kan du finde dem på [vejdirektoratet.dk](https://www.vejdirektoratet.dk/faq-svar/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter).
+Du kan finde de nationale cykelruter i cykelkortene præsenteret på denne side. Jeg har skrevet en guide til at finde [cykelkort og gps-tracks over de nationale cykelruter](/nationale-cykelruter/).
+
+## Hvor kan jeg finde kort over de regionale cykelruter?
+
+Du kan finde mange af de regionale cykelruter i cykelkortene præsenteret på denne side. Jeg har også skrevet en guide til at finde [cykelkort og gps-tracks over de regionale cykelruter](/regionale-cykelruter/).
 
 ## Husk cykelkortet på din cykeltur
 
@@ -278,7 +282,7 @@ Men husk uanset om du bruger lidt moderne teknologi til at hjælpe dig med steds
 
 I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste cykelkort over Danmark på markedet, og de kan holde til flere end bare en cykeltur.
 
-Hvis du er medlem af Cyklistforbundet, så kan du bruge koden ’D8C2F5dk’ og få 15% rabat, når du køber cykelkort fra [scanmaps.dk\*](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020).
+**Hvis du er medlem af Cyklistforbundet, så kan du bruge koden ’D8C2F5dk’ og få 15% rabat, når du køber cykelkort fra [scanmaps.dk\*](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020).**
 
 {% include gallery id="scanmaps" %}
 
