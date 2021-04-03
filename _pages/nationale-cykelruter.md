@@ -72,22 +72,22 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 ## Oversigt over de nationale cykelruter
 
 | Navn	| Længde	| Asfalt	| Procent | Kommentar |
-|-|-|-|-|
+|-|-|-|-|-|
 | N1	| Vestkystruten	| 560 km	| 70 %	| Rudbøl - Skagen |
-| N2	| Hanstholm-København	| 420 km	| 80 %	| 
+| N2	| Hanstholm-København	| 420 km	| 80 %	| |
 | N3	| Hærvejsruten	| 450 km	| 78 %	| Padborg - Frederikshavn |
 | N4	| Søndervig-København	| 310 km	| 90 %	| Omlagt i 2019. Løber nu over Samsø i stedet for den nedlagte færgerute Aarhus - Kalundborg. |
 | N5	| Østkystruten	| 650 km	| 90 %	| Sønderborg - Skagen |
-| N6	| Esbjerg-København	| 330 km	| 92 % |
-| N7	| Sjællands Odde-Rødbyhavn	| 240 km	| 90 % |
+| N6	| Esbjerg-København	| 330 km	| 92 % | |
+| N7	| Sjællands Odde-Rødbyhavn	| 240 km	| 90 % | |
 | N8	| Østersøruten	| 840 km	| 95 %	| En omlægning og udvidelse af Sydhavsruten (360 km) |
-| N9	| Helsingør-Gedser	| 290 km	| 92 % |	
-| N10	| Bornholm Rundt	| 105 km	| 90 %	|
+| N9	| Helsingør-Gedser	| 290 km	| 92 % | |
+| N10	| Bornholm Rundt	| 105 km	| 90 %	| |
 | N12	| Limfjordsruten	| 610 km	| 90 %	| Rundtur omkring Limfjorden |
 
 ## Rutebeskrivelser af de nationale cykelruter
 
-Vi har beskrevet de nationale cykelruter her:
+Vi har beskrevet nogle af de nationale cykelruter her:
 
 {% assign site_posts = site.routes | where: "category", "National" | sort: "title" %}
 
@@ -126,3 +126,27 @@ Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til d
 {% include gallery layout="half" %}
 
 Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter) og på [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020).
+
+## Download GPS og GPX-track af de nationale cykelruter
+
+Det er faktisk ikke så let at finde nogle steder, hvor du kan downloade de nationale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
+
+Du kan finde de nationale cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem. De nationale cykelruter ligger også på [Vejdirektoratets hjemmeside](https://trafikkort.vejdirektoratet.dk/index.html?usertype=3), men herfra har du heller ikke mulighed for at downloade dem.
+
+Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade ruterne fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise.
+
+{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.png" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de nationale cykelruter frem." alt="waymarkedtrails gpx nationale cykelruter" %}
+
+| Navn	| Søg efter	|
+|-|-|
+| N1	| Vestkystruten	|
+| N2	| Hanstholm-København	|
+| N3	| Hærvejsruten	|
+| N4	| Søndervig-København	|
+| N5	| Østkystruten	|
+| N6	| Esbjerg-København	|
+| N7	| Sjællands Odde-Rødbyhavn	|
+| N8	| Østersøruten	|
+| N9	| Helsingør-Gedser	|
+| N10	| Bornholm Rundt	|
+| N12	| Limfjordsruten	|
