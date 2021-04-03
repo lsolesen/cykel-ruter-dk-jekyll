@@ -40,7 +40,7 @@ gallery:
     btn_class: "btn--success"
 toc: true
 created_at: 2019-10-03T09:48:02+02:00
-last_modified_at: 2020-03-03T09:48:02+02:00
+last_modified_at: 2021-04-03T07:18:02+02:00
 ---
 
 I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. De regionale cykelstier forbinder alle dele af en region - og det kan både være ud-og-hjem-ture eller cykelrundture. Vi beskriver her en del af de regionale cykelruter, og hvordan du finder kort til cykelruterne.
