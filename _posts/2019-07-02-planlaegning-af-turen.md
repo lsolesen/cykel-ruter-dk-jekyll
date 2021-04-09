@@ -56,7 +56,7 @@ I denne artikel får du vores bedste råd og anbefalinger, til når du skal plan
 
 ## 1) Afstem forventningerne
 
-Snak om, hvad I vil have ud af ferien – før I tager af sted. Tænk over turlængder, ter ræner, overnatningsmuligheder, bagage mængde og seværdigheder. Og vær sikker på at I er enige om, om turens væsentligste mål er præstationen eller de oplevelser, der ligger undervejs. 
+Snak om, hvad I vil have ud af ferien – før I tager af sted. Tænk over turlængder, ter ræner, overnatningsmuligheder, bagage mængde og seværdigheder. Og vær sikker på at I er enige om, om cykelturens væsentligste mål er præstationen eller de oplevelser, der ligger undervejs. 
 
 ## 2) Vær realistisk!
 
@@ -92,6 +92,10 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 10. Pak dagen før og kør en prøvetur
 
 ## Populære cykelruter i Danmark
+
+At tage på en cykeltur eller cykelferie i Danmark er oplagt med vores mange [nationale cykelruter](/nationale-cykelruter/) og [regionale cykelruter](/regionale-cykelruter/). Der er mange steder, der der inviterer på oplevelser i det uendelige. Ruterne er spredt udover hele landet – fra cykelruter i [Vestjylland](/cykelruter-vestjylland/) og [Østjylland](/cykelruter-oestjylland/) til Nordsjælland, Fyn og Bornholm.
+
+Der er gode muligheder for at tage sin cykel med i toget.
 
 1. Vestkystruten (Cykelrute 1)
 2. Nordkystcykelstien (Cykelrute 47)
