@@ -1,14 +1,18 @@
 ---
-last_modified_at: 2019-06-28T16:08:57.000Z
+title: Planlæg cykelruten hjemmefra
+seo_title: "Planlæg cykelrute: 6 gode tips og 12 ruter"
+description: Hvad skal man huske inden man tager afsted på en cykeltur? Vi har
+  samlet 6 solide tips til planlægningsfasen samt 12 af de mest populære
+  cykelruter.
 excerpt: Grundig planlægning af cykelturen og cykelferien kan gøre tingene
   lettere, men planlæg også muligheden for at være spontan.
-toc: true
-title: Planlæg cykelruten hjemmefra
 header:
   overlay_image: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=80
   teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
   caption: Photo by Mohit Tomar on Unsplash
   overlay_filter: 0.2
+last_modified_at: 2019-06-28T16:08:57.000Z
+toc: true
 tags:
   - cykelferie
   - gode råd
@@ -78,7 +82,7 @@ Gør som de professionelle: Planlæg hvile dage, hvor I laver noget andet end at
 
 Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og fra undervejs. Vær klar til at improvisere. Værelser kan afbestilles, og cykelruter kan lægges om, så der bliver tid til at nyde livet. Planen må aldrig blive en sur pligt.
 
-## Tjekliste til planlægningen:
+## Tjekliste for planlægning af cykelrute
 
 1. Fastsæt mål for turen cykelturen
 2. Planlæg cykelruten i store træk 
