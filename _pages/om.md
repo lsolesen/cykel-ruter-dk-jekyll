@@ -4,6 +4,7 @@ title: Om cykel-ruter.dk
 permalink: /om/
 author_profile: true
 toc: true
+sitemap: false
 ---
 
 Formålet med cykel-ruter.dk er at samle en oversigt over [nationale cykelruter](/nationale-cykelruter/) og [regionale danske cykelruter](/regionale-cykelruter/) et overskueligt sted.
