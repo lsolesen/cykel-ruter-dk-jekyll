@@ -6,7 +6,7 @@ description: "Jeg har samlet nogle rigtig gode cykelkort over Danmark, der er de
 tags:
   - cykelkort
   - cykelguide
-last_modified_at: 2021-03-20T08:59:01Z
+last_modified_at: 2021-04-24T08:45:01Z
 header:
   overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
   teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
@@ -57,18 +57,18 @@ scanmaps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_nordlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d57?G=020
     alt: "Cykelkort #1 Nordlige Sjælland"
-    title: "#1 Nordlige Sjælland"
+    title: "#1 Nordlige Sjælland (nyt kort maj 2021)"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_sydlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d58?G=020
     alt: "Cykelkort #2 Sydlige Sjælland, Møn, Lolland og Falster"
-    title: "#2 Sydsjælland, Møn, Lolland og Falster"
+    title: "#2 Sydsjælland, Møn, Lolland og Falster (nyt kort maj 2021)"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
     url: https://www.scanmaps.dk/0251f59?G=020
     alt: "Cykelkort #3 Fyn, Ærø, Tåsinge og Langeland"
     title: "#3 Fyn, Ærø, Tåsinge og Langeland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
     url: https://www.scanmaps.dk/0251d60?G=020
-    alt: "Cykelkort #4 Østlige Jylland"
+    alt: "Cykelkort #4 Østlige Jylland (nyt kort 2020)"
     title: "#4 Østlige Jylland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d63?G=020
@@ -81,7 +81,7 @@ scanmaps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d61?G=020
     alt: "Cykelkort #7 Sydlige Jylland"
-    title: "#7 Sydlige Jylland"
+    title: "#7 Sydlige Jylland (nyt kort maj 2021)"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_bornholm.jpg
     url: https://www.scanmaps.dk/0251d64?G=020
     alt: "Cykelkort #8 Bornholm"
@@ -149,7 +149,7 @@ Når jeg skal afsted på selve turen, så foretrækker jeg de regionale kort, s�
 
 ## Cykelkort Danmark er et oversigtskort 
 
-Cykelkortet er i målestok 1:500.000, og jeg bruger det hovedsageligt i planlægningsfasen for at få et overblik over det samlede cykelrutenet. 
+Cykelkortet er i målestok 1:500.000, og jeg bruger det hovedsageligt i planlægningsfasen for at få et overblik over det samlede cykelrutenet.
 
 {% include feature_row type="left" %}
 
@@ -162,7 +162,9 @@ Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cyke
 
 --- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020)</cite>
 
-Ulempen ved kortet er, at det er udgivet i 2017. De seneste par år er der lavet enkelt omlægninger på nogle cykelruter, og derfor kan man ikke være helt sikker på, at alle ruterne er rigtige på kortet. Jeg håber, at der snart kommer en opdatering, som tager de nyeste omlægninger med i betragtning.
+Ud over at indeholde et Danmarks-kort, så er der også et [kort over Storkøbenhavn og cykelruterne i København](% link _posts/2020-07-11-cykelruter-kobenhavn.md %) i målestokforholdet 1:35.000.
+
+Den nuværende udgave er udgivet i 2017, men der kommer en **ny udgave af cykelkortet i maj 2021**. De seneste par år er der lavet enkelt omlægninger på nogle cykelruter, og derfor kan man ikke være helt sikker på, at alle ruterne er rigtige i den nuværende udgave af kortet. Derfor glæder jeg mig til den nye udgave kommer.
 
 Du kan [købe kortet hos Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020). Jeg synes helt sikkert, at prisen er rimelig for et kort af fin kvalitet - og selvom der er mange ruter på kortet, synes jeg stadig, at det er overskueligt.
 
@@ -182,7 +184,9 @@ I det følgende kan du læse mine kommentarer til begge cykelkortserier.
 
 ## Nordisk Korthandels regionale cykelkort over Danmark
 
-Nordisk Korthandel laver også holdbare cykelkort, der er trykt på vandafvisende papir. De har udgivet cykelkortserien siden 2016. Nordisk Korthandels cykelkort opdateres stadig. Kortene fylder lidt mindre end Leginds, nemlig 12,5 cm x 17,5 cm. 
+Nordisk Korthandel laver også holdbare cykelkort, der er trykt på vandafvisende papir. De har udgivet cykelkortserien siden 2016.
+
+Nordisk Korthandels cykelkort opdateres stadig. Kortene fylder lidt mindre end Leginds cykelkort, nemlig 12,5 cm x 17,5 cm. 
 
 Cykelkortet fra Nordisk Korthandel kommer ikke i et hylster, men det har jeg ikke selv savnet. Jeg synes kortet er i rigtig god kvalitet, og jeg har ikke oplevet, at det er gået i stykker, så længe jeg behandler det ordentligt på turen.
 
@@ -203,6 +207,12 @@ Du kan købe kortene direkte hos Nordisk Korthandel på [scanmaps.dk](http://www
 Du kan tjekke den [aktuelle pris på alle kortene her\*](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort?G=020). Nordisk Korthandel plejer at have et godt tilbud, hvis du vil købe alle cykelkortene på en gang.
 
 Du kan naturligvis også købe kortene enkeltvis. Jeg har lavet et link direkte til kortene nedenunder på [scanmaps.dk](http://www.scanmaps.dk?G=020).
+
+Jeg har angivet på listen, hvornår kortet senest er opdateret.
+
+{% for card in page.scanmaps -%}
+- [{{ card.title }}]({{ card.url }})
+{% endfor %}
 
 {% include gallery id="scanmaps" layout="fourth" %}
 
