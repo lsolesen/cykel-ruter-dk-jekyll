@@ -1,11 +1,11 @@
 ---
-title: "Regional Rute 14 fra Hornslet - Hinnerup - Odder - Rude Strand"
+title: &title "Regional Rute 14 fra Hornslet - Hinnerup - Odder - Rude Strand"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
-  overlay_image: &image https://www.tv2east.dk/files/media/2019/10/cykelferie.jpg
-  caption: "Billede fra TV2 Øst"
+  overlay_image: &image https://c.pxhere.com/photos/cf/aa/bicycle_silhouette_bike_biking_cycle_cycling_lifestyle_transportation-859195.jpg!d
+  caption: *title
   teaser: *image
 category:
   - Regional

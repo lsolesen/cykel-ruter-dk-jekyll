@@ -68,8 +68,8 @@ scanmaps:
     title: "#3 Fyn, Ærø, Tåsinge og Langeland"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
     url: https://www.scanmaps.dk/0251d60?G=020
-    alt: "Cykelkort #4 Østlige Jylland (nyt kort 2020)"
-    title: "#4 Østlige Jylland"
+    alt: "Cykelkort #4 Østlige Jylland"
+    title: "#4 Østlige Jylland (nyt kort 2020)"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d63?G=020
     alt: "Cykelkort #5 Nordlige Jylland"
@@ -162,7 +162,7 @@ Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cyke
 
 --- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020)</cite>
 
-Ud over at indeholde et Danmarks-kort, så er der også et [kort over Storkøbenhavn og cykelruterne i København](% link _posts/2020-07-11-cykelruter-kobenhavn.md %) i målestokforholdet 1:35.000.
+Ud over at indeholde et Danmarks-kort, så er der også et [kort over Storkøbenhavn og cykelruterne i København]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}) i målestokforholdet 1:35.000.
 
 Den nuværende udgave er udgivet i 2017, men der kommer en **ny udgave af cykelkortet i maj 2021**. De seneste par år er der lavet enkelt omlægninger på nogle cykelruter, og derfor kan man ikke være helt sikker på, at alle ruterne er rigtige i den nuværende udgave af kortet. Derfor glæder jeg mig til den nye udgave kommer.
 
