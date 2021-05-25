@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Cykelruter i Østjylland - Den mest komplette guide
+excerpt: "Jeg har skrevet en guidebog med cykelruter i Østjylland. Læs gratis om alle cykelruterne, når du planlægger din cykelferie og vil have cykeloplevelser i Østjylland."
 permalink: /cykelruter-oestjylland/
 redirect_from:
   - /cykelguide-oestjylland/

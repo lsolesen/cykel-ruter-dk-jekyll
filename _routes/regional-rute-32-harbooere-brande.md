@@ -5,7 +5,7 @@ last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image /assets/images/routes/regional-rute-32-skjern-aa-horsens.jpg
-  caption: "Stemningsbillede fra ruten"
+  caption: "Stemningsbillede fra regional cykelrute 32"
   teaser: *image
 category:
   - Regional
@@ -13,7 +13,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Ruten går på tværs af nogle af de jyske ådale og giver derfor mulighed for at opleve nogle gode udsigter. Du bringes bl.a. tæt forbi udspringet af Skjern Å, som er en del af Danmarks største naturgenopretningsprojekt, og Gudenåen, som er Danmarks længste å."
+excerpt: "Ruten går på tværs af nogle af de jyske ådale og giver derfor mulighed for at opleve nogle gode udsigter. Du bringes bl.a. tæt forbi udspringet af Skjern Å, som er en del af Danmarks største naturgenopretningsprojekt."
 gps:
   url: https://www.alltrails.com/explore/map/map-9ad97ad--7
   id: https://www.alltrails.com/widget/map/map-9ad97ad--7
