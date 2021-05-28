@@ -7,7 +7,7 @@ tags:
   - cykelguide
   - København
   - cykelruter
-last_modified_at: 2020-06-04T16:59:01Z
+last_modified_at: 2021-04-24T08:59:01Z
 header:
   overlay_image: &image https://c.pxhere.com/photos/8b/a5/world_street_camera_city_woman_house_portugal_souls-241425.jpg!d
   teaser: *image
@@ -104,6 +104,8 @@ På cykelkortet kan du se alle de etablerede grønne cykelruter, nationale cykel
 [Download Gratis Cykelkort](https://kk.sites.itera.dk/apps/kk_pub2/pdf/1846_d6f1da8e8514.pdf){: .btn .btn--large .btn--danger }
 
 Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af [Cykelkort Danmark og København fra scanmaps.dk\*](https://www.scanmaps.dk/0251c83?G=020). Det bliver jævnligt opdateret, så det kommer til at indeholde de nyest forbedringer til cykelstierne i København.
+
+**Cykelkortet over Storkøbenhavn** er i 1:35.000. Hvis du skal på cykeltur i hovedstadsområdet, er det altså rigtig fint at navigere efter.
 
 {% include gallery id="bikemaps" %}
 

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Cykelruter i Vestjylland - Den mest komplette guide
+excerpt: "Jeg har skrevet en guidebog med cykelruter i Vestjylland. Læs gratis om alle cykelruterne, når du planlægger din cykelferie og vil have cykeloplevelser i Vestjylland."
 permalink: /cykelruter-vestjylland/
 redirect_from:
   - /cykelguide-vestjylland/
