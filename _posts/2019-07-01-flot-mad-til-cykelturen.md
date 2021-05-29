@@ -97,7 +97,13 @@ Kæmperejer renses for skal og tarm og marineres i olie, salt og krydderurter. K
 
 ### Lammecarre med squash, auberginer og rucola: 
 
-Skær grøntsagerne i skiver på skrå og pensi dem med lidt olie, salt og peber og gnid lidt hvidløg på dem. Lav en lille pose af folie. Grill/steg grøntsagerne på hver side, læg dem i posen og giv dem ca. 10 min. over varmen. Når de er klar, vendes de med lidt frisk rucola og olie. Kødet (udskæringer fra en lammeryg) gnides med hvidløg og grilles/steges efter behag. 
+Skær grøntsagerne i skiver på skrå og pensl dem med lidt olie, salt og peber og gnid lidt hvidløg på dem. Lav en lille pose af folie. Grill/steg grøntsagerne på hver side, læg dem i posen og giv dem ca. 10 min. over varmen. Når de er klar, vendes de med lidt frisk rucola og olie. Kødet (udskæringer fra en lammeryg) gnides med hvidløg og grilles/steges efter behag. 
+
+## Konklusion
+
+Du kan spare dig selv mange overvejelser om maden undervejs på din cykeltur ved at lave en madplan for turen. Det betyder også, at du kan [spare mange penge](https://www.ifire.dk/spar-penge/), hvis du har tænkt over, hvordan du kan købe fornuftigt ind til maden.
+
+Jeg har skrevet et indlæg om at [lave madplan, så du kan holde dit madbudget og undgå luksusfælden på ifire.dk](https://www.ifire.dk/madbudget-undgaa-luksusfaelden-med-madplan/).
 
 _Velbekomme._
 
