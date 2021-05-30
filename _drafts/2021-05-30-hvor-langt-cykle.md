@@ -23,22 +23,44 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-https://www.visitdenmark.dk/danmark/oplevelser/cykelferie
+Lav en beregner
 
-https://www.friluftsraadet.dk/aktiviteter/danmarks-bedste-cykelruter-til-dag-bla
-
-https://www.naviki.org/da/denmarkbybike/
+***
 
 
-https://www.visitdenmark.dk/danmark/oplevelser/cykelferie/bike-stay-dk-app
+hvor langt har jeg cyklet
 
-alltrails.com
+hvor hurtigt cykler man 10 km
 
+hvor lang tid tager det at cykle 10 km
 
-gpsies.com
+hvor mange km cykler man i timen
 
+hvor hurtigt cykler man 5 km
 
-https://www.cyklistforbundet.dk/Aktuelt/Nyt/Nyheder/Nationale-cykelruter
+hvor lang tid tager det at cykle 7 km
 
+hvor lang tid tager det at cykle 4 km
 
-https://www.cyklistforbundet.dk/Aktuelt/Nyt/Nyheder/Nationale-cykelruter
+hvor langt cykler man på en time
+
+hvor lang tid tager det at cykle 8 km
+
+hvor langt kan man cykle på en dag
+
+hvor lang tid tager det at cykle 20 km
+
+hvor lang tid tager det at cykle 15 km
+
+hvor langt kan man cykle på en time
+hvor hurtigt cykler man
+
+hvor lang tid tager det at cykle 12 km
+
+hvor lang tid tager det at cykle 9 km	0	27	10
+hvor hurtigt kan man cykle	0	21	8,7
+hvor lang tid tager det at cykle 13 km
+
+hvor lang tid tager det at cykle 3 km
+
+hvor lang tid tager det at cykle 5 km

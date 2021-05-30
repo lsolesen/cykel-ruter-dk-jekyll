@@ -45,3 +45,52 @@ figure {
     }
   }
 }
+
+form.calculator {
+  fieldset, legend {
+      margin: 0;
+      padding: 0;
+  }
+  fieldset {
+      padding: 1em !important;
+      background-color: #D8E4F8;
+  
+      fieldset {
+          clear: both !important;
+          padding: 0 !important;
+          legend {
+              float: none !important;
+              font-weight: normal;
+          }
+      }
+  
+      &.results {
+          color: white !important;
+          background-color: #34557A !important;
+          
+          legend, label {
+              color: white !important;
+          }
+          .help-block, .help-inline {
+              color: #eee;
+          }
+      }
+      
+      legend {
+        font-weight: bold;
+          float: left;
+          margin-bottom: .5em;
+          width: 100%;
+      }
+  }
+  input[type="submit"] {
+      @extend .btn;
+      @extend .btn--large;
+      @extend .btn--success;
+  }
+  .notes {
+      margin-top: 0.4em;
+      font-size: 0.9em;
+      color: #bbb;
+  }
+}
