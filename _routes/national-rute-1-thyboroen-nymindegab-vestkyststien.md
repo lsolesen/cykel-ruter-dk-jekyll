@@ -12,7 +12,7 @@ tags:
   - cykelrute
   - national
   - Guidebog Vestjylland
-excerpt: "Det brusende Vesterhav er din tro følgesvend på dette delforløb af den nationale cykelrute nummer 1, der bringer dig 110 kilometer fra fiskerbyen Thyborøn til Nymindegab."
+excerpt: "Det brusende Vesterhav er din tro følgesvend på dette delforløb af den nationale cykelrute nummer 1, Vestkystruten, der bringer dig 110 kilometer fra fiskerbyen Thyborøn til Nymindegab."
 distance: 110 km
 asphalt: 78 km
 rubble: 32 km
@@ -38,7 +38,7 @@ Hvide Sande er Danmarks femte største fiskerihavn. Tag en tur forbi havnen, hvo
 
 I Haurvig ligger Abelines gård, der er en klitgård fra 1870. Gården viser, hvordan livet var på en strandfogedgård på Holmsland Klit i gamle dage. Fra Haurvig fortsætter du sydpå til slutningen af denne rutebeskrivelse ved Nymindegab. Herfra kan du køre ud til Danmarks mest berømte fuglereservat, Tipperne, som er en vigtig rasteplads for trækfugle. I den nordligste af de to store røde bygninger øst for vejen, er der indrettet et udsigts- og udstillingsrum, hvor du kan blive klogere på fuglelivet og anvendelsen af området.
 
-## Seværdigheder
+## Seværdigheder på denne del af Vestkystruten
 
 - Bunkers Museum
 - Kystcentret Thyborøn
@@ -52,7 +52,13 @@ I Haurvig ligger Abelines gård, der er en klitgård fra 1870. Gården viser, hv
 - Husby Klitplantage
 - Vest Stadil Fjord
 
-## Links
+## Hvor lang er Vestkystruten?
+
+Vestkystruten er i alt 560 kilometer fra Skagen til Rudbøl.
+
+Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, den danske Nordsøkyst og UNESCOS verdensnaturarv Vadehavet. Det er en af Danmarks længste skiltede cykelruter og går gennem noget af det skønneste og mest varierede natur i Danmark.
+
+## Links til Vestkystruten
 
 - [Vestkystruten](http://vestkystruten.dk/da/forside/)
 
