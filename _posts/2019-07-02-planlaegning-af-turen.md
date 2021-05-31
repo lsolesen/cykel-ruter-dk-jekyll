@@ -114,6 +114,4 @@ Der er gode muligheder for at tage sin cykel med i toget.
 11. Gendarmstien
 12. [Bryrupbanestien (Cykelrute 31)](https://www.cykel-ruter.dk/rute/regional-rute-31-bryrupbanestien/)
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a> 
-
 {% include gallery caption="Planlæg cykelturen inden du tager afsted" %}

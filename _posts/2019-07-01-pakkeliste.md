@@ -68,10 +68,6 @@ _God tur!_
 
 Når du har fundet alle dine ting frem, så skal du jo have det pakket på cyklen. Jeg har skrevet lidt om, hvordan du kan [pakke cyklen her](/hvordan-pakkes-cyklen/).
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=51299" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51299" border="0"></a>
-
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
-
 ## Samarbejdspartnere
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}

@@ -23,8 +23,6 @@ Cykelferien bliver bedre, hvis man er klædt rigtigt på. Så er der ikke noget 
 
 Princippet for cykeltøj er, at det skal sidde tæt til kroppen for ikke at flagre og give unødvendig vindmodstand. En cykeltrøje er for det meste lavet af kunststof, der kan transportere sveden væk fra kroppen. Cykeltrøjer har praktiske lommer bagpå, hvor man kan have lappegrej, forplejning m.m. En decideret cykelvindjakke er også tætsiddende og ofte med baglommer. Men almindelige t-shirts eller vind jakker kan naturligvis sagtens bruges. Det er helt op til den enkelte. 
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=53264" target="_blank" rel="nofollow noopener"><img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=53264" border="0"></a>
-
 ## Cykeltøj og regnvejr
 
 Ingen ønsker regnvejr på cykelferien. Men skal man cykle i Danmark, er det svært at forestille sig bare en uges tid uden en byge, så man er nødt til at have regntøj med. 
@@ -35,8 +33,6 @@ Der findes også regntøj, der bare holder regnen ude. Det er en del billigere e
 
 Regntøj, der er designet til at cykle i, har ekstra lange ærmer og ekstra længde i ryg gen. Bukserne skal have god plads omkring bagen og knæene. Der må ikke være for meget benvidde nederst, da bukserne så let kommer ind i kæden. Før køb er det en god idé at prøve regntøjet og så strække armene frem og løfte knæet højt for at se, om tøjet stadig passer. 
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"><img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
-
 Jeg har skrevet lidt om, hvordan du kan [undgå at svede, når du cykler](/undgaa-sved/).
 
 ## Samarbejdspartnere
@@ -44,4 +40,3 @@ Jeg har skrevet lidt om, hvordan du kan [undgå at svede, når du cykler](/undga
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}
-

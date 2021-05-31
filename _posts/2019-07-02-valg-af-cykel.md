@@ -30,10 +30,6 @@ Men skulle du få lyst til at tage på tur på en ny cykel så lad være med at 
 
 **Racercykel:** Racerens smalle hjul er ikke velegnede til ujævne underlag. Til gengæld kommer man let og hurtigt omkring på den lette cykel, hvis ruten er asfalteret og oppakningen let. De smalle dæk og fælge kan godt være lidt skrøbelige, hvis cyklen skal læsses tungt. Vælg evt. en let anhænger for ikke at overbelaste cyklen. 
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
-
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51294" border="0"></a>
-
 ## Samarbejdspartnere
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
