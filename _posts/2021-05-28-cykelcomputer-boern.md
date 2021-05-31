@@ -15,11 +15,17 @@ last_modified_at: 2021-05-17T18:21:26Z
 feature_row_sigma:
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/5ac503b8-83ee-42d2-89eb-feb8acbab276/4903102_B_default.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/sigma-pure-1-ats---traadloes-cykelcomputer---trendline
+    title: "Sigma Pure 1 Topline"
     excerpt: "Sigma Pure 1 Topline 2016 ATS er en trådløs cykelcomputer med 6 funktioner, som kan give dig forskellige informationer om dine cykelture. Hvis du interesserer dig for, hvor hurtigt du kører, eller hvor langt du har kørt en given dag, eller hvor langt du kører på en hel uge eller et år, er denne enhed skræddersyet til dig."
+    btn_label: "Køb cykelcomputer hos cykelpartner.dk*"
+    btn_class: "btn--warning"
 feature_row_sigma:
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/3c41e067-55d1-4181-8b1b-9d135c39b094/AT7518110_B_default.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/atredo---m10--cykelcomputer-med-10-funktioner---traadloes---sort
-    excerpt: "Sigma Pure 1 Topline 2016 ATS er en trådløs cykelcomputer med 6 funktioner, som kan give dig forskellige informationer om dine cykelture. Hvis du interesserer dig for, hvor hurtigt du kører, eller hvor langt du har kørt en given dag, eller hvor langt du kører på en hel uge eller et år, er denne enhed skræddersyet til dig."
+    title: "Atredo M10 cykelcomputer"
+    excerpt: "Denne Atredo M10 cykelcomputer er nem at betjene og hurtig at tage i brug. Den giver dig mulighed for at skifte imellem lille display med mange informationer eller stort display med færre oplysninger."
+    btn_label: "Køb cykelcomputer hos cykelpartner.dk*"
+    btn_class: "btn--warning"
 ---
 
 Min datter ønsker sig en cykelcomputer til børn, så jeg har researchet på, hvilke cykelcomputere der egner sig godt til at sætte på en børnecykel.
@@ -75,6 +81,8 @@ Cykelcomputeren har også [kalorieforbrænding på din cykeltur]({% link _posts/
 ## Konklusion
 
 Jeg endte selv med at købe cykelcomputeren fra Sigma, da den har det bedste display. Modellen fra Atredo har lidt flere funktioner, så hvis du gerne vil have kalorieforbrænding på cykelcomputeren, så er den også et godt valg.
+
+## Hvor kan jeg købe en cykelcomputer til børn?
 
 Hvis du er på udkig efter en cykelcomputer til børn, så kan du støtte dette site ved at handle hos en af vores samarbejdspartnere, som har rigtig fine tilbud på udvalg af udstyr til cykling og cykler.
 
