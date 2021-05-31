@@ -212,7 +212,7 @@ Her har jeg samlet alle beskrivelserne af cykelruter her på cykel-ruter.dk. Hvi
 </div>
 {% endif %}
 
-## {{ page.feature_row_routes.size }} andre cykelruter og cykelture i Danmark
+## {{ page.feature_row_routes.size }} andre oversigter cykelruter og cykelture i Danmark
 
 Her har jeg samlet links til forskellige cykelruter i Danmark, som er beskrevet på andre hjemmesider. Hvis du synes, der mangler et link på oversigten, så brug endelig kommentarerne.
 
