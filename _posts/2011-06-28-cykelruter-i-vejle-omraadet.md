@@ -8,6 +8,8 @@ header:
   overlay_filter: 0.2
 tags:
   - cykelferie
+category:
+  - Cykelruter
 last_modified_at: 2011-06-28T16:08:57Z
 excerpt: "Vi har beskrevet cykelruter med udgangspunkt i tre campingpladser på Vejle-egnen."
 gallery:

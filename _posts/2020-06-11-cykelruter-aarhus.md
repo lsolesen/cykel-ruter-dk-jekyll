@@ -2,6 +2,8 @@
 layout: single
 title: "Cykelruter omkring Århus, Skanderborg, Djursland og Favrskov"
 permalink: /cykelruter-aarhus/
+category:
+  - Cykelruter
 tags:
   - cykelkort
   - cykelguide

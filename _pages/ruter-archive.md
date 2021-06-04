@@ -219,3 +219,15 @@ Her har jeg samlet links til forskellige cykelruter i Danmark, som er beskrevet 
 Inden du klikker dig væk, så husk dog at læse alle rutebeskrivelserne her på siden. Du får en fuld oversigt længere nede på siden.
 
 {% include feature_row id="feature_row_routes" type="left" %}
+
+{% assign site_posts = site.posts | where: "category", "Cykelruter" | sort: "last_modified_at" %}
+
+## {{ site_posts.size }} artikler om cykelruter, cykelture og cykelstier i Danmark
+
+{% if site_posts.size > 0 %}
+<div class="feature__wrapper">
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+{% endif %}

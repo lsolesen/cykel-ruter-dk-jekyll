@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "15 tankevækkende tips til cykeltur og cykelferie med børn"
+seo_title: "Cykelferie og cykeltur med børn • 15 tankevækkende tips »"
 permalink: /boern-paa-cykelferie/
 tags:
   - cykelkort
@@ -107,17 +108,17 @@ cykelguide:
     title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
 ---
 
-Jeg sidder og planlægger min næste cykeltur og cykelferie med mine børn. Jeg har samlet de bedste tips og råd til, hvad man skal tænke på, hvis man vil på cykeltur og cykelferie med børn.
+Jeg sidder og planlægger min næste cykeltur med mine børn. Jeg har samlet de bedste tips og råd til, hvad man skal tænke på, hvis man vil cykelferie med børn.
 
 **Cykeltur og cykelferie med børn er en virkelig god oplevelse, når du tænker over et par ting på forhånd. Vælg en god cykelrute, sæt tempoet ned og vær tålmodig og planlæg det uforudsete. Drop skærmene og skru op for nærværet. Og så hjælper snacks altid på humøret.**
 
-Jeg har flere gange været på cykeltur og cykelferie med mine børn. Vi har som forældre begået masser af fejl, men jeg har mest hæftet mig ved alt det, der er gået godt. 
+Jeg har flere gange været på cykeltur med mine børn. Vi har som forældre begået masser af fejl, men jeg har mest hæftet mig ved alt det, der er gået godt. 
 
 Vi har primært satset på lidt kortere cykelture og cykelferier med vores tre piger. 
 
 Her er nogle godt tips til, hvordan I kan komme afsted på cykelferie - uanset om I mangler udstyr og erfaring. 
 
-DU kan bruge rådene – uanset om du drømmer om en lang cykelferie eller bare et par dages cykeltur til sommer.
+Du kan bruge rådene – uanset om du drømmer om en lang cykelferie eller bare et par dages cykeltur til sommer.
 
 ## 1) Bare tag afsted!
 
@@ -287,7 +288,7 @@ Husk at justeringen af cyklen også gælder børnenes cykel. Jeg er kommet afste
 
 Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport af dit barn undervejs på cykelturen]({% link _posts/2019-07-01-boern-cykel-paa-cykelferie.md %}).
 
-## Klar til cykelferie med børn
+## Klar til cykelferie eller cykeltur med børn
 
 Så burde du være klar til cykelferien med børn. 
 
