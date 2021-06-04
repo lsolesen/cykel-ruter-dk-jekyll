@@ -4,6 +4,7 @@ excerpt: "Vi har skrevet en guide til cykelferie, cykelruter og cykeloplevelser 
 tags:
   - cykelferie
 last_modified_at: 2019-04-26T16:59:01Z
+permalink: /guide-til-cykeloplevelser-i-ost-og-vestjylland/
 redirect_from:
   - /guide-til-cykeloplevelser-i-øst-og-vestjylland/
 gallery:

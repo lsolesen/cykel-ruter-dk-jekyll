@@ -1,5 +1,6 @@
 ---
 title: Planlæg cykelruten hjemmefra
+permalink: /planlaegning-af-turen/
 seo_title: "Planlæg cykelrute: 6 gode tips og 12 ruter"
 description: Hvad skal man huske inden man tager afsted på en cykeltur? Vi har
   samlet 6 solide tips til planlægningsfasen samt 12 af de mest populære
@@ -60,15 +61,15 @@ I denne artikel får du vores bedste råd og anbefalinger, til når du skal plan
 
 ## 1) Afstem forventningerne
 
-Snak om, hvad I vil have ud af ferien – før I tager af sted. Tænk over turlængder, ter ræner, overnatningsmuligheder, bagage mængde og seværdigheder. Og vær sikker på at I er enige om, om cykelturens væsentligste mål er præstationen eller de oplevelser, der ligger undervejs. 
+Snak om, hvad I vil have ud af ferien – før I tager af sted. Tænk over turlængder, ter ræner, overnatningsmuligheder, bagage mængde og seværdigheder. Og vær sikker på at I er enige om, om cykelturens væsentligste mål er præstationen eller de oplevelser, der ligger undervejs.
 
 ## 2) Vær realistisk!
 
-Vælg område og turlængde efter kørelyst og kondition. Ikke alle har lige gode ben hver dag, så der skal altid være kortere mellem overnatningsstederne, end det i højst kan køre. For mange er turen kun en succes hvis man har tilbagelagt 100 km eller mere pr. dag, for andre er det nok bare at være et nyt sted. 
+Vælg område og turlængde efter kørelyst og kondition. Ikke alle har lige gode ben hver dag, så der skal altid være kortere mellem overnatningsstederne, end det i højst kan køre. For mange er turen kun en succes hvis man har tilbagelagt 100 km eller mere pr. dag, for andre er det nok bare at være et nyt sted.
 
 ## 3) Start cykeltræningen før turen
 
-Træn før ferien, så I kommer i form og lærer hinandens begrænsninger at kende. Kør et par endagsture og gerne en weekendtur, hvor tasker og andet udstyr afprøves. 
+Træn før ferien, så I kommer i form og lærer hinandens begrænsninger at kende. Kør et par endagsture og gerne en weekendtur, hvor tasker og andet udstyr afprøves.
 
 ## 4) Pak cyklen rigtigt
 
@@ -76,7 +77,7 @@ For meget bagage på cyklen gør bakkerne hårdere. Tag kun det nødvendige med 
 
 ## 5) Husk at stå af cyklen undervejs
 
-Gør som de professionelle: Planlæg hvile dage, hvor I laver noget andet end at træde i pedalerne. Tag til stranden, på museum, på bondegårdsbesøg eller... 
+Gør som de professionelle: Planlæg hvile dage, hvor I laver noget andet end at træde i pedalerne. Tag til stranden, på museum, på bondegårdsbesøg eller...
 
 ## 6) Man har en plan, til man lægger en ny
 
@@ -85,14 +86,14 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 ## Tjekliste for planlægning af cykelrute
 
 1. Fastsæt mål for turen cykelturen
-2. Planlæg cykelruten i store træk 
+2. Planlæg cykelruten i store træk
 3. Anskaf gode cykelkort - fx [Cykelkortserien*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkortserie)
-4. Hvad skal med - og hvem skal bære det? 
+4. Hvad skal med - og hvem skal bære det?
 5. Bestil evt. overnatning, fx [AirBnb*](/go/airbnb/)
-6. Reserver evt. plads i tog eller bus til ud- og hjemrejse 
+6. Reserver evt. plads i tog eller bus til ud- og hjemrejse
 7. Anskaf nyt udstyr i god tid og prøv det af før ferien - tjek vores samarbejdspartnere.
-8. Kør et par træningsture 
-9. Gi' cyklerne et grundigt eftersyn 
+8. Kør et par træningsture
+9. Gi' cyklerne et grundigt eftersyn
 10. Pak dagen før og kør en prøvetur
 
 ## Populære cykelruter i Danmark

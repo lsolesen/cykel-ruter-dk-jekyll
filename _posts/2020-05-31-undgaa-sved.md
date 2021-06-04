@@ -1,12 +1,13 @@
 ---
 layout: single
 title: &title "Sådan undgår du at blive svedig, når du cykler"
+permalink: /undgaa-sved/
 tags:
   - sved
 last_modified_at: 2019-04-26T16:59:01Z
 header:
   overlay_image: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  teaser: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80  
+  teaser: https://images.unsplash.com/photo-1466201071558-2242fb1d130d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
   caption: *title
   alt: "Photo by Blubel on Unsplash"
   overlay_filter: 0.2
@@ -27,7 +28,7 @@ Jeg foretrækker at cykle rundt, når jeg skal noget. Det er en god måde at kom
 
 **Typisk kommer du til at svede på cyklen, når du holder stille efter at have været i gang. Det sker fordi kroppen vil køle sig selv ned til hviletemperatur igen, og at svede er en nedkølingsstrategi. Du kan undgå at svede på cyklen ved at tænke over påklædningen, placeringen af bagagen og slappe af på det sidste stykke af turen for at få nedkølet kroppen igen.**
 
-Hvis du er ude at træne, betyder det måske ikke så meget, om du bliver svedig af at cykle. Men hvis du skal på en cykeltur eller cykler på arbejde, så er det rigtig træls at svede. 
+Hvis du er ude at træne, betyder det måske ikke så meget, om du bliver svedig af at cykle. Men hvis du skal på en cykeltur eller cykler på arbejde, så er det rigtig træls at svede.
 
 Du kan let undgå at svede efter cykelturen, hvis du kender lidt til den menneskelige varmeregulering.
 
@@ -72,14 +73,14 @@ Når kropstemperaturen er blevet hævet til det nødvendige niveau forsøger kro
 
 Når du er ankommet til din destination, så sker det modsatte imidlertid. Kroppen vil have kropstemperaturen ned på 37 grader igen. Hvis du allerede er stået af cyklen, så vil vinden ikke hjælpe dig med at nedkøle kroppen. Derfor er det ikke engang nok at tage overtøjet af. Du vil begynde at svede, fordi kroppen uden vind ikke har så mange andre muligheder for at køle af.
 
-Derfor kan du bruge de sidste fem minutter af din cykeltur på at forberede dig på at få kroppen til at sænke kropstemperaturen allerede inden du ankommer. Fordelen er at du stadig har vinden som hjælper til at få sænket kropstemperaturen, men så undgår du at svede særlig meget, når du står af cyklen. Der vil sikkert stadig være en lille smule overskudsvarme, men det er ofte ikke noget problem. 
+Derfor kan du bruge de sidste fem minutter af din cykeltur på at forberede dig på at få kroppen til at sænke kropstemperaturen allerede inden du ankommer. Fordelen er at du stadig har vinden som hjælper til at få sænket kropstemperaturen, men så undgår du at svede særlig meget, når du står af cyklen. Der vil sikkert stadig være en lille smule overskudsvarme, men det er ofte ikke noget problem.
 
 Det kræver naturligvis lidt eksperimenter med hvor hurtigt, du kan køre, og hvor tidligt du skal begynde at tænke på nedkølingen, inden du kommer frem.
 
 ## Undgå at svede på cyklen
 
-De fleste undgår ikke at svede en lille smule efter en cykeltur. Derfor er det en god ide at tage noget skiftetøj med i tasken, så du kan skifte, når du kommer frem. 
- 
+De fleste undgår ikke at svede en lille smule efter en cykeltur. Derfor er det en god ide at tage noget skiftetøj med i tasken, så du kan skifte, når du kommer frem.
+
 Du undgår at svede efter cykelturen ved at tænke på følgende:
 
 - Tag tøj på der passer til hele turen. Brug _lag på lag_-princippet og vælg åndbart tøj

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "16 tips og råd til cykelturen og cykelferien fra en ekspert"
+permalink: /raad-til-cykelturen/
 tags:
   - cykelkort
   - cykelguide
@@ -114,7 +115,7 @@ Hvis du ikke er vant til at tage på længere cykelture eller cykelferier, så s
 
 ## 1) Planlæg cykelruten og hav et kort med
 
-Når du skal på cykeltur, så er det en rigtig god ide at have et mål. Især på længere cykelture og -ferier får du en meget bedre oplevelse, hvis du planlægger lidt på forhånd. 
+Når du skal på cykeltur, så er det en rigtig god ide at have et mål. Især på længere cykelture og -ferier får du en meget bedre oplevelse, hvis du planlægger lidt på forhånd.
 
 Så få fat i et cykelkort, hvor du kan se nogle skiltede cykelruter. Fordelen ved at prioritere skiltede cykelruter er, at man netop har gjort sig umage med, at cyklisterne har en god oplevelse på disse ruter.
 
@@ -122,7 +123,7 @@ Jeg har skrevet en artikel om, [hvilke kort der dækker cykelruterne i Danmark](
 
 Inden I tager afsted er der flere spørgsmål at besvare:
 
-- Hvor skal I cykle hen?  
+- Hvor skal I cykle hen?
 - Hvor langt skal I cykle om dagen?
 - Skal vi cykle alle dage?
 - **Er cyklerne overhovedet klar?** Har du fået servicetjekket den for nylig? Jeg er engang kommet afsted på en cykel, hvor dækkene nærmest var mørnet. Det kostede en del lapninger undervejs.
@@ -130,15 +131,15 @@ Inden I tager afsted er der flere spørgsmål at besvare:
 
 ## 2) Afstem forventningerne
 
-Det kan virkelig betale sig at sætte sig ned og planlægge turen sammen. Er I sikker på, at I har samme tur i tankerne. Vær sikker på at I alle har samme tur i tankerne. Nogle af de næste råd hjælper dig med at vælge om, hvor langt I kan køre og hvor meget bagage, I skal slæbe på. 
+Det kan virkelig betale sig at sætte sig ned og planlægge turen sammen. Er I sikker på, at I har samme tur i tankerne. Vær sikker på at I alle har samme tur i tankerne. Nogle af de næste råd hjælper dig med at vælge om, hvor langt I kan køre og hvor meget bagage, I skal slæbe på.
 
 Hvis I har styr på aftalerne og forventningerne, så kan I få en rigtig god oplevelse med turen. Ellers kan I risikere at jere oplevelse bliver meget forskellig.
 
 ## 3) Test formen på en mindre cykeltur
 
-Du får klart den bedste oplevelse på en længere cykelferie og cykeltur, hvis du har prøvet nogle træningsture inden ferien. 
+Du får klart den bedste oplevelse på en længere cykelferie og cykeltur, hvis du har prøvet nogle træningsture inden ferien.
 
-Hvis I pakker cyklerne med alt det udstyr og bagage, I forventer at tage med, så får I en god fornemmelse for, hvor hurtigt I kan cykle, når I har bagage med. 
+Hvis I pakker cyklerne med alt det udstyr og bagage, I forventer at tage med, så får I en god fornemmelse for, hvor hurtigt I kan cykle, når I har bagage med.
 
 Det er godt at lave en mini-cykelferie, så I får afprøvet forventningerne til hinanden, og fundet ud af, hvor langt I kan cykle.
 
@@ -160,13 +161,13 @@ Jeg har altid nogle elektrolyt-brusetabletter med, så man kan holde saltbalance
 
 ## 6) Pak cyklen rigtigt
 
-De første gange jeg skulle pakke min cykel til en længere tur, så synes jeg, at det var rigtig svært. 
+De første gange jeg skulle pakke min cykel til en længere tur, så synes jeg, at det var rigtig svært.
 
 Jeg har ofte fået pakket for meget på cyklen. Det virkede som en god ide, mens jeg pakkede, og det gik også rigtig fint, mens jeg cyklede rundt på parkeringspladsen med det. Men da de første bakker så ramte på cykelturen, så var det meget tydeligt, at cyklen var blevet meget tung.
 
 Da jeg så kom hjem fra turen igen og gennemgik alt det tøj, jeg alligevel ikke fik brugt undervejs.
 
-Hvor meget bagage du har med afhænger naturligvis meget af, hvordan du gerne vil bo på cykelturen. Hvis du selv skal have telt og soveposer med, så kommer det hurtigt til at fylde meget. 
+Hvor meget bagage du har med afhænger naturligvis meget af, hvordan du gerne vil bo på cykelturen. Hvis du selv skal have telt og soveposer med, så kommer det hurtigt til at fylde meget.
 
 Overnatter du i hytter, [AirBnb\*](/go/airbnb/), bed & breakfast eller lignende, så kan du spare meget bagage.
 
@@ -176,32 +177,32 @@ Hvis du vil læse endnu mere om at pakke cyklen, så har jeg skrevet en oversigt
 
 ## 7) Gennemgå jeres cykler grundigt inden cykelferien
 
-Det er virkelig vigtigt, at jeres cykler er klar til turen. I behøver ikke investere i nyt udstyr for at komme på cykeltur. Men hvis dækkene er tyndslidte, bremserne dårlige, kæden rusten, så bliver det bare ikke det samme. 
+Det er virkelig vigtigt, at jeres cykler er klar til turen. I behøver ikke investere i nyt udstyr for at komme på cykeltur. Men hvis dækkene er tyndslidte, bremserne dårlige, kæden rusten, så bliver det bare ikke det samme.
 
 Så hvis I ikke selv kan gennemgå cyklen, så må den lige en tur til serviceeftersyn hos cykelmekanikeren. Du kan også lære det selv ved at søge på Youtube eller ved at læse denne bog:
 
 {% include feature_row id="cykelmekaniker" type="left" %}
 
-Det er dumt at cykle med forkerte indstillinger på cyklen. Hvis sadlen fx sidder for lavt, så bliver man virkelig træt i lårmusklerne. Hvis den sidder for højt, så får du hurtigt ondt i numsen. 
+Det er dumt at cykle med forkerte indstillinger på cyklen. Hvis sadlen fx sidder for lavt, så bliver man virkelig træt i lårmusklerne. Hvis den sidder for højt, så får du hurtigt ondt i numsen.
 
 Tag unbrakonøgler og værktøj med på turen, så du kan ændre indstillingerne undervejs.
 
 ## 8) Husk reglerne for cyklen
 
-Du skal have noget bestemt udstyr på cyklen. Du får dem lige hurtigt her i en afkrydsningsliste. 
+Du skal have noget bestemt udstyr på cyklen. Du får dem lige hurtigt her i en afkrydsningsliste.
 
 - [ ] En ringeklokke
 - [ ] en hvid refleks, der er synlig forfra
 - [ ] Gule reflekser på pedaler
 - [ ] En gul refleks på hvert hjuls eger (eller hvide reflekterende dæk- eller fælgsider)
-- [ ] En rød refleks, der peger bagud. 
+- [ ] En rød refleks, der peger bagud.
 - [ ] Efter mørkets frembrud skal du have en hvid eller gulligt lysende forlygte og en rød baglygte på cyklen.
 
 Hvis du kører med en tohjulet cykelanhænger skal den have følgende:
 
 - [ ] To hvide reflekser foran
 - [ ] To røde reflekser bagpå
-- [ ] To gule reflekser på hver side. 
+- [ ] To gule reflekser på hver side.
 - [ ] Efter mørkets frembrud skal cykelanhængeren have en rød baglygte midt bagpå eller i venstre side.
 
 Hvis du vil dykke ekstra ned i lovene for cykler, så Her kan du læse mere om [love og regler for cyklister, så har Cyklistforbundet skrevet lidt om det her](http://www.cyklistforbundet.dk/Alt-om-cykling/Love-og-regler).
@@ -212,7 +213,7 @@ Man kan hurtigt købe sig helt fattigt i cykel- og friluftsudstyr, fordi der fin
 
 ## 10) Husk sikkerhed på cykelturen
 
-Du skal selvfølgelig huske at have en god cykelhjelm på, hvor du får lidt luft til hovedet undervejs på cykelturen. En cykelhjelm er naturligvis ikke et lovkrav - det er bare en virkelig god ide. 
+Du skal selvfølgelig huske at have en god cykelhjelm på, hvor du får lidt luft til hovedet undervejs på cykelturen. En cykelhjelm er naturligvis ikke et lovkrav - det er bare en virkelig god ide.
 
 Cykelpartner.dk har [mange forskellige cykelhjelme i forskellige modeller og farver. Tjek priserne](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelhjelme).
 
@@ -228,7 +229,7 @@ Når du skal cykle langt, så er det godt at tænke over, hvilke kontaktpunkter,
 
 Ud over komforten så kan det også være en god ide at tænke over din påklædning på cyklen. Det er let at få det meget varmt eller komme til at fryse - og vejret kan hurtigt skifte.
 
-Jeg kommer fx lige hjem fra en cykeltur, hvor det pludselig begyndte at regne undervejs, og så bliver det bare meget koldere hurtigt. 
+Jeg kommer fx lige hjem fra en cykeltur, hvor det pludselig begyndte at regne undervejs, og så bliver det bare meget koldere hurtigt.
 
 Når jeg er på cykeltur, så synes jeg, at det er svært helt at undgå at svede, selvom jeg har skrevet [nogle gode råd om, hvordan man undgår at svede på cyklen](/undgaa-sved/). Derfor har jeg altid en ekstra tør trøje med.
 
@@ -236,7 +237,7 @@ Når jeg er på cykeltur, så synes jeg, at det er svært helt at undgå at sved
 
 Du skal selvfølgelig have et godt cykelkort med på din tur, så du kan finde vej. Jeg har skrevet et [grundigt indlæg om, hvad et godt cykelkort er](/cykelkort/), men jeg kan heller ikke undvære mit cykelur eller cykelcomputer.
 
-Når I kører i landskabet, så hold øje med kirketårnene, som jeg ofte bruger som pejlemærke for at finde rundt i landskabet. Fordelen ved kirker er som nævnt også, at der er vandhaner og toiletter ved mange af dem. 
+Når I kører i landskabet, så hold øje med kirketårnene, som jeg ofte bruger som pejlemærke for at finde rundt i landskabet. Fordelen ved kirker er som nævnt også, at der er vandhaner og toiletter ved mange af dem.
 
 Jeg tegner ofte min rute på Garmin Connect, men jeg har også tegnet en del ruter på Alltrails, som I kan se under ruterne. Der findes flere redskaber, hvor du kan tegne din rute.
 
@@ -250,19 +251,19 @@ En hel dag på cyklen kan godt gøre dig lidt krumrygget og stiv i kroppen. Jeg 
 
 ## 15) Tænk på børnene - tips og tricks
 
-Du kan sagtens tage på cykelferie og cykeltur med børn også. 
+Du kan sagtens tage på cykelferie og cykeltur med børn også.
 
 Hvis børnene er yngre kan du tage cykelanhænger med eller barnestol. Du kan også få cykelanhænger, hvor du kan have en babylift i.
 
 Når børnene bliver ældre, så kan de sagtens køre rimelig langt selv. Det hele handler om, hvor øvede børnene er, og hvor stor lyst de har til at cykle. Et barn på 8 kan normalt sagtens køre 30 km, og fra 12 år kan man køre lige så langt som de voksne. Jeg har skrevet lidt mere om, [hvor langt børn kan cykle i et andet indlæg](/barn-cykle-langt/).
 
-Du skal naturligvis tænke over, hvordan cyklen passer barnet. Hvis cyklen er for stor, giver det dårlig kontrol. Hvis den er for lille bliver det hurtigt meget hårdt i benene. 
+Du skal naturligvis tænke over, hvordan cyklen passer barnet. Hvis cyklen er for stor, giver det dårlig kontrol. Hvis den er for lille bliver det hurtigt meget hårdt i benene.
 
 Tænk i øvrigt over at have en nogenlunde let cykel, og bagagen skal naturligvis passe til barnets formåen på cyklen. Når du har børn med, så bliver pauserne og tid til uforudsete hændelser endnu vigtigere i planlægningen.
 
 ### Transport af børn på cykel
 
-Er du over 15 år må du have op til to børn under 8 år på din cykel. I cykelanhængere der er særligt beregnet til børn, må du transportere op til to børn uanset alder. Hvad enten børnene sidder foran, bagpå eller i cykelanhænger, skal de altid være fastspændt. 
+Er du over 15 år må du have op til to børn under 8 år på din cykel. I cykelanhængere der er særligt beregnet til børn, må du transportere op til to børn uanset alder. Hvad enten børnene sidder foran, bagpå eller i cykelanhænger, skal de altid være fastspændt.
 
 Du kan også spænde en halvcykel på din cykel.
 
