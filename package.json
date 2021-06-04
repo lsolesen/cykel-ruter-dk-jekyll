@@ -8,8 +8,7 @@
   },
   "keywords": [
     "jekyll",
-    "gulp",
-    "netlify"
+    "gulp"
   ],
   "author": "Lars Olesen",
   "license": "MIT",
@@ -21,13 +20,23 @@
   },
   "devDependencies": {
     "browserify": "^16.5.0",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
     "puppeteer": "^8.0.0",
     "queue": "^6.0.2",
     "uglifyify": "^5.0.2",
+    "unicode-encode": "^1.4.1",
     "watchify": "^3.11.1"
   },
   "scripts": {
     "start": "bundle exec jekyll server --port 8080 --incremental",
-    "build": "browserify src/js/app.bundle.js -g uglifyify -o assets/js/bundle.js"
+    "build": "browserify src/js/app.bundle.js -g uglifyify -o assets/js/bundle.js",
+    "generate-image": "node _scripts/generate-image.js",
+    "og-image": "npm run generate-image -- type:og",
+    "og-images": "npm run generate-image -- type:og path:./_posts/",
+    "pinterest-image": "npm run generate-image -- type:pinterest",
+    "pinterest-images": "npm run generate-image -- type:pinterest path:./_posts/",
+    "instagram-image": "npm run generate-image -- type:instagram",
+    "instagram-images": "npm run generate-image -- type:instagram path:./_posts/"
   }
 }
