@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Cykelruter omkring Vejle - Cykelguide for VisitVejle
+excerpt: "Jeg har skrevet en guidebog med cykelruter i Vejle og omegn. Læs gratis om alle cykelruterne, når du planlægger din cykelferie og vil have cykeloplevelser i Vejle og omegn."
 permalink: /cykelruter-vejle/
 redirect_from:
   - /cykelguide-visitvejle/

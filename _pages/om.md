@@ -4,6 +4,7 @@ title: Om cykel-ruter.dk
 permalink: /om/
 author_profile: true
 toc: true
+sitemap: false
 ---
 
 Formålet med cykel-ruter.dk er at samle en oversigt over [nationale cykelruter](/nationale-cykelruter/) og [regionale danske cykelruter](/regionale-cykelruter/) et overskueligt sted.
@@ -16,7 +17,7 @@ Cykel-ruter.dk er skrevet af cykelbogforfatterne, Lars Olesen og Dina Knudsen, s
 
 ### Ansvarshavende redaktør
 
-Lars Olesen
+Lars Olesen. Ud over at skrive om cykelruter, så ejer Lars også [motionsplan.dk](https://www.motionsplan.dk), [Fodboldens Legestue](https://www.legestue.net), [ifire.dk](https://www.ifire.dk) og [Teambuilder.dk](https://www.teambuilder.dk).
 
 ## Materialet på sitet
 

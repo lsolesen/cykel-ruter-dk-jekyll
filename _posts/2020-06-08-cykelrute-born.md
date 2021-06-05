@@ -2,6 +2,8 @@
 layout: single
 title: "Den perfekte cykelrute til børn - børnevenlig cykelferie"
 permalink: /cykelrute-born/
+category:
+  - Cykelruter
 tags:
   - cykelkort
   - cykelguide

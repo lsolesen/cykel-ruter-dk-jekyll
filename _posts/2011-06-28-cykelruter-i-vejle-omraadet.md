@@ -1,7 +1,16 @@
 ---
-title: "Cykelruter i Vejle-området"
+title: &title "Cykelruter i Vejle-området"
+permalink: /cykelruter-i-vejle-omraadet/
+header:
+  overlay_image: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
+  teaser: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: *title
+  credit: "Photo by Everton Vila on Unsplash"
+  overlay_filter: 0.2
 tags:
   - cykelferie
+category:
+  - Cykelruter
 last_modified_at: 2011-06-28T16:08:57Z
 excerpt: "Vi har beskrevet cykelruter med udgangspunkt i tre campingpladser på Vejle-egnen."
 gallery:
@@ -9,11 +18,10 @@ gallery:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
     alt: "#3 Sydjylland"
     title: "#3Sydjylland"
-header:
-  overlay_image: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
-  teaser: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: "Photo by Everton Vila on Unsplash"
-  overlay_filter: 0.2
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
+    url: https://www.scanmaps.dk/0251d61?G=020
+    alt: "Cykelkort #7 Sydlige Jylland"
+    title: "#7 Sydlige Jylland (nyt kort maj 2021)"
 ---
 
 I løbet af sommeren skal vi beskrive nogle cykelruter, der starter fra tre cykelvenlige overnatningssteder:
@@ -33,15 +41,16 @@ Vores opgave er:
 
 Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
 
-{% include gallery %}
-
-## Se alle cykelruterne i Vejle området
+{% include gallery caption="Du kan få mere inspiration til rigtig [gode cykelkort](/cykelkort/) over Danmark i vores guide. Ovenfor kan du se nogle gode cykelkort over Vejle-området." %}
 
 {% assign site_posts = site.routes | where: "tags", "VisitVejle Cykelguide" | sort: "title" %}
 
+## Se alle {{ site_posts.size }} cykelruter i og omkring Vejle området
+
+Her kan du læse om alle cykelruterne omkring Vejle, som vi har beskrevet.
+
 {% if site_posts.size > 0 %}
-<h2>{{ site_posts.size }} cykelruter omkring Vejle</h2>
-<div class="grid__wrapper">
+<div class="feature__wrapper">
   {% for post in site_posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
@@ -50,4 +59,4 @@ Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
 
 ## Andre cykelruter i Danmark
 
-Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _posts/2020-07-18-cykelruter-oversigt.md %}).
+Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _pages/ruter-archive.md %}).

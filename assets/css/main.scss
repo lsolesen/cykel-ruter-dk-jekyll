@@ -7,6 +7,19 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+body.layout--single {
+  .feature__item--left, .feature__item--right {
+      h2.archive__item-title {
+          margin-top: 1em !important;
+          margin-bottom: 0em !important;
+          font-size: 0.9em !important;
+      }
+      .archive__item-excerpt p:first {
+          margin-top: 0em !important;
+      }
+  }
+}
+
 figure {
   &.fourth {
     > a,
@@ -43,5 +56,79 @@ figure {
     figcaption {
       width: 100%;
     }
+  }
+}
+
+/* Grid view */
+.layout--single .page__content .grid__item, .layout--routes .page__content .grid__item {
+
+  @include breakpoint($medium) {
+    margin-left: 0; /* override margin*/
+    margin-right: 0; /* override margin*/
+    width: span(4 of 12);
+
+    &:nth-child(3n + 1) {
+      margin-left: 0;
+      clear: both;
+    }
+
+    &:nth-child(3n + 2) {
+      clear: none;
+      margin-left: gutter(1 of 12);
+    }
+
+    &:nth-child(3n + 3) {
+      clear: none;
+      margin-left: gutter(1 of 12);
+    }
+  }
+}
+
+form.calculator {
+  fieldset, legend {
+      margin: 0;
+      padding: 0;
+  }
+  fieldset {
+      padding: 1em !important;
+      background-color: #D8E4F8;
+  
+      fieldset {
+          clear: both !important;
+          padding: 0 !important;
+          legend {
+              float: none !important;
+              font-weight: normal;
+          }
+      }
+  
+      &.results {
+          color: white !important;
+          background-color: #34557A !important;
+          
+          legend, label {
+              color: white !important;
+          }
+          .help-block, .help-inline {
+              color: #eee;
+          }
+      }
+      
+      legend {
+        font-weight: bold;
+          float: left;
+          margin-bottom: .5em;
+          width: 100%;
+      }
+  }
+  input[type="submit"] {
+      @extend .btn;
+      @extend .btn--large;
+      @extend .btn--success;
+  }
+  .notes {
+      margin-top: 0.4em;
+      font-size: 0.9em;
+      color: #bbb;
   }
 }

@@ -11,11 +11,25 @@ header:
   actions:
     - label: "Find de bedste cykelkort 🗺"
       url: "/cykelkort/"
-    - label: "Se alle ruterne 🧭"
-      url: "/ruter/"
+    - label: "Se alle cykelruterne 🧭"
+      url: "/cykelruter-danmark/"
 feature_row:
   - title: "Cykelferie, cykeloplevelser og cykelruter i Danmark"
     excerpt: "Spændende cykelruter med historier, smuk natur og masser af pedaltramp. Danmark har 10.000 kilometer cykelruter, er en nation af tohjuls-fanatikere og bøgetræer, fjorde, jordbær og klapsammenmadder i grøftekanten ved bølgende kornmarker. Danmark er som skabt til cykelferie. Det er billigt, nemt og tilgængeligt. Ikke blot findes der 12 [nationale cykelruter](/nationale-cykelruter/), der er hovedinfrastrukturen for cykelruter herhjemme, men der ligger også [talrige regionale og lokale cykelruter](/ruter/) rundt om i landet."
 ---
 
 {% include feature_row type="center" %}
+
+<h2>Tjek de nyeste indlæg på cykel-ruter.dk</h2>
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:8 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>

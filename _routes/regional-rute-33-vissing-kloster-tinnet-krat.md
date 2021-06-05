@@ -13,7 +13,7 @@ tags:
   - cykelrute
   - regional
   - Ikke trykt
-excerpt: "Ruten følger den sydlige del af Gudenåen, der byder på en del historie. Da ruten overvejende følger ådalen det meste af vejen er den perfekt til dem, der helst vil nøjes med at kigge på bakkerne i det kuperede midtjyske landskab. Du får desuden mulighed for at se udspringet for Danmarks største å."
+excerpt: "Regional rute 33 følger den sydlige del af Gudenåen, der byder på en del historie. Da ruten overvejende følger ådalen det meste af vejen er den perfekt til dem, der helst vil nøjes med at kigge på bakkerne i det kuperede midtjyske landskab. Du får desuden mulighed for at se udspringet for Danmarks største å."
 gps:
   url: https://www.alltrails.com/explore/map/map-4249a84--14
   id: https://www.alltrails.com/widget/map/map-4249a84--14

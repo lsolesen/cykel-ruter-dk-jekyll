@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Cykelruter"
-    url: /ruter/
+    url: /cykelruter-danmark/
   - title: "Vestjylland"
     url: /cykelruter-vestjylland/
   - title: "Østjylland"
     url: /cykelruter-oestjylland/
   - title: "Nationale"
     url: /nationale-cykelruter/
-  - title: "VisitVejle"
+  - title: "Vejle"
     url: /cykelruter-vejle/
   - title: "Inspiration"
     url: /inspiration/
@@ -34,7 +34,7 @@ blog:
       - title: "Reparationer af cykel"
         url: /reparationer-undervejs/
       - title: "Cykelruter Danmark"
-        url: /cykelruter-oversigt/
+        url: /cykelruter-danmark/
       - title: "Nationale cykelruter"
         url: /nationale-cykelruter/
       - title: "Cykelruter København"

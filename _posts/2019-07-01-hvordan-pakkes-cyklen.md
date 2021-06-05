@@ -45,8 +45,6 @@ Når du pakker i cykeltasker, kan du prøve på at sortere tingene lidt. Hav fx 
 
 Har du meget bagage, eller kører du på en racercykel, kan det være en god idé at pakke i en anhænger i stedet for tasker. En almin delig plast- eller trækasseanhænger er ud mærket til ture, hvor dagsetaperne ikke er for lange, men hvis du har ambitioner om lange stræk, bør du investere i en rigtig tou ring anhænger. I en anhænger har du mas ser af plads, men pas på: Tag ikke for meget med. Anhængeren bliver hurtig tung at trække rundt med. Husk at du også kan få brug for en ekstra slange til anhængeren. 
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59787" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=59787" border="0"></a>
-
 ## Samarbejdspartnere
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}

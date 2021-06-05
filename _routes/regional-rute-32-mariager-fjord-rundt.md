@@ -13,7 +13,7 @@ tags:
   - cykelrute
   - regional
   - Ikke trykt
-excerpt: "Denne smukke rute går hele vejen rundt om Mariager Fjord. Beskrivelsen starter i Mariager, men du kan starte, hvor du har lyst. På ruten finder man flade strandenge med et rigt fugleliv, fredede naturområder, skovbeklædte skrænter, smukke udsigtspunkter, små skjulte fiskerlejer, kæmpehøje, kulturminder og i fjordens hovedbyer, Hadsund, Mariager og Hobro, venter oplevelser for hele familien."
+excerpt: "Denne smukke cykelrute går hele vejen rundt om Mariager Fjord. Beskrivelsen starter i Mariager, men du kan starte, hvor du har lyst. På ruten finder man flade strandenge med et rigt fugleliv, fredede naturområder, skovbeklædte skrænter, smukke udsigtspunkter, små skjulte fiskerlejer, kæmpehøje, kulturminder og i fjordens hovedbyer, Hadsund, Mariager og Hobro, venter oplevelser for hele familien."
 gps:
   url: https://www.alltrails.com/explore/map/mariagerfjordruten-regionalrute-32-4cb8111
   id: https://www.alltrails.com/widget/map/mariagerfjordruten-regionalrute-32-4cb8111
