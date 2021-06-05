@@ -60,7 +60,7 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 
 ## Køb cykelkort til Østjylland og Vestjylland
 
-{% include gallery layout="half" %}
+{% include gallery layout="half" caption="Køb cykelkort til Østjylland og Vestjylland fra Saxo" %}
 
 ## Andre cykelruter i Danmark
 
