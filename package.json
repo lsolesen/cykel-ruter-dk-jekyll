@@ -32,6 +32,7 @@
   "scripts": {
     "start": "bundle exec jekyll server --port 8080 --incremental",
     "build": "browserify src/js/app.bundle.js -g uglifyify -o assets/js/bundle.js",
+    "watch": "watchify src/js/app.bundle.js -o assets/js/bundle.js",
     "test": "mocha src/test/*.*",
     "generate-image": "node _scripts/generate-image.js",
     "og-image": "npm run generate-image -- type:og",
