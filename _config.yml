@@ -52,7 +52,7 @@ after_footer_scripts:
 
 # SEO Related
 google_site_verification : Z0xMG6fczOce5y_gbIt05rXkTditFOCGzgQCFsWGMLw
-bing_site_verification   : 
+bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification : a7755c2aa0aa66c0
 
@@ -261,7 +261,7 @@ defaults:
       comments: true
       share: true
       related: true
-      toc: false
+      toc: true
       sidebar:
         title: "Populære sider"
         nav: blog

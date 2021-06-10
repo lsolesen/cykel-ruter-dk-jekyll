@@ -4,6 +4,7 @@ excerpt: "Vi har skrevet en guide til cykelferie, cykelruter og cykeloplevelser 
 tags:
   - cykelferie
 last_modified_at: 2019-04-26T16:59:01Z
+permalink: /guide-til-cykeloplevelser-i-ost-og-vestjylland/
 redirect_from:
   - /guide-til-cykeloplevelser-i-øst-og-vestjylland/
 gallery:
@@ -60,7 +61,7 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 
 ## Køb cykelkort til Østjylland og Vestjylland
 
-{% include gallery layout="half" %}
+{% include gallery layout="half" caption="Køb cykelkort til Østjylland og Vestjylland fra Saxo" %}
 
 ## Andre cykelruter i Danmark
 

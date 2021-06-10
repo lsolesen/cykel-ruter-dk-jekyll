@@ -42,7 +42,7 @@ I denne tabel har jeg givet et bud på, hvor hurtigt man cykler under forskellig
 | Hyggetur med familien | 10-15 km/t |
 | Almindelig cykel - blandet landskab | 15-20 km/t |
 | Racercykel - træningstur - blandet landskab | 25-35 km/t |
-| Racercykel - professionel - blandet landskab | 40-50 km/t | 
+| Racercykel - professionel - blandet landskab | 40-50 km/t |
 
 Jeg vil gerne udvide tabellen med bedre data. Hvis du har nogle gode indsigter og tal fx fra videnskabelige studier, så skriv endelig til mig.
 
@@ -54,7 +54,7 @@ Jeg har lavet en beregner, så du kan udregne hvor hurtigt man cykler x antal ki
 
 ## Hvor langt cykler man i et tidsrum?
 
-I denne beregner kan du udregne hvor mange km, man cykler i timen, når du kender din omtrentlige hastighed og tidsrummet. 
+I denne beregner kan du udregne hvor mange km, man cykler i timen, når du kender din omtrentlige hastighed og tidsrummet.
 
 {% include calculate-hastighed-distance.html %}
 
@@ -93,7 +93,7 @@ På cykel skal du overholde de hastighedsregler, der er på den vej, du kører p
 
 ## Hvad er min gennemsnitshastighed på cykel?
 
-Hastigheden på en cykel kan være alt mellem 0-100 km/t for almindelige mennesker med en gennemsnitshastighed på alt mellem 15-50 km/t. Det afhænger fuldstændig af forholdene. 
+Hastigheden på en cykel kan være alt mellem 0-100 km/t for almindelige mennesker med en gennemsnitshastighed på alt mellem 15-50 km/t. Det afhænger fuldstændig af forholdene.
 
 Din gennemsnitshastighed afhænger af **motoren** på cyklen (som er dig selv), hvor **effektiv** cyklen er (hvor meget energi du kan omsætte til fart), og hvilke **forhindringer**, du møder på vejen af trafik, bakker, modvind og vejens beskaffenhed.
 

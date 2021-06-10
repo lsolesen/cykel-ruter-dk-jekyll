@@ -21,7 +21,6 @@ header:
   caption: "Cykelruter, cykelture og cykelstier i Danmark [Pxhere](https://pxhere.com/da/photo/723487)"
 comments: true
 classes: wide
-author_profile: true
 last_modified_at: 2021-05-31T16:59:01Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771555714/0x500
@@ -171,11 +170,11 @@ author_profile: true
 author: lsolesen
 ---
 
-Her har vi samlet en række cykelruter, cykelture og cykelstier i Danmark i denne oversigt over cykeloplevelser i Danmark. 
+Her har vi samlet en række cykelruter, cykelture og cykelstier i Danmark i denne oversigt over cykeloplevelser i Danmark.
 
 Vi har også lavet dedikerede sider til de [nationale cykelruter]({% link _pages/nationale-cykelruter.md %}), [cykelruter omkring Vejle]({% link _pages/cykelguide-visitvejle.md %}) eller [cykelruter i Østjylland]({% link _pages/cykelguide-oestjylland.md %}) eller [cykelruter i Vestjylland]({% link _pages/cykelguide-vestjylland.md %}).
 
-Mange af de danske cykelruter er skiltede nationale og regionale cykelruter. 
+Mange af de danske cykelruter er skiltede nationale og regionale cykelruter.
 
 Du kan bruge vores oversigt til at danne dig et overblik over de danske cykelruter og [planlægge din næste cykeltur og cykelferie]({% link _posts/2019-07-02-planlaegning-af-turen.md %}).
 

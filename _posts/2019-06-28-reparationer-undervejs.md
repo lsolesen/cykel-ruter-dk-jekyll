@@ -1,5 +1,6 @@
 ---
 title: "Reparationer af cykel undervejs på cykelturen"
+permalink: /reparationer-undervejs/
 tags:
   - cykelferie
   - gode råd
@@ -47,7 +48,7 @@ header:
 
 **Man kan enten trille ud i det blå under devisen - jeg ta'r en taxa, hvis jeg punkterer, eller man kan pakke lidt reparationsgrej i cykeltasken.**
 
-Det er klart, at du kan få mekaniske problemer på en cykelferie. Men du skal ikke lade det afholde dig fra at tage på cykeltur. Med et minimum af forberedelse klarer du langt de fleste problemer. Det vigtigste er at sørge for, at cyklen er i rimelig stand, inden du starter. Tjek at: 
+Det er klart, at du kan få mekaniske problemer på en cykelferie. Men du skal ikke lade det afholde dig fra at tage på cykeltur. Med et minimum af forberedelse klarer du langt de fleste problemer. Det vigtigste er at sørge for, at cyklen er i rimelig stand, inden du starter. Tjek at:
 
 - Dækkene ikke er for slidte. Få dem skiftet hvis de er for gamle.
 - Gear- og bremsekabler kører let. Få dem evt. skiftet/smurt.
@@ -68,34 +69,34 @@ Hvis uheldet er ude, må du prøve at vurdere, om du kan ordne skaden på stedet
 - Pumpe (vær sikker på at den passer til cyklens ventiler)
 - Lappegrej
 - Dækjern
-- Mobiltelefon 
+- Mobiltelefon
 
 {% include feature_row id="feature_row_minimum" type="left" %}
 
 ## Mellem pakken
 
-Ud over minimum kan du medbringe: 
+Ud over minimum kan du medbringe:
 
-- 4+5+6 unbrakonøgler 2.5 + 8 hvis de er nødvendige til din cykel 
-- Skiftenøgle eller 8+9+10+13+14+15 fastnøgler 
+- 4+5+6 unbrakonøgler 2.5 + 8 hvis de er nødvendige til din cykel
+- Skiftenøgle eller 8+9+10+13+14+15 fastnøgler
 - Skruetrækker
-- Philips skruetrækker 
+- Philips skruetrækker
 - Ekstra slange
 - Strips
 
 ## Den store pakke
 
-Ud over minimum og mellem pakken, kan du medbringe: 
+Ud over minimum og mellem pakken, kan du medbringe:
 
-- Wirecutter 
-- Nippelnøgle 
-- Kædeskiller 
-- Ekstra dæk 
-- Ekstra kæde 
-- Gear wire 
-- Bremse wire 
-- Olie 
-- Gummihandsker 
+- Wirecutter
+- Nippelnøgle
+- Kædeskiller
+- Ekstra dæk
+- Ekstra kæde
+- Gear wire
+- Bremse wire
+- Olie
+- Gummihandsker
 - Bogen [Cykelreparation skrevet af Per Henrik Brask\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654)
 
 {% include feature_row id="feature_row_bog" type="left" %}
