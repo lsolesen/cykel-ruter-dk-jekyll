@@ -3,8 +3,27 @@
 /* global $ */
 
 const running = require('./running');
+const gearing = require('./gear');
 
 $(document).ready(function() {
+    $("[name='cadence']").change(function() {
+        $("#calculator_gearing").submit();
+    });
+    $("#calculator_gearing").submit(function(e) {
+        console.log("Calculate gearing");
+        e.preventDefault();
+
+        let wheel_diameter = Number($("[name='wheel_diameter']").val());
+        let klinge = Number($("[name='klinge']").val());
+        let gearhjul = Number($("[name='gearhjul']").val());
+        let cadence = Number($("[name='cadence']").val());
+
+        let c = gearing.Gearing(wheel_diameter, klinge, gearhjul);
+
+        $("#geartal").val(c.getGearTal().toFixed(0));
+        $("#meter_per_round").val(c.getMeterPerRound().toFixed(1));
+        $("#velocity_at_cadence").val(c.getVelocityAtCadence(cadence).toFixed(2));
+    });
     $("#calculator_velocity").submit(function(e) {
         console.log("Calculate velocity");
         e.preventDefault();
