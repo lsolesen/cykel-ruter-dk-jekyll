@@ -9,7 +9,7 @@ header:
   teaser: https://images.unsplash.com/photo-1589051017135-91f772e986b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
 tags:
-  - dæk
+  - cykeldæk
 category:
   - Guide
 last_modified_at: 2021-05-17T18:21:26Z
