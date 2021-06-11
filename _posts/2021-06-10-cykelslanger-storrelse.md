@@ -1,6 +1,6 @@
 ---
 title: &title "Cykelslanger størrelser: Komplet tabel [2021]"
-seo_title: 
+seo_title:
 description: Skal du skifte cykelslange, så tjek vores guide og tabel over størrelser på cykelslanger, hvor du let kan finde ud af, hvilke cykelslange størrelser der passer til dit cykelhjul.
 permalink: /cykelslanger-storrelse-tabel/
 language: da
@@ -88,38 +88,54 @@ Du skal være opmærksom på fire ting, når du vælger en cykelslange til din c
 
 De fire ting du skal kigge efter, når du køber en cykelslange er:
 
-***
-
 ### 1. Størrelsen på slangen
-Det efterlader os med det første og vigtigste punkt, nemlig størrelsen på cykelslangen. Det er så vigtigt, at det får sit eget afsnit.
+
+Størrelsen på slangen er det vigtigste, når du skal have en ny cykelslange. Det kan du læse endnu mere om nedenunder.
 
 ### 2. Typen af ventil
-Angående ventilen skal du sørge for at vælge en cykelslange, hvis ventil passer til dine fælge. Både typen og længden af ventilen er her noget, du skal holde dig for øje.
 
-### 3. Materialet
-Med hensyn til de sidste to punkter er den hurtige anbefaling, at du altid bør gå efter en let cykelslange i punkterfrit materiale.
+På en cykelslange er der en ventil. Du skal sørge for at ventilen passer til din fælge. Det gælder både typen af ventil og længden. Der er tre typer, som har forskellige tykkelser. Det kan du læse lidt mere om længere nede på siden.
 
-### 4. Vægten
-Jo lettere din cykelslange er, jo mindre vægt cirkulerer der i dit hjul.
+### 3. Materialet og vægten
+
+Du kan få cykelslanger i forskellig kvalitet og med forskellig vægt. Spørg cykelhandleren, hvis du er i tvivl. Nogle anbefaler, at du skal købe punkterfri slanger, men dem har jeg nu ikke kunnet finde nogen steder. Til gengæld kan du købe noget væske, så din cykeslange kan blive selvlappende. Det er ret genialt, når det virker.
 
 ## Hvilken størrelse cykelslange skal jeg vælge?
 
-Når du vælger din cykelslange, skal den passe til dit cykeldæk. En cykelslange kan ganske vist udvides, så den passer til lidt større størrelse dæk end den er udviklet til. Men det bedste resultat får du, hvis  du vælger en cykelslange i den størrelse, der er passer præcist til din dækstørrelse.
+Når du vælger din cykelslange, skal den passe til dit cykeldæk. Du kan slippe afsted med at købe en cykelslange, som ikke passer nøjagtigt til dit cykelhjul. En cykelslange kan udvides lidt, så den passer til et større hjul, eller du kan sætte en slange på, der er lidt for stor.
 
-Din dækstørrelse kan stå på en af tre følgende måder: tommer, ERTO eller franske mål. Vær derfor sikker på, hvordan dit dæks størrelse er angivet, når du begiver dig ud på jagten efter en ny cykelslange.
+Men det bedste er at vælge en cykelslange i den størrelse, der passer præcist til din hjulstørrelse og dækstørrelse.
 
-ERTO angives i millimeter og viser både bredde og diameter af slangen. Eksempelvis 54-622, hvor det mindste tal angiver bredden på gækket og det højeste tal angiver diameteren.
-Tommer angives typisk i stil med dette: 26 x 2,10”. Her er det især det første mål, du skal bruge til at vælge cykelslage efter.
+Din cykelslange skal passe til din dækstørrelse. Størrelsen på dine dæk kan være angivet på forskellige måder:
 
-Fransk mål minder i skrivemåden lidt om tommer, men angives med et lille c til slut, som for eksempel: 700 x 23 c. Også her er det især det første mål, du skal bruge, når du vælger slange.
+- **tommer**. Angives typisk sådan her 26 x 2,10”. Her er det det første tal, du skal vælge cykelslange efter.
+- **ERTRO**. Angives i mm og viser både bredde og diameter af slangen. Et eksempel er 28-622. Det mindste tal angiver bredden på dækket, og det højeste tal angiver diameteren.
+- **franske mål**. I franske mål er skrivemåden lidt som i tommer, men med et C bagefter. Fx 700 x 23C. Her skal du også bruge det første mål.
+- **tyske mål**. Tyske mål angives som de franske mål, men der er ingen C bagefter.
+
+Jeg har skrevet mere om de [forskellige mål for dækstørrelser her]({% link _posts/2021-06-10-cykeldaek-storrelse.md %}).
 
 ## Hvordan finder jeg størrelsen på min cykelslange?
 
+Hvis du er i tvivl om, hvilken størrelse cykelslange du skal bruge, så skal du finde ud af, hvor stort dit cykeldæk er. Hvis ikke du kan aflæse størrelsen direkte på dit dæk, så kan du finde ud af her, hvordan du finder størrelsen på cykelhjulet.
+
+{% include video provider="youtube" id="WS1t3M7X7uQ" %}
+
 ## Hvilken type ventil skal jeg vælge?
 
-Der findes tre forskellige typer ventiler på cykelslanger. De hedder auto, race og Dunlop. Ventiler af typen Dunlop og auto er 8,5 mm tykke, mens racerventiler er noget smallere med deres 6,5 mm.
+{% include figure image_path="https://ecykelhjelm.dk/img/cms/ventil.gif" caption="De forskellige ventiler. Racerventil, Dunlop-ventil og Schrader auto ventil. Kilde: [E-cykelhjelm.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=74224){: rel='nofollow' }" alt="ventil cykelslange" %}
 
-Alle cyklers fælge kan tage en racerventil, så reelt er det kun, når du vil have en anden type ventil, at du skal tjekke dine fælge. Længden på ventilen er ligeledes også noget, du ikke nødvendigvis behøver at spekulere på. Kun når du har en cykel med en høj fælg, kan en længere ventil være påkrævet.
+Der findes overordnet tre forskellige typer ventiler på cykelslanger. De hedder racerventil, dunlop (som tidligere var den mest almindelige) og auto (bilventil). Dunlop-ventiler og auto-ventiler er 8,5 mm tykke, mens racerventiler er 6,5 mm.
+
+| Ventil | Bredde |
+|-|-|
+| Dunlop | 8,5mm |
+| Racer | 6,5mm |
+| Auto | 8,5mm |
+
+Du kan bruge en racerventil på fælgen af alle cykler. Hvis du vil vælge Dunlop eller auto-ventiler, så skal du altså tjkke om den kan komme igennem din fælge. Længden på ventilen betyder ikke så meget i langt de fleste sammennhænge med mindre du har en usædvanlig høj fælg.
+
+{% comment %}
 
 ## Ofte stillede spørgsmål
 
@@ -132,12 +148,15 @@ Ja, det er langt fra alle cykelslanger der er lige gode.
 🤔Er der forskel på ventil størrelser?
 Ja, alt efter hvilken type cykeldæk du bruger vil der være forskel på ventilstørrelsen.
 
+{% endcomment %}
+
 ## Hvordan skifter jeg slange på min cykel?
 
-https://youtu.be/3ZwH2Sww3qE
+Når du har købt en ny cykelslange i den rigtige størrelse, så skal du have skiftet den gamle slange.
 
-  
-***
+Du kan heldigvis finde en relativt let guide på Youtube til, hvordan du skifter slange på din cykel.
+
+{% include video provider="youtube" id="3ZwH2Sww3qE" %}
 
 ## Konklusion
 
