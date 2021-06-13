@@ -8,7 +8,7 @@ header:
   teaser: *image
   caption: "Photo by Solé Bicycles on Unsplash"
 category:
-  - National
+  - National Cykelrute
 tags:
   - cykelrute
   - national

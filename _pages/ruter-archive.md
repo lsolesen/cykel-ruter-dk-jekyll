@@ -172,7 +172,7 @@ author: lsolesen
 
 Her har vi samlet en række cykelruter, cykelture og cykelstier i Danmark i denne oversigt over cykeloplevelser i Danmark.
 
-Vi har også lavet dedikerede sider til de [nationale cykelruter]({% link _pages/nationale-cykelruter.md %}), [cykelruter omkring Vejle]({% link _pages/cykelguide-visitvejle.md %}) eller [cykelruter i Østjylland]({% link _pages/cykelguide-oestjylland.md %}) eller [cykelruter i Vestjylland]({% link _pages/cykelguide-vestjylland.md %}).
+Vi har også lavet dedikerede beskrivelser af af [nationale cykelruter]({% link _pages/nationale-cykelruter.md %}), [regionale cykelruter]({% link _pages/regionale-cykelruter.md %}), [cykelruter omkring Vejle]({% link _pages/cykelguide-visitvejle.md %}) eller [cykelruter i Østjylland]({% link _pages/cykelguide-oestjylland.md %}) eller [cykelruter i Vestjylland]({% link _pages/cykelguide-vestjylland.md %}).
 
 Mange af de danske cykelruter er skiltede nationale og regionale cykelruter.
 
@@ -189,14 +189,6 @@ I Danmark findes der tusindvis af skiltede og [kortlagte nationale og regionale 
 
 Jeg har selv skrevet en oversigt over [cykelruter i Østjylland]({% link _pages/cykelguide-oestjylland.md %}), [cykelruter i Vestjylland]({% link _pages/cykelguide-oestjylland.md %}) og [cykelture i Vejle]({% link _pages/cykelguide-visitvejle.md %}). Du kan også tjekke [cykelruter omkring Århus, Skanderborg, Djursland og Favrskov](/cykelruter-aarhus/) eller [cykelruter i København]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}).
 
-## Køb bogen Cykelture i Danmark
-
-{% include feature_row id="feature_row" type="left" %}
-
-## Cykelkort til cykelruter i Danmark
-
-Jeg har skrevet et indlæg om, hvordan man [vælger et godt cykelkort](/cykelkort/) til de forskellige danske cykelruter.
-
 {% assign site_posts = site.routes | sort: "title" %}
 
 ## {{ site_posts.size }} cykelruter, cykelture og cykelstier i Danmark
@@ -210,6 +202,14 @@ Her har jeg samlet alle beskrivelserne af cykelruter her på cykel-ruter.dk. Hvi
   {% endfor %}
 </div>
 {% endif %}
+
+## Køb bogen Cykelture i Danmark
+
+{% include feature_row id="feature_row" type="left" %}
+
+## Cykelkort til cykelruter i Danmark
+
+Jeg har skrevet et indlæg om, hvordan man [vælger et godt cykelkort](/cykelkort/) til de forskellige danske cykelruter.
 
 ## {{ page.feature_row_routes.size }} andre oversigter cykelruter og cykelture i Danmark
 

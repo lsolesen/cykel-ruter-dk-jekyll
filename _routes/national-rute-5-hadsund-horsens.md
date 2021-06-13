@@ -8,7 +8,7 @@ header:
   teaser: *image
   caption: "Stemningsbillede fra ruten mellem Rønde og Århus."
 category:
-  - Regional
+  - National Cykelrute
 tags:
   - cykelrute
   - national

@@ -5,9 +5,9 @@ last_modified_at: 2012-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
   teaser: *image
-  caption: "Billede: Viden om Friluftsliv"
+  caption: "Billede: www.videnomfriluftsliv.dk"
 category:
-  - National
+  - National Cykelrute
 tags:
   - cykelrute
   - national

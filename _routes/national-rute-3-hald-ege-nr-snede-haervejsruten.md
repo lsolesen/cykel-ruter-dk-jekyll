@@ -8,7 +8,7 @@ header:
   teaser: *image
   caption: "Photo by Maico Amorim on Unsplash"
 category:
-  - National
+  - National Cykelrute
 tags:
   - cykelrute
   - national
@@ -51,4 +51,3 @@ Efter Rørbæk Sø triller du videre sydover gennem terrænet ad den snoede grus
 Efter en længere tur på grusvej, er der igen sikker asfalt under hjulene, mens du træder det sidste stykke op mod den højt beliggende Øster Nykirke og Sankt Peder helligkilde, som ligger overfor kirken. I dag er kilden dog ikke særligt indbydende. Beskrivelsen har ender i Nørre Kollemorten, men hvis du ikke er helt mørbanket fra dagens strabadser, kan du køre videre mod Givskud, hvor især Løveparken er et besøg værd.
 
 {% include maps-ad.md %}
-

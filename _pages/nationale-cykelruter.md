@@ -95,7 +95,7 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 Vi har beskrevet nogle af de nationale cykelruter her:
 
-{% assign site_posts = site.routes | where: "category", "National" | sort: "title" %}
+{% assign site_posts = site.routes | where: "category", "National Cykelrute" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

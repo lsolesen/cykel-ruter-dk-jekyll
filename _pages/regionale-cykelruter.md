@@ -50,10 +50,10 @@ I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cy
 
 De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet alle de regionale cykelruter, jeg har tilladelse til her på sitet. Hvis du vil bidrage med beskrivelser af nogle regionale cykelruter, så vil jeg blive rigtig glad.
 
-{% assign site_posts = site.routes | where: "category", "Regional" | sort: "title" %}
+{% assign site_posts = site.routes | where: "category", "Regional Cykelrute" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
-<div class="feature__row">
+<div class="feature__wrapper">
   {% for post in site_posts %}
     {% include archive-single.html %}
   {% endfor %}
@@ -62,7 +62,7 @@ De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet 
 
 ## Kort over de regionale cykelruter
 
-Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de regionale cykelruter. Du kan få et overblik over de [nationale cykelruter på Vejdirektoratets side](https://www.vejdirektoratet.dk/faq-svar/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter), men det kan også være godt at have mere detaljerede kort.
+Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de regionale cykelruter.
 
 Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor man kan blive i tvivl.
 
@@ -74,7 +74,7 @@ Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](http
 
 ## Download GPS og GPX-track af de regionale cykelruter
 
-Det er faktisk ikke så let at finde nogle steder, hvor du kan downloade de nationale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
+Det er faktisk ikke så let at finde nogle steder, hvor du kan downloade de regionale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
 
 Du kan finde nogle af de regionale cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem. 
 

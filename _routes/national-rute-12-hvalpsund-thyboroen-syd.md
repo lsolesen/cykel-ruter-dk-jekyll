@@ -7,7 +7,7 @@ header:
   teaser: *image
   caption: "Billede fra Visitmors"
 category:
-  - National
+  - National Cykelrute
 tags:
   - cykelrute
   - national

@@ -8,7 +8,7 @@ header:
   teaser: *image
   caption: "Stemningsbillede fra ruten mellem Århus og Bryrup"
 category:
-  - Regional
+  - National Cykelrute
 tags:
   - cykelrute
   - national

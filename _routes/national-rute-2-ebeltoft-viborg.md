@@ -8,7 +8,7 @@ header:
   teaser: *image
   caption: "Billede fra ebeltoft.dk"
 category:
-  - National
+  - National Cykelrute
 tags:
   - cykelrute
   - national

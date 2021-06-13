@@ -8,7 +8,7 @@ header:
   teaser: *image
   caption: "Billede fra Wikipedia"
 category:
-  - National
+  - National Cykelrute
 tags:
   - cykelrute
   - national
@@ -27,4 +27,3 @@ related: "National Cykelrute 2"
 Følger senere. Brug kommentarerne, hvis vi skal beskrive ruten lidt hurtigere.
 
 {% include maps-ad.md %}
-

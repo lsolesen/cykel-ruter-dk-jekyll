@@ -8,7 +8,7 @@ header:
   teaser: *image
   caption: "Billede fra Wikipedia"
 category:
-  - National
+  - National Cykelrute
 tags:
   - cykelrute
   - national
