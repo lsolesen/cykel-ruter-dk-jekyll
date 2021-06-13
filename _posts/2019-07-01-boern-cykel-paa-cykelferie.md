@@ -14,7 +14,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/boernetrailere/thule-coaster-xt---cykeltrailer-til-2-boern---sortturkis
     btn_label: "Tjek prisen hos cykelpartner.dk"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 feature_row_bee:
   - image_path: https://www.fotoagent.dk/single_picture/10678/138/mega/BU945203.jpg
     alt: "Burley Honey Bee Cykelanhænger"
@@ -23,7 +23,7 @@ feature_row_bee:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59734&htmlurl=https://www.cykler.dk/burley-honey-bee-cykelanhaenger.aspx"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 sidebar:
   nav: bikes
 header:

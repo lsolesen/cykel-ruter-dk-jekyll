@@ -24,7 +24,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
     btn_label: "Læs mere*"
     btn_class: "btn--inverse"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Jeg kan godt lide at udfordre mig selv lidt med lange, hårde bakker, når jeg cykler. Jeg har derfor kigget lidt efter de længste, stejleste, største og hårdeste bakker i Danmark. Her er hvad jeg fandt ud.
@@ -71,6 +71,6 @@ Så er det bare at få planlagt din tur. Hvor mange højdemeter kan du få i ben
 
 - [Climbs.dk](https://www.climbs.dk)
 - [Danmarks hårdeste cykelbakker](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)
-- [Danmarks Bjerge af Roger Pihl](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/products/search?query=roger+pihl+bjerge){: rel="sponsored" }
+- [Danmarks Bjerge af Roger Pihl](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/products/search?query=roger+pihl+bjerge){: rel="sponsored nofollow noopener" }
 
 {% include feature_row type="left" %}

@@ -24,48 +24,48 @@ cykelmekaniker:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 scanmaps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_nordlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d57?G=020
     alt: "#1 Nordlige Sjælland"
     title: "#1 Nordlige Sjælland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_sydlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d58?G=020
     alt: "#2 Sydlige Sjælland, Møn, Lolland og Falster"
     title: "#2 Sydsjælland, Møn, Lolland og Falster"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
     url: https://www.scanmaps.dk/0251f59?G=020
     alt: "#3 Fyn, Ærø, Tåsinge og Langeland"
     title: "#3 Fyn, Ærø, Tåsinge og Langeland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
     url: https://www.scanmaps.dk/0251d60?G=020
     alt: "#4 Østlige Jylland"
     title: "#4 Østlige Jylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d63?G=020
     alt: "#5 Nordlige Jylland"
     title: "#5 Nordlige Jylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_vestlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d62?G=020
     alt: "#6 Vestlige Jylland"
     title: "#6 Vestlige Jylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d61?G=020
     alt: "#7 Sydlige Jylland"
     title: "#7 Sydlige Jylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_bornholm.jpg
     url: https://www.scanmaps.dk/0251d64?G=020
     alt: "#8 Bornholm"
     title: "#8 Bornholm"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Jeg er lige ved at lede efter den perfekte cykelrute til børn. Jeg vil nemlig gerne på cykeltur med mine 5 til 9-årige piger, og jeg har kigget lidt på forskellige råd til at vælge en god børnevenlig cykelrute?
@@ -98,4 +98,4 @@ Tænk over følgende når du vælger cykelrute:
 
 Jeg har skrevet et andet indlæg [med en række tankevækkende tips til cykelturen med børn]({% link _posts/2020-06-07-raad-til-cykelturen-med-boern.md %}), og så husk at få fat i et [godt cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}). Jeg har skrevet en grundig guide til, hvordan du kan vælge det bedste af slagsen.
 
-{% include gallery id="scanmaps" caption="Du kan købe cykelkort hos vores samarbejdspartner Nordisk Korthandel på [scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel='sponsored' }" %}
+{% include gallery id="scanmaps" caption="Du kan købe cykelkort hos vores samarbejdspartner Nordisk Korthandel på [scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }" %}

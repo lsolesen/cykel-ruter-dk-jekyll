@@ -66,7 +66,7 @@ Derfor er det mest rigtige i forhold til at udregne, hvor meget energi man bruge
 
 Derfor har jeg også inkluderet MET-værdier for _stationære_ cykler (kondicykler), hvor MET-værdierne er noteret på Watt.
 
-Fordelen ved at bruge Watt er, at det typisk måles i pedalerne, så derfor siger Watt-målingen noget om den faktiske intensitet. Cykelpartner.dk har fx den meget roste [Garmin Vector wattpedal](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/pedaler-til-racercykler/garmin-vector-3s---pedaler-med-watt-maaling---enkelt-sensor){: rel="sponsored" }, hvis du er interesseret i at læse mere om wattpedaler.
+Fordelen ved at bruge Watt er, at det typisk måles i pedalerne, så derfor siger Watt-målingen noget om den faktiske intensitet. Cykelpartner.dk har fx den meget roste [Garmin Vector wattpedal](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/pedaler-til-racercykler/garmin-vector-3s---pedaler-med-watt-maaling---enkelt-sensor){: rel="sponsored nofollow noopener" }, hvis du er interesseret i at læse mere om wattpedaler.
 
 Hvis ikke du har adgang til wattmålere, så kan du også med pulsen få en mere præcis vurdering af din intensitet på cyklen.
 
@@ -192,9 +192,9 @@ Du kan læse mere om, [hvor meget du forbrænder ved at gå på motionsplan.dk](
 
 Hvis du har lyst til at støtte dette site, så kan du overveje at købe hos en af vores partnere, hvor vi får en lille kommision, hvis du køber gennem vores links.
 
-Tjek fx prisen på wattmålere hos [Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/search/?query=wattm%C3%A5ler){: rel="sponsored" }. I forhold til hvad man får ud af det, hvis du træner seriøst, så synes jeg ikke, at de er så dyre. Hvis du bare nyder at cykle på dagsture og cykelferier, så har du ikke brug for en wattmåler.
+Tjek fx prisen på wattmålere hos [Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/search/?query=wattm%C3%A5ler){: rel="sponsored nofollow noopener" }. I forhold til hvad man får ud af det, hvis du træner seriøst, så synes jeg ikke, at de er så dyre. Hvis du bare nyder at cykle på dagsture og cykelferier, så har du ikke brug for en wattmåler.
 
-Jeg er selv utrolig glad for mit [Garmin Fenix](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146){: rel="sponsored" }, som du kan tjekke priserne på hos [Proshop.dk](https://www.proshop.dk/?s=garmin+fenix){: rel="sponsored" }. De lidt ældre modeller er ikke så dyre.
+Jeg er selv utrolig glad for mit [Garmin Fenix](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146){: rel="sponsored nofollow noopener" }, som du kan tjekke priserne på hos [Proshop.dk](https://www.proshop.dk/?s=garmin+fenix){: rel="sponsored nofollow noopener" }. De lidt ældre modeller er ikke så dyre.
 
 {% include feature_row type="left" id="watt" %}
 

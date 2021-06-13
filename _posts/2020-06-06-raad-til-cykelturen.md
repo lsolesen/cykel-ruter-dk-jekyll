@@ -22,7 +22,7 @@ cykelmekaniker:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Jeg elsker at tage på cykeltur, og jeg vil rigtig gerne have selskab af familien. Her har jeg samlet nogle af de tips, jeg bruger for at give medvind på cykelturen og cykelferien.
@@ -133,15 +133,15 @@ Man kan hurtigt købe sig helt fattigt i cykel- og friluftsudstyr, fordi der fin
 
 Du skal selvfølgelig huske at have en god cykelhjelm på, hvor du får lidt luft til hovedet undervejs på cykelturen. En cykelhjelm er naturligvis ikke et lovkrav - det er bare en virkelig god ide.
 
-Cykelpartner.dk har [mange forskellige cykelhjelme i forskellige modeller og farver. Tjek priserne](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelhjelme){: rel="sponsored" }.
+Cykelpartner.dk har [mange forskellige cykelhjelme i forskellige modeller og farver. Tjek priserne](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelhjelme){: rel="sponsored nofollow noopener" }.
 
 ## 11) Tænk på komforten på cyklen
 
 Når du skal cykle langt, så er det godt at tænke over, hvilke kontaktpunkter, du har med cyklen. Du sidder på cykelsadlen, fødderne på pedalerne og hænderne på styret. Hvis vi tager udgangspunkt i disse vigtige kontaktpunkter, så tænker jeg over følgende:
 
-- **Gode cykelbukser eller cykelshorts skåner bagdelen** og **giver mindre ømhed**. Det er vigtigt, at dine cykelunderbukser eller indershorts ikke har irriterende søm, der kan ende med at give dig skrabesår. Du vil aldrig fortryde, at du har valgt at tage afsted i et par cykelshorts. Du kan [tjekke priser og modeller på cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelbukser){: rel="sponsored" }. Det behøver ikke at være så dyrt.
+- **Gode cykelbukser eller cykelshorts skåner bagdelen** og **giver mindre ømhed**. Det er vigtigt, at dine cykelunderbukser eller indershorts ikke har irriterende søm, der kan ende med at give dig skrabesår. Du vil aldrig fortryde, at du har valgt at tage afsted i et par cykelshorts. Du kan [tjekke priser og modeller på cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelbukser){: rel="sponsored nofollow noopener" }. Det behøver ikke at være så dyrt.
 - Tænk over **hvilke sko** du vælger på turen. Cykelsko med stive såler giver den bedste kraftoverførsel til pedalerne. Fx kan bløde løbesko eller lignende godt belaste dine fødder meget på en længere cykeltur. Jeg er begyndt at cykle med rigtige cykelsko, som kan klikke fast til pedalerne. Det nyder jeg rigtig meget nu, men jeg har i 20 år kørt i helt almindelige sko.
-- Et par **gode cykelhandsker** kan være guld værd, hvis du skal undgå ømme håndflader og måske en gnavende vabel. [Fri BikeShop har flere prisbillige varianter af cykelhandsker at vælge imellem](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/cykeltoej/haender-og-foedder/cykelhandsker){: rel="sponsored" }.
+- Et par **gode cykelhandsker** kan være guld værd, hvis du skal undgå ømme håndflader og måske en gnavende vabel. [Fri BikeShop har flere prisbillige varianter af cykelhandsker at vælge imellem](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/cykeltoej/haender-og-foedder/cykelhandsker){: rel="sponsored nofollow noopener" }.
 
 ## 12) Påklædning på cykelturen
 
@@ -159,7 +159,7 @@ Når I kører i landskabet, så hold øje med kirketårnene, som jeg ofte bruger
 
 Jeg tegner ofte min rute på Garmin Connect, men jeg har også tegnet en del ruter på Alltrails, som I kan se under ruterne. Der findes flere redskaber, hvor du kan tegne din rute.
 
-Det hjælper virkelig meget undervejs, at man let kan se, om man er på rette vej uden at skulle stå af cyklen for at kigge på kort. Jeg bruger bare mit Garmin Fenix ur, men man kan også købe deciderede cykelcomputere. Fri BikeShop har [forskellige muligheder for navigation på cyklen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=http://www.fribikeshop.dk/cykeludstyr/til-dig/cykelcomputer){: rel="sponsored" }. Jeg ville helt sikkert vælge noget med GPS.
+Det hjælper virkelig meget undervejs, at man let kan se, om man er på rette vej uden at skulle stå af cyklen for at kigge på kort. Jeg bruger bare mit Garmin Fenix ur, men man kan også købe deciderede cykelcomputere. Fri BikeShop har [forskellige muligheder for navigation på cyklen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=http://www.fribikeshop.dk/cykeludstyr/til-dig/cykelcomputer){: rel="sponsored nofollow noopener" }. Jeg ville helt sikkert vælge noget med GPS.
 
 Men intet slår et godt cykelkort. Jeg har skrevet om, [hvilket cykelkort jeg vil vælge i et andet indlæg](/cykelkort/). Jeg er engang kommet afsted med et bilkort i stedet, hvilket kostede en del på energien, fordi det var vanskeligt rigtigt at se afstandene.
 

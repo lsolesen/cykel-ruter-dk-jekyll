@@ -19,7 +19,7 @@ gallery:
     excerpt: "Vestkystruten er en del af den internationale cykelrute Eurovelo 12 Nordsøcykelruten på i alt 5.942 km. Den nationale cykelrute, Vestkystruten, udgør i alt 560 km langs Danmarks Vestkyst."
     btn_label: "Tjek prisen*"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251b18.jpg
     url: https://www.scanmaps.dk/0251b18?G=020
     alt: "Kort over Hærvejen - Heerweg/Ochsenweg (von Viborg nach Hamburg)"
@@ -27,7 +27,7 @@ gallery:
     excerpt: "Hærvejen er flere hundrede kilometer vandre- og cykelrute, der løber på langs ned gennem Jylland. Dette cykelkort er virkelig godt og detaljeret, selvom det er på tysk til at vise den nationale cykelrute, Hærvejsruten."
     btn_label: "Tjek prisen*"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg
     url: https://www.scanmaps.dk/0251g04?G=020
     alt: "Kort over Nationalrute 8. Der Ostsee-Radweg - Dänemark"
@@ -35,15 +35,15 @@ gallery:
     excerpt: "Kortbogen dækker den nationale cykelrute 8 - Østersøruten. En cykeltur gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. En ting er sikkert, den smukke og varierede natur og det rige kulturlandskab vil gøre din cykelferie langs den danske Østersørute til en uforglemmelig oplevelse."
     btn_label: "Tjek prisen*"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0222650_1.jpg
     url: https://www.scanmaps.dk/0222650?G=020
     alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
     title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
-    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort](https://www.scanmaps.dk/0251d57?G=020){: rel='sponsored' }."
+    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort](https://www.scanmaps.dk/0251d57?G=020){: rel='sponsored nofollow noopener' }."
     btn_label: "Tjek prisen*"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 toc: true
 created_at: 2019-10-03T09:48:02+02:00
 last_modified_at: 2021-04-03T07:48:02+02:00
@@ -98,7 +98,7 @@ Vi har beskrevet nogle af de nationale cykelruter her:
 {% assign site_posts = site.routes | where: "category", "National" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
-<div class="feature__row">
+<div class="feature__wrapper">
   {% for post in site_posts %}
     {% include archive-single.html %}
   {% endfor %}
@@ -115,9 +115,9 @@ Hvilket cykelkort du skal bruge til de nationale cykelruter afhænger naturligvi
 
 Forlaget Estebauer producerer en serie af cykelkort [Bikeline\*](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020), hvor et par af kortene dækker udvalgte danske nationale cykelruter.
 
-Bikelines kort dækker fire af de 11 nationale cykelruter. Kortbøgerne sælges fra [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020) og dækker Nationalrute 1 Vestkystruten, Nationalrute 3: Hærvejsruten, Nationalrute 8: Østersøruten og i nogen udstrækning Nationalrute 9: Helsingør-Gedser.
+Bikelines kort dækker fire af de 11 nationale cykelruter. Kortbøgerne sælges fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" } og dækker Nationalrute 1 Vestkystruten, Nationalrute 3: Hærvejsruten, Nationalrute 8: Østersøruten og i nogen udstrækning Nationalrute 9: Helsingør-Gedser.
 
-{% include feature_row type="left" id="gallery" %}
+{% include feature_row type="left" id="gallery" caption="Link er reklamelinks" %}
 
 ## Værd at vide om Bikelines cykelkort
 
@@ -131,7 +131,7 @@ Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til d
 
 {% include gallery layout="half" %}
 
-Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored" }.
+Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored nofollow noopener" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }.
 
 ## Download GPS og GPX-track af de nationale cykelruter
 

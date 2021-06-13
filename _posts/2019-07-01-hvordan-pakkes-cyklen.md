@@ -15,7 +15,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-til-bag/ortlieb---bike-packer-plus---blaa-2-x-21-liter"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 sidebar:
   nav: bikes
 header:

@@ -21,7 +21,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
     btn_label: "Læs mere*"
     btn_class: "btn--inverse"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Jeg har tre piger, og jeg vil virkelig gerne have dem med ud at cykle. Og de kan faktisk godt lide at cykle, hvis det er en del af et lille eventyr eller en udflugt. Men hvor langt kan børn egentlig cykle?
@@ -38,7 +38,7 @@ En af forklaringerne skal findes i størrelsen af deres hjul. Hvis du selv har p
 
 Samtidig er mange børnecykler relativt tunge i forhold til deres størrelse. Jeg har købt en relativt let børnecykel med relativt store hjul til min 9-årige pige, og det er tydeligt blevet meget lettere for hende at køre på cykel.
 
-Cykelhandlerne er heldigvis begyndt at have en del letvægtscykler til børn, som kan gøre, at de kan cykle længere. Du kan se udvalget af børnecykler hos [cykelexperten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/bornecykler/){: rel="sponsored" }. Jeg synes, at de har en god kundeservice, hvis du spørger efter råd.
+Cykelhandlerne er heldigvis begyndt at have en del letvægtscykler til børn, som kan gøre, at de kan cykle længere. Du kan se udvalget af børnecykler hos [cykelexperten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/bornecykler/){: rel="sponsored nofollow noopener" }. Jeg synes, at de har en god kundeservice, hvis du spørger efter råd.
 
 ## Hvor langt kan 4-årige køre?
 

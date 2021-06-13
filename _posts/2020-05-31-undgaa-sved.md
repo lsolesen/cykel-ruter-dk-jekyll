@@ -22,7 +22,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
     btn_label: "Læs mere*"
     btn_class: "btn--inverse"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Jeg foretrækker at cykle rundt, når jeg skal noget. Det er en god måde at komme rundt på, og jeg vil også gerne have min familie med. Min bedre halvdel bruger imidlertid meget tid på at tænke på, hvordan hun undgår at svede, når hun cykler, så jeg har undersøgt nogle forskellige strategier.
@@ -48,11 +48,11 @@ Du skal selvfølgelig klæde dig på efter vejrforholdene, når du cykler. Det e
 
 Vælg tøj i åndbart materiale. Du kan finde masser af forskellige løsninger i de forskellige cykelforretninger. Sørg for at tøjet kan åbnes op ved hænder og på benene, da den overskydende varme ellers bliver lukket inde. Det kan også være rigtig godt at have udluftning under armene.
 
-Når du klæder dig på, så kan du også tænke på princippet **lag på lag**. Hvis du let kan fjerne noget af tøjet, hvis det var varmere end du havde forventet, så kan du undgå at din kropstemperatur kommer alt for højt op. Jeg kan personligt godt lide at cykle i en vest, hvor der er masser af udluftning. Jeg kan godt lide de sorte modeller fra Alé, som du kan se hos [cykelexperten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=35898&htmlurl=https://cykelexperten.dk/regntoej-vind/?pa_cx-aarstid=sommer?source=partner-ads){: rel="sponsored" }.
+Når du klæder dig på, så kan du også tænke på princippet **lag på lag**. Hvis du let kan fjerne noget af tøjet, hvis det var varmere end du havde forventet, så kan du undgå at din kropstemperatur kommer alt for højt op. Jeg kan personligt godt lide at cykle i en vest, hvor der er masser af udluftning. Jeg kan godt lide de sorte modeller fra Alé, som du kan se hos [cykelexperten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=35898&htmlurl=https://cykelexperten.dk/regntoej-vind/?pa_cx-aarstid=sommer?source=partner-ads){: rel="sponsored nofollow noopener" }.
 
-Hvis det er nødvendigt med regntøj, så kan du med fordel få fat i noget åndbart cykelregntøj for at undgå, at du ikke kan udnytte nedkølingen fra vinden. Du kan tjekke [aktuelle priser og modeller på åndbart regntøj hos cykelexperten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=35898&htmlurl=https://cykelexperten.dk/regntoej-vind/?source=partner-ads){: rel="sponsored" }.
+Hvis det er nødvendigt med regntøj, så kan du med fordel få fat i noget åndbart cykelregntøj for at undgå, at du ikke kan udnytte nedkølingen fra vinden. Du kan tjekke [aktuelle priser og modeller på åndbart regntøj hos cykelexperten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=35898&htmlurl=https://cykelexperten.dk/regntoej-vind/?source=partner-ads){: rel="sponsored nofollow noopener" }.
 
-I den forbindelse kan du også tænke over, hvilken cykelhjelm du bruger. Der findes mange smarte cykelhjelme, hvor der er meget lidt ventilation og luftgennemstrømning i. Vælg en cykelhjelm med masser af ventilationshuller. Cykelhjelme fås i et utal af modeller, priser og farver. Du kan tjekke det [aktuelle udvalg af hjelme hos cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelhjelme){: rel="sponsored" }.
+I den forbindelse kan du også tænke over, hvilken cykelhjelm du bruger. Der findes mange smarte cykelhjelme, hvor der er meget lidt ventilation og luftgennemstrømning i. Vælg en cykelhjelm med masser af ventilationshuller. Cykelhjelme fås i et utal af modeller, priser og farver. Du kan tjekke det [aktuelle udvalg af hjelme hos cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelhjelme){: rel="sponsored nofollow noopener" }.
 
 ## Hold ryggen fri for bagage og sved
 

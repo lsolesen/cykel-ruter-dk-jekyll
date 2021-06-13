@@ -63,7 +63,7 @@ Når du måler dit barns hovedomkreds er det vigtigt, at du bruger et målebånd
 
 ## Hvornår skal børn have cykelhjelm?
 
-[Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/baby-cykelhjelm/){: rel="sponsored" } skriver, at man en baby typisk fra 9-10 måneders alderen selv kan sidde og har stærke nok nakkemuskler til at kunne være med på cyklen. Derfor har jeg også startet guiden til hovedstørrelser for børn omkring den alder.
+[Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/baby-cykelhjelm/){: rel="sponsored nofollow noopener" } skriver, at man en baby typisk fra 9-10 måneders alderen selv kan sidde og har stærke nok nakkemuskler til at kunne være med på cyklen. Derfor har jeg også startet guiden til hovedstørrelser for børn omkring den alder.
 
 Du skal naturligvis altid starte med relativt korte ture, da det er hårdt for babyens ryg og nakke at skulle sidde oprejst i en cykelstol samtidig med vægten fra cykelhjelmen og alle bevægelserne fra cyklerne.
 
@@ -89,7 +89,7 @@ Her ses skemaet for gennemsnittet af hovedmål ud fra alder, som kan bruges vejl
 
 Du kan se de samme værdier i denne grafik:
 
-{% include figure image_path="/assets/images/barn-hovedstorrelse-cykelhjelm.png" caption="Hovedmål for børn og størrelsesguide. Kilde: [Luksusbaby.dk](https://luksusbaby.dk/shop/cms-st%C3%B8rrelsesguide.html) og [cykel-partner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelhjelme-boernjunior/nutcase---street-mips---check-me){: rel='sponsored' }" %}
+{% include figure image_path="/assets/images/barn-hovedstorrelse-cykelhjelm.png" caption="Hovedmål for børn og størrelsesguide. Kilde: [Luksusbaby.dk](https://luksusbaby.dk/shop/cms-st%C3%B8rrelsesguide.html) og [cykel-partner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelhjelme-boernjunior/nutcase---street-mips---check-me){: rel='sponsored nofollow noopener' }" %}
 
 ## Hvilken cykelhjelm størrelse skal mit barn have?
 
@@ -127,7 +127,7 @@ En del af Nutcase cykelhjelme har et spænde der kan stilles i følgende større
 
 Det er forskelligt fra cykelhjelm til cykelhjelm, hvordan du får den til at sidde rigtigt efter, at du har valgt den rigtige størrelse.
 
-{% include figure image_path="https://www.cykelpartner.dk/media/77611/cykelhjelm-guide.png" caption="Hvis du kan indstille cykelhjelmen rigtigt, så ved du om cykelhjelmen passer i størrelsen til dit barn. Kilde: [cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=http://www.cykelpartner.dk){: rel='sponsored' }" alt="størrelse og indstilling af cykelhjelm til børn" %}
+{% include figure image_path="https://www.cykelpartner.dk/media/77611/cykelhjelm-guide.png" caption="Hvis du kan indstille cykelhjelmen rigtigt, så ved du om cykelhjelmen passer i størrelsen til dit barn. Kilde: [cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=http://www.cykelpartner.dk){: rel='sponsored nofollow noopener' }" alt="størrelse og indstilling af cykelhjelm til børn" %}
 
 Her har du tre tommelfingerregler for at få hjelmen til at sidde rigtigt:
 
@@ -135,7 +135,7 @@ Her har du tre tommelfingerregler for at få hjelmen til at sidde rigtigt:
 2. Hjelmen skal altid sidde helt vandret på hovedet
 3. De forreste stropper skal gå lodret ned og stropperne skal sidde godt til, når spændet omkring hagen lukkes
 
-Det er også derfor, at det er vigtigt, at din cykelhjelm har den rigtige størrelse. Du kan læse mere om, hvordan en cykelhjelm skal sidde hos [fribikeshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/inspiration/saadan-skal-din-cykelhjelm-sidde){: rel="sponsored" }, hvor du også kan købe en masse lækre cykelhjelme.
+Det er også derfor, at det er vigtigt, at din cykelhjelm har den rigtige størrelse. Du kan læse mere om, hvordan en cykelhjelm skal sidde hos [fribikeshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/inspiration/saadan-skal-din-cykelhjelm-sidde){: rel="sponsored nofollow noopener" }, hvor du også kan købe en masse lækre cykelhjelme.
 
 ## Hvordan vælger jeg en cykelhjelm til mit barn? 4 tips!
 

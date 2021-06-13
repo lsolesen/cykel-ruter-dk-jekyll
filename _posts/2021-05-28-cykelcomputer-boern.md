@@ -66,7 +66,7 @@ Sigma Pure 1 er en cykelcomputer som kan forbindes trådløst med en magnet i eg
 
 Deer er i alt 6 funktioner i cykelcomputeren. Du kan naturligvis se din hastighed og distance. Samtidig er det rigtig fedt, at man skan se den totale tilbagelagte distance. Det kan jeg selv huske var meget motiverende for at hoppe på cyklen.
 
-Du kan også købe [Sigma Pure med ledning](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelcomputere-med-ledning/sigma-pure-1---cykelcomputer-med-ledning---trendline){: rel="sponsored" }.
+Du kan også købe [Sigma Pure med ledning](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelcomputere-med-ledning/sigma-pure-1---cykelcomputer-med-ledning---trendline){: rel="sponsored nofollow noopener" }.
 
 ### Atredo M10 cykelcomputer med 10 funktioner
 

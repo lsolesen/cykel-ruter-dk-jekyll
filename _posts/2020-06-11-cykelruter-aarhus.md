@@ -24,12 +24,12 @@ bikemaps:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
     alt: "#4 Østjylland"
     title: "#4 Østjylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
     url: https://www.scanmaps.dk/0251d60?G=020
     alt: "#4 Østlige Jylland"
     title: "#4 Østlige Jylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Jeg blev i dag spurgt af en journalist med forslag til gode cykelruter omkring Århus, på Djursland, Skanderborg og Favrskov. Det var et spændende spørgsmål, hvor jeg kom til at tænke tilbage på, da jeg skrev cykelguiden om Østjylland.

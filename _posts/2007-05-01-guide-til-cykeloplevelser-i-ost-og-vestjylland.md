@@ -12,22 +12,22 @@ gallery:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980
     alt: "#1 Nordjylland"
     title: "#1 Nordjylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788771552997/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
     alt: "#2 Vestjylland og Limfjordslandet"
     title: "#2 Vestjylland og Limfjordslandet"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
     alt: "#3 Sydjylland"
     title: "#3Sydjylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788771553017/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
     alt: "#4 Østjylland"
     title: "#4 Østjylland"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 header:
   overlay_image: https://images.unsplash.com/photo-1541625602330-2277a4c46182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   teaser: https://images.unsplash.com/photo-1541625602330-2277a4c46182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80

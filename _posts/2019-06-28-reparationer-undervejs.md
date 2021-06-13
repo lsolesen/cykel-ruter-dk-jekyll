@@ -15,7 +15,7 @@ feature_row_bog:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 feature_row_minimum:
   - image_path: https://www.outmore.dk/img/shopid/7/varer/300/swiss-tech-rx20-760750350601-100012295.jpg
     alt: "Swiss+ Multitool"
@@ -24,7 +24,7 @@ feature_row_minimum:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/swiss-tech-rx20"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://www.outmore.dk/img/shopid/7/varer/300/topeak-survival-tool-wedge-ii-4712511829907-tc2276b.jpg
     alt: "Topeak Survival Tool"
     title: "Topeak Survival Tool"
@@ -32,7 +32,7 @@ feature_row_minimum:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/topeak-survival-tool-wedge-ii"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://cykelexperten.b-cdn.net/thumbnail/3f/af/77/1584348168/uploads_2017_01_getimage.ashx-104_1920x1920.jpeg
     alt: "BBB WindWave cykelpumpe"
     title: "BBB WindWave cykelpumpe"
@@ -40,7 +40,7 @@ feature_row_minimum:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=35898&htmlurl=https://cykelexperten.dk/bbb-windwave-cykelpumpe-bmp-54/?source=partner-ads"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
-    rel: sponsoreds
+    rel: sponsored nofollow noopeners
 sidebar:
   nav: bikes
 header:
@@ -101,7 +101,7 @@ Ud over minimum og mellem pakken, kan du medbringe:
 - Bremse wire
 - Olie
 - Gummihandsker
-- Bogen [Cykelreparation skrevet af Per Henrik Brask](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654){: rel="sponsored" }
+- Bogen [Cykelreparation skrevet af Per Henrik Brask](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654){: rel="sponsored nofollow noopener" }
 
 {% include feature_row id="feature_row_bog" type="left" %}
 
