@@ -70,6 +70,6 @@ Så er det bare at få planlagt din tur. Hvor mange højdemeter kan du få i ben
 
 - [Climbs.dk](https://www.climbs.dk)
 - [Danmarks hårdeste cykelbakker](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)
-- [Danmarks Bjerge af Roger Pihl](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/products/search?query=roger+pihl+bjerge)
+- [Danmarks Bjerge af Roger Pihl](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/products/search?query=roger+pihl+bjerge){: rel="sponsored" }
 
 {% include feature_row type="left" %}

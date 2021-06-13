@@ -81,7 +81,7 @@ Først skal du naturligvis finde din dækstørrelse, men når du kender den, så
 | 37-288 | 14 x 1-3/8         |                          |                    | 937              |
 | 62-203 | 12½ x 2-1/4        | 12½ x 2-1/4              | 12½ x 2-1/4        | 638              |
 
-[Find cykeldæk hos Cykelpartner.dk\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek){: .btn .btn--large .btn--danger rel="nofollow" }
+[Find cykeldæk hos Cykelpartner.dk\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek){: .btn .btn--large .btn--danger rel="sponsored" }
 
 ## Hvordan vælger jeg den rigtige størrelse cykeldæk?
 
@@ -141,7 +141,7 @@ Du kan også vælge dæk i forskellige bredder til forhjulet og baghjulet. Det e
 
 Husk desuden altid at tjekke, om dine nye dæk kan være på din cykel. 
 
-[Cykelpartner.dk\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/cykeldaek-stoerrelser/){: rel="nofollow" } gør opmærksom på, at dækket bliver en smule højere, hvis man vælger et bredere dæk end man havde før.
+[Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/cykeldaek-stoerrelser/){: rel="sponsored" } gør opmærksom på, at dækket bliver en smule højere, hvis man vælger et bredere dæk end man havde før.
 
 Er din cykel udstyret med skærme, kan det desuden hurtigt komme til at knibe med pladsen.
 
@@ -157,11 +157,11 @@ De mest brugte typer dæk - særligt til cykelture og cykelferie - er kanttråds
 
 **Kanttrådsdæk** er den mest almindelige type dæk på almindelige cykler. Kanttrådsdæk har en stålwire, der sidder i dækkets inderste kant inde ved selve hjulfælgen. Kanttrådsdæk egner sig godt til cykling i byen og til cykelture på almindelige cykler.
 
-{% include figure image_path="https://resources.chainbox.io/cykelpartner/public/pim/b2cc0d62-97d4-4fb1-babe-f8938b805837/Marathon_Plus_NY_2014_A_large.jpg" caption="Kanttrådsdæk velegnet til at almindelige cykler. Kilde: [Cykelpartner\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/kanttraadsdaek-til-racercykler/schwalbe-marathon-plus-smartguard-traaddaek---700x25c-25-622)" alt="kanttrådsdæk{: rel='nofollow' }" %}
+{% include figure image_path="https://resources.chainbox.io/cykelpartner/public/pim/b2cc0d62-97d4-4fb1-babe-f8938b805837/Marathon_Plus_NY_2014_A_large.jpg" caption="Kanttrådsdæk velegnet til at almindelige cykler. Kilde: [Cykelpartner](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/kanttraadsdaek-til-racercykler/schwalbe-marathon-plus-smartguard-traaddaek---700x25c-25-622)" alt="kanttrådsdæk{: rel='sponsored' }" %}
 
 På et **foldedæk** udgøres den inderste kant af syntetiske fibre. Det gør, at foldedæk er mere fleksible, men foldedæk er alligevel stærke. Denne type dæk er lidt lettere. Foldedæk bruges særligt på cykler, som bruges til landevejscykling eller mountainbike.
 
-{% include figure image_path="https://resources.chainbox.io/1/cykelpartner/public/pim/4f8ac13d-696c-41ed-a8e4-86723bed94d7/foldedaek%20racer_default.jpg" caption="Kanttrådsdæk velegnet til at almindelige cykler. Kilde: [Cykelpartner\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek-til-racercykler)" alt="foldedæk{: rel='nofollow' }" %}
+{% include figure image_path="https://resources.chainbox.io/1/cykelpartner/public/pim/4f8ac13d-696c-41ed-a8e4-86723bed94d7/foldedaek%20racer_default.jpg" caption="Kanttrådsdæk velegnet til at almindelige cykler. Kilde: [Cykelpartner](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek-til-racercykler)" alt="foldedæk{: rel='sponsored' }" %}
 
 Cykelgear.dk har lavet en fin samlet guide til de forskellige dæktyper:
 
@@ -175,12 +175,12 @@ Det kan din cykelhandler hjælpe dig med.
 
 Inden du køber et cykeldæk, så tjek hvordan de opbevares i forretningen. 
 
-[Cykelpartner.dk\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/cykeldaek-stoerrelser/){: rel="nofollow" } understreger, at cykeldæk skal opbevares køligt, så dækkene ikke tørrer ind og bliver dårlige. Samtidig bibeholder cykeldæk bedst deres kvalitet, hvis de ikke får sollys. 
+[Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/cykeldaek-stoerrelser/){: rel="sponsored" } understreger, at cykeldæk skal opbevares køligt, så dækkene ikke tørrer ind og bliver dårlige. Samtidig bibeholder cykeldæk bedst deres kvalitet, hvis de ikke får sollys. 
 
 ## Konklusion
 
 Jeg håber, at du fandt ud af, hvordan man kan finde sin cykeldæk størrelse, og hvordan du kan omregne størrelserne.
 
-Du kan købe et nyt [cykeldæk\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek){: rel="nofollow" } eller [cykelslange hos Cykelpartner.dk\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/slanger){: rel="nofollow" }.
+Du kan købe et nyt [cykeldæk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek){: rel="sponsored" } eller [cykelslange hos Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/slanger){: rel="sponsored" }.
 
-[Find cykeldæk hos Cykelpartner.dk\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek){: .btn .btn--large .btn--danger rel="nofollow" }
+[Find cykeldæk hos Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek){: .btn .btn--large .btn--danger rel="sponsored" }

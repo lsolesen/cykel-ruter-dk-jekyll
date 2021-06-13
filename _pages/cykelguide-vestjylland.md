@@ -58,7 +58,7 @@ _Rigtig god fornøjelse – og god tur!_
 
 [Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger }
 
-Desværre kan cykelguidebogen over Vestjylland ikke længere købes. Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter) og på [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020).
+Desværre kan cykelguidebogen over Vestjylland ikke længere købes. Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored" }.
 
 ## Kort over cykelruter i Vestjylland
 

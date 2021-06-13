@@ -127,7 +127,7 @@ Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til d
 
 {% include gallery layout="half" %}
 
-Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter) og på [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020).
+Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored" }.
 
 ## Download GPS og GPX-track af de nationale cykelruter
 

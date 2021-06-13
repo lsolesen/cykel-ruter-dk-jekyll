@@ -154,13 +154,13 @@ Jeg har samlet alle mine bedste anbefalinger og inspiration til at dykke længer
 
 ## Gode bøger om cykelferie og cykeloplevelser
 
-På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter) og på [Nordisk Korthandel\*](https://www.scanmaps.dk/?G=020) kan du finde en masse spændende bøger om cykelruter. Husk at få [opdaterede cykelkort med på din rejse\*](https://www.scanmaps.dk/cykel.html?G=020).
+På [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored" } kan du finde en masse spændende bøger om cykelruter. Husk at få [opdaterede cykelkort med på din rejse](https://www.scanmaps.dk/cykel.html?G=020){: rel="sponsored" }.
 
 {% include feature_row type="left" %}
 
-[Køb bøger på Saxo om cykling\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykling){: .btn .btn--large .btn--danger }
+[Køb bøger på Saxo om cykling](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykling){: .btn .btn--large .btn--danger rel="sponsored" }
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="sponsored noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
 
 ## Cykelkort til din cykeltur
 

@@ -258,7 +258,7 @@ Ofte bliver du imidlertid nødt til at folde kortet på en uhensigtsmæssig måd
 
 Jeg har også flere gange brugt en kortholder, som man bruger til adventurerace. Den er let at montere på cyklen og er netop lavet til at holde et kort, som skal være let tilgængeligt. Det er virkelig dejligt med en kortholder, så man ikke hele tiden skal have kortet op og ned af tasken.
 
-Cykelpartner.dk har jeg ret [smart kortholder fra Klickfix\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/kortholder-gpsholder-mm/klickfix---freeliner---kortholder-). Jeg er faktisk overrasket over, hvor billig en kortholder er. Du kan også tjekke alle [Cykelpartners kortholdere\*](https://www.cykelpartner.dk/search/?query=kortholder).
+Cykelpartner.dk har jeg ret [smart kortholder fra Klickfix](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/kortholder-gpsholder-mm/klickfix---freeliner---kortholder-){: rel="sponsored" }. Jeg er faktisk overrasket over, hvor billig en kortholder er. Du kan også tjekke alle [Cykelpartners kortholdere](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/search/?query=kortholder){: rel="sponsored" }.
 
 Hvis du helt vil undgå kortet, så læs mit næste _mest geniale_ råd.
 
@@ -276,7 +276,7 @@ Jeg har ganske enkelt en grøn rute på uret, og når jeg cykler afsted, så bli
 
 Jeg bruger i øvrigt mit ur til alt muligt. Jeg kunne virkelig godt tænke mig en af de nyere versioner, og man også kan gemme musik på selve uret, men det er jo lidt ude af en tangent.
 
-For mig er tricket med at tegne ruten på GPS-uret blevet helt obligatorisk for at få den bedste oplevelse på cykelturen. Du kan tjekke [prisen på topmodellen fra Garmin hos proshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146). Vi er kommet helt til version 6 lige nu.
+For mig er tricket med at tegne ruten på GPS-uret blevet helt obligatorisk for at få den bedste oplevelse på cykelturen. Du kan tjekke [prisen på topmodellen fra Garmin hos proshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146){: rel="sponsored" }. Vi er kommet helt til version 6 lige nu.
 
 ## Hvor kan jeg finde kort over de nationale cykelruter?
 

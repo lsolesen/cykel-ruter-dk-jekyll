@@ -49,7 +49,7 @@ _God tur!_
 
 ### Kort
 
-- [ ] [Opdaterede landkort med cykelruter\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort)
+- [ ] [Opdaterede landkort med cykelruter](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort){: rel="sponsored" }
 - [ ] Turbeskrivelser, turistbrochurer o.l.
 - [ ] Fortegnelse over overnatningssteder 
 - [ ] Vandrerkort
@@ -57,7 +57,7 @@ _God tur!_
 
 ### Diverse udstyr
 
-- [ ] [Cykellygter\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=65273) 
+- [ ] [Cykellygter](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=65273){: rel="sponsored" } 
 - [ ] Vandflaske på cyklen 
 - [ ] Cykelcomputer 
 - [ ] Siddeunderlag

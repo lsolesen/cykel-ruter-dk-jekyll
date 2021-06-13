@@ -20,6 +20,10 @@ body.layout--single {
   }
 }
 
+[rel=sponsored]:after {
+  content: "*";
+}
+
 figure {
   &.fourth {
     > a,
