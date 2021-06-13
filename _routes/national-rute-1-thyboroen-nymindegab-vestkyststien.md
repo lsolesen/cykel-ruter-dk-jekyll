@@ -12,6 +12,7 @@ tags:
   - cykelrute
   - national
   - Guidebog Vestjylland
+  - National Cykelrute 1
 excerpt: "Det brusende Vesterhav er din tro følgesvend på dette delforløb af den nationale cykelrute nummer 1, Vestkystruten, der bringer dig 110 kilometer fra fiskerbyen Thyborøn til Nymindegab."
 distance: 110 km
 asphalt: 78 km
@@ -61,5 +62,7 @@ Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, de
 ## Links til Vestkystruten
 
 - [Vestkystruten](http://vestkystruten.dk/da/forside/)
+
+## Kort over {{ page.title }}
 
 {% include maps-ad.md %}

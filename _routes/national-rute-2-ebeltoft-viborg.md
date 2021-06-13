@@ -46,4 +46,6 @@ Tilbage på ruten fører en komfortabel jernbanesti os tæt hele vejen langs Nø
 
 Ikke langt herfra når vi Viborg. Vi ankommer fra byens bedste side med udsyn op mod byens tårne og de fredelige Søndersø og Nørresø. Byens gamle og stejle gader ligger stort set uændret siden Middelalderen og er fyldt med historie fra dengang, da byen blev betragtet som Jyllands hovedby og politiske magtcentrum. Der er mulighed for at tage en rundtur med Folkebladstoget, som i en times tid kører rundt til byens seværdigheder. Turen kan kombineres med en sejltur på Viborgsøerne med båden, Margrethe 1.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

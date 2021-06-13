@@ -28,4 +28,6 @@ Lige før Sminge Sø drejer ruten ind i den mindre Gjern Ådal. Gjern Ådal er s
 
 Efter Gjern by stiger ruten langsomt op på et højere og fladere område og på de næste 15 km indtil landsbyen, Bøstrup, præges området af landbrugsdrift. Herefter falder ruten igen ned mod Lilleådalen tæt på Herregården Bidstrup, som også besidder store dele af områdets arealer. Desværre er der ikke adgang til selve herregården. I bunden af Lilleådalen slynger Lilleå sig gennem store mose- og engarealer, mens de stejlere dalsider er dækket af store skovområder. Mellem Laurbjerg og Langå kører du helt tæt på Lilleåen. Lige før Langå løber Lilleådalen ud i den større Gudenådal.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

@@ -23,9 +23,9 @@ gps:
 
 **{{ page.excerpt }}**
 
-Vi starter i Hadsund, som er smukt beliggende ned mod Mariager fjord omkranset af store skovområder. Byen er yderligere beskrevet under regional cykelrute 32. Fra Hadsund krydser vi Danmarks længste fjord og fortsætter langs den nedlagte jernbane mellem Hadsund og Randers gennem Trudsholm Skov. Jernbanen er nu en lille sti, som væk fra motoriseret trafik fører os gennem Trudsholm skov og forbi Trudsholm herregård, som blev opført i midten af 1600-tallet omgivet af en femkantet voldgrav. Gården kan kun ses udefra.
+Vi starter i Hadsund, som er smukt beliggende ned mod Mariager Fjord omkranset af store skovområder. Byen er yderligere beskrevet under [regional cykelrute 32]({% link _routes/regional-rute-32-mariager-fjord-rundt.md %}). Fra Hadsund krydser vi Danmarks længste fjord og fortsætter langs den nedlagte jernbane mellem Hadsund og Randers gennem Trudsholm Skov. Jernbanen er nu en lille sti, som væk fra motoriseret trafik fører os gennem Trudsholm skov og forbi Trudsholm herregård, som blev opført i midten af 1600-tallet omgivet af en femkantet voldgrav. Gården kan kun ses udefra.
 
-Igen med asfalt under dækkene fortsætter vi forbi den fint, restaurerede Lyshøj Mølle fra 1894. Den 4-etagers høje mølle er stadig intakt og klar til brug. Det er muligt for besøgende at komme helt op i ”hatten” af møllen, som kan dreje rundt med vindretningen.
+Igen med asfalt under dækkene fortsætter vi forbi den fint restaurerede Lyshøj Mølle fra 1894. Den 4-etagers høje mølle er stadig intakt og klar til brug. Det er muligt for besøgende at komme helt op i ”hatten” af møllen, som kan dreje rundt med vindretningen.
 
 Til udsigten over det kupererede landskab og det malerisk beliggende Demstrup Gods nærmer vi os Udbyhøj, hvor vi kan strække benene lidt på færgeforbindelsen over Randers Fjord, der bringer os ud på Jyllands næse.
 
@@ -50,5 +50,7 @@ Herfra følger vi grusstien gennem det sidste stykke skov til det meget besøgte
 I Hov er der færgeforbindelse til Samsø og Tunø. Et kort stykke fra byen ligger Bjørnkær ruinerne, som er en skøn grøn plet, hvor børn kan løbe rundt og lege vikinger, mens de voksne nyder historiens vingesus. Ved godset Gersdorffslund kan man i et af de gamle træer ved vejen se et lille lysthus, hvor det formodes, at H.C. Andersen til den storslåede udsigt over Kattegat har skrevet et af sine eventyr.
 
 Ti km herfra kører vi ind på strækningen langs Horsens Fjord. Nær de fredede Sondrup Bakker ved udsigtshøjene i Trustrup får man en af de bedste udsigter over fjorden. Det højeste punkt ligger 70 m over havet, og fra højene udgår et netværk af små, bugtede stier - et rigtigt godt sted at gå på opdagelse for folk i alle aldre. Skilte viser vej fra ruten til højene. Herfra følger vi den lille fjordsti hele vejen ind til bylivet i Horsens.
+
+## Kort over {{ page.title }}
 
 {% include maps-ad.md %}

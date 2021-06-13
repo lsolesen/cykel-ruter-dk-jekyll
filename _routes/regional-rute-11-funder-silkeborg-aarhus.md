@@ -30,4 +30,6 @@ Herefter drejer du op mod Låsby og følger de mange sving og den dejlige natur 
 
 Brabrand Sø er en af de fuglerigeste søer i Østjylland, og her kan du bl.a. se og høre toppede lappedykkere, gråænder, rørhøns, blishøns, vibe, rør- og kærsanger. Nyd naturen inden du besøger Århus, som er en rigtig god cykelby, men hvor du også bør stå af cyklen for at beundre de flotte gader i og omkring centrum, kunstmuseet Aros, Botanisk Have og Den Gamle By.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

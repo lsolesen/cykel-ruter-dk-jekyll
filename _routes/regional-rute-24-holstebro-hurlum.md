@@ -36,4 +36,6 @@ Efter Kjærgaardsmølle kører du videre ad ruten. Ikke langt fra Bremdal støde
 
 Fra Hurlum er der ikke langt til Oddesundbroen fra 1938, som kan føre dig videre på ruten mod Thisted. Fra Draget mellem Lyngs og Udby kan du følge national cykelrute 12.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

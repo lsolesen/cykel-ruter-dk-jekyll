@@ -24,4 +24,6 @@ gps:
 
 Hvis du har brug for yderligere beskrivelse, så brug kommentarerne. Den er under udarbejdelse.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

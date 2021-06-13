@@ -42,4 +42,6 @@ På vejen til Ringkøbing Fjord krydser vi Skjern Å, hvis svingninger i 2003 en
 - [Skjern Å - Danmarks største naturgenopretningsprojekt](http://www.skovognatur.dk/Emne/Naturbeskyttelse/Naturpleje/Naturprojekter/SkjernAa/)
 - [Veteranbanen mellem Bryrup og Vrads](http://www.veteranbanen.dk/)
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

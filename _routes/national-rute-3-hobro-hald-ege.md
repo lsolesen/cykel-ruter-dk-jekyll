@@ -24,7 +24,7 @@ related: "National Cykelrute 3"
 
 **Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, at cyklen blev opfundet.**
 
-Turen starter i den hyggelige Hobro. Lige sydvest for byen kan du ønske dig tilbage i tiden ved Fyrkat, når du forestiller dig, hvordan livet var omkring en af de kendte vikingeborge. Du kan læse mere om Hobro og Vikingecenter Fyrkat under den regionale cykelrute 32 rundt om Mariager Fjord.
+Turen starter i den hyggelige Hobro. Lige sydvest for byen kan du ønske dig tilbage i tiden ved Fyrkat, når du forestiller dig, hvordan livet var omkring en af de kendte vikingeborge. Du kan læse mere om Hobro og Vikingecenter Fyrkat under den [regionale cykelrute 32 rundt om Mariager Fjord]({% link _routes/regional-rute-32-mariager-fjord-rundt.md %}).
  
 Herefter går det forbi Trinderup Krat og tæt på Klejtrup Sø. Lige syd for Klejtrup Sø kan du få ruten til at føles meget kortere, når du stopper ved Verdenskortet, som er en miniudgave af hele verden lavet med materialer fra naturen. Kortet er er næsten lige så stort som en fodboldbane og er stadig flot vedligeholdt, selvom det er lavet helt tilbage mellem 1944 og 1969 af dansk-amerikaneren Søren Poulsen.
  
@@ -33,5 +33,7 @@ Ruten krydser herefter Skals Å og går gennem Lindum Skov for at fortsætte mod
 Vejen ud af Viborg går forbi Viborg Hedeplantage, hvor du kan se rester af gamle hulveje (hærvejsspor) og flere gravhøje. Ved en lille rasteplads langs ruten er der opsat en vejtromle af granit. Stenen er sat som minde om de vejfarende, og inskriptionen på tromlen er forfattet af Peter Seeberg. Hvis du har mod på lidt opdagelse i skoven, kan man finde et par tilgroede høje, der er opkaldt efter nogle af de mest berygtede vejfarende; Røverhøjene.
 
 Hærvejsruten fortsætter langt ned i landet. Du kan læse om fortsættelsen i Cykelguide for Vestjylland.
+
+## Kort over {{ page.title }}
 
 {% include maps-ad.md %}

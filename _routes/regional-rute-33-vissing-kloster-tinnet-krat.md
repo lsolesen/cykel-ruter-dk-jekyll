@@ -32,4 +32,6 @@ Mod rutens slutning støder vi på den nationale cykelrute 3, som kører langs h
  
 Ruten slutter ved Tinnet krat, der tilsammen med de omliggende krat udgør Danmarks største egekrat, der har overlevet kreaturernes nedbidning. Her kan man også se Gudenåens udspring fra en lille kilde ca. 100 m nord for Tinnetgård.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

@@ -31,12 +31,14 @@ Omend alle rutens herregårde er interessante, fremhæves her dog kun de to, som
  
 Store dele af ruten er tilnærmelsesvist flade, men der er dog enkelte bakkede områder. Inden nedkørslen til en af rutens mange hyggelige byer, Øster Alling, skal man huske at stoppe på toppen for at nyde udsigten ind over den lille by med det traditionelle, hvide kirketårn, inden man afslappet kan trille ned gennem markområdet over Allingå forbi de græssende køer.
  
-I Hornslet er herregården Rosenholm bestemt et besøg værd. Læs evt mere herom under beskrivelsen af den regionale cykelrute 20, om der er forbindelse til herfra.
+I Hornslet er herregården Rosenholm bestemt et besøg værd. Læs evt mere herom under beskrivelsen af den [regionale cykelrute 20]({% link _routes/regional-rute-20-hornslet-grenaa.md %}), om der er forbindelse til herfra.
  
 Fra Hornslet passerer vi en stigning over den markante bakke nord for Kalø Vig, hvorfra der er fin udsigt over såvel land som vand, før det igen går nedad mod rutens slutning ved herregården Vosnæsgård.
 
 ## Noter 
 
 - [Kare](http://www.aaa.dk/aaa/landsbyerdk.pdf)
+
+## Kort over {{ page.title }}
 
 {% include maps-ad.md %}

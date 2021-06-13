@@ -36,7 +36,7 @@ Kort efter vi har passeret Bredsten Landevej, kan du holde pause ved Naturstedet
 
 Efter naturstedet fortsætter ruten relativt fladt gennem et skiftende landskab. Vi passerer Rolighedsvej, og på en blæsende dag glæder vi os over at der efterhånden kommer mere og mere bevoksning omkring vejen, som vi nærmer os Gødding Skov, hvor træerne begynder at række ud over vejen og danne et naturligt halvtag. 
 
-_**Smutvej**: Lige før Gødding Skov krydser ruten regional cykelrute 34, hvor du kan afkorte ruten ved at køre ind forbi Engelsholm Slot, som i dag huser en højskole. Derefter fortsætter du på regional cykelrute 35 gennem Ravning, indtil du kommer til Bindeballestien._
+_**Smutvej**: Lige før Gødding Skov krydser ruten regional cykelrute 34, hvor du kan afkorte ruten ved at køre ind forbi Engelsholm Slot, som i dag huser en højskole. Derefter fortsætter du på regional cykelrute 35 gennem Ravning, indtil du kommer til [Bindeballestien]({% link _routes/regional-rute-36-bindeballestien.md %})._
 
 Efter at have kørt i skygge i Gødding Skov, triller vi igennem Randbøl, hvor der er en fin kirke. Herefter bliver ruten lidt kuperet på vej mod Frederikshåb Plantage og Randbøl Hede. Vi kører gennem den østlige del af Frederikshåb Plantage og drejer mod øst for at cykle nogle kilometer inden vi rammer den helt unikke Bindeballesti, som I følger tilbage til Skibet.
 

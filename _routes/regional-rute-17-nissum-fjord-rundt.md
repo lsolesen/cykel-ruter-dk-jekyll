@@ -40,4 +40,6 @@ Efter besøget på herregården fortsætter du en halv kilometer længere på ho
 
 Ved Rejkær kører du ud på hovedvejen og fortsætter mod Madum og Vedersø. Ved kirken i Vedersø ligger Kaj Munk begravet, og på Vedersø Egnsmuseum er der en mindestue om præsten, digteren, forfatteren og samfundskritikeren. I Vedersø kan der laves en afstikker til Vest Stadil Fjord, som er et af Danmarks største naturgenopretningsprojekter, hvilket især glæder mange naturelskere og fugle, særligt gæs.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

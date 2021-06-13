@@ -28,4 +28,6 @@ Fra Tinnet Krat køres gennem Hjortsvang og Åle til Rask Mølle. Fra Rask Møll
  
 Indkørslen til Horsens kan næsten ikke gøres bedre, da du kører ned ad bakke i træernes skygge med udsigten over Bygholm Sø på venstre hånd. Ved den vestlige ende af Bygholm sø ligger den flot bevarede jættestue, Grønhøj, hvorom du kan få mere information på skiltet ved indgangen. I Horsens fortsætter ruten gennem den grønne Bygholm Park som en perfekt afslutning på en lang og dejlig rute.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

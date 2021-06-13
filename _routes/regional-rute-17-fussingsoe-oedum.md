@@ -30,6 +30,8 @@ Efter at have forladt Gudenådalen fortsætter ruten langs den mindre, dejlige b
 
 Ved den lille landsby, Svejstrup, møder ruten den brede Lilleådal, som er endnu et resultat af isens afsmeltning. Her drejer ruten ind forbi den mindre Herregård Faurskov, der bl.a. består af en fin hovedbygning fra midten af 1700-tallet. Herfra kører vi langs Lilleådalen, der passeres nord for Hadsten, som er opstået som stationsby omkring den østjyske længdebane. Hadsten har et turistinformationscenter, hvor du kan få mere at vide om området. Et kort stykke fra ruten i den sydlige del af byen ligger den lille Herregård Kollerup, og lige øst herfor ligger der et middelaldervoldsted med en smuk vandmølle, der i dag fungerer som restaurant.
 
-Efter Hadsten fortsætter ruten gennem Hadbjerg, indtil den møder den regionale cykelrute 18, der forløber mellem Randers og Århus.
+Efter Hadsten fortsætter ruten gennem Hadbjerg, indtil den møder den [regionale cykelrute 18, der forløber mellem Randers og Århus]({% link _routes/regional-rute-18-aarhus-norup.md %}).
+
+## Kort over {{ page.title }}
 
 {% include maps-ad.md %}

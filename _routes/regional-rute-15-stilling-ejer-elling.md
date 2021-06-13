@@ -32,4 +32,6 @@ Ved Fuldbro Mølle forlader ruten søområdet og i et lille gear stiges op over 
 
 Syd for Ejer Baunehøj ved landsbyen, Elling, får ruten kontakt med den regionale cykelrute 51, der fører til Horsens og Klostermølle.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

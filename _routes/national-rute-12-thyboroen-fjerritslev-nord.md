@@ -25,4 +25,6 @@ related: National Cykelrute 12
 
 Ikke beskrevet. Brug kommentarerne hvis du har brug for beskrivelsen, så får vi den lagt ind hurtigst muligt.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

@@ -32,4 +32,6 @@ Mod rutens afslutning kører vi gennem Dørup og Højlund Skov langs sydsiden af
  
 Det indbydende område har også tiltrukket cykelruterne 4, 8, 30 og 33, som der er nær forbindelse til ved rutens afslutning, så der er al grund til at fortsætte videre i det midtjyske højland. 
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

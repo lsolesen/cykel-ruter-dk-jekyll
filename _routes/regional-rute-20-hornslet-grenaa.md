@@ -40,4 +40,6 @@ Grenå er kendt for Kattegatcenteret, hvor man kan stå ansigt til ansigt med fr
 - Der er ikke nogen grusvej lige efter Skaføgård.
 - I Koed er der mismatch mellem kort og kkilte på vejen. På rute nr. 20 fra Skarre sø skal man vente med at dreje til højre til man er inde i Koed ifølge kortet.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

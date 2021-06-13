@@ -39,7 +39,7 @@ Ved Vork er der en lang bakke, men her er et godt udsigtspunkt og et bord, hvor 
 
 Så snart vi har fået pusten igen skal vi gennem Vork Bakker, som ikke lover mere end de kan holde, og det må vi håbe at benene gør. Vi kører lige forbi Ravning vikingebro, hvor vi kan holde en pause ved Ravnings nedlagte stationsbygning. Her er der mulighed for at gå på toilet og nyde den medbragte mad - og der er også en veltilrettelagt primitiv overnatningsplads. 
 
-Her krydser vi også Bindeballestien og fortsætter af regional rute 35 , som fører  os nordpå. Efter Ravning passerer vi den meget trafikerede Bredstenvej, inden vejen drejer ned mod Engelsholm Slot, hvor vi har brug for de solide dæk, når vi kører på grus og brosten et stykke tid. Vi kører den lidt ufremkommelige vej, fordi slottet, som i dag huser en højskole, er smukt, og på vejen kommer vi også forbi et glasgalleri, som også er et besøg værd (også uden for åbningstid). 
+Her krydser vi også [Bindeballestien]({% link _routes/regional-rute-36-bindeballestien.md %}) og fortsætter af regional rute 35 , som fører  os nordpå. Efter Ravning passerer vi den meget trafikerede Bredstenvej, inden vejen drejer ned mod Engelsholm Slot, hvor vi har brug for de solide dæk, når vi kører på grus og brosten et stykke tid. Vi kører den lidt ufremkommelige vej, fordi slottet, som i dag huser en højskole, er smukt, og på vejen kommer vi også forbi et glasgalleri, som også er et besøg værd (også uden for åbningstid). 
 
 Slottet og glasgalleriet ligger lige ud til Engelsholm Sø, som vi via Sødover kører nordom. I Engelsholm holder vi tungen lige i munden for at følge cykelruten som igen fører os ud til national cykelrute 3, som vi følger gennem Gødding Skov tilbage til Randbøl.
 

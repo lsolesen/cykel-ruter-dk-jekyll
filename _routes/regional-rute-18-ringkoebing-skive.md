@@ -44,4 +44,6 @@ Efter Estvad mødes begge ruteforløb igen og går herfra videre til Skive, hvor
 
 - http://www.skovognatur.dk/Ud/Oplev/Naturperler/Vosborg.htm
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

@@ -34,4 +34,6 @@ I Tvede udfordres vi på grusvej, der giver støv i munden, så et stop ved Pump
  
 Ruten slutter i Udbyhøj ved det lille færgeleje. Her er desuden mulighed for at bade ved en lille strand til venstre for lejet.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

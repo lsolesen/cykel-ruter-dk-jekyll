@@ -34,4 +34,6 @@ Allerede få kilometer herefter bevæger vi os ind på en lille jordvej gennem e
  
 På det sidste stykke inden Randers' mere travle byliv er der mulighed for et kig ud over de jyske landskaber fra et udsigstpunkt 131 m over vandoverfladen på Lysnet bakken, som ligger lidt vest for ruten ved Vissing. Herfra har vi dog stadig et par bakker at bestige, før vi kan trille ned mod rutens afslutning i Randers by.
 
+## Kort over {{ page.title }}
+
 {% include maps-ad.md %}

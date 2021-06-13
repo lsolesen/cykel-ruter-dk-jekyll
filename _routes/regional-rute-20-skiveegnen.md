@@ -37,5 +37,6 @@ Drej herefter mod Nr. Lem og op mod Rødding, hvor du kommer tæt forbi Spøttru
 
 Efter Grindslev kører du tæt forbi den genoprettede natur omkring Brokholm Sø, inden ruten igen møder national cykelrute 12 tæt på kysten ved Risgåde Bredning. Læs mere om mulighederne for at komme videre herfra under den nationale cykelrute 12. Det var et forslag til, hvordan du kan køre den regionale cykelrute 20, men med et kort i hånden kan du selv lave dine egne opdagelser på Skive-egnen.
 
-{% include maps-ad.md %}
+## Kort over {{ page.title }}
 
+{% include maps-ad.md %}
