@@ -22,6 +22,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
     btn_label: "Læs mere*"
     btn_class: "btn--inverse"
+    rel: sponsored
 ---
 
 Jeg foretrækker at cykle rundt, når jeg skal noget. Det er en god måde at komme rundt på, og jeg vil også gerne have min familie med. Min bedre halvdel bruger imidlertid meget tid på at tænke på, hvordan hun undgår at svede, når hun cykler, så jeg har undersøgt nogle forskellige strategier.

@@ -14,6 +14,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/den-store-bog-om-cykelture-i-danmark_helle-midtgaardjesper-poerksen_indbundet_9788771555714"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://imgcdn.saxo.com/_9788717044654/0x500
     alt: "Cykelreparation"
     title: "Cykelreparation"
@@ -21,6 +22,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://imgcdn.saxo.com/_9788755912908/0x500
     title: "Danske Bjerge"
     alt: "Danske Bjerge"
@@ -28,52 +30,64 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
 gallery_maps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_nordlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d57?G=020
     alt: "Cykelkort #1 Nordlige Sjælland"
     title: "#1 Nordlige Sjælland"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_sydlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d58?G=020
     alt: "Cykelkort #2 Sydlige Sjælland, Møn, Lolland og Falster"
     title: "#2 Sydsjælland, Møn, Lolland og Falster"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
     url: https://www.scanmaps.dk/0251f59?G=020
     alt: "Cykelkort #3 Fyn, Ærø, Tåsinge og Langeland"
     title: "#3 Fyn, Ærø, Tåsinge og Langeland"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
     url: https://www.scanmaps.dk/0251d60?G=020
     alt: "Cykelkort #4 Østlige Jylland"
     title: "#4 Østlige Jylland"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d63?G=020
     alt: "Cykelkort #5 Nordlige Jylland"
     title: "#5 Nordlige Jylland"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_vestlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d62?G=020
     alt: "Cykelkort #6 Vestlige Jylland"
     title: "#6 Vestlige Jylland"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d61?G=020
     alt: "Cykelkort #7 Sydlige Jylland"
     title: "#7 Sydlige Jylland"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_bornholm.jpg
     url: https://www.scanmaps.dk/0251d64?G=020
     alt: "Cykelkort #8 Bornholm"
     title: "#8 Bornholm"
+    rel: sponsored
 cykelguide:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
     url: https://www.scanmaps.dk/0251f94?G=020
     alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
     title: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkorth_fte_forside_nordlige_sj_lland.jpg
     url: https://www.scanmaps.dk/0251d76?G=020
     alt: "Nordlige Sjælland Cykelkort og guide"
     title: "Nordlige Sjælland Cykelkort og guide"
+    rel: sponsored
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_sydlige_sj_lland_forside.jpg
     url: https://www.scanmaps.dk/0251d79?G=020
     alt: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
     title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
+    rel: sponsored
 feature_row_gps:
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/40d2f2ad-f4c7-4aa9-b7c2-a6aa2b2b53a3/010-01787-01_A_default.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/pedaler-til-racercykler/garmin-vector-3s---pedaler-med-watt-maaling---enkelt-sensor
@@ -82,6 +96,7 @@ feature_row_gps:
     excerpt: "Vector 3S er navnet på disse pedaler med Wattmåler fra Garmin, som måler effekten på venstre pedal, samt registrerer kadence og total effekt."
     btn_class: "btn--info"
     btn_label: "Tjek prisen hos cykelpartner.dk*"
+    rel: sponsored
   - image_path: https://www.proshop.dk/Images/600x800/2800146_4b59fc4eda4b.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146
     alt: "Garmin fenix 6X Pro Solar"
@@ -89,6 +104,7 @@ feature_row_gps:
     excerpt: "Garmin outdoor ur med pulsmåling og solopladning. Et virkelig fedt ur, hvor du også kan have musik på uret."
     btn_class: "btn--info"
     btn_label: "Tjek prisen hos proshop.dk*"
+    rel: sponsored
 feature_row_food:
   - image_path: https://www.outmore.dk/img/shopid/7/varer/300/trangia-stormkok-25-5ul-m-gasbr-7315081472558-50-1255.jpg
     alt: "Trangia Stormkøkken"
@@ -97,6 +113,7 @@ feature_row_food:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/trangia-stormkok-25-5ul-m-gasbr"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/01f430a0-545d-4ed9-8489-3b282d6cb461/832265_A_default.jpg
     alt: "Leatherman Signal - Multitool"
     title: "Leatherman Signal - Multitool"
@@ -104,6 +121,7 @@ feature_row_food:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/multitools/leatherman-signal---multitool---19-funktioner---sortrustfri"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://www.outmore.dk/img/shopid/7/varer/300/kupilka-spork-225-6430014977021-6430014977021-3002002k.jpg
     alt: "Kuplika Spork 225"
     title: "Kuplika Spork 225"
@@ -111,6 +129,7 @@ feature_row_food:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=52894&htmlurl=https://www.friluftsland.dk/product/view/39211"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://www.outmore.dk/img/shopid/7/varer/600/trangia-multidisc-27-7315086027098-50-5010.jpg
     alt: "Trangia Multidisc"
     title: "Trangia Multidisc"
@@ -118,6 +137,7 @@ feature_row_food:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/trangia-multidisc-27"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://www.outmore.dk/img/shopid/7/varer/600/bag-again-original-frugt-og-groentsagspose-l-38-x-30-cm-8719326077444-euba5005-8283-01.jpg
     alt: "Bag-again original frugt- og grøntsagspose"
     title: "Bag-again original frugt- og grøntsagspose"
@@ -125,6 +145,7 @@ feature_row_food:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/bag-again-original-frugt-og-groentsagspose-l-38-x-30-cm"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
 feature_row_transport:
   - image_path: https://sw14769.smartweb-static.com/upload_dir/shop/53-926001_A.jpg
     alt: "Thule Velocompact 3"
@@ -133,6 +154,7 @@ feature_row_transport:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=68828&htmlurl=https://www.danskautoudstyr.dk/shop/18-transportudstyr/832-thule-velocompact---cykelholder-til-3-cykler---13-polet/"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://www.fotoagent.dk/single_picture/10678/138/mega/532000_main_sized_900x600(2).jpg
     alt: "Thule Freeride 532 - Cykelholder til tagmontering"
     title: "Thule Freeride 532 - Cykelholder til tagmontering"
@@ -140,6 +162,7 @@ feature_row_transport:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59734&htmlurl=https://www.cykler.dk/thule-freeride-532.aspx"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
 feature_row_bags:
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/b054154f-40aa-4a29-b6e3-9c217a467040/OF2703_B_default.jpg
     alt: "Ortlieb - Bike-Packer plus"
@@ -148,6 +171,7 @@ feature_row_bags:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-til-bag/ortlieb---bike-packer-plus---blaa-2-x-21-liter"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
 ---
 
 Jeg har samlet alle mine bedste anbefalinger og inspiration til at dykke længere ned i, hvordan du kan planlægge og udføre din cykelferie på denne side. Links markeret med (*) er reklamelinks, hvor jeg får en lille kommision, hvis du ender med at købe fra de enkelte steder. Derved er du med til at støtte driften af dette site, så det håber jeg, at du vil overveje.
@@ -162,7 +186,7 @@ På [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banneri
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="sponsored noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
 
-## Cykelkort til din cykeltur
+## Cykelkort til din cykeltur (reklamelinks)
 
 {% include gallery id="gallery_maps" %}
 

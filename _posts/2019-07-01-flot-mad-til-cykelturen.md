@@ -18,6 +18,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/trangia-stormkok-25-5ul-m-gasbr"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/01f430a0-545d-4ed9-8489-3b282d6cb461/832265_A_default.jpg
     alt: "Leatherman Signal - Multitool"
     title: "Leatherman Signal - Multitool"
@@ -25,6 +26,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/multitools/leatherman-signal---multitool---19-funktioner---sortrustfri"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://www.outmore.dk/img/shopid/7/varer/300/kupilka-spork-225-6430014977021-6430014977021-3002002k.jpg
     alt: "Kuplika Spork 225"
     title: "Kuplika Spork 225"
@@ -32,6 +34,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=52894&htmlurl=https://www.friluftsland.dk/product/view/39211"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://www.outmore.dk/img/shopid/7/varer/600/trangia-multidisc-27-7315086027098-50-5010.jpg
     alt: "Trangia Multidisc"
     title: "Trangia Multidisc"
@@ -39,6 +42,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/trangia-multidisc-27"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://www.outmore.dk/img/shopid/7/varer/600/bag-again-original-frugt-og-groentsagspose-l-38-x-30-cm-8719326077444-euba5005-8283-01.jpg
     alt: "Bag-again original frugt- og grøntsagspose"
     title: "Bag-again original frugt- og grøntsagspose"
@@ -46,6 +50,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/bag-again-original-frugt-og-groentsagspose-l-38-x-30-cm"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 sidebar:
   nav: bikes
 header:

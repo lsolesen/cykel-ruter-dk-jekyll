@@ -24,6 +24,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
     btn_label: "Læs mere*"
     btn_class: "btn--inverse"
+    rel: sponsored
 ---
 
 Jeg kan godt lide at udfordre mig selv lidt med lange, hårde bakker, når jeg cykler. Jeg har derfor kigget lidt efter de længste, stejleste, største og hårdeste bakker i Danmark. Her er hvad jeg fandt ud.

@@ -15,6 +15,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-til-bag/ortlieb---bike-packer-plus---blaa-2-x-21-liter"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 sidebar:
   nav: bikes
 header:
@@ -45,7 +46,7 @@ Når du pakker i cykeltasker, kan du prøve på at sortere tingene lidt. Hav fx 
 
 Har du meget bagage, eller kører du på en racercykel, kan det være en god idé at pakke i en anhænger i stedet for tasker. En almin delig plast- eller trækasseanhænger er ud mærket til ture, hvor dagsetaperne ikke er for lange, men hvis du har ambitioner om lange stræk, bør du investere i en rigtig tou ring anhænger. I en anhænger har du mas ser af plads, men pas på: Tag ikke for meget med. Anhængeren bliver hurtig tung at trække rundt med. Husk at du også kan få brug for en ekstra slange til anhængeren. 
 
-## Samarbejdspartnere
+## Samarbejdspartnere (reklamelinks)
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
 

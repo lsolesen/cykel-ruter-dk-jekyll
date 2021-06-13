@@ -21,6 +21,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
     btn_label: "Læs mere*"
     btn_class: "btn--inverse"
+    rel: sponsored
 ---
 
 Jeg har tre piger, og jeg vil virkelig gerne have dem med ud at cykle. Og de kan faktisk godt lide at cykle, hvis det er en del af et lille eventyr eller en udflugt. Men hvor langt kan børn egentlig cykle?

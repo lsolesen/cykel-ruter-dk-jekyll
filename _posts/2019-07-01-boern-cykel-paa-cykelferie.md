@@ -14,6 +14,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/boernetrailere/thule-coaster-xt---cykeltrailer-til-2-boern---sortturkis
     btn_label: "Tjek prisen hos cykelpartner.dk"
     btn_class: "btn--success"
+    rel: sponsored
 feature_row_bee:
   - image_path: https://www.fotoagent.dk/single_picture/10678/138/mega/BU945203.jpg
     alt: "Burley Honey Bee Cykelanhænger"
@@ -22,6 +23,7 @@ feature_row_bee:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59734&htmlurl=https://www.cykler.dk/burley-honey-bee-cykelanhaenger.aspx"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 sidebar:
   nav: bikes
 header:
@@ -77,7 +79,7 @@ Når du planlægger at tage på en familietur, hvor der også skal være plads t
 
 Jeg har også skrevet et indlæg med en masse gode tips til at tage [med børn på cykelferie og cykeltur. Tjek dem ud her!](/boern-paa-cykelferie/).
 
-## Besøg vores samarbejdspartnere
+## Besøg vores samarbejdspartnere (reklamelinks)
 
 Du kan besøge vores samarbejdspartnere for at finde udstyr til børnenes cykeltur.
 

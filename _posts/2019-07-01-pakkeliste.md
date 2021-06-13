@@ -68,7 +68,7 @@ _God tur!_
 
 Når du har fundet alle dine ting frem, så skal du jo have det pakket på cyklen. Jeg har skrevet lidt om, hvordan du kan [pakke cyklen her](/hvordan-pakkes-cyklen/).
 
-## Samarbejdspartnere
+## Samarbejdspartnere (reklamelinks)
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
 

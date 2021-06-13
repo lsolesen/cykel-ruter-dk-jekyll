@@ -12,6 +12,12 @@ gallery:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000"
     alt: "#3 Sydjylland"
     title: "#3 Sydjylland"
+    rel: sponsored
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
+    url: https://www.scanmaps.dk/0251d61?G=020
+    alt: "Cykelkort #7 Sydlige Jylland"
+    title: "#7 Sydlige Jylland (nyt kort maj 2021)"
+    rel: sponsored
 toc: true
 ---
 
@@ -23,7 +29,7 @@ Jeg har lavet tre cykelruter ud fra hver campingplads. Cykelruterne er af tre fo
 
 {% if site_posts.size > 0 %}
 <h2>{{ site_posts.size }} cykelruter omkring Vejle</h2>
-<div class="grid__wrapper">
+<div class="feature__wrapper">
   {% for post in site_posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
@@ -46,8 +52,8 @@ Jeg har lavet tre cykelruter ud fra hver campingplads. Cykelruterne er af tre fo
 
 </div>
 
-<h2>Cykelkort med Vejle</h2>
+## Cykelkort med Vejle (reklamelinks)
 
 {% include gallery %}
 
-<p>Jeg har skrevet en guide til at vælge de <a href="/cykelkort/">bedste cykelkort</a>. Der er lavet nogle ganske glimrende cykelkort med udgangspunkt i Sydjylland, hvor cykelruterne fra Vejle er i.</p>
+Jeg har skrevet en guide til at vælge de [bedste cykelkort](/cykelkort/). Der er lavet nogle ganske glimrende cykelkort med udgangspunkt i Sydjylland, hvor cykelruterne fra Vejle er i.
