@@ -1,12 +1,13 @@
 ---
 title: "Bindeballestien: Regional cykelrute 36 Vejle - Billund"
-excerpt: "Bindeballestien er en cykelrute, der kører langs en gammel banesti, der kører fra Vejle til Bindeballe Købmandsgård og videre til Billund."
+seo_title: "Bindeballestien: Følg banestien mellem Vejle og Billund"
+excerpt: "Bindeballestien er en cykelrute, der følger en gammel banesti mellem Vejle til Bindeballe Købmandsgård og videre til Billund."
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2020-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://c.pxhere.com/photos/e9/95/bike_rapeseed_field_way_tour_tourism_nature_the_cultivation_of-877564.jpg!d
-  caption: "Bindeballestien. Pxhere - [via](https://pxhere.com/da/photo/877564)"
+  caption: "Bindeballestien mellem Vejle og Billund. Pxhere - [via](https://pxhere.com/da/photo/877564)"
   teaser: https://c.pxhere.com/photos/e9/95/bike_rapeseed_field_way_tour_tourism_nature_the_cultivation_of-877564.jpg!d
 category:
   - Regional
