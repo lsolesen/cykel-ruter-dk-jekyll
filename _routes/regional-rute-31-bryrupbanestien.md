@@ -1,7 +1,8 @@
 ---
 title: "Bryrupbanestien: Regional cykelrute 31: Horsens - Silkeborg"
+seo_title: "Bryrupbanestien: Naturstien på cykel fra Horsens - Silkeborg"
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2020-06-03T09:48:02+02:00
+last_modified_at: 2021-06-13T09:48:02+02:00
 author: dina
 toc: true
 header:
@@ -61,7 +62,7 @@ I Lund kommer vi igen på asfalteret vej, og her begynder den egentlige Bryrupba
 
 Kommer man i den rigtige sæson, er der rig mulighed for at fylde munden med kirsebær fra de mange kirsebærtræer, som er spredt over næsten hele ruten. Det kan også betale sig at komme en par stykker i lommerne og skynde sig videre til et af de mange oplagte stoppesteder undervejs. Allerede lige efter Vestbirk krydser vi en bro over Vestbirksøerne, der er skabt som følge af Vestbirk Vandkraftværks opdæmning af Gudenåen. Kraftværket fungerer nu som arbejdende museum. På søens nærliggende græsplæne er der opsat borde og bænke til dem, som vil nyde medbragt mad og den fine udsigt.
 
-{% include gallery id="gallery" caption="Billeder taget af Villy Fink Isaksen fra [Wikipedia om Naturstien: Horsens-Silkeborg](https://da.wikipedia.org/wiki/Naturstien_Horsens-Silkeborg)" layout="full" %}
+{% include gallery id="gallery" caption="Billeder fra Bryrupbanestien taget af Villy Fink Isaksen fra [Wikipedia om Naturstien: Horsens-Silkeborg](https://da.wikipedia.org/wiki/Naturstien_Horsens-Silkeborg)" layout="full" %}
 
 Ikke mange meter herfra krydser vi Gudenåen igen. Er du allerede oppe i fart, så hold øjnene åbne i de ådalens grønne omgivelser, men tag dig ellers tid til at stoppe op for at nyde roen på dette fredfyldte sted, hvor du på et oplysningsskilt kan læse, at Nordeuropas engang højeste stålgitterbro stadig ligger begravet.
 
@@ -77,6 +78,18 @@ Området byder også på gode, afmærkede vandreruter i klitlandskabet, hvor tid
 
 Lidt efter lidt lukker træerne sig mere om stien, og vi kører i svalende skygge, inden vi når til den hyggelige Silkeborg by med dens mange cafeer og folkeliv.
 
-## Cykelkort over Bryupbanestien
+## Hvor lang er Naturstien fra Horsens til Silkeborg?
+
+Naturstien fra Horsens til Silkeborg er i alt 61 kilometer lang. Naturstien er en del af Bryrupbanestien. Stien følger Gudenåens forløb, og man kommer gennem Bakkelandet nord for Horsens og passerer mange af landets højeste bakker, Søhøjlandet, de dybe skove og mange søer. Naturstien er perfekt egnet som cykelrute, da der er meget få trafikerede steder på ruten.
+
+## Folder over Naturstien fra Horsens til Silkeborg
+
+Du kan [downloade en PDF-folder over Naturstien fra Horsens til Silkeborg her](https://naturstyrelsen.dk/media/nst/67357/26_Horsens-Silkeborg_A3.pdf).
+
+## Overnatning på Bryrupbanestien
+
+Langs Bryrupbanestien er der etableret primitive overnatningspladser og rastepladser med shelters, muldtoiletter og vand. Bl.a. kan du finde [shelters ved Vrads Station](https://www.visitsilkeborg.dk/silkeborg/udforsk/shelters-v-bryrupbanestien-vrads-station-gdk922843).
+
+## Kort over Bryupbanestien
 
 {% include maps-ad.md %}
