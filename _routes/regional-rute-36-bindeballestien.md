@@ -1,9 +1,9 @@
 ---
 title: "Bindeballestien: Regional cykelrute 36 Vejle - Billund"
 seo_title: "Bindeballestien: Følg banestien mellem Vejle og Billund"
-excerpt: "Bindeballestien er en cykelrute, der følger en gammel banesti mellem Vejle til Bindeballe Købmandsgård og videre til Billund."
+excerpt: "Bindeballestien er en 36 km lang cykelrute, der følger en gammel banesti mellem Vejle til Bindeballe Købmandsgård og videre til Billund."
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2021-06-03T09:48:02+02:00
+last_modified_at: 2021-06-13T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://c.pxhere.com/photos/e9/95/bike_rapeseed_field_way_tour_tourism_nature_the_cultivation_of-877564.jpg!d
@@ -49,40 +49,70 @@ gallery:
 
 **{{ page.excerpt }}**
 
-**Bindeballestien** er en attraktiv cykel- og vandrerute gennem den naturskønne Vejle Ådal. 
+**Bindeballestien** er en attraktiv, børnevenlig cykelrute og vandrerute gennem den naturskønne Vejle Ådal. Bindeballestien går fra Vejle til Billund.
 
 Strækningen fra Vejle til Bindeballe følger den gamle Vandelbanes spor gennem landskabet. Derfor er den næsten flad, og langt hovedparten af ruten er bilfri zone. Ruten er skiltet som regional cykelrute nr. 36 og går fra Vejle til Bindeballe og videre til Billund.
 
 ## Skiltning og kort på Bindeballestien
 
-Bindeballestien er skiltet med regional cykelrute 36. Du kan finde ruten som GPS nedenunder. Ruten er let at følge selv uden et cykelkort.
+Bindeballestien er skiltet med regional cykelrute 36. Du kan finde ruten som GPS-track nedenunder. Ruten er let at følge uden et cykelkort, men hvis du har brug for et kort over Bindeballestien, så kan du også finde det nedenunder.
 
 ## Seværdigheder på Bindeballestien (fra øst mod vest)
 
-Vejle er en moderne, hyggelig og kulturel købstad. Til højdepunkterne hører det stemningsfyldte gågademiljø bl.a. med paraplygaden, den unikke havnepromenade, Sct. Nicolai Kirke fra 1200-tallet, byens kunstmuseum, science museum og kulturmuseum.  
+Vejle er en hyggelig og købstad. Du skal opleve gågaden og paraplygaden, den ret unikke havnepromenade, Sct. Nicolai Kirke, Spinderihallerne og ellers bare nyde skovene omkring byen.
 
-På et voldsted tæt på Vejle Å ligger Haraldskær Hovedgård fra 1434, der i dag drives som hotel. Skibet Kirke er bygget i frådsten og har romansk kirkeskib og -kor. I koret er der kalkmalerier fra 1200-tallet.
+Når du følger Bindeballestien passerer du tæt på et voldsted ved Vejle Å Haraldskær Hovedgård fra 1434, der i dag drives som hotel. Du kan også kigge forbi Skibet Kirke.
 
-Vork Bakker er et næsten alpeagtigt naturområde med bakker, snævre slugter, skove, søer og marker.
+I Vork Bakker får du næsten fornemmelsen af at være i et alpeagtigt naturområde med bakker, snævre slugter, skove, søer og marker.
 
-Vingsted har et flot rekreativt område med bla. en undervandskasse, hvor livet i åen kan studeres. Vingsted Sø er en af landets spændende våbenoffermoser fra jernalderen. I det nærliggende jernaldermiljø har man rekonstrueret jernaldergårde.
+Vingsted har et flot rekreativt område. Her kan du finde en undervandskasse, hvor du kan studere livet i åen. Vingsted Sø er en af landets spændende våbenoffermoser fra jernalderen. Du kan også slå et smut forbi det nærliggende jernaldermiljø, hvor man har rekonstrueret jernaldergårde.
 
-Den spændende historie om Harald Blåtands Bro over Vejle Ådal fortælles på Ravning Station og broens forløb ses i terrænet. 
+Ved Ravning Station kan du læse mere om den spændende historie om Harald Blåtands Bro over Vejle Ådal, og du kan få en fornemmelse for, hvor broen lå, og hvordan den var konstrueret. 
 
-I Tørskind findes en samling store landskabsskulpturer i træ, sten og metal skabt af billedhuggerne Robert Jacobsen og Jean Clareboudt. 
+Du må ikke gå glip af de store landskabsskulpturer i træ, sten og metal skabt af billedhuggerne Robert Jacobsen og Jean Clareboudt, som du kører forbi ved Tørskind Grusgrav. Du skal særligt gå op bagi grusgraven, hvor der er en enestående og dragende udsigt.
 
-Runkenbjerg, er en lang smal bakkekam med en fantastisk udsigt over landskabet. 
+Når du passerer Runkenbjerg, som er en lang smal bakkekam, så skal du nyde den helt fantastiske udsigt over landskabet. 
 
-Bindeballe Station og Bindeballe Købmandsgård er bygget i forbindelse med Vandelbanens (1897-1957) oprettelse. Nu kan jernbanehistorien studeres på den gamle station, mens købmandsgården fungerer som indkøbssted og museumskøbmandshandel.
+Bindeballe Station og Bindeballe Købmandsgård er bygget i forbindelse med Vandelbanens (1897-1957) oprettelse. Købmandsgården fungerer stadig som indkøbssted og museumskøbmandshandel, og du kan leje hytter.
 
 {% include gallery caption="Billeder fra Bindeballestien er fra [Wikipedia](https://da.wikipedia.org/wiki/Vejle-Vandel-Grindsted_Jernbane)" layout="full" %}
 
-Frederikshåb Plantage er et sjældent landskab af hvide sandklitter, lyngklædte bakker, søer og nåleskove.
+I Frederikshåb Plantage kan du opleve et sjældent landskab af hvide sandklitter, lyngklædte bakker, søer og nåleskove.
 
-Naturrum Kirstinelyst er et levende oplevelsescenter og samtidig porten til Randbøl Hede, Danmarks største indlandshede. Her dominerer de store vidder, sandklitterne og de vindomblæste lyngpletter.
+Naturrum Kirstinelyst er et levende oplevelsescenter, som også danner port til Randbøl Hede, Danmarks største indlandshede. Her dominerer de store vidder, sandklitterne og de vindomblæste lyngpletter.
 
-En kort del af ruten følger nu den trafikerede Koldingvej, men efter 700 meter er man tilbage på sporet og følger snart den flotte natur langs Billund Bæk og naturområderne syd for Billund inden turen går til Billund, der bl.a. er hjemsted for de store attraktioner LEGOLAND® og Lalandia.
+En kort del af ruten på Bindeballestien følger herfra den trafikerede Koldingvej, men efter 700 meter er man tilbage på sporet og følger nu den flotte natur langs Billund Bæk og naturområderne syd for Billund inden turen går til Billund.
 
-## Cykelkort over Bindeballestien
+I Billund kan du opleve LEGOLAND®, Wow Park og Lalandia.
+
+## Hvor lang er Bindeballestien?
+
+Bindeballestien er 36 km lang. Ruten følger den gamle Vandelbane gennem landskabet, så ruten er næsten flad, og ruten er skærmet for biler.
+
+## Er Bindeballestien asfalteret?
+
+Du skal køre både på grusvej og asfalteret cykelsti, hvis du vælger at køre på Bindeballestien. Hele stien er let fremkommelig og passagerne med grus er stadig fine cykelveje. Bindeballestien er asfalteret fra Vejle til Ravningbroen og igen fra Frederikshåb Plantage i lange strækninger mod Billund.
+
+## Overnatning på Bindeballestien?
+
+Der er flere muligheder for overnatning på Bindeballestien. Du kan bo både primitivt eller komfortabelt. 
+
+Bindeballe Købmandsgård, der ligger cirka midtvejs på ruten, udlejer campinghytter - og ved Lihmskov kan du finde et Bed & Breakfast. I Skibet er der også et hostel, som du kan bo på.
+
+Hvis du vælger at overnatte udendørs, så er der flere muligheder for at finde shelters eller primitive overnatningssteder, hvor du kan slå telt eller hængekøje op. Du kan booket shelters på [udeliv.vejle.dk](https://udeliv.vejle.dk/).
+
+Ved Kvak Mølle, Vingsted, Ravningbroen, Bindeballe Station og Kirstinelyst er shelter- og teltpladser med madpakkehuse, grill og bålpladser.
+
+## Hvordan er det at vandre på Bindeballestien?
+
+Du kan se i nedenstående virkelig velproducerede video, hvordan det er at vandre langs Bindeballestien.
+
+{% include video provider="youtube" id="gCK-LEv1ICs" %}
+
+## Folder over Bindeballestien
+
+Du kan downloade en [PDF-folder over Bindeballestien](http://www.okolariet.dk/media/345467/bindeballeinfotavle_juni_2016_1_lav.pdf). Du kan også hente en folder fx på Økolariet i Vejle over banestien.
+
+## Kort over Bindeballestien
 
 {% include maps-ad.md %}
