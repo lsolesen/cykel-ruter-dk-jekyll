@@ -71,6 +71,7 @@ social:
   type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.pinterest.dk/cykelruter/"
 
 
 # Site search
@@ -84,6 +85,18 @@ analytics:
     tracking_id          : ""
 
 
+footer:
+  links:
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.dk/cykelruter/"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
+    - label: "Køb cykelkort*"
+      icon: "fas fa fa-map-marker"
+      url: "https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort&G=020"
+
 # Site Author
 author:
   name: "Cykel-ruter.dk"
@@ -93,6 +106,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@cykel-ruter.dk"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.dk/cykelruter/"
     - label: "Støt sitet"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/lsolesen"

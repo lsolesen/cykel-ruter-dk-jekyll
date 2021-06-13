@@ -1,17 +1,14 @@
 lsolesen:
   name: "Lars Olesen"
-  bio: "Viceforstander på Vejle Idrætshøjskole - og har skrevet to cykelguidebøger i Østjylland og Vestjylland."
+  bio: "Lars har skrevet flere cykelguidebøger om cykelruter i Danmark - særligt i Østjylland og Vestjylland - og han drømmer om den næste cykeltur og cykelferie med sin familie."
   avatar: "/assets/images/authors/larsolesen.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lsolesen@gmail.com"
-    - label: "Motionsplan.dk"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.motionsplan.dk"
-    - label: "Legestue.net"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.legestue.net"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.dk/cykelruter/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lsolesen/"
@@ -20,7 +17,7 @@ lsolesen:
       url: "https://www.buymeacoffee.com/lsolesen"
 dina:
   name: "Dina Knudsen"
-  bio: "Kommunikationsmedarbejder på Vejle Idrætshøjskole - og har cyklet fra Nordpolen til Sydpolen."
+  bio: "Dina har skrevet flere cykelguidebøger om cykelruter i Danmark. Hun har også cyklet fra Nordpolen til Sydpolen - altså i Polen."
   avatar: "/assets/images/authors/dinaknudsen.png"
   links:
     - label: "Linkedin"
