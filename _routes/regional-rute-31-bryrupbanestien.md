@@ -7,7 +7,7 @@ author: dina
 toc: true
 header:
   overlay_image: &image /assets/images/routes/regional-rute-31-bryrupbanestien.jpg
-  caption: "Stemningsbillede fra Bryupbanestien. Naturstien fra Horsens til Silkeborg"
+  caption: "Stemningsbillede fra Bryrupbanestien. Naturstien fra Horsens til Silkeborg"
   teaser: *image
 category:
   - Regional

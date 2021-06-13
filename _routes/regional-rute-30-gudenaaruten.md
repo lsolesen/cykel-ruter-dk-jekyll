@@ -1,11 +1,13 @@
 ---
-title: "Regional Rute 30 Gl. Rye -Ry - Silkeborg - Ans - Bjerringbro - Langå - Randers"
+title: "Regional Rute 30 Gl. Rye - Ry - Silkeborg - Ans - Bjerringbro - Langå - Randers"
+seo_titl: &title "Gudenåstien: Cykelrute 30 fra Gl. Rye til Silkeborg og Randers"
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image https://images.unsplash.com/photo-1555671264-19bbb3d58321?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  caption: "Photo by James Toose on Unsplash"
+  caption: *title
+  credit: "Photo by James Toose on Unsplash"
   teaser: *image
 category:
   - Regional
@@ -13,7 +15,7 @@ tags:
   - cykelrute
   - regional
   - Ikke trykt
-excerpt: "Ruten kaldes også for Gudenåruten, idet vi hele tiden bevæger os langs eller nær Danmarks største å. Da åen historisk har tiltrukket megen menneskelig aktivitet, findes derfor et stort antal arkæologiske og historiske seværdigheder foruden den smukke natur langs åen."
+excerpt: "Regional cykelrute 30 kaldes også for Gudenåstien eller Gudenåruten, idet vi hele tiden bevæger os langs eller nær Danmarks største å. Da åen historisk har tiltrukket megen menneskelig aktivitet, findes derfor et stort antal arkæologiske og historiske seværdigheder foruden den smukke natur langs åen."
 gps:
   url: https://www.alltrails.com/explore/map/rute-r30-langs-gudenaen-fra-randers-til-gl-rye-1-71969a8
   id: https://www.alltrails.com/widget/map/rute-r30-langs-gudenaen-fra-randers-til-gl-rye-1-71969a8
@@ -39,5 +41,7 @@ Et godt stykke efter Bjerringbro kommer vi til Busbjerg, som er en 92 m høj bak
 På det sidste stykke vej til Randers passerer vi bl.a. middelalderkirken, Ørum Kirke, som ligger smukt alene på toppen af en 76 m høj bakke med endnu en fantastisk udsigt. Herfra fortsætter ruten ad en allé forbi den mindre herregård Christianslund.
  
 Inden længe når vi Randers, hvor Gudenåen efterhånden er begyndt at brede sig godt i landskabet.
+
+## Kort over Gudenåstien
 
 {% include maps-ad.md %}
