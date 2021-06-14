@@ -22,7 +22,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 {% if jekyll.environment == 'production' %}
 <!-- Google Tag Manager (noscript) -->

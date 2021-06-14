@@ -20,9 +20,9 @@
   },
   "devDependencies": {
     "browserify": "^16.5.0",
-    "mocha": "^6.2.1",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
+    "mocha": "^6.2.1",
     "puppeteer": "^8.0.0",
     "queue": "^6.0.2",
     "uglifyify": "^5.0.2",
@@ -35,13 +35,13 @@
     "watch": "watchify src/js/app.bundle.js -o assets/js/bundle.js",
     "test": "mocha src/test/*.*",
     "generate-image": "node _scripts/generate-image.js",
-    "generate-image": "node _scripts/generate-image-route.js",
+    "generate-image-route": "node _scripts/generate-image-route.js",
     "og-image": "npm run generate-image -- type:og",
     "og-images": "npm run generate-image -- type:og path:./_posts/",
     "pinterest-image": "npm run generate-image -- type:pinterest",
     "pinterest-images": "npm run generate-image -- type:pinterest path:./_posts/",
     "instagram-image": "npm run generate-image -- type:instagram",
     "instagram-images": "npm run generate-image -- type:instagram path:./_posts/",
-    "og-route-images": "npm run generate-route-image -- type:og path:./_routes/"
+    "og-route-images": "npm run generate-image-route -- type:og path:./_routes/"
   }
 }

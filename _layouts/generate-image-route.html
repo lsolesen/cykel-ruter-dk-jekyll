@@ -44,7 +44,7 @@
 
     body.og #preview {
       box-sizing: border-box;
-      border: 20px orange solid !important;
+      /* border: 20px orange solid !important; */
       height: 630px;
       width: 1200px;
       font-size: 1.25rem;
@@ -55,17 +55,17 @@
       width: 50%;
     }
 
+    /*
     body.og #preview #image {
       margin-left: -10%;
       width: 60%;
     }
+    
 
     body.og #preview #image {
-      /* border-top-left-radius:10% 10%;
-  border-bottom-left-radius:30% 40%; */
       clip-path: polygon(20% 0, 100% 0, 100% 100%, 0 100%);
     }
-
+    */
     body.og #post-excerpt {
       display: none;
     }
@@ -253,9 +253,10 @@
 
       <h3 id='post-excerpt'></h3>
 
-      <section id='author'>
-        <img id='author-image' alt='' src='' data-proofer-ignore>
-        <p id='author-name'></p>
+      <section id='info'>
+        <i class="fas fa-route"></i> Distance: <span id="distance"></span> km<br>
+        <i class="fas fa-road"></i> Asfalt: <span id="distance"></span> km<br>
+        <i class="fas fa-tree"></i> Grusveje og stier: <span id="distance"></span> km
       </section>
     </section>
 
