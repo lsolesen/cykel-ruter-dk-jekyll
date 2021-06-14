@@ -18,6 +18,9 @@ gps:
   url: https://www.alltrails.com/explore/map/map-fbdd952--10
   id: https://www.alltrails.com/widget/map/map-fbdd952--10
   provider: alltrails
+distance: 99
+asphalt: 74
+rubble: 24
 ---
 
 **{{ page.excerpt }}**
@@ -43,6 +46,15 @@ Efter Estvad mødes begge ruteforløb igen og går herfra videre til Skive, hvor
 ## Links
 
 - http://www.skovognatur.dk/Ud/Oplev/Naturperler/Vosborg.htm
+
+## Seværdigheder
+
+- Stråsø Plantage
+- Sdr. Vosborg Hede
+- Holsterbro Museum
+- Tvis Mølle
+- Frilandsmuseet Hjerl Hede
+- Flyndersø
 
 ## Kort over {{ page.title }}
 

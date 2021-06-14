@@ -18,6 +18,9 @@ gps:
   url: https://www.alltrails.com/explore/map/map-f4666b1--7
   id: https://www.alltrails.com/widget/map/map-f4666b1--7
   provider: alltrails
+distance: 94/145
+asphalt: 53/ 104
+rubble: 41
 ---
 
 **{{ page.excerpt }}**
@@ -39,6 +42,18 @@ Herefter kan du fortsætte frem til hovedvej 28, hvor du kører mod Ulfborg. Eft
 Efter besøget på herregården fortsætter du en halv kilometer længere på hovedvej 28 og drejer derefter til venstre mod Lillelund og Hvolby og op til hovedvej 16. Her drejer du til venstre og kort efter til højre ad den lille grusvej, Paradisvej, som fører dig tæt forbi Nørre Vosborg Hede og videre gennem Stråsø Plantage og langs Sdr. Vosborg Hede. Et naturskønt område med indlandsklitter, hede og skov. Sdr. Vosborg Hede var en af de sidste opholdssteder for den nu uddøde urfugl. Indtil da var heden uberørt natur, men nu er der lavet vandrespor rundt i denne naturperle. Lige efter heden slutter, kan du dreje mod højre af Filsøvej. Ved Lystbækgårdvej drejer du mod vestre. I Lystbækgård fortsætter du ad Klausievej, indtil du drejer til højre ad Rejkjærvej.
 
 Ved Rejkær kører du ud på hovedvejen og fortsætter mod Madum og Vedersø. Ved kirken i Vedersø ligger Kaj Munk begravet, og på Vedersø Egnsmuseum er der en mindestue om præsten, digteren, forfatteren og samfundskritikeren. I Vedersø kan der laves en afstikker til Vest Stadil Fjord, som er et af Danmarks største naturgenopretningsprojekter, hvilket især glæder mange naturelskere og fugle, særligt gæs.
+
+## Seværdigheder
+
+- Husby Klitplantage
+- Strandingsmuseet St. George
+- Hornvarefabrikken
+- Gammelgård Glas
+- Unika Kunsthåndværk
+- Herregården Nr. Vosborg
+- Skærum Mølle
+- Stråsø Plantage
+- Vedersø Kirke og Egnsmuseum
 
 ## Kort over {{ page.title }}
 

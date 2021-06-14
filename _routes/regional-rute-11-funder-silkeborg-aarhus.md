@@ -18,6 +18,9 @@ gps:
   url: https://www.alltrails.com/explore/map/map-7012ef0--10
   id: https://www.alltrails.com/widget/map/map-7012ef0--10
   provider: alltrails
+distance: 57
+asphalt: 57
+rubble: 0
 ---
 
 **{{ page.excerpt }}**
@@ -29,6 +32,17 @@ Når du forlader Silkeborg giver trafikken langs landevejen masser af susen for 
 Herefter drejer du op mod Låsby og følger de mange sving og den dejlige natur på ruten mod Galten og Skovby; to byer som næsten er vokset sammen. Fra Galten mod Århus kan du håbe på medvind til at give endnu mere fart på vejen på den lette hældning nedad. Inden Århus sænker du igen farten for at ramme byen fra en af sine smukkeste sider gennem Århus Ådal nord om den fredede Brabrand Sø.
 
 Brabrand Sø er en af de fuglerigeste søer i Østjylland, og her kan du bl.a. se og høre toppede lappedykkere, gråænder, rørhøns, blishøns, vibe, rør- og kærsanger. Nyd naturen inden du besøger Århus, som er en rigtig god cykelby, men hvor du også bør stå af cyklen for at beundre de flotte gader i og omkring centrum, kunstmuseet Aros, Botanisk Have og Den Gamle By.
+
+## Seværdigheder
+
+- AQUA Ferskvands Akvarium
+- Silkeborg
+- Lyngbygård Ådal
+- Skovby
+- Brabrand Sø
+- Den Gamle By
+- ARoS
+- Århus
 
 ## Kort over {{ page.title }}
 

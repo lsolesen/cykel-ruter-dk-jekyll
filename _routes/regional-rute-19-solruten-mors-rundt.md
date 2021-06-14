@@ -18,11 +18,29 @@ gps:
   url: https://www.alltrails.com/explore/map/map-5b658d2--10
   id: https://www.alltrails.com/widget/map/map-5b658d2--10
   provider: alltrails
+distance: 115
+asphalt: 115
+rubble: 0
 ---
 
 **{{ page.excerpt }}**
 
 Ikke skrevet endnu. Skriv i kommentarerne, hvis du har behov for den, så får vi den lagt op også.
+
+## Seværdigheder
+
+- Dueholm Kloster
+- Resort Jesperhus
+- Legind Bjerge
+- Højriis Slot
+- Agerø
+- Morsø Traktormuseum
+- Baks Traktor- og Landbrugsmaskinmuseum
+- Hanklit
+- Salgjerhøj
+- Skarregård
+- Molérmuseet
+- Fegge Klint
 
 ## Kort over {{ page.title }}
 

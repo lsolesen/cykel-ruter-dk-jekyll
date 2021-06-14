@@ -20,11 +20,20 @@ gps:
   url: https://www.alltrails.com/explore/map/map-1feb4cd--9
   provider: alltrails
 related: "National Cykelrute 2"
+distance: 35
+asphalt: 35
+rubble: 0
 ---
 
 **{{ page.excerpt }}**
 
-På vej ud af Viborg nærmer vi os Hjarbæk Fjord, som vi følger rundt. På vejen kommer vi forbi den gamle Tårupgård fra 1500-tallet. Gården er privatejet, men der er afmærket offentlige vandreruter rundt i området. Ved Nørre Ørum drejer vi vest og rammer Skive Fjord ved Stårup Hovedgård. Gården er åbent for besøg, så her kan man gå på opdagelse i de gamle kældre fra 1300-tallet og se den flotte samling af malerier, møbler og kunst fra 1600-1800-tallet. Stedet levendegør herresædets historie gennem mere end 650 år. I gårdens porthuslænge kan der handles hos en af landets største antikvitetshandlere.
+På vej ud af Viborg nærmer vi os Hjarbæk Fjord, som vi følger rundt. På vejen kommer vi forbi den gamle Tårupgård fra 1500-tallet. Gården er privatejet, men der er afmærket offentlige vandreruter rundt i området.
+
+Hjarbæk Fjord har brødfødt fiskere fra stenalderen, men nu er der ikke længere basis for erhvervsfiskeri. Fjorden er i dag et vildtreservart og især efterår og vinter rasteplads for mange fugle.
+
+Hvis du har tid til at sætte cyklen, er der flere gode vandreture i området. På en af vandreturene kommer du bl.a. forbi en rekonstruktion af et jernalderhus. Selvom din tid er knap, bør du stoppe op og nyde udsigten over fjorden fra nogle af udsigtspunkterne.
+
+Ved Nørre Ørum drejer vi vest og rammer Skive Fjord ved Stårup Hovedgård. Gården er åbent for besøg, så her kan man gå på opdagelse i de gamle kældre fra 1300-tallet og se den flotte samling af malerier, møbler og kunst fra 1600-1800-tallet. Stedet levendegør herresædets historie gennem mere end 650 år. I gårdens porthuslænge kan der handles hos en af landets største antikvitetshandlere.
 
 Resten af vejen kører vi langs fjorden ind mod Skive, hvor der lige nord for byen er bademulighed i fjorden. Skive er hovedbyen for Salling med en aktiv erhvervshavn og store grønne områder. Skive museum med den lokalhistoriske samling og en fin grønlandsk samling er absolut et besøg værd.
 

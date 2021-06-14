@@ -19,11 +19,22 @@ gps:
   id: https://www.alltrails.com/widget/map/map-4249a84--14
   provider: alltrails
 related: National Cykelrute 12
+distance: 130
+asphalt: 130
+rubble: 0
 ---
 
 **{{ page.excerpt }}**
 
 Ikke beskrevet. Brug kommentarerne hvis du har brug for beskrivelsen, så får vi den lagt ind hurtigst muligt.
+
+## Seværdigheder
+
+- Vestervig Kirke
+- Ydby Skjold
+- Doverodde Købmandsgård
+- Skyumbjerge
+- Vejlerne
 
 ## Kort over {{ page.title }}
 

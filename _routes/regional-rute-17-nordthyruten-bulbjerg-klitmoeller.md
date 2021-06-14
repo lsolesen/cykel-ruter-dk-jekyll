@@ -18,11 +18,24 @@ gps:
   url: https://www.alltrails.com/explore/map/map-676b587--11
   id: https://www.alltrails.com/widget/map/map-676b587--11
   provider: alltrails
+distance: 65
+asphalt: 47
+rubble: 187
 ---
 
 **{{ page.excerpt }}**
 
 Mangler beskrivelse. Brug kommentarerne, hvis du har brug for den.
+
+## Seværdigheder
+
+- Bulbjerg
+- Tømmerby Kirke
+- Vejlerne
+- Østerild Plantage
+- Thisted
+- Vandet Klitplantage
+- Nystrup Klitplantage
 
 ## Kort over {{ page.title }}
 

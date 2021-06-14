@@ -46,6 +46,9 @@ gallery:
     image_path: https://upload.wikimedia.org/wikipedia/commons/c/cf/T%C3%B8nning_station.jpg
     title: "Tidligere Tønning station set fra Bryrupbanestien"
     alt: "Tidligere Tønning station set fra Bryrupbanestien"
+distance: 54
+asphalt: 54
+rubble: 0
 ---
 
 **{{ page.excerpt }}**
@@ -89,6 +92,17 @@ Du kan [downloade en PDF-folder over Naturstien fra Horsens til Silkeborg her](h
 ## Overnatning på Bryrupbanestien
 
 Langs Bryrupbanestien er der etableret primitive overnatningspladser og rastepladser med shelters, muldtoiletter og vand. Bl.a. kan du finde [shelters ved Vrads Station](https://www.visitsilkeborg.dk/silkeborg/udforsk/shelters-v-bryrupbanestien-vrads-station-gdk922843).
+
+## Seværdigheder langs Bryupbanestien og Naturstien
+
+- Horsens
+- Horsens Statsfængsel
+- Vestbirk Vandkraftværk
+- Ring Skov
+- Bryrup Langsø
+- Veteran Jernabane
+- Silkeborg
+- AQUA Ferskvandsakvarium
 
 ## Kort over Bryupbanestien
 

@@ -18,6 +18,9 @@ gps:
   url: https://www.alltrails.com/explore/map/map-2dbf216--11
   id: https://www.alltrails.com/widget/map/map-2dbf216--11
   provider: alltrails
+distance: 35
+asphalt: 25
+rubble: 10
 ---
 
 **{{ page.excerpt }}**

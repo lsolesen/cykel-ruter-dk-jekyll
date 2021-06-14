@@ -20,11 +20,26 @@ gps:
   id: https://www.alltrails.com/widget/map/map-4249a84--14
   provider: alltrails
 related: "National Cykelrute 2"
+distance: 35
+asphalt: 8
+rubble: 27
 ---
 
 **{{ page.excerpt }}**
 
 Følger senere. Brug kommentarerne, hvis vi skal beskrive ruten lidt hurtigere.
+
+## Seværdigheder på {{ page.title }}
+
+- Jenle
+- Eskjær
+- Planetstien
+- Nautrup
+- Sallingsund og Omegns Museum
+- Højriis
+- Jesperhus Blomsterpark
+- Dueholm Kloster
+- Støberimuseet
 
 ## Kort over {{ page.title }}
 

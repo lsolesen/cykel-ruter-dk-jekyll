@@ -18,6 +18,9 @@ gps:
   url: https://www.alltrails.com/explore/map/map-1e69276--7
   id: https://www.alltrails.com/widget/map/map-1e69276--7
   provider: alltrails
+distance: 60
+asphalt: 60
+rubble: 0
 ---
 
 **{{ page.excerpt }}**
@@ -35,6 +38,17 @@ I området mellem Mossø og Skanderborg Sø følger du regional cykelrute 15 et 
 Ruten tager en lille bue uden om Odder gennem Torrild og Over Randlev. Landskabet byder på små fine gårde med hestefolde, og umiddelbart syd for Odder passeres den markante Rævsådal, hvor du på den vestlige dalside kan stå af cyklen og kigge ud over de cirka halvtreds meter lavere arealer mod øst og over havet til Samsø.
 
 Ved Hov får ruten kontakt med den nationale cykelrute 5. Der er også færgeforbindelse til Samsø og Tunø. Nord for byen er der en udmærket strand til et svalende bad.
+
+## Seværdigheder
+
+- Silkeborg
+- AQUA Ferskvands Akvarium
+- Himmelbjerget
+- Gudenå Museet
+- Boes
+- Skanderborg
+- Rævsådal
+- Hov
 
 ## Kort over {{ page.title }}
 

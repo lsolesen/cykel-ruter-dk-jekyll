@@ -18,15 +18,28 @@ gps:
   url: https://www.alltrails.com/explore/map/map-0589dd5--7
   id: https://www.alltrails.com/widghet/map/map-0589dd5--7
   provider: alltrails
+distance: 54
+asphalt: 53
+rubble: 1
 ---
 
 **{{ page.excerpt }}**
 
 På vej ud af Brande kan du få en svalende dukkert i en badesøen, og ellers glæde dig til at nyde området omkring Rørbæk Sø, hvor du sikkert kan bruge et hvil i det kuperede landskab. Her kan bl.a. slappes af med et slag minigolf, mens den inkarnerede cyklist lejer en cykelbåd for at komme helt tæt på søen. Når du har hvilet, går det op ad bakke mod Tinnet Krat, hvor man bl.a. kan se de meget små kilder til Gudenåens og Skjernåens udspring. En lille afstikker herfra kan være et besøg på Ballebæksgård, som har en udstilling om Rørbæk Søs naturhistorie. Ved gården er der bålplads, og fra de overdækkede borde og bænke kan man se ned til Rørbæk Sø.
- 
+
 Fra Tinnet Krat køres gennem Hjortsvang og Åle til Rask Mølle. Fra Rask Mølle kan man tage en afstikker mod syd til Uldum og besøge det arbejdende museum, Uldum Mølle. Møllen blev bygget 1895, men er flot bevaret. Herfra fortsætter turen mod Horsens via Flemming, og kort tid efter at have drejet mod syd i Kørup krydses Bygholm Å, som du følger på grusvej mod Bygholm Sø.
- 
+
 Indkørslen til Horsens kan næsten ikke gøres bedre, da du kører ned ad bakke i træernes skygge med udsigten over Bygholm Sø på venstre hånd. Ved den vestlige ende af Bygholm sø ligger den flot bevarede jættestue, Grønhøj, hvorom du kan få mere information på skiltet ved indgangen. I Horsens fortsætter ruten gennem den grønne Bygholm Park som en perfekt afslutning på en lang og dejlig rute.
+
+## Seværdigheder
+
+- Brande
+- Tinnet Krat
+- Rørbæk Sø
+- Uldum Mølle
+- Grønhøj
+- Bygholm Park
+- Horsens
 
 ## Kort over {{ page.title }}
 

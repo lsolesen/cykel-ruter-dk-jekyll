@@ -20,6 +20,9 @@ gps:
   id: https://www.alltrails.com/widget/map/map-d5438e5--12
   provider: alltrails
 related: National Cykelrute 4
+distance: 108
+asphalt: 88
+rubble: 20
 ---
 
 **{{ page.excerpt }}**
@@ -31,9 +34,9 @@ I Vrads krydser vi national cykelrute 3, som kører langs den historiske hærvej
 {% include figure image_path="/assets/images/routes/national-rute-4-bryrup-skjern.jpg" caption="Stemningsbillede fra ruten mellem Bryrup og Skjern" alt="Stemningsbillede fra ruten mellem Bryrup og Skjern" %}
 
 Det meget kuperede landskab før Vrads afløses nu af en fladere strækning. Så med vinden i ryggen når vi hurtigt Søbylund og Søby. Området var engang udgravningssted for brunkul og bærer i høj grad præg deraf. Flere utroligt smukke turkisfarvede søer pryder nu området efter grundvandet steg og fyldte de gamle udgravninger. Følger man skiltet, "udkigspunktet", fra ruten føres man efter et par km til en bakke, hvorfra der er godt udsyn over flere af søerne. Der er bademulighed i et par af dem, men undersøg i forvejen hvilke, da nogle har meget høj surhedsværdi. Flere veje i området er desuden opkaldt efter brunkulseventyret, og ruten kører da også langs Brunkulsvej forbi et interessant museum, som viser udgravningsprocessen og det hårde liv, som arbejderne i "Søby Klondike" levede.
- 
+
 Rutens vestjyske marker er et resultat af indsatsen fra det danske hedeselskab med Enrico Dalgas i spidsen, som beplantede og opdyrkede heden fra 1866. I Arnborg kan man stikke hovedet ind i det frivilligt etablerede hjemstavnshus og få den fantastiske historie. Her ligger også den historiske Arnborg kirke. Lige vest for Sønder Felding kan man desuden se fredede engvandingssystemer fra slutningen af 1800-tallet bl.a. efter forslag fra Enrico Dalgas.
- 
+
 På vejen til Ringkøbing Fjord krydser vi Skjern Å, hvis svingninger i 2003 endelig blev genoprettet efter opdagelsen af den kæmpe skade, som 60'ernes udretnings- og afvandingsprojekters gjorde på for miljøet omkring åen. Vi følger fjordsiden forbi den imponerende Tændpibe Vindmøllepark hele vejen til Ringkøbing, hvor der specielt i gaderne omkring bymidten og havnen er gjort en stor indsats for at bevare det gamle bymiljø. Herfra har vi kun få kilometer til rutens afslutning ved Søndervig, ikke langt fra Vesterhavets brus.
 
 ## Links
@@ -41,6 +44,17 @@ På vejen til Ringkøbing Fjord krydser vi Skjern Å, hvis svingninger i 2003 en
 - [Søby-området og brunkulsudgravninger](http://www.dof-ringkobingamt.dk/lokaliteter/lok657050.asp?n=1)
 - [Skjern Å - Danmarks største naturgenopretningsprojekt](http://www.skovognatur.dk/Emne/Naturbeskyttelse/Naturpleje/Naturprojekter/SkjernAa/)
 - [Veteranbanen mellem Bryrup og Vrads](http://www.veteranbanen.dk/)
+
+## Seværdigheder
+
+- Veteran Jernbane
+- Vrads Sande
+- Søby Brunkulsmuseum
+- Søby Brunkulslejer
+- Hjemstavnshus Arnborg
+- Skjern Å
+- Tændpibe Vindmøllepark
+- Ringkøbing
 
 ## Kort over {{ page.title }}
 
