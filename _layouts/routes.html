@@ -40,12 +40,19 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+
         {{ content }}
-        
+
+        <p>
+          <i class="fas fa-route"></i> Distance: {{ page.distance }} km<br>
+          <i class="fas fa-road"></i> Asfalt: {{ page.asphalt }} km<br>
+          <i class="fas fa-tree"></i> Grusveje og stier: {{ page.rubble }} km
+        </p>
+
         <div class="feature_wrapper">
           {% if page.gps.provider %}
             {% include gps provider=page.gps.provider id=page.gps.id %}
-            <div><a href="{{ page.gps.url }}" class="btn btn--large btn--success"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].pdf_label | default: "Se GPS track" }}</a></div>
+            <div><a href="{{ page.gps.url }}" class="btn btn--large btn--success"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].get_gps_track | default: "Se GPS track" }}</a></div>
           {% endif %}
         </div>
 
