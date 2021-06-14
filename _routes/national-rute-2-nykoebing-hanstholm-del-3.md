@@ -20,11 +20,23 @@ gps:
   id: https://www.alltrails.com/widget/map/map-14cfdb5--7
   provider: alltrails
 related: "National Cykelrute 2"
+distance: 65
+asphalt: 58
+rubble: 7
 ---
 
 **{{ page.excerpt }}**
 
 Følger senere. Brug kommentarerne, hvis vi skal sætte lidt fart på at få beskrevet ruten færdig.
+
+## Seværdigheder {{ page.title }}
+
+- Hanklit
+- Salgerhøj
+- Sjørring Volde
+- Isbjerg
+- Blegsø
+- Museumscenter Hanstholm
 
 ## Kort over {{ page.title }}
 
