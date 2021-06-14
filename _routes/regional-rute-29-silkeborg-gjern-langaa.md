@@ -8,7 +8,7 @@ header:
   caption: "Photo by Everton Vila on Unsplash"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

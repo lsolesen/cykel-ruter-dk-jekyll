@@ -7,7 +7,7 @@ header:
   teaser: *image
   caption: "Photo by Matt Gross on Unsplash"
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

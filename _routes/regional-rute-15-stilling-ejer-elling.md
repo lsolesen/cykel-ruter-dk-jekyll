@@ -8,7 +8,7 @@ header:
   caption: "Stemningsbillede mellem Sattrup og Stilling"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

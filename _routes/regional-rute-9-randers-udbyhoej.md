@@ -8,7 +8,7 @@ header:
   caption: "Stemningsbillede mellem Udbyhøj og Hornslet"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

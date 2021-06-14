@@ -8,7 +8,7 @@ header:
   caption: "Stemningsbillede fra VisitKolding"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

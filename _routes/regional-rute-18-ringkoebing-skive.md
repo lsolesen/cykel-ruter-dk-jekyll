@@ -8,7 +8,7 @@ header:
   caption: "Billede fra Holstebro"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

@@ -8,7 +8,7 @@ header:
   caption: "Photo by Fat Lad At The Back on Unsplash"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

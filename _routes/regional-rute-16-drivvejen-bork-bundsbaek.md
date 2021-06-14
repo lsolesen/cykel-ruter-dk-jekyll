@@ -7,7 +7,7 @@ header:
   teaser: *image
   caption: "Billede fra Bikepacking & Cycling Adventures Denmark"
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

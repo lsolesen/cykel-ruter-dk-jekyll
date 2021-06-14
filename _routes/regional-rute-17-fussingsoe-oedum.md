@@ -8,7 +8,7 @@ header:
   caption: "Billede fra randers.dk"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

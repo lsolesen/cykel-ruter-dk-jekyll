@@ -8,7 +8,7 @@ header:
   caption: "Foto fra Unsplash"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

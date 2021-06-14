@@ -8,7 +8,7 @@ header:
   caption: "Stemningsbillede Mariager - mariager-havn.dk"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

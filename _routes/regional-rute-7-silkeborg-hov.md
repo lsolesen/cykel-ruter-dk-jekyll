@@ -8,7 +8,7 @@ header:
   caption: "Photo by Florencia Viadana on Unsplash"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

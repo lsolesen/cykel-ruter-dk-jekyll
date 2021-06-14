@@ -8,7 +8,7 @@ header:
   caption: "Stemningsbillede fra regional rute 51: Horsens til Vissing Kloster"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

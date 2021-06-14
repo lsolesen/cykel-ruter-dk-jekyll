@@ -8,7 +8,7 @@ header:
   caption: "Stemningsbillede fra regional cykelrute 32"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

@@ -8,7 +8,7 @@ header:
   caption: "Billede fra Visitbillund"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

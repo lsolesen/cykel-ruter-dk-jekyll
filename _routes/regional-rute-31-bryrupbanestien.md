@@ -10,7 +10,7 @@ header:
   caption: "Stemningsbillede fra Bryrupbanestien. Naturstien fra Horsens til Silkeborg"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

@@ -8,7 +8,7 @@ header:
   caption: "Stemningsbillede fra cykelruten Hærvejen"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

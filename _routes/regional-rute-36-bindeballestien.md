@@ -10,7 +10,7 @@ header:
   caption: "Bindeballestien mellem Vejle og Billund. Pxhere - [via](https://pxhere.com/da/photo/877564)"
   teaser: https://c.pxhere.com/photos/e9/95/bike_rapeseed_field_way_tour_tourism_nature_the_cultivation_of-877564.jpg!d
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

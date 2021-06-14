@@ -10,7 +10,7 @@ header:
   credit: "Photo by James Toose on Unsplash"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

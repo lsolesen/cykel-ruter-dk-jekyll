@@ -8,7 +8,7 @@ header:
   caption: "Stemningsbillede fra Grathe Hede cykelruten. Taget af Jon Rahr Running"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

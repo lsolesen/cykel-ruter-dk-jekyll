@@ -8,7 +8,7 @@ header:
   caption: "Herregården Skaføgård"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional

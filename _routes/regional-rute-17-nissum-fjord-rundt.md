@@ -8,7 +8,7 @@ header:
   caption: "Billede fra Naturpark Nissum Fjord"
   teaser: *image
 category:
-  - Regional
+  - Regional Cykelrute
 tags:
   - cykelrute
   - regional
