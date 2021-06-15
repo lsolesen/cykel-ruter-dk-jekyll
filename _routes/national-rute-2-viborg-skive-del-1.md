@@ -42,6 +42,13 @@ I Skive kan man se Skives 11 Stjerner. Det er skulpturer tegnet af den berømte 
 
 National cykelrute 2 fortsætter videre mod Hanstholm, men vores beskrivelse slutter her.
 
+## Seværdigheder {{ page.title }}
+
+- Hjarbæk Fjord
+- Taarupgaard
+- Stårup Hovedgård
+- Skive Museum
+
 ## Kort over {{ page.title }}
 
 {% include maps-ad.md %}
