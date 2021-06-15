@@ -1,6 +1,5 @@
 ---
 title: &title "Cykelslanger størrelser: Komplet tabel [2021]"
-seo_title:
 description: Skal du skifte cykelslange, så tjek vores guide og tabel over størrelser på cykelslanger, hvor du let kan finde ud af, hvilke cykelslange størrelser der passer til dit cykelhjul.
 permalink: /cykelslanger-storrelse-tabel/
 language: da
