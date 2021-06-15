@@ -164,6 +164,20 @@ feature_row_routes:
     excerpt: "Bike Island ruten og Østersøruten er oplagte at navigere efter, når du vil opleve Fyn og Øhavets på to hjul. En cykelferie på Fyn og Øerne fører dig både rundt til små hyggelige byer, smukke landskaber, kystnære strækninger og lavvandede badestrande."
     btn_label: "Besøg VisitFyn"
     btn_class: "btn--success"
+  - url: https://bornholm.info/mit-bornholm-paa-cykel/
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    title: "Cykelruter og cykelferie på Bornholm"
+    alt: "Cykelruter og cykelferie på Bornholm"
+    excerpt: "Bornholm har rigtig mange gode cykelruter. Og hvis du vil opleve lidt Tour de France fornemmelse, så er der et godt net af cykelveje for familien på cykelferie. Rundt omkring på øen findes en række ekstraordinært gode steder at køre MTB, Bornholm er det bedste MTB i Danmark, vil jeg mene."
+    btn_label: "Besøg Bornholm.info"
+    btn_class: "btn--success"
+  - url: https://www.feriepartner.dk/samsoe/sommerhusferie/paa-cykel/
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    title: "Cykelruter og cykelferie på Samsø"
+    alt: "Cykelruter og cykelferie på Samsø"
+    excerpt: "Den bedste måde at opleve den fantastiske, varierede natur på Samsø er på cykel. Samsø har flere cykelruter, som viser den unikke kombination af smuk natur, korte afstande og små, charmerende landsbyer gør Samsø til den ideelle destination for familiens cykelferie."
+    btn_label: "Find cykelruter på Samsø"
+    btn_class: "btn--success"
 sidebar:
   nav: blog
 author_profile: true
