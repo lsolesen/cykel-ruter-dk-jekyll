@@ -1,5 +1,5 @@
 ---
-title: "Regional Rute 32: Mariager - Hobro - Hadsund - Mariager (Mariager Fjord rundt)"
+title: &title "Regional Rute 32: Mariager - Hobro - Hadsund - Mariager (Mariager Fjord rundt)"
 permalink: /rute/regional-rute-32-mariager-fjord-rundt/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Ikke trykt
-excerpt: "Denne smukke cykelrute går hele vejen rundt om Mariager Fjord. Beskrivelsen starter i Mariager, men du kan starte, hvor du har lyst. På ruten finder man flade strandenge med et rigt fugleliv, fredede naturområder, skovbeklædte skrænter, smukke udsigtspunkter, små skjulte fiskerlejer, kæmpehøje, kulturminder og i fjordens hovedbyer, Hadsund, Mariager og Hobro, venter oplevelser for hele familien."
+excerpt: "Denne smukke regionale cykelrute 32 går hele vejen rundt om Mariager Fjord. Beskrivelsen starter i Mariager, men du kan starte, hvor du har lyst. På ruten finder man flade strandenge med et rigt fugleliv, fredede naturområder, skovbeklædte skrænter, smukke udsigtspunkter, små skjulte fiskerlejer, kæmpehøje, kulturminder og i fjordens hovedbyer, Hadsund, Mariager og Hobro, venter oplevelser for hele familien."
 gps:
   url: https://www.alltrails.com/explore/map/mariagerfjordruten-regionalrute-32-4cb8111
   id: https://www.alltrails.com/widget/map/mariagerfjordruten-regionalrute-32-4cb8111

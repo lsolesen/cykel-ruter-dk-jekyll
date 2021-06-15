@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 16 Århus til Viborg"
+title: &title "Regional Rute 16: Århus til Viborg"
 permalink: /rute/regional-rute-16-aarhus-viborg/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-16-aarhus-viborg.jpg
-  caption: "Stemningsbillede fra ruten"
+  caption: "Stemningsbillede fra regional cykelrute 16 fra Århus til Viborg"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -15,7 +15,7 @@ tags:
   - regional
   - Guidebog Østjylland
   - Århus
-excerpt: "Denne rute fra Jyllands nuværende hovedby til landsdelens historiske magtcentrum fører gennem et meget seværdigt landskab med mulighed for interessante aktiviteter undervejs."
+excerpt: "Regional cykelrute 16 fra Jyllands nuværende hovedby, Århus, til landsdelens historiske magtcentrum, Viborg, fører gennem et meget seværdigt landskab med mulighed for interessante aktiviteter undervejs."
 gps:
   url: https://www.alltrails.com/explore/map/map-17eb7ec--7
   id: https://www.alltrails.com/widget/map/map-17eb7ec--7

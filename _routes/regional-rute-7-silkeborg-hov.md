@@ -1,12 +1,14 @@
 ---
-title: "Regional Rute 07: Silkeborg til Hov"
+title: &title "Regional Rute 07: Silkeborg til Hov"
+title: "Regional cykelrute 7: Silkeborg til Hov"
 permalink: /rute/regional-rute-7-silkeborg-hov/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image https://images.unsplash.com/photo-1554648704-af430ffd0142?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1946&q=80
-  caption: "Photo by Florencia Viadana on Unsplash"
+  caption: *title
+  credit: "Photo by Florencia Viadana on Unsplash"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +16,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "Oplev det særegne Midtjylland med de mange bakker, ådale, store skove og hedearealer. Kør gennem traditionelt landbrugsland og nyd pauser i byerne på vejen."
+excerpt: "På regional cykelrute 7 kan du opleve det særegne Midtjylland med de mange bakker, ådale, store skove og hedearealer. Kør gennem traditionelt landbrugsland og nyd pauser i byerne på vejen."
 gps:
   url: https://www.alltrails.com/explore/map/map-1e69276--7
   id: https://www.alltrails.com/widget/map/map-1e69276--7
@@ -40,7 +42,7 @@ Ruten tager en lille bue uden om Odder gennem Torrild og Over Randlev. Landskabe
 
 Ved Hov får ruten kontakt med den nationale cykelrute 5. Der er også færgeforbindelse til Samsø og Tunø. Nord for byen er der en udmærket strand til et svalende bad.
 
-## Seværdigheder
+## Seværdigheder langs regional cykelrute 7
 
 - Silkeborg
 - AQUA Ferskvands Akvarium

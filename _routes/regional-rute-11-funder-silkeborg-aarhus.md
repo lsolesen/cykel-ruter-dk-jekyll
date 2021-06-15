@@ -1,12 +1,13 @@
 ---
-title: "Regional Rute 11: Funder - Silkeborg - Århus"
+title: &title "Regional Rute 11: Funder - Silkeborg - Århus"
 permalink: /rute/regional-rute-11-funder-silkeborg-aarhus/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image https://images.giant-bicycles.com/b_white,c_crop,h_500,q_80,w_800/gsq3yszdniekwsk75vsg/45306822_l.jpg
-  caption: "Billede fra Liv Cycling Danmark"
+  caption: *title
+  credit: "Billede fra Liv Cycling Danmark"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +15,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "Ruten giver cyklister mellem Århus og Silkeborg mulighed for at nyde det midtjyske landskab på vejen. Ruten følger dels den direkte vej på cykelstierne langs landevej A15 og er dels smukt ført gennem Lyngbygård Ådal og Århus Ådal."
+excerpt: "Regional cykelrute 11 giver cyklister mellem Århus og Silkeborg mulighed for at nyde det midtjyske landskab på vejen. Ruten følger dels den direkte vej på cykelstierne langs landevej A15 og er dels smukt ført gennem Lyngbygård Ådal og Århus Ådal."
 gps:
   url: https://www.alltrails.com/explore/map/map-7012ef0--10
   id: https://www.alltrails.com/widget/map/map-7012ef0--10

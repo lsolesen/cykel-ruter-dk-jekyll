@@ -1,5 +1,5 @@
 ---
-title: "Bryrupbanestien: Regional cykelrute 31: Horsens - Silkeborg"
+title: &title "Bryrupbanestien: Regional cykelrute 31: Horsens - Silkeborg"
 seo_title: "Bryrupbanestien: Naturstien på cykel fra Horsens - Silkeborg"
 permalink: /rute/regional-rute-31-bryrupbanestien/
 created_at: 2006-07-03T09:48:02+02:00
@@ -8,7 +8,7 @@ author: dina
 toc: true
 header:
   overlay_image: &image /assets/images/routes/regional-rute-31-bryrupbanestien.jpg
-  caption: "Stemningsbillede fra Bryrupbanestien. Naturstien fra Horsens til Silkeborg"
+  caption: "Stemningsbillede fra Bryrupbanestien, regional cykelrute 31. Naturstien fra Horsens til Silkeborg"
   teaser: *image
 category:
   - Regional Cykelrute

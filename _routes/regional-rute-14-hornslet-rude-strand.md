@@ -1,5 +1,5 @@
 ---
-title: &title "Regional Rute 14 fra Hornslet - Hinnerup - Odder - Rude Strand"
+title: &title "Regional Rute 14: Hornslet - Hinnerup - Odder - Rude Strand"
 permalink: /rute/regional-rute-14-hornslet-rude-strand/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "De naturmæssige oplevelser ligger som perler på en snor på denne rute, som også fungerer som forbindelsesled med syv andre cykelruter."
+excerpt: "De naturmæssige oplevelser ligger som perler på en snor på regional cykelrute 14, som også fungerer som forbindelsesled med syv andre cykelruter."
 gps:
   url: https://www.alltrails.com/explore/map/map-fc1c379--11
   id: https://www.alltrails.com/widget/map/map-fc1c379--11

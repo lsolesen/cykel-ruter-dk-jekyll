@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 15 Stilling - Ejer - Elling"
+title: &title "Regional Rute 15: Stilling - Ejer - Elling"
 permalink: /rute/regional-rute-15-stilling-ejer-elling/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image /assets/images/routes/regional-rute-15-sattrup-stilling.jpg
-  caption: "Stemningsbillede mellem Sattrup og Stilling"
+  caption: "Stemningsbillede mellem Sattrup og Stilling fra regional cykelrute 15"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "En kort, afveklsende og begivenhedsrig rute gennem det midtjyske søhøjland, op over Danmarks højeste bakkeparti og med mulighed for en afstikker til Danmarks højeste punkt."
+excerpt: "Regional cykelrute 15 er en kort, afveklsende og begivenhedsrig rute gennem det midtjyske søhøjland, op over Danmarks højeste bakkeparti og med mulighed for en afstikker til Danmarks højeste punkt."
 gps:
   url: https://www.alltrails.com/explore/map/map-46e0eae--4
   id: https://www.alltrails.com/widget/map/map-46e0eae--4

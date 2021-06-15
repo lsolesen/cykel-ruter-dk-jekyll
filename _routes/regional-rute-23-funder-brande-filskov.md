@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 23 Funder - Brande - Filskov"
+title: &title "Regional Rute 23: Funder - Brande - Filskov"
 permalink: /rute/regional-rute-23-funder-brande-filskov/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://gdkfiles.visitdenmark.com/files/471/231189_Den-skve-bane---VisitHerning---Original-6.jpg?width=1024
-  caption: "Stemningsbillede fra cykelruten Hærvejen"
+  caption: *title
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Cykelruten følger stort set den gamle banestrækning hele vejen mellem Funder og Filskov. Denne strækning var en del af en jernbane, der gik skråt ned over Jylland fra Langå til Esbjerg. Jernbanen blev kaldt Den Skæve Bane i folkemunde."
+excerpt: "Regional cykelrute 23 følger stort set den gamle banestrækning hele vejen mellem Funder og Filskov. Denne strækning var en del af en jernbane, der gik skråt ned over Jylland fra Langå til Esbjerg. Jernbanen blev kaldt Den Skæve Bane i folkemunde."
 gps:
   provider: alltrails
   id: https://www.alltrails.com/widget/map/map-4496bf2--6

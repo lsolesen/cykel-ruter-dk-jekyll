@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 33: Vissing Kloster til Tinnet Krat"
+title: &title "Regional Rute 33: Vissing Kloster til Tinnet Krat"
 permalink: /rute/regional-rute-33-vissing-kloster-tinnet-krat/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image https://images.unsplash.com/photo-1576072385717-aa32b3ca1386?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
-  caption: "Photo by Fat Lad At The Back on Unsplash"
+  caption: *title
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Ikke trykt
-excerpt: "Regional rute 33 følger den sydlige del af Gudenåen, der byder på en del historie. Da ruten overvejende følger ådalen det meste af vejen er den perfekt til dem, der helst vil nøjes med at kigge på bakkerne i det kuperede midtjyske landskab. Du får desuden mulighed for at se udspringet for Danmarks største å."
+excerpt: "Regional cykelrute 33 følger den sydlige del af Gudenåen, der byder på en del historie. Da ruten overvejende følger ådalen det meste af vejen er den perfekt til dem, der helst vil nøjes med at kigge på bakkerne i det kuperede midtjyske landskab. Du får desuden mulighed for at se udspringet for Danmarks største å."
 gps:
   url: https://www.alltrails.com/explore/map/map-4249a84--14
   id: https://www.alltrails.com/widget/map/map-4249a84--14

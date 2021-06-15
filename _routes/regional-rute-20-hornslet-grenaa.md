@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 20 Hornslet til Grenaa"
+title: &title "Regional Rute 20: Hornslet til Grenaa"
 permalink: /rute/regional-rute-20-hornslet-grenaa/
 created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2012-05-30T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-20-hornslet-skarresoe.jpg
-  caption: "Herregården Skaføgård"
+  caption: "Herregården Skaføgård langs regional cykelrute 20 fra Hornslet til Grenaa"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -15,7 +15,7 @@ tags:
   - regional
   - Guidebog Østjylland
   - Djursland
-excerpt: "Denne rute fører tværs over Jyllands næse. Den går langs de stille, djurske veje og en del af ruten køres på stier. Det er højst sandsynligt, at man møder flere cyklister end bilister på turen gennem de rolige landskaber."
+excerpt: "Regional cykelrute 20 fører tværs over Jyllands næse. Den går langs de stille, djurske veje og en del af ruten køres på stier. Det er højst sandsynligt, at man møder flere cyklister end bilister på turen gennem de rolige landskaber."
 gps:
   url: https://www.alltrails.com/explore/map/map-c68c9c8--9
   id: https://www.alltrails.com/widget/map/map-c68c9c8--9

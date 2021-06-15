@@ -1,19 +1,19 @@
 ---
-title: "Regional Rute 27: Odder til Ålstrup"
+title: &title "Regional Rute 27: Odder til Ålstrup"
 permalink: /rute/regional-rute-27-odder-aalstrup/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image https://images.unsplash.com/photo-1541396904622-359854bded34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
-  caption: "Stemningsbillede fra VisitKolding"
+  caption: *title
   teaser: *image
 category:
   - Regional Cykelrute
 tags:
   - cykelrute
   - regional
-excerpt: "Denne korte rute forbinder områdets hovedby, Odder, med den nationale cykelrute 5. Undervejs kommer du igennem flotte, afvekslende landskaber."
+excerpt: "Regional cykelrute 27 er en kort rute, der forbinder områdets hovedby, Odder, med den nationale cykelrute 5. Undervejs kommer du igennem flotte, afvekslende landskaber."
 gps:
   url: https://www.alltrails.com/explore/map/map-4249a84--14
   id: https://www.alltrails.com/widget/map/map-4249a84--14

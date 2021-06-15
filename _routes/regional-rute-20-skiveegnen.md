@@ -1,19 +1,20 @@
 ---
-title: "Regional Rute 20 Skive-egnen rundt"
+title: &title "Regional Rute 20: Skive-egnen rundt"
 permalink: /rute/regional-rute-20-skiveegnen/
 created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2019-04-17T09:48:02+02:00
 header:
   overlay_image: &image https://images.unsplash.com/photo-1563051225-3c91b9bbc65f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1812&q=80
   teaser: *image
-  caption: "Photo by Matt Gross on Unsplash"
+  credit: "Photo by Matt Gross on Unsplash"
+  caption: *title
 category:
   - Regional Cykelrute
 tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Denne rute er ikke helt som de andre ruter. Den går ikke fra et sted til et andet sted, men er mere et system af forbundne veje rundt på Skiveegnen. Så inden du sætter dig i sadlen, bør du planlægge, hvad du helst vil se. Denne beskrivelse er ikke udtømmende for alle de vejvalg, du kan tage, men er et forslag til at køre på den del af ruten, der ikke følger andre ruter. En del af den skiltede rute følger nationale cykelrute 2 og 12 nær kysten, så disse strækninger kan du læse mere om under de respektive ruter."
+excerpt: "Regional cykelrute 20 er ikke helt som de andre ruter. Den går ikke fra et sted til et andet sted, men er mere et system af forbundne veje rundt på Skiveegnen. Så inden du sætter dig i sadlen, bør du planlægge, hvad du helst vil se. Denne beskrivelse er ikke udtømmende for alle de vejvalg, du kan tage, men er et forslag til at køre på den del af ruten, der ikke følger andre ruter. En del af den skiltede rute følger nationale cykelrute 2 og 12 nær kysten, så disse strækninger kan du læse mere om under de respektive ruter."
 gps:
   url: https://www.alltrails.com/explore/map/map-76330c2--10
   id: https://www.alltrails.com/widget/map/map-76330c2--10

@@ -1,12 +1,13 @@
 ---
-title: "Regional Rute 17 Nissum Fjord Rundt"
+title: &title "Regional Rute 17: Nissum Fjord Rundt"
 permalink: /rute/regional-rute-17-nissum-fjord-rundt/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://www.fotoagent.dk/single_picture/12111/25/large/Cykel.jpg
-  caption: "Billede fra Naturpark Nissum Fjord"
+  caption: *title
+  credit: "Billede fra Naturpark Nissum Fjord"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +15,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Denne rute giver mulighed for to forskellige ture - en på 94 km og en på 145 km. Ligegyldigt hvilken du vælger, er ruten smuk og afvekslende med varieret natur. Du passerer hav, klitter, skov, hede og fjord, og der er masser af seværdigheder på vejen. Men husk at holde dig godt orienteret på kortet undervejs."
+excerpt: "Regional cykelrute 17 går rundt om Nissum Fjord. Ruten giver mulighed for to forskellige ture - en på 94 km og en på 145 km. Ligegyldigt hvilken du vælger, er ruten smuk og afvekslende med varieret natur. Du passerer hav, klitter, skov, hede og fjord, og der er masser af seværdigheder på vejen. Men husk at holde dig godt orienteret på kortet undervejs."
 gps:
   url: https://www.alltrails.com/explore/map/map-f4666b1--7
   id: https://www.alltrails.com/widget/map/map-f4666b1--7

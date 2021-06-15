@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 26: Randers til Mariager"
+title: &title "Regional Rute 26: Randers til Mariager"
 permalink: /rute/regional-rute-26-randers-mariager/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image https://images.unsplash.com/photo-1556316384-12c35d30afa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  caption: "Stemningsbillede fra VisitKolding"
+  caption: "Stemningsbillede fra regional cykelrute 26 fra Randers til Mariager"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "Denne rute fører os gennem afvesklende landskaber i det smukke Kronjylland. Området har en af de største koncentrationer af gravhøje og det er muligt at komme helt tæt på nogle af dem. Desuden kører vi forbi digteren Steen Steensen Blichers hjem og grav."
+excerpt: "Regional cykelrute 26 fører os gennem afvesklende landskaber i det smukke Kronjylland. Området har en af de største koncentrationer af gravhøje og det er muligt at komme helt tæt på nogle af dem. Desuden kører vi forbi digteren Steen Steensen Blichers hjem og grav."
 gps:
   url: https://www.alltrails.com/explore/map/map-80f2f15--8
   id: https://www.alltrails.com/widget/map/map-80f2f15--8

@@ -1,19 +1,20 @@
 ---
-title: "Regional Rute 16: Drivvejen Bork - Skjern - Bundsbæk"
+title: &title "Regional Rute 16: Drivvejen Bork - Skjern - Bundsbæk"
 permalink: /rute/regional-rute-16-drivvejen-bork-bundsbaek/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://bikepackingdenmark.files.wordpress.com/2018/06/dsc_1564.jpg?w=740
   teaser: *image
-  caption: "Billede fra Bikepacking & Cycling Adventures Denmark"
+  caption: *title  
+  credit: "Billede fra Bikepacking & Cycling Adventures Denmark"
 category:
   - Regional Cykelrute
 tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Ruten følger nogle af de gamle drivveje, hvor kreaturer blev drevet til og fra græsning på engene eller til de store kvægmarkeder i Nordtyskland. Tag dig tid til at læse informationstavlerne ved de forskellige kulturspor."
+excerpt: "Regional cykelrute 16 følger nogle af de gamle drivveje, hvor kreaturer blev drevet til og fra græsning på engene eller til de store kvægmarkeder i Nordtyskland. Tag dig tid til at læse informationstavlerne ved de forskellige kulturspor."
 gps:
   url: https://www.alltrails.com/explore/map/map-7241bd1--8
   id: https://www.alltrails.com/widget/map/map-7241bd1--8

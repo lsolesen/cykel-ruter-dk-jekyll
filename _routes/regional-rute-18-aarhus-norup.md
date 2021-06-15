@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 18 Århus til Norup"
+title: &title "Regional Rute 18: Århus til Norup"
 permalink: /rute/regional-rute-18-aarhus-norup/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-18-aarhus-randers.jpg
-  caption: "Stemningsbillede fra ruten"
+  caption: "Stemningsbillede fra regional cykelrute 18 fra Århus til Norup"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -15,7 +15,7 @@ tags:
   - regional
   - Guidebog Østjylland
   - Århus
-excerpt: "Rutens 88 km byder på en hård start, hvor du for alvor kan krumme ryggen og lege professionel cykelrytter. Men med gang i blodomløbet er du klar på en afvekslende rute med mulighed for interessante afstikkere i Kronjyllands smukke landskaber."
+excerpt: "Regional cykelrute 18 fra Århus til Norup på 88 km byder på en hård start, hvor du for alvor kan krumme ryggen og lege professionel cykelrytter. Men med gang i blodomløbet er du klar på en afvekslende rute med mulighed for interessante afstikkere i Kronjyllands smukke landskaber."
 gps:
   url: https://www.alltrails.com/explore/map/map-29d7491--9
   id: https://www.alltrails.com/widget/map/map-29d7491--9

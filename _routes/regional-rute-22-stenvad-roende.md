@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 22:  Stenvad til Rønde"
+title: &title "Regional Rute 22: Stenvad til Rønde"
 permalink: /rute/regional-rute-22-stenvad-roende/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-22-skarresoe-roende.jpg
-  caption: "Stemningsbillede fra ruten"
+  caption: "Stemningsbillede fra regional cykelrute 22"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -15,7 +15,7 @@ tags:
   - regional
   - Guidebog Østjylland
   - Djursland
-excerpt: "Ruten går tværs over Djursland og fungerer som en god introduktion til det djurske landskab. Ruten giver også mulighed for at følge mosebrugets historie, løbe sig træt i forlystelserne i Djurs Sommerland og slappe af i små stilfærdige oaser."
+excerpt: "Regional cykelrute 22 går tværs over Djursland og fungerer som en god introduktion til det djurske landskab. Ruten giver også mulighed for at følge mosebrugets historie, løbe sig træt i forlystelserne i Djurs Sommerland og slappe af i små stilfærdige oaser."
 gps:
   url: https://www.alltrails.com/explore/map/map-cefb500--8
   id: https://www.alltrails.com/widget/map/map-cefb500--8

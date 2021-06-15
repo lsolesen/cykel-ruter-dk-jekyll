@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 25: Sdr. Resen - Grønbæk (Grathe Hede-ruten)"
+title: &title "Regional Rute 25: Sdr. Resen - Grønbæk (Grathe Hede-ruten)"
 permalink: /rute/regional-rute-25-sdr-resen-groenbaek-grathe-hede/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://jonrahrrunning.files.wordpress.com/2012/09/20120923-231322.jpg
-  caption: "Stemningsbillede fra Grathe Hede cykelruten. Taget af Jon Rahr Running"
+  caption: "Stemningsbillede fra Grathe Hede, regional cykelrute 25. Taget af Jon Rahr Running"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Grathe Hede-ruten er en relativt flad rute, der veksler mellem hedelyngområder, marker og folde - og så er der sket nogle interessante historiske begivenheder i området."
+excerpt: "Grathe Hede-ruten - eller regional cykelrute 25 - er en relativt flad rute, der veksler mellem hedelyngområder, marker og folde - og så er der sket nogle interessante historiske begivenheder i området."
 gps:
   url: https://www.alltrails.com/explore/map/map-7ea25c9--10
   id: https://www.alltrails.com/widget/map/map-7ea25c9--10

@@ -1,12 +1,14 @@
 ---
-title: "Regional Rute 08: Ry til Randers"
+title: &title "Regional Rute 08: Ry til Randers"
+seo_title: "Regional cykelrute 8: Ry til Randers"
 permalink: /rute/regional-rute-8-ry-randers/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image https://files.guidedanmark.org/files/410/410_300746.jpg
-  caption: "Billede fra Visitbillund"
+  caption: *title
+  credit: "Billede fra Visitbillund"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +16,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "På denne rute fra Ry i det jyske søhøjland til Randers i Kronjylland oplever man mangfoldigheden i det midtjyske landskab. Ruten går flere steder gennem kuperet landskab med udsigtspunkter til flotte panoramalandskaber."
+excerpt: "På regional cykelrute 8 fra Ry i det jyske søhøjland til Randers i Kronjylland oplever man mangfoldigheden i det midtjyske landskab. Ruten går flere steder gennem kuperet landskab med udsigtspunkter til flotte panoramalandskaber."
 gps:
   url: https://www.alltrails.com/explore/map/map-4249a84--14
   id: https://www.alltrails.com/widget/map/map-4249a84--14
@@ -35,6 +37,6 @@ Allerede få kilometer herefter bevæger vi os ind på en lille jordvej gennem e
  
 På det sidste stykke inden Randers' mere travle byliv er der mulighed for et kig ud over de jyske landskaber fra et udsigstpunkt 131 m over vandoverfladen på Lysnet bakken, som ligger lidt vest for ruten ved Vissing. Herfra har vi dog stadig et par bakker at bestige, før vi kan trille ned mod rutens afslutning i Randers by.
 
-## Kort over {{ page.title }}
+## Kort over regional cykelrute 8
 
 {% include maps-ad.md %}

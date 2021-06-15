@@ -1,12 +1,13 @@
 ---
-title: "Regional Rute 09: Randers - Udbyhøj Vasehuse"
+title: &title "Regional Rute 09: Randers - Udbyhøj Vasehuse"
+seo_title: "Regional cykelrute 9: Randers - Udbyhøj Vasehuse"
 permalink: /rute/regional-rute-9-randers-udbyhoej/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-9-randers-udbyhoej.jpg
-  caption: "Stemningsbillede mellem Udbyhøj og Hornslet"
+  caption: "Stemningsbillede fra regional cykelrute 9 mellem Udbyhøj og Hornslet"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +15,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "Rute 9 fører os langs Randers Fjord hele vejen til Udbyhøj. Det er svært ikke at køre sidelæns på denne rute, som undervejs byder på smukke panoramalandskaber og flere historiske oplevelser. Nærmere fjorden kommer man ikke på cykel."
+excerpt: "Regional cykelrute 9 fører os langs Randers Fjord hele vejen til Udbyhøj. Det er svært ikke at køre sidelæns på denne rute, som undervejs byder på smukke panoramalandskaber og flere historiske oplevelser. Nærmere fjorden kommer man ikke på cykel."
 gps:
   url: https://www.alltrails.com/explore/map/map-9b8ef27--4
   id: https://www.alltrails.com/widget/map/map-9b8ef27--4
@@ -38,7 +39,7 @@ I Tvede udfordres vi på grusvej, der giver støv i munden, så et stop ved Pump
 
 Ruten slutter i Udbyhøj ved det lille færgeleje. Her er desuden mulighed for at bade ved en lille strand til venstre for lejet.
 
-## Seværdigheder
+## Seværdigheder langs regional cykelrute 9
 
 - Vorup Enge
 - Randers Regnskov

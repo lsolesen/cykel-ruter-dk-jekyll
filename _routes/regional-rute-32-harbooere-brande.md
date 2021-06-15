@@ -1,5 +1,5 @@
 ---
-title: "Regional Rute 32: Harboøre til Brande"
+title: &title "Regional Rute 32: Harboøre til Brande"
 permalink: /rute/regional-rute-32-harbooere-brande/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Ruten går på tværs af nogle af de jyske ådale og giver derfor mulighed for at opleve nogle gode udsigter. Du bringes bl.a. tæt forbi udspringet af Skjern Å, som er en del af Danmarks største naturgenopretningsprojekt."
+excerpt: "Regional cykelrute 32 går på tværs af nogle af de jyske ådale og giver derfor mulighed for at opleve nogle gode udsigter. Du bringes bl.a. tæt forbi udspringet af Skjern Å, som er en del af Danmarks største naturgenopretningsprojekt."
 gps:
   url: https://www.alltrails.com/explore/map/map-9ad97ad--7
   id: https://www.alltrails.com/widget/map/map-9ad97ad--7

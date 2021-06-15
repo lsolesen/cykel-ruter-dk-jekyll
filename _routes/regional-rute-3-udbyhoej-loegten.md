@@ -1,12 +1,13 @@
 ---
-title: "Regional Rute 03: Udbyhøj - Løgten"
+title: &title "Regional Rute 03: Udbyhøj - Løgten"
+seo_title: "Regional cykelrute 3: Udbyhøj - Løgten"
 permalink: /rute/regional-rute-3-udbyhoej-loegten/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-3-udbyhoej-hornslet.jpg
-  caption: "Stemningsbillede mellem Udbyhøj og Hornslet"
+  caption: "Stemningsbillede fra regional cykelrute 3 mellem Udbyhøj og Hornslet"
   teaser: *image
 category:
   - Regional Cykelrute
@@ -15,7 +16,7 @@ tags:
   - regional
   - Guidebog Østjylland
   - Djursland
-excerpt: "Ruten kunne kaldes Herregårdsturen, idet vi kommer i umiddelbar nærhed af 5 større herregårde, nemlig herregårdene Holbækgård, Stenalt, Gl Estrup, Rosenholm og Vosnæsgård. Ruten kan desuden benyttes af cyklister på den nationale cykelrute 5, som ønsker at stikke genvej og samtidig opleve de djurske landskaber."
+excerpt: "Regional cykelrute 3 kunne kaldes Herregårdsturen, idet vi kommer i umiddelbar nærhed af 5 større herregårde, nemlig herregårdene Holbækgård, Stenalt, Gl Estrup, Rosenholm og Vosnæsgård. Ruten kan desuden benyttes af cyklister på den nationale cykelrute 5, som ønsker at stikke genvej og samtidig opleve de djurske landskaber."
 gps:
   url: https://www.alltrails.com/explore/map/map-08b255a--9
   id: https://www.alltrails.com/widget/map/map-08b255a--9
@@ -43,7 +44,7 @@ Fra Hornslet passerer vi en stigning over den markante bakke nord for Kalø Vig,
 
 - [Kare](http://www.aaa.dk/aaa/landsbyerdk.pdf)
 
-## Seværdigheder
+## Seværdigheder langs regionale cykelrute 3
 
 - Mellerup-Voer Færge
 - Fjordcentret - Voer Færgested

@@ -1,12 +1,12 @@
 ---
-title: "Regional Rute 29: Silkeborg - Gjern - Langå"
+title: &title "Regional Rute 29: Silkeborg - Gjern - Langå"
 permalink: /rute/regional-rute-29-silkeborg-gjern-langaa/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
-  caption: "Photo by Everton Vila on Unsplash"
+  caption: *title
   teaser: *image
 category:
   - Regional Cykelrute
@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Østjylland
-excerpt: "Det meste af ruten følger den nedlagte Silkeborg-Langå-jernbane gennem et varieret landskab. Halvdelen af ruten løber langs tre markante ådale; Gudenådalen, Gjern Ådal og Lilleådalen. Resten af ruten passerer fortrinsvist forbi mindre byer og marker."
+excerpt: "Det meste af regional cykelrute 29 følger den nedlagte Silkeborg-Langå-jernbane gennem et varieret landskab. Halvdelen af ruten løber langs tre markante ådale; Gudenådalen, Gjern Ådal og Lilleådalen. Resten af ruten passerer fortrinsvist forbi mindre byer og marker."
 gps:
   url: https://www.alltrails.com/explore/map/map-2dbf216--11
   id: https://www.alltrails.com/widget/map/map-2dbf216--11
