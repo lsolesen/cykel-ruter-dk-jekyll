@@ -28,7 +28,7 @@ Men lad os først gå direkte til listen over de højeste toppe i Danmark.
 
 Du vil sikkert også gerne vide, hvad det højeste bjerg i Danmark er?
 
-{% include figure image_path="https://da.wikipedia.org/wiki/Ejer_Bavneh%C3%B8j#/media/Fil:Ejer-bavneh%C3%B8j-2004.jpg" caption="Ejer Bavnehøj er en del af Ejer Bjerge sammen med bl.a. Møllehøj, som er Danmarks højeste punkt, og derfor det højeste bjerg i Danmark med 170,86 moh" alt="ejer bavnehøj og ejer bjerge" %}
+{% include figure image_path="https://da.wikipedia.org/wiki/Ejer_Bavneh%C3%B8j#/media/Fil:Ejer-bavneh%C3%B8j-2004.jpg" caption="Ejer Bavnehøj er en del af Ejer Bjerge sammen med bl.a. Møllehøj, som er Danmarks højeste punkt, og derfor det højeste bjerg i Danmark med 170,86 moh. Billede fra [Wikipedia](https://da.wikipedia.org/wiki/Ejer_Bavneh%C3%B8j)." alt="ejer bavnehøj og ejer bjerge" %}
 
 ## Danmarks 20 højeste bjerge
 
@@ -108,6 +108,8 @@ Du skal være opmærksom på den måde, punkterne er opgjort på, så derfor ska
 Men derfor kan vi jo godt fortælle, hvad det højeste bjerg er i Danmark ud fra disse betragtninger.
 
 Det højeste bjerg i Danmark er Møllehøj på 170,86 moh.
+
+Men det mest imponerende udsigtspunkt i Ejer Bjerge, hvor Møllehøj ligger, er naturligvis Ejer Bavnehøj. 
 
 Du kan læse meget mere om Danmarks Bjerge i Roger Pihls meget underholdende bog om bakkerne og toppene i Danmark. Danmarks Bjerge er skrevet af en nordmand, men han elsker de danske tinder og bjergtoppe.
 
