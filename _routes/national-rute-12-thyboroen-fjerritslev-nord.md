@@ -14,7 +14,7 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 12
-excerpt: "Ikke beskrevet."
+excerpt: National cykelrute 12 har et forløb hele vejen rundt om Limfjorden, men kan opdeles i mindre etaper, hvis man synes, det er for langt med hele turen på en gang. Her beskriver vi den nordlige del af cykelruten.
 gps:
   url: https://www.alltrails.com/explore/map/map-4249a84--14
   id: https://www.alltrails.com/widget/map/map-4249a84--14
@@ -27,7 +27,19 @@ rubble: 0
 
 **{{ page.excerpt }}**
 
-Ikke beskrevet. Brug kommentarerne hvis du har brug for beskrivelsen, så får vi den lagt ind hurtigst muligt.
+Beskrivelsen her starter i Thisted. Herfra kan du tage turen mod øst ud af byen og via Sennels og Sennels Hede ud til skrænten ned til fjorden ved Hovsør. Nyd udsigten og frihjulet ned til dæmningen, som passeres. Videre til Østerild, som nås efter et dyk under hovedvejen.
+
+Efter Østerild går ruten på den nedlagte Thisted-Fjerritslev Jernbane.
+
+Efter turen gennem Østerild Plantage er der et fugletårn ved P-pladsen. Snyd ikke dig selv for et kig ud over Tømmerby Fjord og Vesløs Vejle.
+
+Ruten fortsætter til Vesløs, med blandt andet voldstedet Helledis, og videre langs med Tømmerby Fjord. Undervejs passeres Vikingegravpladsen i Højstrup. Den består af 37 små runde eller aflange høje og ca. dobbelt så mange rejste sten. Herefter svinger ruten til højre og løber langs med Vejlerne. Fra toppen af bakken før Tømmerby Kirke er der en flot udsigt.
+
+Lige efter kirken drejer du mod øst, og nu kører du ud gennem et meget spændende fugleområde. Inden du når asfalt igen, har du passeret et fugletårn og et skjul. Har du blot lidt interesse for fugle, bør du besøge dem begge. Husk kikkerten.
+
+Knap er du kommet ud på asfalt, før rute skiltene prøver at lokke dig til at køre ad en mindre sti. Belægningen på denne sti er dog ikke alt for god, så vi kan anbefale at tage den stille, asfalterede kommunevej, der går lige til højre for det skiltede ruteforløb. Denne vej er ikke meget længere til Vester Torup, men den er noget mere behagelig.
+
+Ruten slutter i den lille by, Fjerritslev, som kan være en god base for at opleve den smukke natur i området.
 
 ## Seværdigheder
 
