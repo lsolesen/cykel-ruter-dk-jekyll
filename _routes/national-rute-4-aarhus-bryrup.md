@@ -1,5 +1,6 @@
 ---
 title: "National Rute 04: Århus til Bryrup"
+seo_title: "National Rute 4: Århus til Bryrup"
 permalink: /rute/national-rute-4-aarhus-bryrup/
 created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2012-06-07T09:48:02+02:00

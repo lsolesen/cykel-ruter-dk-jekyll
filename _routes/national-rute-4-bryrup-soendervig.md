@@ -1,5 +1,6 @@
 ---
 title: "National Rute 04: Bryrup til Søndervig"
+seo_title: "National Rute 4: Bryrup til Søndervig"
 permalink: /rute/national-rute-4-bryrup-soendervig/
 last_modified_at: 2012-06-07T09:48:02+02:00
 created_at:  2006-06-07T09:48:02+02:00
