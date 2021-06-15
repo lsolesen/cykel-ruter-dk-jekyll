@@ -2,16 +2,20 @@
 main:
   - title: "Cykelruter"
     url: /cykelruter-danmark/
+  - title: "Nationale"
+    url: /nationale-cykelruter/
+  - title: "Regionale"
+    url: /regionale-cykelruter/
   - title: "Vestjylland"
     url: /cykelruter-vestjylland/
   - title: "Østjylland"
     url: /cykelruter-oestjylland/
-  - title: "Nationale"
-    url: /nationale-cykelruter/
   - title: "Vejle"
     url: /cykelruter-vejle/
   - title: "Inspiration"
     url: /inspiration/
+  - title: "Blog"
+    url: /blog/
   - title: "Om"
     url: /om/
 blog:
@@ -37,6 +41,8 @@ blog:
         url: /cykelruter-danmark/
       - title: "Nationale cykelruter"
         url: /nationale-cykelruter/
+      - title: "Regionale cykelruter"
+        url: /regionale-cykelruter/
       - title: "Cykelruter København"
         url: /cykelruter-koebenhavn/
       - title: "Cykelruter Århus"

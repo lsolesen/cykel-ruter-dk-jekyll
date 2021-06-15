@@ -46,6 +46,10 @@ last_modified_at: 2021-04-03T07:18:02+02:00
 
 I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. De regionale cykelstier forbinder alle dele af en region - og det kan både være ud-og-hjem-ture eller cykelrundture. Vi beskriver her en del af de regionale cykelruter, og hvordan du finder kort til cykelruterne.
 
+## Hvad er en regional cykelrute?
+
+En regional cykelrute forløber gennem flere kommuner. Typisk er ruten længere end beregnet til en dagstur. Du kan kende de officielle cykelruter på skiltene. Skiltene er blå med en hvid cykel og hvid skrift. På skiltet står typisk et rutenummer inden i en hvid firkant. Ofte kan du også se afstanden til de nærmeste byer på skiltene. 
+
 ## Rutebeskrivelser af regionale cykelruter
 
 De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet alle de regionale cykelruter, jeg har tilladelse til her på sitet. Hvis du vil bidrage med beskrivelser af nogle regionale cykelruter, så vil jeg blive rigtig glad.
