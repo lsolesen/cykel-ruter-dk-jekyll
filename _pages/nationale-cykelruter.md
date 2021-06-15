@@ -77,7 +77,7 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 ## Oversigt over de nationale cykelruter
 
-| Navn	| Længde	| Asfalt	| Procent | Kommentar |
+| | Navn	| Længde	| Asfalt % | Kommentar |
 |-|-|-|-|-|
 | N1	| Vestkystruten	| 560 km	| 70 %	| Rudbøl - Skagen |
 | N2	| Hanstholm-København	| 420 km	| 80 %	| |
