@@ -17,7 +17,7 @@ future: true
 # Site Settings
 locale                   : "da"
 title                    : "Cykel-ruter.dk"
-title_separator          : "-"
+title_separator          : false # "-"
 subtitle                 : "Cykelferie og cykelruter i Østjylland, Sydjylland og Vestjylland"
 logo                     : "/android-chrome-192x192.png"
 name                     : "Cykelferie og cykelruter i Østjylland, Sydjylland og Vestjylland - Danmark"
@@ -100,7 +100,7 @@ footer:
 # Site Author
 author:
   name: "Cykel-ruter.dk"
-  bio: "Vi har skrevet om cykelruter og -ferie i Danmark - særligt i Østjylland, Sydjylland og Vestjylland."
+  bio: "Vi har skrevet om cykelruter og cykelferie i Danmark - særligt i Østjylland, Sydjylland og Vestjylland."
   avatar: "/assets/images/logo.png"
   links:
     - label: "Email"
