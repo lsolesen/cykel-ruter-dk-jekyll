@@ -1,5 +1,6 @@
 ---
 title: "Hagen Strand - Landsbyidyl og Rands Fjord"
+permalink: /rute/hagen-strand-camping-landsbyidyl-rands-fjord/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -12,9 +13,9 @@ tags:
   - VisitVejle Cykelguide
   - Hagen Strand Camping
 excerpt: "Ruten fører os forbi dejlige sandstrande, hvor badetøjet næsten skal vises frem. Vi passerer tæt på områdets største sø, hvor der er mange muligheder for vandreture."
-distance: 33 km
-asphalt: 33 km
-rubble: 0 km
+distance: 33
+asphalt: 33
+rubble: 0
 author: lsolesen
 gps: 
   url: https://www.alltrails.com/explore/map/map--25405

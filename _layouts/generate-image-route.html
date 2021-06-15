@@ -4,7 +4,8 @@
 <head>
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
-  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Roboto'>
+  <link rel="stylesheet" type='text/css' href='//cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css'>
   <title>generating {{ page.image_type }} image</title>
   <style>
     * {
@@ -24,12 +25,15 @@
     }
 
     /* hide data that doesn't show up for this post */
+    /*
     *:empty:not(img) {
       display: none;
     }
+    */
 
     #preview {
-      background: #fff;
+      display: flex;
+      background: black;
       font-family:
         "Roboto",
         "Segoe UI",
@@ -37,65 +41,128 @@
         "Lucida Grande",
         Arial,
         sans-serif;
-      color: #3d4144;
+      color: white;
       line-height: 1.5;
-      display: flex;
+      font-weight: 600;
+    }
+
+    body.og ul {
+      list-style: none;
+      position: fixed;
+      bottom: 125px;
+      margin: auto;
+      text-align: center;
+      left: 0;
+      right: 0;
+    }
+
+    li {
+      display: inline-block;
+      margin: 0 1.15em;
+      width: 250px;
+    }
+
+    ul li i {
+      font-size: 60px;
+      display: block;
+    }
+
+    ul li .label {
+      margin-top: 10px;
+      display: block;
+      text-transform: uppercase;
+    }
+
+    ul li .value {
+      display: block;
+      font-size: 40px;
     }
 
     body.og #preview {
       box-sizing: border-box;
-      /* border: 20px orange solid !important; */
       height: 630px;
       width: 1200px;
       font-size: 1.25rem;
-      flex-direction: row;
+      /*flex-direction: row; */
+      display: inline-block;
+      overflow: hidden;
+      position: relative;
+      width: 100%;
+      background: transparent;
+
+      text-align: center;
     }
 
-    body.og #preview #text {
-      width: 50%;
+    body.og #text {
+      margin: 40px;
+      border: 3px solid white;
+      padding: 2em;
+      padding-top: 80px;
+      height: 375px;
+      position: relative;
     }
 
-    /*
     body.og #preview #image {
-      margin-left: -10%;
-      width: 60%;
+      pointer-events: none;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      object-fit: cover;
     }
-    
 
-    body.og #preview #image {
-      clip-path: polygon(20% 0, 100% 0, 100% 100%, 0 100%);
-    }
-    */
     body.og #post-excerpt {
       display: none;
+    }
+
+    body.og footer {
+      background: white;
+      color: black;
+      width: 100%;
     }
 
     body.pinterest #preview {
       height: 1500px;
       width: 1000px;
       font-size: 2rem;
-      flex-direction: column-reverse;
-    }
-
-    body.og footer {
-      display: none;
-    }
-
-    body.pinterest #preview #text,
-    body.pinterest #preview #image {
-      flex: 1;
-    }
-
-    body.pinterest #preview #image img {
-      border-bottom-right-radius: 60% 40%;
-      border-bottom-left-radius: 10% 10%;
-    }
-
-    body.pinterest footer {
+      display: inline-block;
+      overflow: hidden;
+      position: relative;
+      width: 100%;
+      background: transparent;
       text-align: center;
-      font-weight: bold;
-      color: white;
-      background: black;
+    }
+
+    body.pinterest ul {
+      list-style: none;
+      position: fixed;
+      bottom: 150px;
+      margin: auto;
+      text-align: center;
+      left: 0;
+      right: 0;
+    }
+
+    body.pinterest #preview #image {
+      pointer-events: none;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      object-fit: cover;
+    }
+
+    body.pinterest #text {
+      margin: 40px;
+      border: 3px solid white;
+      padding: 2em;
+      padding-top: 80px;
+      height: 1200px;
+      position: relative;
+    }
+
+    body.pinterest #preview li {
+      width: 200px;
     }
 
     body.instagram footer {
@@ -134,13 +201,6 @@
       display: none;
     }
 
-    #text {
-      padding: 2rem;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-    }
-
     header {
       display: flex;
       align-items: center;
@@ -159,41 +219,52 @@
       margin: 0 0 0 1rem;
     }
 
-    h2#post-title {
-      font-size: 2.2em;
-      margin: 0 0 1rem 0;
+    footer {
+      height: 50px;
+      padding-top: 10px;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: white;
+      color: black;
+      text-align: center;
+      align-items: bottom;
+      justify-content: center;
+      font-size: 20px;
     }
 
-    #author {
+    footer img {
+      display: inline-block;
+      height: 30px;
+      vertical-align: middle;
+    }
+
+    footer h1#site-title {
+      text-align: center;
       color: #6f777d;
-      display: flex;
-      align-items: center;
-      font-size: 2rem;
+      font-size: .8em;
+      line-height: 1;
+      margin: 0 0 0 1rem;
     }
 
-    #author #author-image:not([src='']) {
-      padding: 5px;
-      border: 1px solid #f2f3f3;
-      width: 2em;
-      border-radius: 50%;
-      margin-right: 1rem;
-    }
-
-    #author #author-name {
-      font-size: 1em;
-      font-weight: bold;
+    h2#post-title {
+      font-size: 2.5em;
+      margin: 0 0 1rem 0;
     }
 
     #image {
       margin: 0;
       overflow: hidden;
       position: relative;
+      background-color: black;
     }
 
     #image img {
       object-fit: cover;
       height: 100%;
       width: 100%;
+      opacity: 0.5;
     }
   </style>
   <script>
@@ -238,32 +309,36 @@
 
 <body class='{{ page.image_type }}'>
   <div id='preview'>
-    <footer>
-      <!--<img id='logo' alt='' src='/android-chrome-192x192.png' />-->
-      <p id='site-title'>{{ site.title }}</p>
-    </footer>
-
+    <figure id='image'>
+      <img id='post-image' alt='' src='' data-proofer-ignore>
+    </figure>
     <section id='text'>
-      <header>
-        <img id='logo' alt='' src='/android-chrome-192x192.png' />
-        <h1 id='site-title'>{{ site.title }}</h1>
-      </header>
-
       <h2 id='post-title'></h2>
 
       <h3 id='post-excerpt'></h3>
 
-      <section id='info'>
-        <i class="fas fa-route"></i> Distance: <span id="distance"></span> km<br>
-        <i class="fas fa-road"></i> Asfalt: <span id="distance"></span> km<br>
-        <i class="fas fa-tree"></i> Grusveje og stier: <span id="distance"></span> km
-      </section>
+        <ul id='info'>
+          <li>
+            <i class='fas fa-route'></i>
+            <span class="label">Distance</span>
+            <span class="value"><span id='distance'></span> km</span>
+          </li>
+          <li>
+            <i class='fas fa-road'></i>
+            <span class="label">Asfalt</span>
+            <span class="value"><span id='asphalt'></span> km</span>
+          </li>
+          <li>
+            <i class='fas fa-tree'></i>
+            <span class="label">Grusveje og stier</span>
+            <span class="value"><span id='rubble'></span> km</span>
+          </li>
+        </ul>
     </section>
-
-    <figure id='image'>
-      <img id='post-image' alt='' src='' data-proofer-ignore>
-    </figure>
-
+    <footer>
+      <img id='logo' alt='' src='/android-chrome-192x192.png' />
+      www.cykel-ruter.dk
+    </footer>
   </div>
 </body>
 

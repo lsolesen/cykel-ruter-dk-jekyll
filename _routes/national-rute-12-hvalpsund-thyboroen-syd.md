@@ -1,5 +1,6 @@
 ---
 title: "National Rute 12: Hvalpsund - Thyborøn (syd om Limfjordsruten)"
+permalink: /rute/national-rute-12-hvalpsund-thyboroen-syd/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:

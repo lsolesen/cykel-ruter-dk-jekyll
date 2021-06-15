@@ -1,5 +1,6 @@
 ---
 title: "Skibet - Vikingeminder og Bindeballestien"
+permalink: /rute/danhostel-vejle-vikingeminder-bindeballestien/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -12,9 +13,9 @@ tags:
   - VisitVejle Cykelguide
   - Danhostel Vejle
 excerpt: "En meget rolig rute væk fra byliv og travlhed. Her får man et smukt indtryk af landskaberne vest for Vejle by."
-distance: 41 km
-asphalt: 41 km
-rubble: 0 km
+distance: 41
+asphalt: 41
+rubble: 0
 gps: 
   url: https://www.alltrails.com/explore/map/skibet-farup-so-jelling-randbol-bindeballestien-1ecdec3
   id: https://www.alltrails.com/widget/map/skibet-farup-so-jelling-randbol-bindeballestien-1ecdec3

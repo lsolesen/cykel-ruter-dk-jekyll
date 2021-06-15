@@ -1,5 +1,6 @@
 ---
 title: "Randbøl - Afvekslende natur, Egtved og Engelsholm"
+permalink: /rute/randboeldal-camping-egtved-engelsholm/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -12,9 +13,9 @@ tags:
   - VisitVejle Cykelguide
   - Randbøldal Camping
 excerpt: "Ruten har store naturoplevelser, et historisk islæt og kulturelle oplevelser. Vi kan nyde udsigten fra bakkerne på Randbøl Hede, besøge Egtvedpigen, se landskabsskulpturerne i Tørskind Grusgrav, gå langs den gamle vikingebro ved Ravning og nyde Engelsholm Slot."
-distance: 54 km
-asphalt: 54 km
-rubble: 0 km
+distance: 54
+asphalt: 54
+rubble: 0
 gps:
   id: https://www.alltrails.com/widget/map/randbol-randbol-hede-egtved-ravning-engelslholm-2291d2e
   url: https://www.alltrails.com/explore/map/randbol-randbol-hede-egtved-ravning-engelslholm-2291d2e

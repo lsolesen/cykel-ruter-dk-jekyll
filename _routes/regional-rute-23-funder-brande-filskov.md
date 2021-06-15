@@ -1,5 +1,6 @@
 ---
 title: "Regional Rute 23 Funder - Brande - Filskov"
+permalink: /rute/regional-rute-23-funder-brande-filskov/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen

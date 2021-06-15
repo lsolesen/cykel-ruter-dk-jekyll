@@ -1,5 +1,6 @@
 ---
 title: "National Rute 02: Nykøbing - Hanstholm (delforløb 3)"
+permalink: /rute/national-rute-2-nykoebing-hanstholm-del-3/
 author: dina
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00

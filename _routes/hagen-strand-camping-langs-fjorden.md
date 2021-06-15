@@ -1,5 +1,6 @@
 ---
 title: "Hagen Strand og langs fjorden til Vejle"
+permalink: /rute/hagen-strand-camping-langs-fjorden/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -12,9 +13,9 @@ tags:
   - VisitVejle Cykelguide
   - Hagen Strand Camping
 excerpt: "En dejlig rute forbi flere sandstrande, tæt på områdets største sø, gennem landsbyer, det lange udsyn i åbne landskaber og et med skønne naturområder."
-distance: 46 km
-asphalt: 46 km
-rubble: 0 km
+distance: 46
+asphalt: 46
+rubble: 0
 gps: 
   url: https://www.alltrails.com/explore/map/vejle-by-og-varieret-natur-08808cf
   id: https://www.alltrails.com/widget/map/vejle-by-og-varieret-natur-08808cf

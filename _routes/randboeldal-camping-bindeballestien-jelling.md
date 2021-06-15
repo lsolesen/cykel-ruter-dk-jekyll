@@ -1,5 +1,6 @@
 ---
 title: "Randbøl - Bindeballestien og vikingeminder"
+permalink: /rute/randboeldal-camping-bindeballestien-jelling/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -12,9 +13,9 @@ tags:
   - VisitVejle Cykelguide
   - Randbøldal Camping
 excerpt: "En meget rolig rute væk fra byliv og travlhed."
-distance: 42 km
-asphalt: 42 km
-rubble: 0 km
+distance: 42
+asphalt: 42
+rubble: 0
 gps:
   id: https://www.alltrails.com/widget/map/randbol-bindeballestien-skibet-farup-so-jelling-haervejen-7576182
   url: https://www.alltrails.com/explore/map/randbol-bindeballestien-skibet-farup-so-jelling-haervejen-7576182

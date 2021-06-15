@@ -1,5 +1,6 @@
 ---
 title: "Randbøl - Plantage, hede og Bindeballe Købmandsgård"
+permalink: /rute/randboeldal-camping-plantage-hede-koebmandsgaard/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -12,9 +13,9 @@ tags:
   - VisitVejle Cykelguide
   - Randbøldal Camping
 excerpt: "En dejlig overkommelig rute med dejlig natur og historisk islæt"
-distance: 13 km
-asphalt: 13 km
-rubble: 0 km
+distance: 13
+asphalt: 13
+rubble: 0
 gps:
   id: https://www.alltrails.com/widget/map/randboldal-randbol-frederikshab-plantage-bindeballe-8ab9bb9
   url: https://www.alltrails.com/explore/map/randboldal-randbol-frederikshab-plantage-bindeballe-8ab9bb9

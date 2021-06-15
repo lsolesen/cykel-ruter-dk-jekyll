@@ -1,5 +1,6 @@
 ---
 title: "National Rute 05: Hadsund - Horsens"
+permalink: /rute/national-rute-5-hadsund-horsens/
 created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2012-06-07T09:48:02+02:00
 author: dina

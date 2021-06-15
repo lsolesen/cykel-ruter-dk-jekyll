@@ -1,5 +1,6 @@
 ---
 title: "National Rute 02: Skive - Nykøbing (delforløb 2)"
+permalink: /rute/national-rute-2-skive-nykoebing-del-2/
 author: dina
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00

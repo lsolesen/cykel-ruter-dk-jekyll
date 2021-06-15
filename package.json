@@ -42,6 +42,7 @@
     "pinterest-images": "npm run generate-image -- type:pinterest path:./_posts/",
     "instagram-image": "npm run generate-image -- type:instagram",
     "instagram-images": "npm run generate-image -- type:instagram path:./_posts/",
-    "og-route-images": "npm run generate-image-route -- type:og path:./_routes/"
+    "og-route-images": "npm run generate-image-route -- type:og path:./_routes/",
+    "pinterest-route-images": "npm run generate-image-route -- type:pinterest path:./_routes/"
   }
 }

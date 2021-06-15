@@ -1,5 +1,6 @@
 ---
 title: "Skibet  - Grejs - Jelling - Vejle"
+permalink: /rute/danhostel-vejle-skibet-grejs-jelling/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -12,9 +13,9 @@ tags:
   - VisitVejle Cykelguide
   - Danhostel Vejle 
 excerpt: "En rute gennem de bakkede landskaber nordvest for Vejle. I oplever Grejs Ådals grønne, skovrige omgivelser og føres forbi bølgede kornmarker gennem en række forskellige landsbyer til et mindre hedeområde ved Bjerlev og videre til den åbne Fårup sø."
-distance: 32 km
-asphalt: 32 km
-rubble: 0 km
+distance: 32
+asphalt: 32
+rubble: 0
 gps: 
   url: https://www.alltrails.com/explore/map/skibet-vejle-grejs-jelling-576d026
   id: https://www.alltrails.com/widget/map/skibet-vejle-grejs-jelling-576d026

@@ -1,5 +1,6 @@
 ---
 title: "Skibet - Vejle, fuglereservat og Fårup Sø"
+permalink: /rute/danhostel-vejle-skibet-hoegsholt/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:
@@ -12,9 +13,9 @@ tags:
   - VisitVejle Cykelguide
   - Danhostel Vejle
 excerpt: "En meget varieret rute med landsbyer, natur og områdets største sø og mulighed for at stoppe ind i Vejle By."
-distance: 22 km
-asphalt: 22 km
-rubble: 0 km
+distance: 22
+asphalt: 22
+rubble: 0
 gps: 
   url: https://www.alltrails.com/explore/map/skibet-nr-vilstrup-kongens-kaer-vejle-hogsholt-farup-so-337cd73
   id: https://www.alltrails.com/widget/map/skibet-nr-vilstrup-kongens-kaer-vejle-hogsholt-farup-so-337cd73

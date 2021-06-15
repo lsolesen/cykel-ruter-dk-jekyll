@@ -1,5 +1,6 @@
 ---
 title: "Regional Rute 20 Skive-egnen rundt"
+permalink: /rute/regional-rute-20-skiveegnen/
 created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2019-04-17T09:48:02+02:00
 header:

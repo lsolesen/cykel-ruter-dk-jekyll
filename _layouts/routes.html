@@ -59,6 +59,14 @@ layout: default
         </div>
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        <!-- Pinterest -->
+        {% assign size = page.permalink.size | minus: 1 %}
+        {% capture path %}{{ page.permalink | slice: 0, size | remove_first: "/" | replace: "/", "-" | append: ".png" | prepend: "/assets/images/pinterest/generated/" }}{% endcapture %}
+        {% assign file_exists = site.static_files | where: "path", path %}
+
+        {% if file_exists.size != 0 %}
+          {% include pinterest image_path=path hidden="true" %}
+        {% endif %}
 
         {% assign routes = site.routes | where: "tags", page.related %}
         {% if routes.size > 0 %}

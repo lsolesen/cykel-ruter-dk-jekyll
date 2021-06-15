@@ -1,5 +1,6 @@
 ---
-title: "Regional Rute 25 Sdr. Resen - Grønbæk (Grathe Hede-ruten)"
+title: "Regional Rute 25: Sdr. Resen - Grønbæk (Grathe Hede-ruten)"
+permalink: /rute/regional-rute-25-sdr-resen-groenbaek-grathe-hede/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen

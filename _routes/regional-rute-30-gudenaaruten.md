@@ -1,6 +1,7 @@
 ---
-title: "Regional Rute 30 Gl. Rye - Ry - Silkeborg - Ans - Bjerringbro - Langå - Randers"
-seo_titl: &title "Gudenåstien: Cykelrute 30 fra Gl. Rye til Silkeborg og Randers"
+title: "Regional Rute 30: Gl. Rye - Ry - Silkeborg - Ans - Bjerringbro - Langå - Randers"
+seo_title: &title "Gudenåstien: Cykelrute 30 fra Gl. Rye til Silkeborg og Randers"
+permalink: /rute/regional-rute-30-gudenaaruten/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina

@@ -1,5 +1,6 @@
 ---
 title: "Bindeballestien: Regional cykelrute 36 Vejle - Billund"
+permalink: /rute/regional-rute-36-bindeballestien/
 seo_title: "Bindeballestien: Følg banestien mellem Vejle og Billund"
 excerpt: "Bindeballestien er en 36 km lang cykelrute, der følger en gammel banesti mellem Vejle til Bindeballe Købmandsgård og videre til Billund."
 created_at: 2006-07-03T09:48:02+02:00

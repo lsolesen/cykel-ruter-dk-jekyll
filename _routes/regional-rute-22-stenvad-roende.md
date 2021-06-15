@@ -1,5 +1,6 @@
 ---
 title: "Regional Rute 22:  Stenvad til Rønde"
+permalink: /rute/regional-rute-22-stenvad-roende/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina

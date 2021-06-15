@@ -1,5 +1,6 @@
 ---
 title: "Hagen Strand - Den lille kysttur og Rands Fjord"
+permalink: /rute/hagen-strand-camping-lille-kysttur/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 header:

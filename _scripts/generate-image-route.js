@@ -57,6 +57,8 @@ const urls = posts.map(post => objectToParams({
     'author-image': post.author && authors[post.author].avatar || authors['lsolesen'].avatar || '',
     'post-image': post.header.overlay_image || post.header.teaser || '',
     'distance': post.distance || '',
+    'asphalt': post.asphalt || '',
+    'rubble': post.rubble || '0',    
   })
 ).map(params => {
   // use `utoa` to encode emojis/special characters

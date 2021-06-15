@@ -1,5 +1,6 @@
 ---
 title: "Regional Rute 32: Brande til Horsens"
+permalink: /rute/regional-rute-32-brande-horsens/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: lsolesen

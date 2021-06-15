@@ -1,5 +1,6 @@
 ---
-title: "Regional rute 32: Mariager - Hobro - Hadsund - Mariager (Mariager Fjord rundt)"
+title: "Regional Rute 32: Mariager - Hobro - Hadsund - Mariager (Mariager Fjord rundt)"
+permalink: /rute/regional-rute-32-mariager-fjord-rundt/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2012-06-03T09:48:02+02:00
 author: dina

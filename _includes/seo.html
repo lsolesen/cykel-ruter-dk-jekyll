@@ -45,7 +45,7 @@
 
 {% comment %} begin custom og images {% endcomment %}
 {% unless page.header.og_image %}
-{% if page.layout == 'single' %}
+{% if page.layout == 'single' or page.layout == 'routes' %}
 {% assign size = page.permalink.size | minus: 1 %}
 {% capture path %}{{ page.permalink | slice: 0, size | remove_first: "/" | replace: "/", "-" | append: ".png" | prepend: "/assets/images/og/generated/" }}{% endcapture %}
 {% assign file_exists = site.static_files | where: "path", path %}
