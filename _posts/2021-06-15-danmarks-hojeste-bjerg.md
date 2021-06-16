@@ -3,14 +3,15 @@ title: &title "Danmarks højeste bjerge: Top 10 [2021]"
 permalink: /danmarks-hojeste-bjerge/
 language: da
 header:
-  teaser: https://da.wikipedia.org/wiki/Ejer_Bavneh%C3%B8j#/media/Fil:Ejer-bavneh%C3%B8j-2004.jpg
+  teaser: https://upload.wikimedia.org/wikipedia/commons/7/76/Ejer-bavneh%C3%B8j-2004.jpg
   caption: *title
 tags:
   - cykelslanger
 category:
   - Guide
 last_modified_at: 2021-05-17T18:21:26Z
-- image_path: https://imgcdn.saxo.com/_9788755912908/0x500
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9788755912908/0x500
     title: "Danske Bjerge"
     alt: "Danske Bjerge"
     excerpt: "_Danmarks bjerge. Fra det laveste til det højeste punkt_ er en utrolig flot og oplysende bog med over 500 farverige fotos. Bogen giver en indsigt i landets 117 bjerge, fra Harehøj på 3 meter til Danmarks højeste punkt, Møllehøj. Hvert bjerg er beskrevet med historiske oplysninger, fakta og lokale anekdoter, som gør bogen hyggelig, underholdende oplysende at læse i."
