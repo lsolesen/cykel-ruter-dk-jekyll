@@ -16,10 +16,10 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 2
-excerpt: Et dejligt delforløb af national cykelrute 2. Ruten byder på masser af muligheder for afstikkere enten rundt i landskabet eller til store seværdigheder.
+excerpt: Et dejligt delforløb af national cykelrute 2 mellem Skive og Nykøbing. Ruten byder på masser af muligheder for afstikkere enten rundt i landskabet eller til store seværdigheder.
 gps:
-  url: https://www.alltrails.com/explore/map/map-4249a84--14
-  id: https://www.alltrails.com/widget/map/map-4249a84--14
+  url: https://www.alltrails.com/explore/map/map-c06d06d--13
+  id: https://www.alltrails.com/explore/map/map-c06d06d--13
   provider: alltrails
 related: "National Cykelrute 2"
 distance: 35
