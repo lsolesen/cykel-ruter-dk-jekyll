@@ -68,7 +68,7 @@ Så er ruten importeret. Nu kan du give den et navn, og du kan også sende den t
 
 Personligt plejer jeg altid at bruge Garmin Connect Appen på min telefon, når jeg gerne vil sende baner frem og tilbage mellem mine devices.
 
-## Tegn selv ruten i Garmin Connect
+## Lav selv cykelrute i Garmin Connect Ruteplanlægger
 
 Garmin Connect følger som standard vejene. Du kan endda vælge at bruge popularitetsruter, så hvis du bare markerer to steder, så finder Garmin Connect Ruteplanlæggeren selv en populær vej mellem de to punkter.
 
@@ -78,9 +78,23 @@ Det helt geniale ved at have ruten med på GPS på cykelturen - også selvom rut
 
 Hvis ruteplanlæggeren ikke tegner ruten mellem to punkter, som du ønsker, så kan du selv flytte ruten rundt på kortet. Du kan fx fjerne krydset “Bliv på vejene”, og så kan du tegne ruten manuelt, hvis du kender en bedre vej, som Garmin ikke helt kender.
 
-## Hvordan finder jeg ruteplanlægnign i Garmin Connect?
+## Hvordan finder jeg ruteplanlægning i Garmin Connect?
 
-Du klikker i menuen til venstre. Først klikker på på Træning. Derefter klikker du på Baner. Her kan du lave din ruteplanlægning i Garmin Connect.
+Du klikker i menuen til venstre. Først klikker på på `Træning`. Derefter klikker du på `Baner`. Her kan du lave din ruteplanlægning i Garmin Connect.
+
+## Hvordan bruger jeg Garmin Connect på PC og computeren?
+
+Hvis du skal forbinde din coomputer til Garmin Connect, så skal du installere Garmin Express. Når du har installeret Garmin Expresse, så kan du uploade dine aktivitetsdata fra dit ur til din Garmin Connect konto.
+
+Du kan også sende cykelruter frem og tilbage fra computeren til dit Garmin device. Med Garmin Express kan du også administrere dit ur.
+
+1. Tilslut enheden til din computer med USB-kablet.
+2. Gå til [www.garmin.com/express](https://www.garmin.com/express).
+3. Download og installer Garmin Express programmet.
+4. Åbn Garmin Express programmet, og vælg Tilføj enhed.
+5. Følg instruktionerne på skærmen.
+
+Jeg fortrækker dog at forbinde via den mobile app på min smartphone. Det virker rigtig godt.
 
 ## Kan jeg printe Garmin ruterne ud?
 
