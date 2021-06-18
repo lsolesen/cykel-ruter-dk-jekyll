@@ -13,11 +13,11 @@ category:
 last_modified_at: 2021-06-18T12:21:26Z
 ---
 
-Inden jeg cykler planlægger jeg ofte min rute, så jeg kan have den med på GPS på mit Garmin Edge eller mit Garmin ur. Jeg laver typisk ruteplanlægning i Garmin og Alltrails.
+Inden jeg cykler planlægger jeg ofte min rute, så jeg kan have en ruteplan med på GPS på mit Garmin Edge på min cykel. Jeg laver typisk ruteplanlægning i Garmin og Alltrails.
 
 Du kan både planlægge din rute i Garmin og på Alltrails. Jeg synes det er lettest at dele de planlagte ruter fra Alltrails, så her tegner jeg ofte cykelruterne.
 
-Det er imidlertid også ret let at lave ruter på Garmin. Jeg laver typisk mine ruter på Garmin Connect.
+Det er imidlertid også ret let at lave ruter på Garmin. Jeg laver typisk mine ruter på Garmin Connect eller Alltrails. Begge apps er genial til at tegne sin cykelrute på et kort.
 
 I dette indlæg gennemgår jeg jeg følgende:
 
@@ -27,7 +27,7 @@ I dette indlæg gennemgår jeg jeg følgende:
 
 Lad os gå direkte til sagen.
 
-## Hvordan laver jeg ruter på Garmin Connect?
+## Hvordan planlægger jeg jeg cykelruter på Garmin Connect?
 
 Det er ret let at lave ruter på Garmin Connect. Jeg bruger den danske udgave. Du skal bruge webversionen, når du gerne vil oprette ruter.
 
@@ -81,6 +81,16 @@ Hvis ruteplanlæggeren ikke tegner ruten mellem to punkter, som du ønsker, så 
 ## Hvordan finder jeg ruteplanlægning i Garmin Connect?
 
 Du klikker i menuen til venstre. Først klikker på på `Træning`. Derefter klikker du på `Baner`. Her kan du lave din ruteplanlægning i Garmin Connect.
+
+Når du skal lave en ruteplan på din cykel, så er både Alltrails og Garmin gode cykel apps.
+
+## Hvordan beregner jeg længde og højdemeter på min rute?
+
+Når du har tegnet cykelruten på kortet, så giver begge apps dig et estimat på længden af cykelruten, og hvor mange højdemeter, du skal passere undervejs på din cykel.
+
+## Hvordan finder jeg en cykelrute?
+
+Du kan naturligvis kigge på alle vores [cykelruter]({% link _pages/ruter-archive.md %}). Men du kan også søge efter offentlige cykelruter, som andre har tegnet i appen. Der er også rigtig mange gode forslag til cykelruter på Alltrails.
 
 ## Hvordan bruger jeg Garmin Connect på PC og computeren?
 
