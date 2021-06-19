@@ -78,6 +78,7 @@ body.layout--single .page__content .grid__item, body.layout--routes .page__conte
   
     &:nth-child(3n + 1) {
       clear: none;
+      margin-right: gutter(1 of 12);
     }
   
     &:nth-child(3n + 2) {
@@ -87,7 +88,6 @@ body.layout--single .page__content .grid__item, body.layout--routes .page__conte
   
     &:nth-child(3n + 3) {
       clear: none;
-      margin-right: gutter(1 of 12);
     }  
   }
 }
