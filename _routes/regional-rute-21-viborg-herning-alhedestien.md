@@ -67,7 +67,7 @@ Tæt på Hald Hovedgård skilles den regionale rute 21 fra den nationale rute 3.
 
 Uanset hvilken vej du vælger, kan du svinge et smut ind til Dollerup og besøge Hjørnegaards besøgspark med rhododendronbede og japanske haveafsnit. Lige efter Dollerup i Skelhøje samles de to ruter igen kortvarigt, og turen går nu over Frederiks til Karup med Alheden på den vestlige side af vejen.
 
-{% include gallery caption="Billeder fra [Wikipedia Alhedestien på Herning-Viborg-banen](https://da.wikipedia.org/wiki/Herning-Viborg-banen)" layout="full" %}
+{% include gallery caption="Billeder fra [Wikipedia Alhedestien på Herning-Viborg-banen](https://da.wikipedia.org/wiki/Herning-Viborg-banen)" layout="half" class="full" %}
 
 ## Alhedestien fører forbi Alheden
 

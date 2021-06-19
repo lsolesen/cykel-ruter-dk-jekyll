@@ -3,8 +3,8 @@ title: &title "Banestier: Bilfri cykeltur på nedlagte jernbaner"
 permalink: /banestier-i-danmark/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
-  teaser: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Kjellerupbanen37Skovvej.JPG
+  teaser: https://upload.wikimedia.org/wikipedia/commons/c/c4/Kjellerupbanen37Skovvej.JPG
   caption: *title
 tags:
   - banestier
