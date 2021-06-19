@@ -15,6 +15,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
+  - banesti
 excerpt: "Regional cykelrute 23 følger stort set den gamle banestrækning hele vejen mellem Funder via Brande til Filskov. Denne strækning var en del af en jernbane, der gik skråt ned over Jylland fra Langå til Esbjerg. Jernbanen blev kaldt Den Skæve Bane i folkemunde."
 gps:
   provider: alltrails

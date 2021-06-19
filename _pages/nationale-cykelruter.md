@@ -113,7 +113,7 @@ Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor 
 
 Hvilket cykelkort du skal bruge til de nationale cykelruter afhænger naturligvis af, hvilken rute du gerne vil cykle.
 
-Forlaget Estebauer producerer en serie af cykelkort [Bikeline\*](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020), hvor et par af kortene dækker udvalgte danske nationale cykelruter.
+Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020){: rel="sponsored nofollow noopener" }, hvor et par af kortene dækker udvalgte danske nationale cykelruter.
 
 Bikelines kort dækker fire af de 11 nationale cykelruter. Kortbøgerne sælges fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" } og dækker Nationalrute 1 Vestkystruten, Nationalrute 3: Hærvejsruten, Nationalrute 8: Østersøruten og i nogen udstrækning Nationalrute 9: Helsingør-Gedser.
 
@@ -129,7 +129,7 @@ Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til d
 
 ## Bikelines cykelkort over nationale cykelruter
 
-{% include gallery layout="half" %}
+{% include gallery layout="fourth" %}
 
 Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored nofollow noopener" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }.
 
@@ -147,12 +147,12 @@ Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cyclin
 |-|-|
 | N1	| Vestkystruten	|
 | N2	| Hanstholm-København	|
-| N3	| Hærvejsruten	|
+| N3	| Hærvejsruten |
 | N4	| Søndervig-København	|
-| N5	| Østkystruten	|
+| N5	| Østkystruten |
 | N6	| Esbjerg-København	|
-| N7	| Sjællands Odde-Rødbyhavn	|
-| N8	| Østersøruten	|
-| N9	| Helsingør-Gedser	|
+| N7	| Sjællands Odde-Rødbyhavn |
+| N8	| Østersøruten |
+| N9	| Helsingør-Gedser |
 | N10	| Bornholm Rundt	|
 | N12	| Limfjordsruten	|
