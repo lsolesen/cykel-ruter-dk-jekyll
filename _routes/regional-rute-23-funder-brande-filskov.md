@@ -3,7 +3,7 @@ title: &title "Regional Rute 23: Funder - Brande - Filskov"
 seo_title: "Den Skæve Bane: Cykelrute 23 Funder - Brande - Filskov"
 permalink: /rute/regional-rute-23-funder-brande-filskov/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://gdkfiles.visitdenmark.com/files/471/231189_Den-skve-bane---VisitHerning---Original-6.jpg?width=1024

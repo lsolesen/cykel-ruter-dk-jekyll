@@ -2,7 +2,7 @@
 title: &title "Regional Rute 17: Nissum Fjord Rundt"
 permalink: /rute/regional-rute-17-nissum-fjord-rundt/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://www.fotoagent.dk/single_picture/12111/25/large/Cykel.jpg

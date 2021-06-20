@@ -2,7 +2,7 @@
 title: &title "Regional Rute 17: Fussingø - Ødum"
 permalink: /rute/regional-rute-17-fussingsoe-oedum/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 author: lsolesen
 header:
   overlay_image: &image https://www.randers.dk/media/2699/8-staa-af-og-hold-en-pause-ml-noerbaek-og-faarup.jpg?height=500&widthratio=2.5000230713393594&mode=crop&anchor=center&rnd=131983378350000000&upscale=false&format=webp

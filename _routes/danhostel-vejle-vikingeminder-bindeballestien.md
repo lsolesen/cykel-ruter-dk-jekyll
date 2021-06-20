@@ -2,7 +2,7 @@
 title: "Skibet - Vikingeminder og Bindeballestien"
 permalink: /rute/danhostel-vejle-vikingeminder-bindeballestien/
 created_at: 2011-10-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.danhostel.dk/sites/default/files/node/related_product/field_images/608126/309267.jpeg
   teaser: *image

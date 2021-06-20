@@ -2,7 +2,7 @@
 title: "Hagen Strand - Landsbyidyl og Rands Fjord"
 permalink: /rute/hagen-strand-camping-landsbyidyl-rands-fjord/
 created_at: 2011-10-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://upload.wikimedia.org/wikipedia/commons/8/86/Rands_Fjord.JPG
   teaser: *image

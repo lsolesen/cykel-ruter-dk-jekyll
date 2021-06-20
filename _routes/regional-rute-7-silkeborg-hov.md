@@ -3,7 +3,7 @@ title: &title "Regional Rute 07: Silkeborg til Hov"
 seo_title: "Regional cykelrute 7: Silkeborg til Hov"
 permalink: /rute/regional-rute-7-silkeborg-hov/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image https://images.unsplash.com/photo-1554648704-af430ffd0142?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1946&q=80
