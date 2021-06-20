@@ -32,7 +32,7 @@ bikemaps:
     rel: sponsored nofollow noopener
 ---
 
-Jeg blev i dag spurgt af en journalist med forslag til gode cykelruter omkring Århus, på Djursland, Skanderborg og Favrskov. Det var et spændende spørgsmål, hvor jeg kom til at tænke tilbage på, da jeg skrev cykelguiden om Østjylland.
+Mange leder efter forslag til gode cykelruter omkring Århus, på Djursland, Skanderborg og Favrskov. Det var et spændende spørgsmål, hvor jeg kom til at tænke tilbage på, da jeg skrev cykelguiden om Østjylland.
 
 Det var også en god opgave lige at få samlet ruterne tæt på Århus i et indlæg, så det har jeg gjort her. Der er både nationale cykelruter og regionale cykelruter omkring Århus.
 

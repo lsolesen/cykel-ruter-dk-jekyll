@@ -39,7 +39,7 @@ Så går turen ind gennem Østerild Plantage, stadig på den nedlagte jernbane. 
 
 Ruten er skiltet gennem Thisted og efter et dyk under Omfartsvejen passerer den tæt (1 km) forbi Thisted Vandrerhjem.
 
-Herefter går det vestpå gennem Vandet Klitplantage, hvor national cykelrute 2 krydses og videre ud til Nystrup Klitplantage, hvor man støder til national cykelrute 1. Turen kan fortsættes ud til surferparadiset, Klitmøller, helt ude ved Vesterhavet.
+Herefter går det vestpå gennem Vandet Klitplantage, hvor [national cykelrute 2]({% link _routes/national-rute-2-hanstholm-kobenhavn.md %}) krydses og videre ud til Nystrup Klitplantage, hvor man støder til [national cykelrute 1]({% link _routes/national-rute-1-vestkyststien.md %}). Turen kan fortsættes ud til surferparadiset, Klitmøller, helt ude ved Vesterhavet.
 
 ## Seværdigheder
 

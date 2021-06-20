@@ -16,6 +16,8 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 2
+  - delforløb
+  - etape
 excerpt: Denne delrute fra National cykelrute 2 starter i Nykøbing og går tværs over Mors mod Vildsund og Hanstholm.
 gps:
   url: https://www.alltrails.com/explore/map/map-14cfdb5--7

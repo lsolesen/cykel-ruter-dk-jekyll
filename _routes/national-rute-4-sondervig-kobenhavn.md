@@ -1,0 +1,47 @@
+---
+title: "National Rute 04: Søndervig-København"
+seo_title: "National cykelrute 4: Søndervig-København"
+permalink: /rute/national-rute-4-sondervig-kobenhavn/
+last_modified_at: 2012-06-07T09:48:02+02:00
+created_at:  2006-06-07T09:48:02+02:00
+author: dina
+header:
+  overlay_image: &image /assets/images/routes/national-rute-4-aarhus-bryrup.jpg
+  teaser: *image
+  caption: "Stemningsbillede fra ruten mellem Århus og Bryrup"
+category:
+  - National Cykelrute
+tags:
+  - cykelrute
+  - national
+  - National Cykelrute 4
+  - hele ruten
+excerpt: "Nationalrute 4 fører dig gennem hele Danmark fra vest til øst. Du starter i det flade vestlige Jylland, cykler over Midtjyllands højland, Danmarks største sø og skovområde, og ender i København. Landskabet langs cykelruten er meget afvekslende, så du skal vælge en cykel og nogle dæk, der kan få dig komfortabelt gennem skove, forbi søer, op og ned ad bakker og markveje."
+gps:
+  url: https://www.alltrails.com/explore/map/map-d5438e5--12
+  id: https://www.alltrails.com/widget/map/map-d5438e5--12
+  provider: alltrails
+related: National Cykelrute 4
+distance: 108
+asphalt: 88
+rubble: 20
+---
+
+**{{ page.excerpt }}**
+
+{% assign site_posts = site.routes | where: "tags", page.related | where_exp: "post", "post.url != page.url" | sort: "title" %}
+
+{% if site_posts.size > 0 %}
+
+## Delforløb af {{ page.title }}
+
+<div class="feature__wrapper">
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
+{% endif %}
+
+## Kort over {{ page.title }}
+
+{% include maps-ad.md %}

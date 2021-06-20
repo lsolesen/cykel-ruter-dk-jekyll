@@ -14,7 +14,9 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 12
-excerpt: "Området omkring Limfjorden er fremragende at cykle i, og der er rigeligt med muligheder for gode afstikkere fra ruten. Fjorden er smukkest om sommeren, hvor den også er meget populær hos fugle, dykkere og sejlere. Dette delforløb af ruten går syd om Limfjorden."
+  - delforløb
+  - etape
+excerpt: "Dette delforløb af nationalrute 12 går syd om Limfjorden. Ruten er utrolig smuk, og der er rigeligt med muligheder for gode afstikkere fra ruten. Fjorden er smukkest om sommeren, hvor den også er meget populær hos fugle, dykkere og sejlere."
 gps:
   url: https://www.alltrails.com/explore/map/map-dccab9b--10
   id: https://www.alltrails.com/widget/map/map-dccab9b--10

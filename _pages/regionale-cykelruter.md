@@ -1,6 +1,6 @@
 ---
 layout: single
-title: &title "Danmarks regionale Cykelruter: Hvor finder jeg kort [2021]?"
+title: &title "Danmarks regionale cykelruter: Hvor finder jeg kort [2021]?"
 excerpt: "I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. Læs alt om cykelruterne og find regionale cykelkort."
 permalink: /regionale-cykelruter/
 author_profile: true
@@ -42,9 +42,14 @@ gallery:
 toc: true
 created_at: 2019-10-03T09:48:02+02:00
 last_modified_at: 2021-04-03T07:18:02+02:00
+sidebar:
+  title: "Populære sider"
+  nav: blog
 ---
 
-I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. De regionale cykelstier forbinder alle dele af en region - og det kan både være ud-og-hjem-ture eller cykelrundture. Vi beskriver her en del af de regionale cykelruter, og hvordan du finder kort til cykelruterne.
+I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. De regionale cykelstier forbinder alle dele af en region - og det kan både være ud-og-hjem-ture eller cykelrundture.
+
+Vi beskriver her en del af de regionale cykelruter, og hvordan du finder kort til cykelruterne.
 
 ## Hvad er en regional cykelrute?
 
@@ -63,6 +68,12 @@ De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet 
   {% endfor %}
 </div>
 {% endif %}
+
+## Regionale banestier
+
+Nogle af mine favoritter af de regionale cykelruter er banestierne, som følger gamle nedlagte jernbaner. De fleste af disse stier er lavet, så der ikke må komme biler på ruterne - og typisk er ruterne også relativt flade.
+
+[Læs mere om banestier]({% link _posts/2021-06-19-banestier.md %})
 
 ## Kort over de regionale cykelruter
 
@@ -85,3 +96,7 @@ Du kan finde nogle af de regionale cykelruter på [OpenStreetMap](https://www.op
 Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade nogle af de regionale cykelruter fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise.
 
 {% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.png" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de regionale cykelruter frem." alt="waymarkedtrails gpx regionale cykelruter" %}
+
+## Konklusion
+
+Jeg håber, at du fik et godt overblik over de regionale cykelruter, og hvordan du kan finde cykelkort til ruterne.

@@ -16,7 +16,9 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 4
-excerpt: "Dette er er en fortsættelse af den nationale cykelrute 4. Denne del af ruten kan give et godt indblik i konsekvesnerne af Hedeselskabets ændringer af landskabet, og du kommer helt ud til Vesterhavet, hvor du får fornemmelse for naturens kræfter."
+  - delforløb
+  - etape
+excerpt: "Dette er er en fortsættelse af den nationale cykelrute 4. Denne del af ruten kan give et godt indblik i konsekvenserne af Hedeselskabets ændringer af landskabet, og du kommer helt ud til Vesterhavet, hvor du får fornemmelse for naturens kræfter."
 gps:
   url: https://www.alltrails.com/explore/map/map-d5438e5--12
   id: https://www.alltrails.com/widget/map/map-d5438e5--12

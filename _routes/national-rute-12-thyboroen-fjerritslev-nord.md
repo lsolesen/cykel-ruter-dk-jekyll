@@ -14,7 +14,9 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 12
-excerpt: National cykelrute 12 har et forløb hele vejen rundt om Limfjorden, men kan opdeles i mindre etaper, hvis man synes, det er for langt med hele turen på en gang. Her beskriver vi den nordlige del af cykelruten.
+  - delforløb
+  - etape
+excerpt: Dette delforløb af nationalrute 12 går nord om Limfjorden. Ruten går fra Thyborøn til Fjerritslev og følger omkring 130 kilometer asfalterede veje.
 gps:
   url: https://www.alltrails.com/explore/map/map-4249a84--14
   id: https://www.alltrails.com/widget/map/map-4249a84--14

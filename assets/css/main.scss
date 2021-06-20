@@ -7,10 +7,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-body.layout--single {
+body.layout--single, body.layout--routes {
   .feature__item--left, .feature__item--right {
       h2.archive__item-title {
-          margin-top: 1em !important;
+          margin-top: 0.5em !important;
           margin-bottom: 0em !important;
           font-size: 0.9em !important;
       }
@@ -77,7 +77,7 @@ body.layout--single .page__content .grid__item, body.layout--routes .page__conte
     }
   
     &:nth-child(3n + 1) {
-      clear: none;
+      clear: both;
       margin-right: gutter(1 of 12);
     }
   

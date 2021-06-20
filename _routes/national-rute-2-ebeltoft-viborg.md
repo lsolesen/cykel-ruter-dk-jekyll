@@ -16,6 +16,8 @@ tags:
   - national
   - Guidebog Østjylland
   - National Cykelrute 2
+  - etape
+  - delforløb
 excerpt: "På denne del af den nationale cykelrute 2 oplever vi alt fra strand og herregårdslandskaber til skovtætte ådale og lynghedearealer. Den varierede rute forbinder flere af Jyllands historiske knudepunkter, hvilket giver rig mulighed for gode byoplevelser som afveksling til de snørklede landevejsstrækninger."
 gps:
   url: https://www.alltrails.com/explore/map/map-e4d8163--4

@@ -37,7 +37,7 @@ Efter disse mere eller mindre turistprægede oplevelser kommer vi forbi den lill
 
 Grusstien ender omkring Smouen, hvor vi forlader skovens dejlige natur og skyggeområde og igen mærker, hvor hurtigt asfalten sender os afsted. Og på det helt rigtige tidspunkt. På vejen fra Smouen og ind mod Rønde bliver landskabet trættende kuperet, idet vi kører op over den markante bakkebue, der ligger langs den nordlige del af Kalø Vig. Områdets mange gravhøje vidner om en lang historie. På vejen passerer vi et Teddy Museum, som på bestilling arrangerer fremvisninger og fortæller historier, som knytter sig til mussets mange nye og gamle bamser.
 
-Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der nærmere beskrives under national cykelrute 5.
+Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der nærmere beskrives under [national cykelrute 5]({% link _routes/national-rute-5-ostkystruten.md %}).
 
 ## Rettelser til skiltningen
 

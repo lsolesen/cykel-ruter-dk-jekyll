@@ -16,6 +16,8 @@ tags:
   - national
   - Guidebog Øsstjylland
   - National Cykelrute 3
+  - delforløb
+  - etape
 excerpt: "Hærvejsruten har afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen på cykel er en historisk interessant cykelrute, og ruten var en vigtig transportvej lang tid før der fandtes cykelruter."
 gps:
   url: https://www.alltrails.com/explore/map/map-80a160f--10

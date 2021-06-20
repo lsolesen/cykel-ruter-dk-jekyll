@@ -174,7 +174,18 @@ feature_row_bags:
     rel: sponsored nofollow noopener
 ---
 
-Jeg har samlet alle mine bedste anbefalinger og inspiration til at dykke længere ned i, hvordan du kan planlægge og udføre din cykelferie på denne side. Links markeret med (*) er reklamelinks, hvor jeg får en lille kommision, hvis du ender med at købe fra de enkelte steder. Derved er du med til at støtte driften af dette site, så det håber jeg, at du vil overveje.
+Jeg har samlet alle mine bedste anbefalinger og inspiration til at dykke længere ned i, hvordan du kan planlægge og udføre din cykelferie på denne side.
+
+Links markeret med (*) er reklamelinks, hvor jeg får en lille kommision, hvis du ender med at købe fra de enkelte steder. Derved er du med til at støtte driften af dette site, så det håber jeg, at du vil overveje.
+{: .notice .notice--info }
+
+## Cykelkort til din cykeltur
+
+{% include gallery id="gallery_maps" %}
+
+Læs mere om, hvordan du [vælger det rigtige cykelkort til cykeltur og cykelferie i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+
+[Køb cykelkort hos Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
 ## Gode bøger om cykelferie og cykeloplevelser
 
@@ -182,21 +193,13 @@ På [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banneri
 
 {% include feature_row type="left" %}
 
-[Køb bøger på Saxo om cykling](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykling){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
-
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="sponsored nofollow noopener noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
-
-## Cykelkort til din cykeltur (reklamelinks)
-
-{% include gallery id="gallery_maps" %}
-
-Læs mere om, hvordan du [vælger det rigtige cykelkort til cykeltur og cykelferie i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
-
 ## Cykelguidebøger
 
-{% include feature_row id="cykelguide" type="left" %}
+{% include gallery id="cykelguide" caption="Du kan købe flere cykelguidebøger hos [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }" %}
 
-Hvis du er interesseret i andre [cykelbøger, så tjek mine forslag](/cykelboeger-bedste-boeger-om-cykling/).
+Jeg synes også rigtig godt om disse [cykelbøger](/cykelboeger-bedste-boeger-om-cykling/).
+
+[Køb bøger på Saxo om cykling](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykling){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
 ## Transport af cykler
 
@@ -214,7 +217,9 @@ Hvis du er interesseret i andre [cykelbøger, så tjek mine forslag](/cykelboege
 
 {% include feature_row id="feature_row_food" type="left" %}
 
-## Samarbejdspartnere
+## Samarbejdspartnere (reklamelinks)
+
+Hvis du vil støtte cykel-ruter.dk og udviklingen af sitet, så kan du handle ved vores samarbejdspartnere. Jeg får en lille kommision, hvis du handler hos dem, men prisen er den samme for dig.
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
 

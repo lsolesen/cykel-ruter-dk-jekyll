@@ -16,6 +16,8 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 3
+  - delforløb
+  - etape
 excerpt: "Du kan tage Hærvejen på cykel ved at følge Hærvejsruten i et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en historisk interessant cykelrute, og cykelruten var en vigtig transportvej."
 gps:
   url: https://www.alltrails.com/explore/map/map-da4902c--8

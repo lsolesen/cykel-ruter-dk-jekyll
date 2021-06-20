@@ -2,16 +2,10 @@
 main:
   - title: "Cykelruter"
     url: /cykelruter-danmark/
-  - title: "Nationale"
+  - title: "Nationalruter"
     url: /nationale-cykelruter/
-  - title: "Regionale"
+  - title: "Regionalruter"
     url: /regionale-cykelruter/
-  - title: "Vestjylland"
-    url: /cykelruter-vestjylland/
-  - title: "Østjylland"
-    url: /cykelruter-oestjylland/
-  - title: "Vejle"
-    url: /cykelruter-vejle/
   - title: "Inspiration"
     url: /inspiration/
   - title: "Blog"
@@ -19,7 +13,7 @@ main:
   - title: "Om"
     url: /om/
 blog:
-  - title: "Populære Sider"
+  - title: "Populære guides"
     children:
       - title: "Cykelkort Danmark"
         url: /cykelkort/
@@ -37,6 +31,8 @@ blog:
         url: /paaklaedning/
       - title: "Reparationer af cykel"
         url: /reparationer-undervejs/
+  - title: "Populære cykelruter"
+    children:
       - title: "Cykelruter Danmark"
         url: /cykelruter-danmark/
       - title: "Nationale cykelruter"
@@ -51,6 +47,14 @@ blog:
         url: /cykelruter-vestjylland/
       - title: "Cykelruter Østjylland"
         url: /cykelruter-oestjylland/
+      - title: "Cykelruter Østjylland"
+        url: /cykelruter-oestjylland/
+      - title: "Cykelruter Bornholm"
+        url: /cykelruter-bornholm/
+      - title: "Cykelruter Fyn"
+        url: /cykelruter-fyn/
+      - title: "Banestier"
+        url: /banestier-i-danmark/
 bikes:
   - title: "Links"
     children:

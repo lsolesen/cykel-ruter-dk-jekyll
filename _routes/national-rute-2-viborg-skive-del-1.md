@@ -16,6 +16,8 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 2
+  - delforløb
+  - etape
 excerpt: "Denne del af national cykelrute 2 forbinder Viborg og Skive. Ruten bringer dig forbi et par interessante herregårde og smukke fjorde. Turen starter eller fortsætter i domkirkebyen, Viborg, som altid er et besøg værd."
 gps:
   id: https://www.alltrails.com/widget/map/map-1feb4cd--9

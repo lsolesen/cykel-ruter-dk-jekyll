@@ -7,7 +7,7 @@ last_modified_at: 2012-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
   teaser: *image
-  caption: "Billede: www.videnomfriluftsliv.dk"
+  caption: "Billede: [www.videnomfriluftsliv.dk](https://www.videnomfriluftsliv.dk)"
 category:
   - National Cykelrute
 tags:
@@ -15,6 +15,8 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 1
+  - etape
+  - delforløb
 excerpt: "Det brusende Vesterhav er din tro følgesvend på dette delforløb af den nationale cykelrute nummer 1, Vestkystruten, der bringer dig 110 kilometer fra fiskerbyen Thyborøn til Nymindegab."
 distance: 110 km
 asphalt: 78 km
@@ -27,9 +29,11 @@ gps:
 
 **{{ page.excerpt }}**
 
-Du kan starte turen ved Thyborøn Havn, der giver et indblik et af byens vigtigste erhverv, fiskeriet. Havnen blev anlagt efter, at havet havde gennembrudt Agger Tange i 1915. Du kan også besøge nogle af Thyborøn-fæstningens 64 bunkere, hvor der bl.a. er et par museer, og Kystcenteret Thyborøn, der giver et indblik i menneskets færd og overlevelse på havet og ved kysten.
+Du kan starte cykelturen ved Thyborøn Havn, der giver et indblik et af byens vigtigste erhverv, fiskeriet. Havnen blev anlagt efter, at havet havde gennembrudt Agger Tange i 1915. Du kan også besøge nogle af Thyborøn-fæstningens 64 bunkere, hvor der bl.a. er et par museer, og Kystcenteret Thyborøn, der giver et indblik i menneskets færd og overlevelse på havet og ved kysten.
 
-Herfra kører køres sydpå ned ad Harboøre Tange, der er fredet for at sikre de lave strandenge og rige fugleliv. Du kommer forbi Flyvholm, som var en af Danmarks første redningsstationer og nu er indrettet som museum. I stenalderen ville du have haft behov for en vandcykel for at køre her, da vandet dengang gik helt ind til skrænterne ved Engbjerg Kirke. Landet har senere hævet sig, og et af resultaterne er Ferring Sø. I Ferring kan du se et museum med maleren, Jens Søndergårds, malerier, der er inspireret af udsigten over havet og de bratte lerskrænter omkring Bovbjerg. En kort afstikker til Bovbjerg Fyr gør oplevelsen komplet. Herfra kan du se de høfder, hvoraf de tidligste blev bygget i 1875, som skal beskytte kysten mod yderligere nedbrydning. Ved fyret ligger den velbevarede bronzealderhøj, Hesthøj.
+Herfra kører køres sydpå ned ad Harboøre Tange, der er fredet for at sikre de lave strandenge og rige fugleliv. Du kommer forbi Flyvholm, som var en af Danmarks første redningsstationer og nu er indrettet som museum. I stenalderen ville du have haft behov for en vandcykel for at køre her, da vandet dengang gik helt ind til skrænterne ved Engbjerg Kirke.
+
+Landet har senere hævet sig, og et af resultaterne er Ferring Sø. I Ferring kan du se et museum med maleren, Jens Søndergårds, malerier, der er inspireret af udsigten over havet og de bratte lerskrænter omkring Bovbjerg. En kort afstikker til Bovbjerg Fyr gør oplevelsen komplet. Herfra kan du se de høfder, hvoraf de tidligste blev bygget i 1875, som skal beskytte kysten mod yderligere nedbrydning. Ved fyret ligger den velbevarede bronzealderhøj, Hesthøj.
  
 Mellem Bovbjerg og Husby Klitplantage kommer du igennem Trans, Fjaltring og Torsminde, som er nærmere beskrevet under den regionale cykelrute 17 (Nissum Fjord Rundt).
 
@@ -60,6 +64,8 @@ I Haurvig ligger Abelines gård, der er en klitgård fra 1870. Gården viser, hv
 Vestkystruten er i alt 560 kilometer fra Skagen til Rudbøl.
 
 Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, den danske Nordsøkyst og UNESCOS verdensnaturarv Vadehavet. Det er en af Danmarks længste skiltede cykelruter og går gennem noget af det skønneste og mest varierede natur i Danmark.
+
+Jeg har også lavet en samlet [rutebeskrivelse af Vestkyststien]({% link _routes/national-rute-1-vestkyststien.md %}).
 
 ## Links til Vestkystruten
 
