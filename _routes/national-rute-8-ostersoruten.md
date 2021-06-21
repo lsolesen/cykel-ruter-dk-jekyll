@@ -53,6 +53,12 @@ En omlægning og udvidelse af Sydhavsruten (360 km).
 </div>
 {% endif %}
 
+## Cykelkort over Østersøruten
+
+Hvis du har brug for en fuldstændigt cykelkort over Østersøruten, så kan du tjekke dette glimrende cykelkort fra Bikeline. Der er ikke et bedre kort over ruten.
+
+{% include figure image_path="https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg" caption="Kortbogen over Nationalrute 8: Østersøruten dækker cykelture gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. Kortbogen er på tysk. [Tjek prisen på bogen](https://www.scanmaps.dk/0251g04?G=020){ rel='sponsored nofollow noopener' }" alt="Cykelkort over Nationalrute 8 på Fyn" %}
+
 ## Kort over {{ page.title }}
 
 {% include maps-ad.md %}

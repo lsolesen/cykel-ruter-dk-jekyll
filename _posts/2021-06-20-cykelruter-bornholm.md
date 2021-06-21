@@ -1,5 +1,7 @@
 ---
 title: &title "Cykelruter på Bornholm: 8+ turforslag til cykelferien"
+seo_title: "Cykelruter på Bornholm: 8+ turforslag til cykelferien [Kort]"
+description: "Bornholm har mange gode cykelruter. Jeg har samlet de bedste ruter til en cykeltur og cykelferie på Bornholm. Bonus: Find de bedste cykelkort over Bornholm."
 permalink: /cykelruter-bornholm/
 language: da
 header:
@@ -12,6 +14,12 @@ tags:
 category:
   - Cykelruter
 last_modified_at: 2021-06-18T12:21:26Z
+scanmaps:
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_bornholm.jpg
+    url: https://www.scanmaps.dk/0251d64?G=020
+    alt: "Cykelkort #8 Bornholm"
+    title: "#8 Bornholm"
+    rel: sponsored nofollow noopener
 ---
 
 Du kan finde nogle helt utrolig smukke cykelruter på Bornholm. De fleste af cykelruterne er i sikker afstand biler og trafik, de er afvekslende, og der er ikke så lang afstand mellem rigtig gode oaser, som du kan nyde på cykeltur på Bornholm.
@@ -108,3 +116,17 @@ Her er en liste over nogle af de gode banestier på Bornholm.
 De fleste af disse jernbanestier er relativt kort. Men prøv at få dem som en del af din tur på Bornholm. Det er virkelig dejligt og afslappende at køre på banestier på Bornholm.
 
 Jeg har skrevet en mere udførlig artikel om [banestier i Danmark her]({% link _posts/2021-06-19-banestier.md %}).
+
+## Cykelkort Bornholm
+
+Du kommer aldrig til at fortryde, hvis du tager et godt cykelkort med til Bornholm på din cykeltur. Jeg har lavet en guide til [cykelkort over Danmark](/cykelkort/), hvor du kan se, hvilke jeg synes er de bedste kort.
+
+Der er lavet et godt cykelkort over Bornholm, som virkelig kan holde til noget.
+
+Kortet indeholder **national cykelrute 10 over Bornholm**. Desuden kan du se de **regionale cykelruter på Bornholm** 21, 22, 23, 24, 25 og 26.
+
+Kortet indeholder som en ekstra bonus også informationer målrettet cyklisterne. Du kan finde rastepladser, overnatningsmuligheder, cykelhandlere, seværdigheder og turistattraktioner på Bornholm. Du kan i kortet finde alle de cykelvenlige faciliteter på Bornholm.
+
+Du kan fx købe kortet her. Prisen er absolut overkommelig.
+
+{% include gallery id="scanmaps" caption="Cykelkort over Bornholm med de regionale og nationale cykelruter på øen." %}

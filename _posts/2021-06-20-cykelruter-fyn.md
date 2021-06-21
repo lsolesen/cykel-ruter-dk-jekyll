@@ -1,5 +1,7 @@
 ---
 title: &title "Cykelruter på Fyn: 8+ turforslag til cykeltur på Fyn"
+seo_title: "Cykelruter på Fyn: 8+ turforslag til cykeltur på Fyn [Kort]"
+description: "Jeg har samlet de bedste cykelruter på Fyn. Ruterne er relativt flade med begrænset trafik. Find ruterne her og find kort til ruterne."
 permalink: /cykelruter-fyn/
 language: da
 header:
@@ -12,11 +14,26 @@ tags:
 category:
   - Cykelruter
 last_modified_at: 2021-06-18T12:21:26Z
+cykelguide:
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
+    url: https://www.scanmaps.dk/0251f94?G=020
+    alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
+    title: "Guidebog og cykelkort over Fyn, Ærø, Tåsinge og Langeland"
+    excerpt: "114 sider med 11 turforslag til en cykeltur på Fyn og de sydfynske øer. Forslagene til cykelturene kan bruges som dagsture eller du kan bruge dem til en cykelferie på Fyn."
+    rel: sponsored nofollow noopener
+    btn_label: "Tjek prisen kort og guide*"
+    btn_class: "btn--success"
+scanmaps:
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
+    url: https://www.scanmaps.dk/0251f59?G=020
+    alt: "Cykelkort #3 Fyn, Ærø, Tåsinge og Langeland"
+    title: "Fyn, Ærø, Tåsinge og Langeland"
+    rel: sponsored nofollow noopener
 ---
 
-Fyn er et overflødighedshorn af cykelruter, hvor du kan opleve naturen på tætteste hold med rolig trafik.
+Der er et overflødighedshorn af cykelruter på Fyn, hvor du kan opleve naturen på tætteste hold med rolig trafik på din cykeltur. Jeg har her samlet de mest populære cykelruter på Fyn og hvordan du finder kort til ruterne.
 
-Jeg har her samlet de mest populære cykelruter på Fyn. Der er ikke så mange bakker på Fyn, og Fyn har gjort rigtig meget ud af at få lavet et fornuftigt cykelnetværk.
+Der er ikke så mange bakker på Fyn, og der er gjort rigtig meget ud af at få lavet et fornuftigt cykelnetværk.
 
 ## Cykelruter på Fyn
 
@@ -26,7 +43,7 @@ Jeg har her samlet de mest populære cykelruter på Fyn. Der er ikke så mange b
 
 Ruterne er lange, men heldigvis behøver man jo ikke at køre hele ruten på en gang.
 
-Men lad os dykke ned i nogle af de fabelagtige cykelruter på Fyn.
+Lad os dykke ned i nogle af de fabelagtige cykelruter på Fyn.
  
 ## Cykelruten: Fyn rundt
 
@@ -82,8 +99,32 @@ Her er en liste over de regionale cykelruter på Fyn. Hvis du har lyst til at be
 | 75 Assens - Odense            |  | 49  |
 | 79 Ørbæk - Langesø            |  | 116 |
 
+## Cykelkort Fyn
+
+Jeg anbefaler altid, at du får fat i et godt cykelkort, når du skal på cykeltur. Jeg har lavet en guide til [cykelkort over Danmark](/cykelkort/), hvor du kan se, hvilke jeg synes er de bedste kort.
+
+Heldigvis er der lavet et rigtig godt og vejrbestandigt kort, hvor du kan få overblik over cykelruterne på Fyn og det sydfynske øhav.
+
+På cykelkortet over Fyn kan du finde informationer om **nationale cykelruter 6 og 8**. Samtidig kan du finde informationer om alle de **regionale cykelruter** på øen. De regionale ruter i kortet er følgende 2, 30, 31, 32, 33, 35, 37, 38, 40, 41, 42, 43, 45, 50, 51, 55, 65, 71, 75, 79, 80, 81, 82, 83, 90, 91 og 92.
+
+Desuden kan du finde lidt lokale cykelruter, fx [banestien]({% link _posts/2021-06-19-banestier.md %}) fra Ringe til Korinth.
+
+Kortet indeholder også alle mulige nyttige informationer for cyklisten. Du kan finde rastepladser, overnatningsmuligheder, cykelhandlere, seværdigheder og turistattraktioner. Du kan i kortet finde alle de cykelvenlige faciliteter på Fyn.
+
+Du kan fx købe kortet her. Prisen er absolut overkommelig.
+
+{% include gallery id="scanmaps" caption="Cykelkort over Fyn med de regionale og nationale ruter på Fyn." %}
+
+## Cykelguidebog over Fyn
+
+{% include feature_row id="cykelguide" type="left" %}
+
+## Østersøruten på Fyn
+
+Østersøruten er naturligvis en af de store attraktioner på Fyn. Hvis du har brug for en fuldstændigt cykelkort over Østersøruten, så kan du tjekke dette glimrende cykelkort fra Bikeline. Der er ikke et bedre kort.
+
+{% include figure image_path="https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg" caption="Kortbogen over Nationalrute 8: Østersøruten dækker cykelture gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. Kortbogen er på tysk. [Tjek prisen på bogen](https://www.scanmaps.dk/0251g04?G=020){ rel='sponsored nofollow noopener' }" alt="Cykelkort over Nationalrute 8 på Fyn" %}
+
 ## Konklusion
 
-Jeg håber du fik inspiration til at tage en cykeltur på Fyn. Der er i hvert fald masser af spændende cykelruter på Fyn.
-
-Hvis du har brug for et kort, så tjek min guide til [cykelkort over Danmark og Fyn](/cykelkort/).
+Jeg håber du fik inspiration til at tage en cykeltur på Fyn. Der er i hvert fald masser af spændende cykelruter på Fyn, og du kan også finde nogle gode cykelkort over Fyn.
