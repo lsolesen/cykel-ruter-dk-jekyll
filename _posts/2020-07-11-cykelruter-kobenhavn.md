@@ -33,7 +33,7 @@ Der er mange gode cykelruter i København. Jeg har samlet de bedste cykelture og
 
 ## København er en cykelby
 
-København vil gerne være en by med bedre plads, mindre larm, renere luft og sundere borgere. Cyklister er et middel til at opnå dette [mål](https://www.kk.dk/cyklernesby). Og for at få cyklister kræver det at cykelruterne i byen får et løft, og København har rigtig mange fine cykelstier.
+København vil gerne være en by med bedre plads, mindre larm, renere luft og sundere borgere. Cyklister er et middel til at opnå dette [mål](https://byudvikling.kk.dk/artikel/verdens-bedste-cykelby). Og for at få cyklister kræver det at cykelruterne i byen får et løft, og København har rigtig mange fine cykelstier.
 
 {% include figure image_path="https://c.pxhere.com/photos/9d/48/denmark_copenhagen_denmark_symbol_tourists_switch_bicycles_city_bike-695538.jpg!s" caption="De mange gode cykelruter, supercykelstier og grønne cykelruter i København gør også at cykling er meget populært. [Pxhere](https://pxhere.com/da/photo/695538)." alt="Cykler klar til cykelruter, supercykelstier og grønne cykelruter og cykelkort over København" %}
 
@@ -41,9 +41,9 @@ København vil gerne være en by med bedre plads, mindre larm, renere luft og su
 
 Rundt omkring i Danmark bliver der satset mere og mere på supercykelstier, og København er ikke nogen undtagelse.
 
-I København er der etableret en del cykelpendlerruter, som har fået prædikatet [supercykelstier](http://supercykelstier.dk/), og der er flere på vej. 
+I København er der etableret en del cykelpendlerruter, som har fået prædikatet [supercykelstier](https://supercykelstier.dk/), og der er flere på vej.
 
-Supercykelstinettet skal gøre det let, fleksibelt og trygt at cykle rundt i København og kommunerne omkring København. 
+Supercykelstinettet skal gøre det let, fleksibelt og trygt at cykle rundt i København og kommunerne omkring København.
 
 Formålet med supercykelstierne er at forbinde arbejdspladser, studier og boligområder i hele regionen, men de er også gode at tage en cykeltur på og opleve København og komme lidt væk fra byen.
 
@@ -62,7 +62,7 @@ Der bliver hele tiden gjort rigtig meget for at forbedre cykelstierne i Københa
 
 De Grønne Cykelruter, Havneringen og Langelinieruten er gennem Svanemølleruten koblet sammen med Ryvangsruten og Nørrebroruten.
 
-Du kan på cykel opleve hele København. 
+Du kan på cykel opleve hele København.
 
 Fx forløber **Svanemølleruten** fra Langeliniebroen ad Østbanegade langs jernbanen og de tætte kvarterer
 til Nordhavn Station. Derfra passeres B93's boldbaner, hvortil mange kommer på cykel.
@@ -84,7 +84,7 @@ myldretiden.**
 
 ## Grønne cykelruter
 
-De **[Grønne Cykelruter](https://www.kk.dk/groennecykelruter)** i København er et sammenhængende net af cykelstier, som løber gennem de rekreative områder i København og uden om den travle trafik. 
+De **[Grønne Cykelruter](https://www.kk.dk/groennecykelruter)** i København er et sammenhængende net af cykelstier, som løber gennem de rekreative områder i København og uden om den travle trafik.
 
 Hvis du vælger de Grønne Cykelruter, så kan du samtidig få en historie om bydelen og byens udvikling.
 

@@ -50,7 +50,7 @@ Når vi kigger i [MET-tabellen](https://www.motionsplan.dk/met/) nedenunder er d
 Energiforbruget afhænger af forskellige faktorer:
 
 - **Intensiteten**. Desto hårdere du arbejder, desto flere kalorier vil du forbrænde i minuttet.
- 
+
 I de følgende beregninger for udendørs cykling taler vi hovedsageligt om hastigheden, men det er en relativt grov generalisering.
 
 {% include figure image_path="https://images.unsplash.com/photo-1499871435582-a1d4ff236842?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" caption="Desto hurtigere og desto længere, du cykler, desto flere kalorier forbrænder du. Vindmodstanden betyder naturligvis en del, så hvis du ligger i læ i et felt, så er energiforbruget mindre." alt="Hvor mange kalorier man forbrænder afhænger af intensiteten og varigheden" %}
@@ -84,7 +84,7 @@ Hvis ikke du har adgang til wattmålere, så kan du også med pulsen få en mere
 
 Husk at udregningerne og tommelfingerreglerne bare er estimater - altså gennemsnitlige gæt på, hvor mange kalorier der forbrændes ved cykling.
 
-De er baseret på MET. Forskere har fundet at en person forbrænder omkring 5 kalorier pr liter ilt de forbrænder. 
+De er baseret på MET. Forskere har fundet at en person forbrænder omkring 5 kalorier pr liter ilt de forbrænder.
 
 Når man kører med højere intensitet, så stiger iltforbruget. Derfor skal vi både bruge intensiteten og vægten til at udregne, hvor meget en person forbrænder.
 
@@ -98,11 +98,11 @@ Når du bruger dine muskler, så starter kroppen med at bruge ekstra ilt for at 
 
 Når du bevæger dig, så har du brug for meget ATP alt efter hvor lang og intenst du bevæger dig. Du har noget ATP, der bare venter i dine muskler, men der er kun til omking 10 sekunders arbejde. Derefter begynder kroppen at lave mere ATP.
 
-Ved korte, intense sprints over lidt længere tidsrum bruger din krop energi fra det [anaerobe energisystem](https://www.motionsplan.dk/energisystemer/), hvor kroppen spalter kulhydrat for hurtigt at kunne få energi. 
+Ved korte, intense sprints over lidt længere tidsrum bruger din krop energi fra det [anaerobe energisystem](https://www.motionsplan.dk/energisystemer/), hvor kroppen spalter kulhydrat for hurtigt at kunne få energi.
 
 Ved længerevarende intense cykelture får kroppen ATP ved at forbrænde både kulhydrat og fedt. Jo højere intensitet du kører med, jo højere vil andelen af kulhydratforbrændingen være. Men den samlede forbrænding er også højere.
 
-En tommelfingerregel er, at jo hurtigere du kører - eller jo mere kraft du putter i pedalerne - jo mere energi bruger du. 
+En tommelfingerregel er, at jo hurtigere du kører - eller jo mere kraft du putter i pedalerne - jo mere energi bruger du.
 
 Du kan tjekke vores beregner længere ned på siden for at få et bud på, hvor mange kalorier du bruger, når du cykler.
 
@@ -125,9 +125,9 @@ Jeg vejer 81 kilo. Hvis jeg bruger [beregneren for kalorieforbruget ved forskell
 | Cykling 22,4 km/t | 8 MET  | 648 kcal     | 0,3571 kcal/kg/km |
 | Cykling 30 km/t   | 12 MET | 972 kcal     | 0,4 kcal/kg/km    |
 
-Helt som ventet så bruger man flere kalorier på at cykle 30 km/t end 22,4 km/t. Men hvis jeg omregner til kcal/kg/km så koster mine hurtigere kilometer også mere i energiregnskabet pr. km. 
+Helt som ventet så bruger man flere kalorier på at cykle 30 km/t end 22,4 km/t. Men hvis jeg omregner til kcal/kg/km så koster mine hurtigere kilometer også mere i energiregnskabet pr. km.
 
-Derfor er det altså ikke nok bare at lave en "tilfældig" tommelfingerregel på energiforbruget pr. kilometer. 
+Derfor er det altså ikke nok bare at lave en "tilfældig" tommelfingerregel på energiforbruget pr. kilometer.
 
 **For at udregne hvor mange kalorier, du bruger på din cykeltur, så har du brug for at kende intensiteten og varigheden af aktiviteten.**
 
@@ -141,9 +141,9 @@ Cykling er ikke bedre en andre aktiviteter til at forbrænde mange kalorier. Men
 
 ## Hvordan måler man fedtforbrænding ved cykling?
 
-Hvor meget du forbrænder ved en given aktivitet hænger nøje sammen med varigheden og intensiteten. 
+Hvor meget du forbrænder ved en given aktivitet hænger nøje sammen med varigheden og intensiteten.
 
-Om det er bedst at lave [kontinuerlig træning eller intervaltræning](https://www.motionsplan.dk/artikel/er-kontinuerlig-traening-eller-intervaltraening-bedst-for-fedtforbraendningen) afhænger bl.a. også af tidsforbruget i træningen. Hvis du fx kører intervaller i 20 minutter sammenlignet med 1 times cykling med moderat intensitet, så forbrænder du mest ved den moderate træning viser studier af [Skelly et al. (2014)](https://doi.org/10.1139/apnm-2013-0562).
+Om det er bedst at lave [kontinuerlig træning eller intervaltræning](https://www.motionsplan.dk/artikel/er-kontinuerlig-traening-eller-intervaltraening-bedst-for-fedtforbraendningen/) afhænger bl.a. også af tidsforbruget i træningen. Hvis du fx kører intervaller i 20 minutter sammenlignet med 1 times cykling med moderat intensitet, så forbrænder du mest ved den moderate træning viser studier af [Skelly et al. (2014)](https://doi.org/10.1139/apnm-2013-0562).
 
 ## Hvor mange kalorier forbrænder man ved at cykle?
 
@@ -174,7 +174,7 @@ Et par eksempler på energiforbruget for en person, der vejer 70 kg og som cykle
 | 15 km ~ 45 min   | 394 kcal         |        11.820 kcal |
 | 20 km ~ 60 min   | 525 kcal         |        15.750 kcal |
 
-For at sætte tingene lidt i perspektiv, så har du altså brug for en del kalorier for at cykle. 
+For at sætte tingene lidt i perspektiv, så har du altså brug for en del kalorier for at cykle.
 
 - 1 æble = 51 kalorier
 - 100 g juice er der 54 kalorier
