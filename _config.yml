@@ -29,7 +29,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : false # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : "cykelruter"
 staticman:
@@ -292,7 +292,7 @@ defaults:
       comments: true
       share: true
       related: true
-      toc: false
+      toc: true
       header:
         overlay_color: "#000"
       tag_archive_path: /rutetags/

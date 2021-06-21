@@ -9,19 +9,24 @@ author_profile: true
 sidebar:
   - title: "Om Cykelguide til cykeloplevelser i Østjylland"
     text: "Guiden til cykelruter i Østjylland blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
+  - title: "Populære sider"
+    nav: blog
 gallery:
-  - image_path: https://imgcdn.saxo.com/_9788771552997/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
-    alt: "#2 Vestjylland og Limfjordslandet"
-    title: "#2 Vestjylland og Limfjordslandet"
-  - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
-    alt: "#3 Sydjylland"
-    title: "#3Sydjylland"
-  - image_path: https://imgcdn.saxo.com/_9788771553017/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
-    alt: "#4 Østjylland"
-    title: "#4 Østjylland"
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
+    url: https://www.scanmaps.dk/0251d60?G=020
+    alt: "Cykelkort #4 Østlige Jylland"
+    title: "#4 Østlige Jylland (nyt kort 2020)"
+    rel: sponsored nofollow noopener
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
+    url: https://www.scanmaps.dk/0251d63?G=020
+    alt: "Cykelkort #5 Nordlige Jylland"
+    title: "#5 Nordlige Jylland"
+    rel: sponsored nofollow noopener
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_vestlige_jylland.jpg
+    url: https://www.scanmaps.dk/0251d62?G=020
+    alt: "Cykelkort #6 Vestlige Jylland"
+    title: "#6 Vestlige Jylland"
+    rel: sponsored nofollow noopener
 toc: true
 ---
 
@@ -66,6 +71,4 @@ Desværre kan cykelguidebogen over Østjylland ikke længere købes. Hvis du led
 
 ## Kort over cykelruter i Østjylland
 
-{% include gallery %}
-
-Jeg har skrevet en [guide til de bedste cykelkort over Østjylland](/cykelkort/).
+{% include gallery caption="Jeg foretrækker kortene fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }. Tjek min [udførlige guide til de bedste cykelkort over Danmark](/cykelkort/)." %}

@@ -16,6 +16,7 @@ tags:
   - cykelrute
   - regional
   - børnevenlig
+  - banesti
 toc: true
 gps:
   url: https://www.alltrails.com/explore/map/bindeballestien-regionalrute-36-the-bindeballestien-route-regional-route-no-36--3
@@ -76,7 +77,7 @@ Når du passerer Runkenbjerg, som er en lang smal bakkekam, så skal du nyde den
 
 Bindeballe Station og Bindeballe Købmandsgård er bygget i forbindelse med Vandelbanens (1897-1957) oprettelse. Købmandsgården fungerer stadig som indkøbssted og museumskøbmandshandel, og du kan leje hytter.
 
-{% include gallery caption="Billeder fra Bindeballestien er fra [Wikipedia](https://da.wikipedia.org/wiki/Vejle-Vandel-Grindsted_Jernbane)" layout="full" %}
+{% include gallery caption="Billeder fra Bindeballestien er fra [Wikipedia](https://da.wikipedia.org/wiki/Vejle-Vandel-Grindsted_Jernbane)" layout="half" class="full" %}
 
 I Frederikshåb Plantage kan du opleve et sjældent landskab af hvide sandklitter, lyngklædte bakker, søer og nåleskove.
 

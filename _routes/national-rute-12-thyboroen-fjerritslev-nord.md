@@ -2,7 +2,7 @@
 title: "National Rute 12: Thyborøn - Fjerritslev (nord om Limfjordsruten)"
 permalink: /rute/national-rute-12-thyboroen-fjerritslev-nord/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://files.guidedanmark.org/files/443/443_310122.jpg
   teaser: *image
@@ -14,7 +14,9 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 12
-excerpt: National cykelrute 12 har et forløb hele vejen rundt om Limfjorden, men kan opdeles i mindre etaper, hvis man synes, det er for langt med hele turen på en gang. Her beskriver vi den nordlige del af cykelruten.
+  - delforløb
+  - etape
+excerpt: Dette delforløb af nationalrute 12 går nord om Limfjorden. Ruten går fra Thyborøn til Fjerritslev og følger omkring 130 kilometer asfalterede veje.
 gps:
   url: https://www.alltrails.com/explore/map/map-4249a84--14
   id: https://www.alltrails.com/widget/map/map-4249a84--14

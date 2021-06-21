@@ -2,7 +2,7 @@
 title: &title "Regional Rute 22: Stenvad til Rønde"
 permalink: /rute/regional-rute-22-stenvad-roende/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-22-skarresoe-roende.jpg
@@ -37,7 +37,7 @@ Efter disse mere eller mindre turistprægede oplevelser kommer vi forbi den lill
 
 Grusstien ender omkring Smouen, hvor vi forlader skovens dejlige natur og skyggeområde og igen mærker, hvor hurtigt asfalten sender os afsted. Og på det helt rigtige tidspunkt. På vejen fra Smouen og ind mod Rønde bliver landskabet trættende kuperet, idet vi kører op over den markante bakkebue, der ligger langs den nordlige del af Kalø Vig. Områdets mange gravhøje vidner om en lang historie. På vejen passerer vi et Teddy Museum, som på bestilling arrangerer fremvisninger og fortæller historier, som knytter sig til mussets mange nye og gamle bamser.
 
-Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der nærmere beskrives under national cykelrute 5.
+Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der nærmere beskrives under [national cykelrute 5]({% link _routes/national-rute-5-ostkystruten.md %}).
 
 ## Rettelser til skiltningen
 

@@ -2,7 +2,7 @@
 title: &title "Regional Rute 18: Århus til Norup"
 permalink: /rute/regional-rute-18-aarhus-norup/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-18-aarhus-randers.jpg
@@ -35,7 +35,7 @@ Det sidste stykke ind mod Randers følger ruten en mere trafikeret landevej. I R
 
 Ud af Randers følges ruten med den nationale cykelrute 2 til Svejstrup, hvor vi fortsætter langs jernbanen og Skalsådalen, som er en større floddal med store mosearealer. Lige efter landsbyen Bjerregrav er der en fin udsigt over dalens største moseområde, Bjerregrav Mose. I Fårup drejer vi fra Skalsådalen mod rutens sidste del til Mariager og Norup. Det centrale Mariager er bestemt et besøg værd ikke mindst pga. byens smukke, velbevarede bindingsværkshuse og brolagte gader. Se desuden [regional cykelrute 32]({% link _routes/regional-rute-32-mariager-fjord-rundt.md %}) for oplevelser i Mariager.
 
-Lige uden for Mariager kommer vi til Hohøj - en 110 m høj bakketop, hvorpå der er opført en gravhøj. Fra højen kan opleves en af Østjyllands bedste udsigter. Herefter en dejlig nedkørsel i det fortsat kuperede landskab, indtil vi når Mariager Fjord, som vi følger til den gamle cementfabrik, Dania, der blev opført i 1887. Herfra er der kun få kilometer til rutens afslutning i Norup, hvor der er forbindelse til national cykelrute 5.
+Lige uden for Mariager kommer vi til Hohøj - en 110 m høj bakketop, hvorpå der er opført en gravhøj. Fra højen kan opleves en af Østjyllands bedste udsigter. Herefter en dejlig nedkørsel i det fortsat kuperede landskab, indtil vi når Mariager Fjord, som vi følger til den gamle cementfabrik, Dania, der blev opført i 1887. Herfra er der kun få kilometer til rutens afslutning i Norup, hvor der er forbindelse til [national cykelrute 5]({% link _routes/national-rute-5-ostkystruten.md %}).
 
 ## Rettelse til ruten
 

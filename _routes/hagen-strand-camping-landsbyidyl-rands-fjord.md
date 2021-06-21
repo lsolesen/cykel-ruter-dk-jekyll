@@ -2,7 +2,7 @@
 title: "Hagen Strand - Landsbyidyl og Rands Fjord"
 permalink: /rute/hagen-strand-camping-landsbyidyl-rands-fjord/
 created_at: 2011-10-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://upload.wikimedia.org/wikipedia/commons/8/86/Rands_Fjord.JPG
   teaser: *image
@@ -26,7 +26,7 @@ related: "Hagen Strand Camping"
 
 **Ruten fører os forbi dejlige sandstrande, hvor badetøjet næsten skal vises frem. Vi passerer tæt på områdets største sø, hvor der er mange muligheder for vandreture. Vi kører gennem hyggelige små landsbyer og i det hele taget gennem et dejligt naturrigt område.**
 
-Kort efter første tråd i pedalerne følges national cykelrute 5, som fører forbi de indbydende og børnevenlige strande i Hvidbjerg og Høll, hvor badevandet er af høj kvalitet. I Høll er der masser af mulighed for at proviantere til turen. Herfra fortsættes på cykelrute 5, indtil vi krydser regional rute 58, som fører os ind i landet og sydom Rands Fjord. 
+Kort efter første tråd i pedalerne følges [national cykelrute 5]({% link _routes/national-rute-5-ostkystruten.md %}), som fører forbi de indbydende og børnevenlige strande i Hvidbjerg og Høll, hvor badevandet er af høj kvalitet. I Høll er der masser af mulighed for at proviantere til turen. Herfra fortsættes på cykelrute 5, indtil vi krydser regional rute 58, som fører os ind i landet og sydom Rands Fjord. 
 
 I følger rute 58 hele vejen sydom Rands Fjord. Flere steder langs fjorden er der mulighed for at stoppe ind ved markerede parkeringspladser, hvor der ofte er osptillet borde og bænke, som indbyder til at nyde en medbragt picnic. Der er flere markerede naturstier gennem den varierede natur til skønne udsigtspunkter omkring fjorden. Ved flere af P-pladserne kan vi finde en lokal folder med inspiration til vandreture ind i området.
 

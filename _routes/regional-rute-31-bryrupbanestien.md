@@ -17,6 +17,7 @@ tags:
   - regional
   - Guidebog Østjylland
   - børnevenlig
+  - banesti
 excerpt: "Bryrupbanestien er en cykelrute, der fører os behageligt gennem det midtjyske landskab. Ruten kaldes også Naturstien fra Horsens til Silkeborg. Ruten følger en nedlagt jernbane og er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm."
 gps:
   provider: alltrails
@@ -66,7 +67,7 @@ I Lund kommer vi igen på asfalteret vej, og her begynder den egentlige Bryrupba
 
 Kommer man i den rigtige sæson, er der rig mulighed for at fylde munden med kirsebær fra de mange kirsebærtræer, som er spredt over næsten hele ruten. Det kan også betale sig at komme en par stykker i lommerne og skynde sig videre til et af de mange oplagte stoppesteder undervejs. Allerede lige efter Vestbirk krydser vi en bro over Vestbirksøerne, der er skabt som følge af Vestbirk Vandkraftværks opdæmning af Gudenåen. Kraftværket fungerer nu som arbejdende museum. På søens nærliggende græsplæne er der opsat borde og bænke til dem, som vil nyde medbragt mad og den fine udsigt.
 
-{% include gallery id="gallery" caption="Billeder fra Bryrupbanestien taget af Villy Fink Isaksen fra [Wikipedia om Naturstien: Horsens-Silkeborg](https://da.wikipedia.org/wiki/Naturstien_Horsens-Silkeborg)" layout="full" %}
+{% include gallery id="gallery" caption="Billeder fra Bryrupbanestien taget af Villy Fink Isaksen fra [Wikipedia om Naturstien: Horsens-Silkeborg](https://da.wikipedia.org/wiki/Naturstien_Horsens-Silkeborg)" layout="half" class="full" %}
 
 Ikke mange meter herfra krydser vi Gudenåen igen. Er du allerede oppe i fart, så hold øjnene åbne i de ådalens grønne omgivelser, men tag dig ellers tid til at stoppe op for at nyde roen på dette fredfyldte sted, hvor du på et oplysningsskilt kan læse, at Nordeuropas engang højeste stålgitterbro stadig ligger begravet.
 

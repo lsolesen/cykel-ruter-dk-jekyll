@@ -2,7 +2,7 @@
 title: "Randbøl - Bindeballestien og vikingeminder"
 permalink: /rute/randboeldal-camping-bindeballestien-jelling/
 created_at: 2011-10-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.dcu.dk/sites/default/files/styles/slide/public/randboeldal.jpg?itok=HOYn2OGg
   teaser: *image
@@ -52,7 +52,7 @@ Fårup Sø indbyder til en dejlig lang pause, og øst for søen der er mulighed 
 
 I Jelling passerer vi tæt forbi Jelling Kirke og monumenterne fra vikingetiden, og så er museet med den permanente udstilling om Kongernes Jelling absolut et besøg værd. Vi følger cykelruten ud af Mølvangsvej, hvor vi passerer forbi friluftsbadet og Jelling Camping, hvor der er mulighed for at spille minigolf. Lige overfor passerer vi området, hvor det om sommeren summer af liv under den årligt tilbagevendende Jelling Musikfestival. Vi fortsætter gennem marklandskabet mod den lille by Mølvang.
 
-Efter Mølvang skal vi sørge for at fange national cykelrute 3 (Hærvejen), som ad små veje leder os videre mod Randbøl. I den noget faldefærdige Trollerup drejer vi mod vest og kører gennem marklandskaber og tæt på vindmøller, som nyder at vinden ikke møder alt for mange forbindringer.
+Efter Mølvang skal vi sørge for at fange [national cykelrute 3 (Hærvejen)]({% link _routes/national-rute-3-haervejsruten.md %}), som ad små veje leder os videre mod Randbøl. I den noget faldefærdige Trollerup drejer vi mod vest og kører gennem marklandskaber og tæt på vindmøller, som nyder at vinden ikke møder alt for mange forbindringer.
 
 Kort efter vi har passeret Bredsten Landevej, kan du holde pause ved Naturstedet Gårdbutik, hvor vi kan sidde ved de opstillede bænke eller søge ly i lysthuset og nyde sit medbragte mad eller kigge ind i den meget blandede landhandel, hvor der altid bydes på gratis kaffe og en hyggelig snak med stedets indehaver eller de andre gæster.
 

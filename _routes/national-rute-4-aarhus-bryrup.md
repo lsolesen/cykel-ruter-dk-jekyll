@@ -3,7 +3,7 @@ title: "National Rute 04: Århus til Bryrup"
 seo_title: "National Rute 4: Århus til Bryrup"
 permalink: /rute/national-rute-4-aarhus-bryrup/
 created_at:  2006-06-07T09:48:02+02:00
-last_modified_at: 2012-06-07T09:48:02+02:00
+last_modified_at: 2021-06-07T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/national-rute-4-aarhus-bryrup.jpg
@@ -17,6 +17,8 @@ tags:
   - Guidebog Østjylland
   - National Cykelrute 4
   - Århus
+  - delforløb
+  - etape
 excerpt: "Denne del af national cykelrute 4 er uden tvivl en af Danmarks smukkeste. Vi føres fra det hyggelige cafeliv i Århus' smukke omgivelser til Midtjyllands skov- og sørige højland til de flade hedeegne i Vest. Sæt god tid af til denne rute, som byder på mange muligheder for hyggelige og spændende stop undervejs."
 gps:
   url: https://www.alltrails.com/explore/map/map-f52b43f--10

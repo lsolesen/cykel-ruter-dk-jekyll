@@ -4,7 +4,7 @@ seo_title: "National Rute 3: Hobro - Hald Ege (Hærvejsruten)"
 permalink: /rute/national-rute-3-hobro-hald-ege/
 author: lsolesen
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://images.unsplash.com/photo-1551895738-6d0216165381?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
   teaser: *image
@@ -16,6 +16,8 @@ tags:
   - national
   - Guidebog Øsstjylland
   - National Cykelrute 3
+  - delforløb
+  - etape
 excerpt: "Hærvejsruten har afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen på cykel er en historisk interessant cykelrute, og ruten var en vigtig transportvej lang tid før der fandtes cykelruter."
 gps:
   url: https://www.alltrails.com/explore/map/map-80a160f--10

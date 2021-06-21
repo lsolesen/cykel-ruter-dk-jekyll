@@ -4,7 +4,7 @@ seo_title: "National Rute 2: Viborg - Skive (delforløb 1)"
 permalink: /rute/national-rute-2-viborg-skive-del-1/
 author: dina
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://upload.wikimedia.org/wikipedia/commons/4/4c/Viborg_fra_Norreso.jpeg
   teaser: *image
@@ -16,6 +16,8 @@ tags:
   - national
   - Guidebog Vestjylland
   - National Cykelrute 2
+  - delforløb
+  - etape
 excerpt: "Denne del af national cykelrute 2 forbinder Viborg og Skive. Ruten bringer dig forbi et par interessante herregårde og smukke fjorde. Turen starter eller fortsætter i domkirkebyen, Viborg, som altid er et besøg værd."
 gps:
   id: https://www.alltrails.com/widget/map/map-1feb4cd--9

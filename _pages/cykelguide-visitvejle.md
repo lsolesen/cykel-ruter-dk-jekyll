@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cykelruter omkring Vejle - Cykelguide for VisitVejle
-excerpt: "Jeg har skrevet en guidebog med cykelruter i Vejle og omegn. Læs gratis om alle cykelruterne, når du planlægger din cykelferie og vil have cykeloplevelser i Vejle og omegn."
+excerpt: "Jeg har lavet nogle cykelruter i Vejle og omegn. Læs gratis om alle cykelruterne, når du planlægger din cykelferie og vil have cykeloplevelser i Vejle og omegn."
 permalink: /cykelruter-vejle/
 redirect_from:
   - /cykelguide-visitvejle/
@@ -19,6 +19,9 @@ gallery:
     title: "#7 Sydlige Jylland (nyt kort maj 2021)"
     rel: sponsored nofollow noopener
 toc: true
+sidebar:
+  title: "Populære sider"
+  nav: blog
 ---
 
 Jeg har lavet og beskrevet nogle cykelruter omkring Vejle. Cykelruterne tager sit udgangspunkt fra enten Randbøldal Camping, Danhostel Vejle eller Hagen Strand Camping.

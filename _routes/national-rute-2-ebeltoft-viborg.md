@@ -4,7 +4,7 @@ seo_title: "National Rute 2: Ebeltoft - Viborg"
 permalink: /rute/national-rute-2-ebeltoft-viborg/
 author: dina
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2020-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.ebeltoft.dk/wp-content/uploads/2018/05/ebeltoft-raadhus.jpg
   teaser: *image
@@ -16,6 +16,8 @@ tags:
   - national
   - Guidebog Østjylland
   - National Cykelrute 2
+  - etape
+  - delforløb
 excerpt: "På denne del af den nationale cykelrute 2 oplever vi alt fra strand og herregårdslandskaber til skovtætte ådale og lynghedearealer. Den varierede rute forbinder flere af Jyllands historiske knudepunkter, hvilket giver rig mulighed for gode byoplevelser som afveksling til de snørklede landevejsstrækninger."
 gps:
   url: https://www.alltrails.com/explore/map/map-e4d8163--4

@@ -147,7 +147,7 @@ bikeline:
     url: https://www.scanmaps.dk/0222650?G=020
     alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
     title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
-    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort*](https://www.scanmaps.dk/0251d57?G=020)."
+    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort](https://www.scanmaps.dk/0251d57?G=020){: rel='sponsored nofollow noopener' }."
     btn_label: "Se mere om kortet*"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
@@ -183,7 +183,7 @@ Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cyke
 > Cykelkortet er et planlægningskort, der giver overblik over cykelmuligheder.
 > På den anden side af kortet har man et kort over Storkøbenhavn i målestok 1:35.000, som er et detaljeret kort over Københavns cykelstier og cykelruter.
 
---- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020)</cite>
+--- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }</cite>
 
 Ud over at indeholde et Danmarks-kort, så er der også et [kort over Storkøbenhavn og cykelruterne i København]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}) i målestokforholdet 1:35.000.
 
@@ -225,7 +225,7 @@ Du kan se en lille video her af kortenes holdbarhed:
 
 {% include video provider="youtube" id="8Mab1GDTrgw" %}
 
-Du kan købe kortene direkte hos Nordisk Korthandel på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel har været så venlige at give mit en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
+Du kan købe kortene direkte hos Nordisk Korthandel på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel har været så venlige at give mig en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
 
 Du kan tjekke den [aktuelle pris på alle kortene her](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel plejer at have et godt tilbud, hvis du vil købe alle cykelkortene på en gang.
 
@@ -247,7 +247,7 @@ Cykelkortene fra Legind opdateres og genoptrykkes ikke, men du kan stadig købe 
 
 Du kan stadig nå at skaffe dig et eksemplar ved boghandlere og webshops. Nedenstående links er reklamelinks til [saxo.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort){: rel="sponsored nofollow noopener" }. Hvis du køber gennem dem, støtter du min side, og det vil jeg blive rigtig glad for. [Tjek alle Saxos cykelkort](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort){: rel="sponsored nofollow noopener" }.
 
-{% include gallery id="legind" layout="fourth" caption="Find cykelkortene hos vores samarbejdspartner [Nordisk Korthandel](http://www.scanmaps.dk?G=020){: rel='sponsored nofollow noopener' }. Links er reklamelinks." %}
+{% include gallery id="legind" layout="fourth" caption="Find cykelkortene fra Legind hos [Saxos](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort){: rel='sponsored nofollow noopener' }. Links er reklamelinks." %}
 
 ## Bikelines tysksprogede kortbøger
 

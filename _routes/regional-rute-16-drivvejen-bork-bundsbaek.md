@@ -2,7 +2,7 @@
 title: &title "Regional Rute 16: Drivvejen Bork - Skjern - Bundsbæk"
 permalink: /rute/regional-rute-16-drivvejen-bork-bundsbaek/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://bikepackingdenmark.files.wordpress.com/2018/06/dsc_1564.jpg?w=740
   teaser: *image
@@ -26,7 +26,7 @@ rubble: 1
 
 **{{ page.excerpt }}**
 
-Ruten tager sin begyndelse fra national cykelrute 1 og fører dig øst om Ringkøbing Fjord. Måske vil du allerede fra starten af ruten tage en lille afstikker til fuglereservatet på Tipperne og nyde det varierede fugleliv gennem en kikkert. Herefter tramper du mod Bork Vikingehavn og fornemmer stemningen fra vikingetidens Vestjylland. Husk dog at tjekke åbningstiderne, så du er sikker på at få hele oplevelsen med.
+Ruten tager sin begyndelse fra [national cykelrute 1]({% link _routes/national-rute-1-vestkyststien.md %}) og fører dig øst om Ringkøbing Fjord. Måske vil du allerede fra starten af ruten tage en lille afstikker til fuglereservatet på Tipperne og nyde det varierede fugleliv gennem en kikkert. Herefter tramper du mod Bork Vikingehavn og fornemmer stemningen fra vikingetidens Vestjylland. Husk dog at tjekke åbningstiderne, så du er sikker på at få hele oplevelsen med.
 
 Efter det historiske sus fortsætter turen gennem Skjern Ådal mod Skjern. På vejen kører man tæt forbi Provstgårds Hus, som består af to gamle fiskerhuse fra starten af 1900-tallet. Stedet er et godt udgangspunkt for naturvandringer i området omkring Skjern Ådal, som er Danmarks største naturgenopretningsprojekt.
 
