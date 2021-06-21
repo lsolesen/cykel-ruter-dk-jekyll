@@ -2,7 +2,7 @@
 title: &title "Regional Rute 20: Hornslet til Grenaa"
 permalink: /rute/regional-rute-20-hornslet-grenaa/
 created_at:  2006-06-07T09:48:02+02:00
-last_modified_at: 2012-05-30T09:48:02+02:00
+last_modified_at: 2021-05-30T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-20-hornslet-skarresoe.jpg

@@ -2,7 +2,7 @@
 title: &title "Regional Rute 51: Horsens til Vissing Kloster"
 permalink: /rute/regional-rute-51-horsens-vissing-kloster/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/regional-rute-51.jpg

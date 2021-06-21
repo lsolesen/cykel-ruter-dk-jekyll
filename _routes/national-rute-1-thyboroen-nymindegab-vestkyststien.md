@@ -3,7 +3,7 @@ title: "National Rute 01: Vestkyststien fra Thyborøn til Nymindegab"
 seo_title: "National Rute 1: Vestkyststien fra Thyborøn til Nymindegab"
 permalink: /rute/national-rute-1-thyboroen-nymindegab-vestkyststien/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2020-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
   teaser: *image

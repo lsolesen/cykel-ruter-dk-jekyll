@@ -2,7 +2,7 @@
 title: "National Rute 04: Søndervig-København"
 seo_title: "National cykelrute 4: Søndervig-København"
 permalink: /rute/national-rute-4-sondervig-kobenhavn/
-last_modified_at: 2012-06-07T09:48:02+02:00
+last_modified_at: 2021-06-07T09:48:02+02:00
 created_at:  2006-06-07T09:48:02+02:00
 author: dina
 header:

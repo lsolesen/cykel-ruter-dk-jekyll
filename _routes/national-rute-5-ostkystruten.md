@@ -3,7 +3,7 @@ title: &title "National Rute 05: Østkystruten fra Sønderborg - Skagen"
 seo_title: "National cykelrute 5: Østkystruten fra Sønderborg - Skagen"
 permalink: /rute/national-rute-5-ostkystruten/
 created_at:  2006-06-07T09:48:02+02:00
-last_modified_at: 2012-06-07T09:48:02+02:00
+last_modified_at: 2021-06-07T09:48:02+02:00
 author: dina
 header:
   overlay_image: &image /assets/images/routes/national-rute-5-roende-aarhus.jpg

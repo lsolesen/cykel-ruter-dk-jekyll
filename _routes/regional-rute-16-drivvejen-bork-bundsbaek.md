@@ -2,7 +2,7 @@
 title: &title "Regional Rute 16: Drivvejen Bork - Skjern - Bundsbæk"
 permalink: /rute/regional-rute-16-drivvejen-bork-bundsbaek/
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://bikepackingdenmark.files.wordpress.com/2018/06/dsc_1564.jpg?w=740
   teaser: *image

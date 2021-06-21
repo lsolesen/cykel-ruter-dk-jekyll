@@ -4,7 +4,7 @@ seo_title: "National Rute 2: Viborg - Skive (delforløb 1)"
 permalink: /rute/national-rute-2-viborg-skive-del-1/
 author: dina
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2012-06-03T09:48:02+02:00
+last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://upload.wikimedia.org/wikipedia/commons/4/4c/Viborg_fra_Norreso.jpeg
   teaser: *image
