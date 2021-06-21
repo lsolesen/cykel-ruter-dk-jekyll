@@ -1,5 +1,7 @@
 ---
 title: &title "Gearing beregner: Lav en beregning af dit gear på din cykel [Tabel]"
+seo_title: "Gearing beregner: Lav en beregning af dit gear på din cykel"
+description: "Lav en beregning af dit gear på din cykel i vores gearing beregner. Du kan udregne dit geartal og slå det op i vores tabel."
 permalink: /gearing-beregner-cykling/
 language: da
 header:
