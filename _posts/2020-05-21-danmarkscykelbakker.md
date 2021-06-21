@@ -53,13 +53,13 @@ Danske Bjerge er et forunderligt lille site. På sitet kan du finde de hårdeste
 
 [Danskebjerge.dk](http://danskebjerge.dk) har også artikler om, at man ikke ukritisk kan stole på GPS-urets højdeangivelser.
 
-## Danmarks hårdeste cykelbakker fra [VisitVejle](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)
+## Danmarks hårdeste cykelbakker fra [VisitVejle](https://www.visitvejle.dk/vejle/oplevelser/landevejscykling/test-vejles-superruter)
 
 VisitVejle beskriver 16 cykelruter som bringer dig rundt på Vejles kendte stigninger i et yderst kuperet terræn. Du kan læse om ruterne, og du kan downloade GPS-tracks af de forskellige ruter. Ruterne har meget forskellige sværhedsgrader, og der er helt sikkert noget for alle.
 
 > Ruterne er placeret i hele Vejle Kommune. Ud over en VisitVejle superrute på 35 km i og omkring Vejle, har Jelling, Børkop, Give og Egtved fået sin egen superrute. Der er også mere krævende superruter på 230 km (3000 højdemeter), 150 km (2000 højdemeter), 110 km (1500 højdemeter) og 65 km (1000 højdemeter). Med ruternes meget forskellige sværhedsgrader er der noget for alle.
 
---- <cite>[VisitVejle](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)</cite>
+--- <cite>[VisitVejle](https://www.visitvejle.dk/vejle/oplevelser/landevejscykling/test-vejles-superruter)</cite>
 
 <iframe class="alltrails" src="https://www.alltrails.com/widget/list/bakker-i-vejle?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
@@ -69,8 +69,6 @@ Så er det bare at få planlagt din tur. Hvor mange højdemeter kan du få i ben
 
 ## Referencer
 
-- [Climbs.dk](https://www.climbs.dk)
-- [Danmarks hårdeste cykelbakker](https://www.visitvejle.dk/vejle/oplevelser/danmarks-haardeste-cykelbakker)
 - [Danmarks Bjerge af Roger Pihl](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/products/search?query=roger+pihl+bjerge){: rel="sponsored nofollow noopener" }
 
 {% include feature_row type="left" %}

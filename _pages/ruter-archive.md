@@ -59,21 +59,21 @@ feature_row_routes:
     excerpt: "Cykeltur i Nationalpark Vadehavet. Du kan finde et forslag til cykelture igennem Nationalparken med udgangspunkt fra Danhostel Ribe med flere alternative ruter."
     btn_label: "Besøg Danhostel Ribe"
     btn_class: "btn--success"
-  - url: https://www.visitnordjylland.dk/danmark/natur/paa-cykeltur
+  - url: https://www.visitnordjylland.dk/nordjylland/oplevelser/cykelruter-i-nordjylland
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Cykelruter i Nordjylland"
     alt: "Cykelruter i Nordjylland"
     excerpt: "Nordjylland er ideel til en cykelferie eller en dagsudflugt med den tohjulede. Her findes både ruter til en hyggetur, men også til de mere rutinerede kører, der vægter mere udfordrende ruter på strand eller i skoven."
     btn_label: "Besøg VisitNordjylland"
     btn_class: "btn--success"
-  - url: https://www.visitranders.dk/randers/12-cykelruter-i-randers-og-omegn
+  - url: https://www.visitranders.dk/randers/se-og-oplev/aktiviteter/cykelruter-i-randers-og-omegn
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Cykelruter i Randers"
     alt: "Cykelruter i Randers"
     excerpt: "Randers byder på helt unikke naturoplevelser lige ved gadedøren. Gudenåen, Randers Fjord, å og fjordlandskaber omgiver Randers fra Ålum i vest til Kattegat i øst og Mariager Fjord i Nord til Langå i syd. Tag cyklen og drag på tur!"
     btn_label: "Besøg VisitRanders cykelguide"
     btn_class: "btn--success"
-  - url: https://www.silkeborg.com/silkeborg/cykelruter-i-silkeborg-og-omegn
+  - url: https://www.visitsilkeborg.dk/silkeborg/se-og-oplev/cykelruter
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Cykelruter i Silkeborg og Omegn"
     alt: "Cykelruter i Silkeborg og Omegn"
@@ -87,14 +87,14 @@ feature_row_routes:
     excerpt: "Er du til aktiv ferie og smuk natur - velkommen til det smilende Søhøjland, som med sine mange cykelruter indbyder til lange cykelture med imponerende natur og fantastiske oplevelser - for både børn og voksne."
     btn_label: "Besøg VisitSkanderborg"
     btn_class: "btn--success"
-  - url: https://kommune.viborg.dk/Borger/Trafik-og-veje/Planer-for-veje-og-stier/Cykeltrafik/Cykelruter-i-Viborg-kommune
+  - url: https://viborg.dk/oplevelser-og-fritid/ud-i-naturen/aktiviteter-i-naturen/cykelruter/
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Cykelruter i Viborg"
     alt: "Cykelruter i Viborg"
     excerpt: "Stjerneruterne er planlagt af VisitViborg. Disse ruter er forslag til forskellige cykelture i kommunen med start og slut i samme punkt."
     btn_label: "Besøg Viborg Kommune"
     btn_class: "btn--success"
-  - url: https://www.visitmors.dk/danmark/cykelferie-2
+  - url: https://www.visitmors.dk/mors/pakketure-ferieophold/cykelferie
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Cykelferier på Mors"
     alt: "Cykelferier på Mors"
@@ -115,7 +115,7 @@ feature_row_routes:
     excerpt: "Hærvejen har flere hundrede kilometer cykelrute, der løber som en rygrad gennem Jylland. Du får med andre ord mulighed for at opleve hele paletten af de danske landskaber og natur fra nord til syd. Med så mange dejlige kilometer er det svært at bestemme sig!"
     btn_label: "Besøg Hærvejen"
     btn_class: "btn--success"
-  - url: https://www.visitnordjylland.dk/aktivitet/mountainbiking
+  - url: https://www.visitnordjylland.dk/nordjylland/oplevelser/mountainbike-i-nordjylland
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Mountainbike i Nordjylland"
     alt: "Mountainbike i Nordjylland"

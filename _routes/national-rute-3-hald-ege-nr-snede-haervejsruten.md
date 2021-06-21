@@ -1,6 +1,6 @@
 ---
-title: "National Rute 03: Hald Ege - Nr. Snede (Hærvejsruten - Hærvejen på cykel)"
-seo_title: "National Rute 3: Hald Ege - Nr. Snede (Hærvejsruten - Hærvejen på cykel)"
+title: "National Rute 03: Hald Ege - Nr. Snede (delrute af Hærvejsruten)"
+seo_title: "National Rute 3: Hald Ege - Nr. Snede (del af Hærvejsruten)"
 permalink: /rute/national-rute-3-hald-ege-nr-snede-haervejsruten/
 author: lsolesen
 created_at: 2006-07-03T09:48:02+02:00

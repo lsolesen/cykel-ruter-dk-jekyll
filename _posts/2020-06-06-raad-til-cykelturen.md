@@ -123,7 +123,7 @@ Hvis du kører med en tohjulet cykelanhænger skal den have følgende:
 - [ ] To gule reflekser på hver side.
 - [ ] Efter mørkets frembrud skal cykelanhængeren have en rød baglygte midt bagpå eller i venstre side.
 
-Hvis du vil dykke ekstra ned i lovene for cykler, så Her kan du læse mere om [love og regler for cyklister, så har Cyklistforbundet skrevet lidt om det her](http://www.cyklistforbundet.dk/Alt-om-cykling/Love-og-regler).
+Hvis du vil dykke ekstra ned i lovene for cykler, så Her kan du læse mere om [love og regler for cyklister, så har Cyklistforbundet skrevet lidt om det her](https://www.cyklistforbundet.dk/Alt-om-cykling/Love-og-regler).
 
 ## 9) Tjek udstyret til cykelferien
 

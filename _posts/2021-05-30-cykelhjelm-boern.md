@@ -167,7 +167,7 @@ Fribikeshop.dk skriver, at
 
 > Undersøgelser viser, at mange børn er rigtig gode til at bruge hjelm, men fra 10-års alderen begynder det at gå ned ad bakke og færre børn bruger hjelm fra denne alder og opefter. Det vil vi hos Fri BikeShop selvfølgelig gerne være med til at ændre, da vi mener, at en cykelhjelm bør være allemandseje.
 
---- <cite>[Fribikeshop.dk](https://www.fribikeshop.dk/cykelhjelme-til-boern)</cite>
+--- <cite>[Fribikeshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/udstyr/til-dig/cykelhjelme/til-boern){: rel="sponsored nofollow noopener" }</cite>
 
 ## Hvor kan jeg købe cykelhjelme til børn?
 
