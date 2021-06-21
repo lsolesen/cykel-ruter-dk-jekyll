@@ -1,5 +1,5 @@
 ---
-title: "National Rute 01: Vestkyststien fr Rudbøl til Skagen"
+title: "National Rute 01: Vestkyststien fra Rudbøl til Skagen"
 seo_title: "National Cykelrute 1: Vestkyststien fr Rudbøl til Skagen"
 permalink: /rute/national-rute-1-vestkyststien/
 created_at: 2006-07-03T09:48:02+02:00
