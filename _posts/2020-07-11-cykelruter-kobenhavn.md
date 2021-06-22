@@ -24,7 +24,7 @@ bikemaps:
     alt: "Cykelkort Danmark og København"
     excerpt: "Danmarkskortet i 3. udgave er nu med cykelkort på begge sider af kortet. Udover Danmarkskortet i målestok 1:500.000 får man også et cykelkort over Storkøbenhavn i målestok 1:35.000."
     url: "https://www.scanmaps.dk/0251c83?G=020"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - url: https://www.kk.dk/artikel/cykelruter-og-cykelkort

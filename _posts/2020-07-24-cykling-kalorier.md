@@ -20,7 +20,7 @@ watt:
     title: "Garmin Vector 3S"
     excerpt: "Vector 3S er navnet på disse pedaler med Wattmåler fra Garmin, som måler effekten på venstre pedal, samt registrerer kadence og total effekt."
     btn_class: "btn--info"
-    btn_label: "Tjek prisen hos cykelpartner.dk*"
+    btn_label: "Tjek prisen"
 puls:
   - image_path: https://www.proshop.dk/Images/600x800/2800146_4b59fc4eda4b.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146
@@ -28,7 +28,7 @@ puls:
     title: "Garmin fenix 6X Pro Solar"
     excerpt: "Garmin outdoor ur med pulsmåling og solopladning. Et virkelig fedt ur, hvor du også kan have musik på uret."
     btn_class: "btn--info"
-    btn_label: "Tjek prisen hos proshop.dk*"
+    btn_label: "Tjek prisen"
 ---
 
 Her får du svaret på, hvor mange kalorier, du forbrænder ved at cykle? Læs mere om, hvordan du regner din kalorieforbrænding og energiforbrug ved cykling?

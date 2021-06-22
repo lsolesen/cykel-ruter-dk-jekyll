@@ -16,7 +16,7 @@ feature_row:
     alt: "Danske Bjerge"
     excerpt: "_Danmarks bjerge. Fra det laveste til det højeste punkt_ er en utrolig flot og oplysende bog med over 500 farverige fotos. Bogen giver en indsigt i landets 117 bjerge, fra Harehøj på 3 meter til Danmarks højeste punkt, Møllehøj. Hvert bjerg er beskrevet med historiske oplysninger, fakta og lokale anekdoter, som gør bogen hyggelig, underholdende oplysende at læse i."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 ---
@@ -110,7 +110,7 @@ Men derfor kan vi jo godt fortælle, hvad det højeste bjerg er i Danmark ud fra
 
 Det højeste bjerg i Danmark er Møllehøj på 170,86 moh.
 
-Men det mest imponerende udsigtspunkt i Ejer Bjerge, hvor Møllehøj ligger, er naturligvis Ejer Bavnehøj. 
+Men det mest imponerende udsigtspunkt i Ejer Bjerge, hvor Møllehøj ligger, er naturligvis Ejer Bavnehøj.
 
 Du kan læse meget mere om Danmarks Bjerge i Roger Pihls meget underholdende bog om bakkerne og toppene i Danmark. Danmarks Bjerge er skrevet af en nordmand, men han elsker de danske tinder og bjergtoppe.
 

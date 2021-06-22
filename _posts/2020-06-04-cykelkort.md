@@ -22,7 +22,7 @@ feature_row:
     alt: "Cykelkort Danmark og København"
     excerpt: "Danmarkskortet i 3. udgave er nu med cykelkort på begge sider af kortet. Udover Danmarkskortet i målestok 1:500.000 får man også et cykelkort over Storkøbenhavn i målestok 1:35.000."
     url: "https://www.scanmaps.dk/0251c83?G=020"
-    btn_label: "Se cykelkortet*"
+    btn_label: "Se cykelkortet"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 legind:
@@ -124,7 +124,7 @@ bikeline:
     alt: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
     title: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
     excerpt: "Vestkystruten er en del af den internationale cykelrute Eurovelo 12 Nordsøcykelruten. Vestkystruten er i alt 560 km langs Vestkysten, men er altså en del ef en international cykelrute på i alt 5.942 km."
-    btn_label: "Tjek cykelkortet*"
+    btn_label: "Tjek cykelkortet"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251b18.jpg
@@ -132,7 +132,7 @@ bikeline:
     alt: "Kort over Hærvejen - Heerweg/Ochsenweg (von Viborg nach Hamburg)"
     title: "Nationalrute 3: Hærvejsruten. Heerweg/Ochsenweg (von Viborg nach Hamburg)"
     excerpt: "Hærvejen er flere hundrede kilometer vandre- og cykelrute, der løber på langs ned gennem Jylland. Dette cykelkort er virkelig godt og detaljeret, selvom det er på tysk."
-    btn_label: "Se kortet*"
+    btn_label: "Se kortet"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg
@@ -140,7 +140,7 @@ bikeline:
     alt: "Kort over Nationalrute 8. Der Ostsee-Radweg - Dänemark"
     title: "Nationalrute 8: Østersøruten. Der Ostsee-Radweg - Dänemark"
     excerpt: "Kortbogen dækker Nationalrute 8 - Østersøruten. En cykeltur gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. En ting er sikkert, den smukke og varierede natur og det rige kulturlandskab vil gøre din cykelferie langs den danske Østersørute til en uforglemmelig oplevelse."
-    btn_label: "Tjek prisen på kortet*"
+    btn_label: "Tjek prisen på kortet"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0222650_1.jpg
@@ -148,7 +148,7 @@ bikeline:
     alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
     title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
     excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort](https://www.scanmaps.dk/0251d57?G=020){: rel='sponsored nofollow noopener' }."
-    btn_label: "Se mere om kortet*"
+    btn_label: "Se mere om kortet"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 ---
@@ -159,7 +159,7 @@ Hvad er et cykelkort? **Et cykelkort er et speciallavet kort med høj detaljerin
 
 Jeg har prøvet at samle alt, hvad du skal vide om cykelkort, der beskriver [Danmarks cykelruter]({% link _pages/ruter-archive.md %}). Et godt cykelkort er uundværligt, når du planlægger din tur, men også når du er ude på din tur.
 
-Jeg kommer også med nogle fif til, hvordan du finder vej, mens du er på cyklen uden at det er alt for bøvlet. 
+Jeg kommer også med nogle fif til, hvordan du finder vej, mens du er på cyklen uden at det er alt for bøvlet.
 
 Der findes nogle forskellige cykelkort, der dækker Danmark. Der er et kort, der dækker hele Danmark, og så er der nogle regionale cykelkort, der dækker dele af Danmark.
 
@@ -170,13 +170,13 @@ Hvilket cykelkort du har brug for kommer selvfølgelig helt an på, hvad du skal
 
 Når jeg skal afsted på selve turen, så foretrækker jeg de regionale kort, så jeg er mere sikker på, at jeg kan finde de rigtige cykelveje.
 
-## Cykelkort Danmark er et oversigtskort 
+## Cykelkort Danmark er et oversigtskort
 
 Cykelkortet er i målestok 1:500.000, og jeg bruger det hovedsageligt i planlægningsfasen for at få et overblik over det samlede cykelrutenet.
 
 {% include feature_row type="left" %}
 
-Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cykelsti, hvilket er ret vildt. 
+Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cykelsti, hvilket er ret vildt.
 
 > Danmarkskortet indeholder mange oplysninger, der er uundværlige på cykelferie i Danmark. På kortet er indtegnet nationale og regionale cykelruter, vej med cykelsti, vandrerhjem, campingpladser, turistinformationer mm.,og der er indtegnet et Eurovelo kort over de ruter, der går igennem Danmark. Informationer om de danske cykelregler er med. Der er over 160 regionale og 11 nationale ruter på kortet, og af nye ruter kan nævnes Kulturringen (Østjylland) og Vestegnsruten (København).
 >
@@ -195,13 +195,13 @@ Hvis du vil planlægge din tur i detaljer, så synes jeg dog ikke, at oversigtsk
 
 (Det har jeg prøvet en gang, og det blev et rigtig godt eventyr i Polen, men også nogle rigtig lange dage på cyklen, fordi det også er lidt vanskeligere at finde afstandene helt præcist på oversigtskort.)
 
-Så er det bedre at finde et regionalt cykelkort, som har et lidt mindre målestoksforhold. 
- 
+Så er det bedre at finde et regionalt cykelkort, som har et lidt mindre målestoksforhold.
+
 ## Regionale cykelkort fra Danmark
 
 Jeg har fundet to forskellige cykelkortserier, der er udgivet af to forskellige forlag: Legind og Nordisk Korthandel. De har et målestoksforhold på 1:100.000, og de er rigtig gode at have med på turen, så du kan finde vej.
 
-Du kan stadig købe begge serier af regionale cykelkort, men Legind og Cyklistforbundets cykelkortserie genoptrykkes ikke. 
+Du kan stadig købe begge serier af regionale cykelkort, men Legind og Cyklistforbundets cykelkortserie genoptrykkes ikke.
 
 I det følgende kan du læse mine kommentarer til begge cykelkortserier.
 
@@ -209,7 +209,7 @@ I det følgende kan du læse mine kommentarer til begge cykelkortserier.
 
 Nordisk Korthandel laver også holdbare cykelkort, der er trykt på vandafvisende papir. De har udgivet cykelkortserien siden 2016.
 
-Nordisk Korthandels cykelkort opdateres stadig. Kortene fylder lidt mindre end Leginds cykelkort, nemlig 12,5 cm x 17,5 cm. 
+Nordisk Korthandels cykelkort opdateres stadig. Kortene fylder lidt mindre end Leginds cykelkort, nemlig 12,5 cm x 17,5 cm.
 
 Cykelkortet fra Nordisk Korthandel kommer ikke i et hylster, men det har jeg ikke selv savnet. Jeg synes kortet er i rigtig god kvalitet, og jeg har ikke oplevet, at det er gået i stykker, så længe jeg behandler det ordentligt på turen.
 
@@ -243,7 +243,7 @@ Jeg har angivet på listen, hvornår kortet senest er opdateret.
 
 Legind har udgivet 8 regionale cykelkort i 2016 i samarbejde med Cyklistforbundet. Jeg synes godt om disse cykelkort, der leveres i en papæske, og de er relativt robuste at have med på tur. Cykelkortene er udformet meget klassisk og fylder 12,5 cm x 23 cm.
 
-Cykelkortene fra Legind opdateres og genoptrykkes ikke, men du kan stadig købe dem rundt omkring i boghandlerne. Selvom cykelkortene er forholdsvist nye, så kan ulempen med dem være, at cykelruterne sommetider omlægges, men de fleste ruter er heldigvis de samme stadigvæk. 
+Cykelkortene fra Legind opdateres og genoptrykkes ikke, men du kan stadig købe dem rundt omkring i boghandlerne. Selvom cykelkortene er forholdsvist nye, så kan ulempen med dem være, at cykelruterne sommetider omlægges, men de fleste ruter er heldigvis de samme stadigvæk.
 
 Du kan stadig nå at skaffe dig et eksemplar ved boghandlere og webshops. Nedenstående links er reklamelinks til [saxo.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort){: rel="sponsored nofollow noopener" }. Hvis du køber gennem dem, støtter du min side, og det vil jeg blive rigtig glad for. [Tjek alle Saxos cykelkort](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort){: rel="sponsored nofollow noopener" }.
 
@@ -275,7 +275,7 @@ Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan kø
 
 Første gang jeg var på en længere cykelferie, så lavede jeg den fejl, at jeg ikke havde et rigtig godt sted at opbevare kortet, så det samtidig var let tilgængeligt ved de små usikkerheder, man støder på undervejs.
 
-Man bliver hurtig træt af at stoppe hele tiden for at hive kortet frem og tjekke ruten. Man kan få styrtasker, hvor der er en kortlomme øverst. På den måde kan du tjekke kortet undervejs. 
+Man bliver hurtig træt af at stoppe hele tiden for at hive kortet frem og tjekke ruten. Man kan få styrtasker, hvor der er en kortlomme øverst. På den måde kan du tjekke kortet undervejs.
 
 Ofte bliver du imidlertid nødt til at folde kortet på en uhensigtsmæssig måde, hvis du hele tiden vil kunne se ruten lige nu. Hvis jeg har givet mere end 100 kroner for et kort er jeg lidt tilbageholdende med “fejlfoldninger”, så **tager jeg ofte en kopi af hjemmefra**. Så bruger jeg kopien som det let tilgængelige kort.
 
@@ -291,7 +291,7 @@ Jeg kan godt lide at planlægge min rute ved at kigge på et cykelkort, hvor jeg
 
 Jeg bruger selv Garmin Connect. Når jeg har tegnet ruten ind, så kan jeg for det første se, hvor lang selve ruten er, og hvor kuperet den er. Men det allersmarteste er, at jeg kan lægge ruten ind på mit ur.
 
-Når jeg så cykler afsted, så behøver jeg ikke stoppe op hele tiden for at kigge på kortet. Mit ur fortæller mig hele tiden om jeg er på ruten. Jeg har et Garmin Fenix 3, så det er en ældre model. Og funktionen er ikke super avanceret. 
+Når jeg så cykler afsted, så behøver jeg ikke stoppe op hele tiden for at kigge på kortet. Mit ur fortæller mig hele tiden om jeg er på ruten. Jeg har et Garmin Fenix 3, så det er en ældre model. Og funktionen er ikke super avanceret.
 
 Jeg har ganske enkelt en grøn rute på uret, og når jeg cykler afsted, så bliver min tilbagelagte rute tegnet op med sort. På den måde kan jeg se, om jeg følger ruten.
 
