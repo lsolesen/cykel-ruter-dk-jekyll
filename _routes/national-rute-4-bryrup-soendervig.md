@@ -46,7 +46,6 @@ På vejen til Ringkøbing Fjord krydser vi Skjern Å, hvis svingninger i 2003 en
 ## Links
 
 - [Søby-området og brunkulsudgravninger](http://www.dof-ringkobingamt.dk/lokaliteter/lok657050.asp?n=1)
-- [Skjern Å - Danmarks største naturgenopretningsprojekt](http://www.skovognatur.dk/Emne/Naturbeskyttelse/Naturpleje/Naturprojekter/SkjernAa/)
 - [Veteranbanen mellem Bryrup og Vrads](http://www.veteranbanen.dk/)
 
 ## Seværdigheder

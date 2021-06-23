@@ -62,7 +62,6 @@ Vejen forbi Alling Sø er flot, og på den anden side af søen ligger ensomt på
 ## Links
 
 - [Om Grathe Hede](http://www.faaborg-nielsen.dk/Grathehede.html)
-- [Turbeskrivelse på Grathe Hede-ruten](http://tm.ringamt.dk/cykelvandre/rute49/turbeskrivelse.htm)
 
 ## Kort over Grathe Hede-cykelruten
 

@@ -40,10 +40,6 @@ I Hornslet er herregården Rosenholm bestemt et besøg værd. Læs evt mere hero
 
 Fra Hornslet passerer vi en stigning over den markante bakke nord for Kalø Vig, hvorfra der er fin udsigt over såvel land som vand, før det igen går nedad mod rutens slutning ved herregården Vosnæsgård.
 
-## Noter
-
-- [Kare](http://www.aaa.dk/aaa/landsbyerdk.pdf)
-
 ## Seværdigheder langs regionale cykelrute 3
 
 - Mellerup-Voer Færge

@@ -194,7 +194,7 @@ Hvis du har lyst til at støtte dette site, så kan du overveje at købe hos en 
 
 Tjek fx prisen på wattmålere hos [Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/search/?query=wattm%C3%A5ler){: rel="sponsored nofollow noopener" }. I forhold til hvad man får ud af det, hvis du træner seriøst, så synes jeg ikke, at de er så dyre. Hvis du bare nyder at cykle på dagsture og cykelferier, så har du ikke brug for en wattmåler.
 
-Jeg er selv utrolig glad for mit [Garmin Fenix](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146){: rel="sponsored nofollow noopener" }, som du kan tjekke priserne på hos [Proshop.dk](https://www.proshop.dk/?s=garmin+fenix){: rel="sponsored nofollow noopener" }. De lidt ældre modeller er ikke så dyre.
+Jeg er selv utrolig glad for mit [Garmin Fenix](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146){: rel="sponsored nofollow noopener" }, som du kan tjekke priserne på hos [Proshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67785&htmlurl=){: rel="sponsored nofollow noopener" }. De lidt ældre modeller er ikke så dyre.
 
 {% include feature_row type="left" id="watt" %}
 
