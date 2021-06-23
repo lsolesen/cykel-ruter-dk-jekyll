@@ -24,11 +24,13 @@ author: dina
 related: "Danhostel Vejle"
 ---
 
-## Varieret natur og Vejle By
-
 **En rute gennem de bakkede landskaber nordvest for Vejle. I oplever Grejs Ådals grønne, skovrige omgivelser og føres forbi bølgede kornmarker gennem en række forskellige landsbyer til et mindre hedeområde ved Bjerlev og videre til den åbne Fårup sø. Ruten kører også forbi et meget vigtigt stykke Danmarkshistorie i Jelling, hvor man kan se Danmarks måske mest berømte sten - de to runesten fra vikingetiden, som bevidner overgangen fra hedensk vikingetid til kristen middelalder. Der er desuden rig mulighed for at stoppe ind i Vejle by.**
 
-Ruten fører os langs den gamle Bindeballe cykelsti ind til Vejle by. Det første stykke kører vi tæt på en af de større indfaldsveje til Vejle by, men cykelstien er dog godt afgrænset med træer og buske. Ind i mellem har vi dog på stiens sydside udsigt til den ene ende af det store vådområde Kongens Kær. Snart dukker de første smukke huse op på ådalens skråninger, og [Bindeballestien]({% link _routes/regional-rute-36-bindeballestien.md %}) drejer en anelse nordom ind på villavejene, der leder os ind mod Vejle centrum.
+## Varieret natur og Vejle By
+
+Ruten fører os langs den gamle Bindeballe cykelsti ind til Vejle by. Det første stykke kører vi tæt på en af de større indfaldsveje til Vejle by, men cykelstien er dog godt afgrænset med træer og buske.
+
+Ind i mellem har vi dog på stiens sydside udsigt til den ene ende af det store vådområde Kongens Kær. Snart dukker de første smukke huse op på ådalens skråninger, og [Bindeballestien]({% link _routes/regional-rute-36-bindeballestien.md %}) drejer en anelse nordom ind på villavejene, der leder os ind mod Vejle centrum.
 
 I Vejle kan vi trække cyklen i gågaden, hvor butikkernes lokkende tilbud forsøger at tage opmærksomheden fra de smukke, gamle bygninger og udsigten ned ad Søndergade mod den gamle mølle på toppen af bakken. Vi kan også kigge ind i det gratis, interaktive videnscenter Økolariet. Eller slå et smut forbi havnen og det eksklusive, arkitektoniske boligprojekt ”Bølgen”, der spejder fra fjordens udspring.
  
