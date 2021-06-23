@@ -1,6 +1,7 @@
 ---
 title: &title "Bryrupbanestien: Regional cykelrute 31: Horsens - Silkeborg"
 seo_title: "Bryrupbanestien: Naturstien på cykel fra Horsens - Silkeborg"
+description: "Bryrupbanestien og regional cykelrute 31 går fra Horsens til Silkeborg. Naturstien følger en nedlagt jernbane og er perfekt til en cykeltur. Fri for biler og ..."
 permalink: /rute/regional-rute-31-bryrupbanestien/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-13T09:48:02+02:00

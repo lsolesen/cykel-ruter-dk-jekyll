@@ -86,7 +86,7 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 - National cykelrute 10, Bornholm Rundt – der følger kyststækningen hele øen rundt
 - National cykelrute 12, Limfjordsruten – der følger Limfjordens syd- og nordlige bredder fra Hals i Øst til Thyborøn i vest
 
-## Oversigt over de nationale cykelruter
+## Oversigt over de danske nationalruter
 
 | | Navn	| Længde	| Asfalt % | Kommentar |
 |-|-|-|-|-|
@@ -104,7 +104,7 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 ## Rutebeskrivelser af de nationale cykelruter
 
-Vi har beskrevet nogle af de nationale cykelruter her:
+Vi har beskrevet nogle af nationalruterne her:
 
 {% assign site_posts = site.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "title" %}
 
@@ -130,15 +130,15 @@ Vi har beskrevet nogle af de nationale cykelruter her:
 
 ## Kort over de nationale cykelruter
 
-Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de nationale cykelruter. Du kan få et overblik over de [nationale cykelruter på Vejdirektoratets side](https://www.vejdirektoratet.dk/faq-svar/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter).
+Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de nationale cykelruter. Du kan få et overblik over nationalruterne på [Vejdirektoratets side](https://www.vejdirektoratet.dk/faq-svar/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter).
 
 Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor man kan blive i tvivl.
 
-Hvilket cykelkort du skal bruge til de nationale cykelruter afhænger naturligvis af, hvilken rute du gerne vil cykle.
+Hvilket cykelkort du skal bruge til de nationale ruter afhænger naturligvis af, hvilken rute du gerne vil cykle.
 
 Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020){: rel="sponsored nofollow noopener" }, hvor et par af kortene dækker udvalgte danske nationale cykelruter.
 
-Bikelines kort dækker fire af de 11 nationale cykelruter. Kortbøgerne sælges fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" } og dækker Nationalrute 1 Vestkystruten, Nationalrute 3: Hærvejsruten, Nationalrute 8: Østersøruten og i nogen udstrækning Nationalrute 9: Helsingør-Gedser.
+Bikelines kort dækker fire af de 11 nationalruter. Kortbøgerne sælges fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" } og dækker Nationalrute 1 Vestkystruten, Nationalrute 3: Hærvejsruten, Nationalrute 8: Østersøruten og i nogen udstrækning Nationalrute 9: Helsingør-Gedser.
 
 {% include feature_row type="left" id="gallery" caption="Link er reklamelinks" %}
 
@@ -150,7 +150,7 @@ Bikelines kort dækker fire af de 11 nationale cykelruter. Kortbøgerne sælges 
 
 Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til de bedste cykelkort over Danmark](/cykelkort/).
 
-## Læs mere om de nationale cykelruter hos Vejdirektoratet
+## Læs mere nationalruterne hos Vejdirektoratet
 
 {% include feature_row type="left" %}
 
@@ -158,7 +158,7 @@ Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til d
 
 Det er faktisk ikke så let at finde nogle steder, hvor du kan downloade de nationale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
 
-Du kan finde de nationale cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem. De nationale cykelruter ligger også på [Vejdirektoratets hjemmeside](https://trafikkort.vejdirektoratet.dk/index.html?usertype=3), men herfra har du heller ikke mulighed for at downloade dem.
+Du kan finde de landsdækkende cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem. De nationale cykelruter ligger også på [Vejdirektoratets hjemmeside](https://trafikkort.vejdirektoratet.dk/index.html?usertype=3), men herfra har du heller ikke mulighed for at downloade dem.
 
 Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade ruterne fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise.
 

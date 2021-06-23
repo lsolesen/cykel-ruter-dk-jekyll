@@ -20,6 +20,14 @@ scanmaps:
     alt: "Cykelkort #8 Bornholm"
     title: "#8 Bornholm"
     rel: sponsored nofollow noopener
+feature_row:
+  - url: https://bornholm.info/mit-bornholm-paa-cykel/
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    title: "Cykelruter og cykelferie på Bornholm"
+    alt: "Cykelruter og cykelferie på Bornholm"
+    excerpt: "Bornholm har rigtig mange gode cykelruter. Og hvis du vil opleve lidt Tour de France fornemmelse, så er der et godt net af cykelveje for familien på cykelferie. Rundt omkring på øen findes en række ekstraordinært gode steder at køre MTB, Bornholm er det bedste MTB i Danmark, vil jeg mene."
+    btn_label: "Besøg Bornholm.info"
+    btn_class: "btn--success"
 ---
 
 Du kan finde nogle helt utrolig smukke cykelruter på Bornholm. De fleste af cykelruterne er i sikker afstand biler og trafik, de er afvekslende, og der er ikke så lang afstand mellem rigtig gode oaser, som du kan nyde på cykeltur på Bornholm.
@@ -64,7 +72,7 @@ Denne rute går gennem Bornholms største skov, Almindingen. Turen går fra Røn
 
 ### Cykelrute – Rønne-Almindingen-Aarsdale
 
-Du kommer til at opleve den bornholmske natur - og du kan dykke ned i historien for klippeøen. 
+Du kommer til at opleve den bornholmske natur - og du kan dykke ned i historien for klippeøen.
 Turen fører dig fra Rønne til Danmarks femtestørste skov Almindingen. Derefter cykler du videre til fiskerlejet Aarsdale, som ligger på Bornholms østkyst. Cykelturen er på ca. 36 km.
 
 ### Cykelrute Allinge-Almindingen-Aakirkeby
@@ -116,6 +124,10 @@ Her er en liste over nogle af de gode banestier på Bornholm.
 De fleste af disse jernbanestier er relativt kort. Men prøv at få dem som en del af din tur på Bornholm. Det er virkelig dejligt og afslappende at køre på banestier på Bornholm.
 
 Jeg har skrevet en mere udførlig artikel om [banestier i Danmark her]({% link _posts/2021-06-19-banestier.md %}).
+
+## Se flere ruter på Bornholm
+
+{% include feature_row type="left" %}
 
 ## Cykelkort Bornholm
 

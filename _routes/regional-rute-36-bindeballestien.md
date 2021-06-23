@@ -51,7 +51,7 @@ gallery:
 
 **{{ page.excerpt }}**
 
-**Bindeballestien** er en attraktiv, børnevenlig cykelrute og vandrerute gennem den naturskønne Vejle Ådal. Bindeballestien går fra Vejle til Billund.
+**Bindeballestien** er en attraktiv, børnevenlig cykelrute og vandrerute gennem den naturskønne Vejle Ådal.
 
 Strækningen fra Vejle til Bindeballe følger den gamle Vandelbanes spor gennem landskabet. Derfor er den næsten flad, og langt hovedparten af ruten er bilfri zone. Ruten er skiltet som regional cykelrute nr. 36 og går fra Vejle til Bindeballe og videre til Billund.
 
@@ -69,11 +69,11 @@ I Vork Bakker får du næsten fornemmelsen af at være i et alpeagtigt naturomr�
 
 Vingsted har et flot rekreativt område. Her kan du finde en undervandskasse, hvor du kan studere livet i åen. Vingsted Sø er en af landets spændende våbenoffermoser fra jernalderen. Du kan også slå et smut forbi det nærliggende jernaldermiljø, hvor man har rekonstrueret jernaldergårde.
 
-Ved Ravning Station kan du læse mere om den spændende historie om Harald Blåtands Bro over Vejle Ådal, og du kan få en fornemmelse for, hvor broen lå, og hvordan den var konstrueret. 
+Ved Ravning Station kan du læse mere om den spændende historie om Harald Blåtands Bro over Vejle Ådal, og du kan få en fornemmelse for, hvor broen lå, og hvordan den var konstrueret.
 
 Du må ikke gå glip af de store landskabsskulpturer i træ, sten og metal skabt af billedhuggerne Robert Jacobsen og Jean Clareboudt, som du kører forbi ved Tørskind Grusgrav. Du skal særligt gå op bagi grusgraven, hvor der er en enestående og dragende udsigt.
 
-Når du passerer Runkenbjerg, som er en lang smal bakkekam, så skal du nyde den helt fantastiske udsigt over landskabet. 
+Når du passerer Runkenbjerg, som er en lang smal bakkekam, så skal du nyde den helt fantastiske udsigt over landskabet.
 
 Bindeballe Station og Bindeballe Købmandsgård er bygget i forbindelse med Vandelbanens (1897-1957) oprettelse. Købmandsgården fungerer stadig som indkøbssted og museumskøbmandshandel, og du kan leje hytter.
 
@@ -93,11 +93,11 @@ Bindeballestien er 36 km lang. Ruten følger den gamle Vandelbane gennem landska
 
 ## Er Bindeballestien asfalteret?
 
-Du skal køre både på grusvej og asfalteret cykelsti, hvis du vælger at køre på Bindeballestien. Hele stien er let fremkommelig og passagerne med grus er stadig fine cykelveje. Bindeballestien er asfalteret fra Vejle til Ravningbroen og igen fra Frederikshåb Plantage i lange strækninger mod Billund.
+Du skal køre både på grusvej og asfalteret cykelsti, hvis du vælger at køre på Bindeballestien. Hele stien er let fremkommelig og passagerne med grus er stadig fine cykelveje. Regional rute 36 er asfalteret fra Vejle til Ravningbroen og igen fra Frederikshåb Plantage i lange strækninger mod Billund. Ruten er skiltet hele vejen.
 
 ## Overnatning på Bindeballestien?
 
-Der er flere muligheder for overnatning på Bindeballestien. Du kan bo både primitivt eller komfortabelt. 
+Der er flere muligheder for overnatning langs ruten. Du kan bo både primitivt eller komfortabelt.
 
 Bindeballe Købmandsgård, der ligger cirka midtvejs på ruten, udlejer campinghytter - og ved Lihmskov kan du finde et Bed & Breakfast. I Skibet er der også et hostel, som du kan bo på.
 
@@ -107,13 +107,13 @@ Ved Kvak Mølle, Vingsted, Ravningbroen, Bindeballe Station og Kirstinelyst er s
 
 ## Hvordan er det at vandre på Bindeballestien?
 
-Du kan se i nedenstående virkelig velproducerede video, hvordan det er at vandre langs Bindeballestien.
+Du kan se i nedenstående virkelig velproducerede video, hvordan det er at vandre langs ruten.
 
 {% include video provider="youtube" id="gCK-LEv1ICs" %}
 
 ## Folder over Bindeballestien
 
-Du kan downloade en [PDF-folder over Bindeballestien](http://www.okolariet.dk/media/345467/bindeballeinfotavle_juni_2016_1_lav.pdf). Du kan også hente en folder fx på Økolariet i Vejle over banestien.
+Du kan downloade en [PDF-folder](http://www.okolariet.dk/media/345467/bindeballeinfotavle_juni_2016_1_lav.pdf) over Bindeballestien. Du kan også hente en folder fx på Økolariet i Vejle over banestien.
 
 ## Kort over Bindeballestien
 

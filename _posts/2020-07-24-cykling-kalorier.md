@@ -53,7 +53,7 @@ Energiforbruget afhænger af forskellige faktorer:
 
 I de følgende beregninger for udendørs cykling taler vi hovedsageligt om hastigheden, men det er en relativt grov generalisering.
 
-{% include figure image_path="https://images.unsplash.com/photo-1499871435582-a1d4ff236842?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" caption="Desto hurtigere og desto længere, du cykler, desto flere kalorier forbrænder du. Vindmodstanden betyder naturligvis en del, så hvis du ligger i læ i et felt, så er energiforbruget mindre." alt="Hvor mange kalorier man forbrænder afhænger af intensiteten og varigheden" %}
+{% include figure image_path="https://images.unsplash.com/photo-1499871435582-a1d4ff236842?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" caption="Desto hurtigere og desto længere, du cykler, desto flere kalorier forbrænder du. Vindmodstanden betyder naturligvis en del, så hvis du ligger i læ i et felt, så er energiforbruget mindre." alt="vindmodstand og kalorieforbrænding på cykel" %}
 
 ## Hvordan kan jeg gøre kalorieberegningen endnu mere præcis?
 
@@ -110,7 +110,7 @@ Hvis du er interesseret i at vide mere om kroppens tilpasninger til fx kondition
 
 *[ATP]: Adenosine Triphosphate
 
-## Hvor mange kalorier forbrænder man ved at cykle en kilometer?
+## Hvor mange forbrænder man ved at cykle en kilometer?
 
 [Nogle](http://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) foreslår, at det giver mest mening at udregne kalorieforbruget pr. kilometer frem for pr. minut, men det passer ikke!
 

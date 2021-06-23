@@ -14,6 +14,14 @@ tags:
 category:
   - Cykelruter
 last_modified_at: 2021-06-18T12:21:26Z
+feature_row:
+  - url: https://www.visitfyn.dk/fyn/cycling-holiday/cykelferie/bike-island-ruten-og-ostersoruten-forer-dig-fyn-og-ohavet-rundt
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    title: "Cykelruter på Fyn"
+    alt: "Cykelruter på Fyn"
+    excerpt: "Bike Island ruten og Østersøruten er oplagte at navigere efter, når du vil opleve Fyn og Øhavets på to hjul. En cykelferie på Fyn og Øerne fører dig både rundt til små hyggelige byer, smukke landskaber, kystnære strækninger og lavvandede badestrande."
+    btn_label: "Besøg VisitFyn"
+    btn_class: "btn--success"
 cykelguide:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
     url: https://www.scanmaps.dk/0251f94?G=020
@@ -44,7 +52,7 @@ Der er ikke så mange bakker på Fyn, og der er gjort rigtig meget ud af at få 
 Ruterne er lange, men heldigvis behøver man jo ikke at køre hele ruten på en gang.
 
 Lad os dykke ned i nogle af de fabelagtige cykelruter på Fyn.
- 
+
 ## Cykelruten: Fyn rundt
 
 [Climbs](http://www.climbs.dk/officielle_cykelruter_fyn.htm) foreslår, at man skal opleve Fyn Rundt på cykel.
@@ -98,6 +106,10 @@ Her er en liste over de regionale cykelruter på Fyn. Hvis du har lyst til at be
 | 71 Frøbjerg Bakker - Emtekjær |  | 21  |
 | 75 Assens - Odense            |  | 49  |
 | 79 Ørbæk - Langesø            |  | 116 |
+
+## Mere inspiration
+
+{% include feature_row type="left" %}
 
 ## Cykelkort Fyn
 
