@@ -19,7 +19,7 @@ feature_row:
     alt: "Danske Bjerge"
     excerpt: "_Danmarks bjerge. Fra det laveste til det højeste punkt_ er en utrolig flot og oplysende bog med over 500 farverige fotos. Bogen giver en indsigt i landets 117 bjerge, fra Harehøj på 3 meter til Danmarks højeste punkt, Møllehøj. Hvert bjerg er beskrevet med historiske oplysninger, fakta og lokale anekdoter, som gør bogen hyggelig, underholdende oplysende at læse i."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--inverse"
     rel: sponsored nofollow noopener
 ---
@@ -44,7 +44,7 @@ Cykelhandlerne er heldigvis begyndt at have en del letvægtscykler til børn, so
 
 For nylig havde vi taget alle cyklerne med i sommerhus ved Blåvand. Vi kørte flere gange til stranden, som lå omkring 3-4 fire kilometer væk. Nogle af dagene løb jeg frem og tilbage, mens jeg havde en 4-årig på cykel.
 
-Ned mod stranden kørte vi primært nedad med en lille hældning, mens det hjemad gik en lille smule opad. Jeg lagde ikke mærke til, at hældningen var forskellig før jeg kunne se den 4-årige havde meget større problemer med at komme hjem igen. 
+Ned mod stranden kørte vi primært nedad med en lille hældning, mens det hjemad gik en lille smule opad. Jeg lagde ikke mærke til, at hældningen var forskellig før jeg kunne se den 4-årige havde meget større problemer med at komme hjem igen.
 
 Hun var selvfølgelig lidt trættere på vej hjem, men det var tydeligt at det var svært at træde cyklen, så snart der er en lille stigning. Hun kører hurtigt over mindre stigninger (hun har lige lært at stå op på cyklen), men når stigningerne er længere “får hun ondt i benene” (et omskrivning af at hun bliver træt i benene).
 
@@ -62,13 +62,13 @@ Det svarer meget godt til, hvad andre siger om hvor langt børn kan cykle.
 
 ## Ruten betyder meget for hvor langt de kan cykle
 
-Så snart der er den mindste bakke oplever, oplever jeg hurtigt, at pigerne kan have en tendens til at “give lidt op” og sige, at det er virkelig hårdt. 
+Så snart der er den mindste bakke oplever, oplever jeg hurtigt, at pigerne kan have en tendens til at “give lidt op” og sige, at det er virkelig hårdt.
 
-Men jo flere gange vi har været ude at cykle, og de pludselig finder ud af, at de godt kan komme op ad bakkerne, så vokser deres stolthed stille og roligt. 
+Men jo flere gange vi har været ude at cykle, og de pludselig finder ud af, at de godt kan komme op ad bakkerne, så vokser deres stolthed stille og roligt.
 
 Sommetider har jeg taget en løbetur og spurgt om de vil med. På turen har vi så skullet forcere nogle bakker, hvor jeg har kunnet give dem en hjælpende hånd op ad bakken. Og pludselig vil de selv gerne cykle op ad bakken uden hjælp, hvilket jeg synes er virkelig sejt.
 
-## Formålet med turen betyder også noget for længden 
+## Formålet med turen betyder også noget for længden
 
 Vi har lavet nogle rigtig fine ture, da pigerne var 6 år også, hvor vi har kørt 15 kilometer ud af en rigtig børnevenlig cykelrute. Det fungerer særlig godt, når man tænker over de små hyggelige stunder undervejs.
 

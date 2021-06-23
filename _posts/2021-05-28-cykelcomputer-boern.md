@@ -17,14 +17,14 @@ feature_row_sigma:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/sigma-pure-1-ats---traadloes-cykelcomputer---trendline
     title: "Sigma Pure 1 Topline"
     excerpt: "Sigma Pure 1 Topline 2016 ATS er en trådløs cykelcomputer med 6 funktioner, som kan give dig forskellige informationer om dine cykelture. Hvis du interesserer dig for, hvor hurtigt du kører, eller hvor langt du har kørt en given dag, eller hvor langt du kører på en hel uge eller et år, er denne enhed skræddersyet til dig."
-    btn_label: "Køb cykelcomputer hos cykelpartner.dk*"
+    btn_label: "Køb her"
     btn_class: "btn--warning"
 feature_row_atredo:
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/3c41e067-55d1-4181-8b1b-9d135c39b094/AT7518110_B_default.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/atredo---m10--cykelcomputer-med-10-funktioner---traadloes---sort
     title: "Atredo M10 cykelcomputer"
     excerpt: "Denne Atredo M10 cykelcomputer er nem at betjene og hurtig at tage i brug. Den giver dig mulighed for at skifte imellem lille display med mange informationer eller stort display med færre oplysninger."
-    btn_label: "Køb cykelcomputer hos cykelpartner.dk*"
+    btn_label: "Køb cykelcomputer"
     btn_class: "btn--warning"
 ---
 

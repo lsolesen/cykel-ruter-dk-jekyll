@@ -12,7 +12,7 @@ feature_row:
     title: "Den store Bog om Cykelture i Danmark"
     excerpt: "Cykelture i Danmark er en praktisk guide til spændende cykelture i hele landet. Bogen gennemgår de bedste cykelture, fordelt på alle landsdele og med beskrivelser af, hvad man ser undervejs. Der er både cykelture for hele familien og lidt mere udfordrende ture for cykelentusiasten."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/den-store-bog-om-cykelture-i-danmark_helle-midtgaardjesper-poerksen_indbundet_9788771555714"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788717044654/0x500
@@ -20,7 +20,7 @@ feature_row:
     title: "Cykelreparation"
     excerpt: "Cykelreparation dækker alt lige fra lapninger og daglig vedligeholdelse til avancerede teknikker til hjulopretning og justering af gear eller bremser på din mountainbike."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788755912908/0x500
@@ -28,7 +28,7 @@ feature_row:
     alt: "Danske Bjerge"
     excerpt: "_Danmarks bjerge. Fra det laveste til det højeste punkt_ er en utrolig flot og oplysende bog med over 500 farverige fotos. Bogen giver en indsigt i landets 117 bjerge, fra Harehøj på 3 meter til Danmarks højeste punkt, Møllehøj. Hvert bjerg er beskrevet med historiske oplysninger, fakta og lokale anekdoter, som gør bogen hyggelig, underholdende oplysende at læse i."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 gallery_maps:
@@ -95,7 +95,7 @@ feature_row_gps:
     title: "Garmin Vector 3S"
     excerpt: "Vector 3S er navnet på disse pedaler med Wattmåler fra Garmin, som måler effekten på venstre pedal, samt registrerer kadence og total effekt."
     btn_class: "btn--info"
-    btn_label: "Tjek prisen hos cykelpartner.dk*"
+    btn_label: "Tjek prisen"
     rel: sponsored nofollow noopener
   - image_path: https://www.proshop.dk/Images/600x800/2800146_4b59fc4eda4b.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146
@@ -103,7 +103,7 @@ feature_row_gps:
     title: "Garmin fenix 6X Pro Solar"
     excerpt: "Garmin outdoor ur med pulsmåling og solopladning. Et virkelig fedt ur, hvor du også kan have musik på uret."
     btn_class: "btn--info"
-    btn_label: "Tjek prisen hos proshop.dk*"
+    btn_label: "Tjek prisen"
     rel: sponsored nofollow noopener
 feature_row_food:
   - image_path: https://www.outmore.dk/img/shopid/7/varer/300/trangia-stormkok-25-5ul-m-gasbr-7315081472558-50-1255.jpg
@@ -111,7 +111,7 @@ feature_row_food:
     title: "Trangia Stormkøkken"
     excerpt: "Trangia med gasbrænder er genialt til at lave mad på, når du er på farten."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/trangia-stormkok-25-5ul-m-gasbr"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/01f430a0-545d-4ed9-8489-3b282d6cb461/832265_A_default.jpg
@@ -119,7 +119,7 @@ feature_row_food:
     title: "Leatherman Signal - Multitool"
     excerpt: "Leathermans Signal er muligvis det ultimative multitool til outdoor-brug. Her er alle de værktøjer du kan få brug for, og de er alle i absolut topkvalitet. Du kan bl.a. save, skære, file, rive og skrue dig ud af en nødsituation. F.eks er multiværktøjets mombiblad med bølgeskær godt til at skære liner og snører."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/multitools/leatherman-signal---multitool---19-funktioner---sortrustfri"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://www.outmore.dk/img/shopid/7/varer/300/kupilka-spork-225-6430014977021-6430014977021-3002002k.jpg
@@ -127,7 +127,7 @@ feature_row_food:
     title: "Kuplika Spork 225"
     excerpt: "Praktisk og ekstra lang spork i et flot design, inspireret af klassisk snitteteknik og et lækkert, miljøvenligt materiale. Det eneste stykke bestik, du behøver på tur."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=52894&htmlurl=https://www.friluftsland.dk/product/view/39211"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://www.outmore.dk/img/shopid/7/varer/600/trangia-multidisc-27-7315086027098-50-5010.jpg
@@ -135,7 +135,7 @@ feature_row_food:
     title: "Trangia Multidisc"
     excerpt: "Genialt tilbehør til Trangia Stormkøkkenet, hvor du kan si vand fra, bruge det som spækbræt, tallerken eller bare som et ekstra låg."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/trangia-multidisc-27"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://www.outmore.dk/img/shopid/7/varer/600/bag-again-original-frugt-og-groentsagspose-l-38-x-30-cm-8719326077444-euba5005-8283-01.jpg
@@ -143,7 +143,7 @@ feature_row_food:
     title: "Bag-again original frugt- og grøntsagspose"
     excerpt: "Med denne frugt og grøntsags pose får du et stærkt net som er velegnet til at tage med, når du køber frugt og grønt. På den måde er du med til at spare miljøet for engangs plastikposer og du gør emballagefri shopping nemmere."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/bag-again-original-frugt-og-groentsagspose-l-38-x-30-cm"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 feature_row_transport:
@@ -152,7 +152,7 @@ feature_row_transport:
     title: "Thule Velocompact 3"
     excerpt: "Genial cykelholder Velocompact 3 fra Thule er til transport af 3 cykler. (Kan udvides til 4 cykler). Holderen er til montering på anhængertræk og passer til alle cykler."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=68828&htmlurl=https://www.danskautoudstyr.dk/shop/18-transportudstyr/832-thule-velocompact---cykelholder-til-3-cykler---13-polet/"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - image_path: https://www.fotoagent.dk/single_picture/10678/138/mega/532000_main_sized_900x600(2).jpg
@@ -160,7 +160,7 @@ feature_row_transport:
     title: "Thule Freeride 532 - Cykelholder til tagmontering"
     excerpt: "Thule Freeride 532 er en cykelholder til tagmontering. Holderen har plads til en enkelt cykel. Virkelig let at bruge."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59734&htmlurl=https://www.cykler.dk/thule-freeride-532.aspx"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 feature_row_bags:
@@ -169,7 +169,7 @@ feature_row_bags:
     title: "Ortlieb - Bike-Packer plus"
     excerpt: "Ortlieb Bike-Packer Plus er med en kapacitet på hele 42 liter, det ideelle sæt tasker til cykelferien og længere turer. Cykeltaskerne er fremstillet i det slidstærke condura, der udover at sikre taskerne en uovertruffen holdbarhed, samtidig også sørger for at taskerne er støv- og vandtætte."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-til-bag/ortlieb---bike-packer-plus---blaa-2-x-21-liter"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 ---
