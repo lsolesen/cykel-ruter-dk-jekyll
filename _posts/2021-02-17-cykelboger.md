@@ -10,6 +10,7 @@ tags:
   - inspiration
   - bøger
   - cykelbøger
+  - featured
 category:
   - Inspiration
 last_modified_at: 2021-02-17T18:21:26Z

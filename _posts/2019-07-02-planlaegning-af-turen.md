@@ -17,6 +17,7 @@ toc: true
 tags:
   - cykelferie
   - gode råd
+  - featured
 gallery:
   - image_path: https://imgcdn.saxo.com/_9788771552980/0x500
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980

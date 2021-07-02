@@ -6,6 +6,7 @@ description: "Jeg har samlet nogle rigtig gode cykelkort over Danmark, der er de
 tags:
   - cykelkort
   - cykelguide
+  - featured
 last_modified_at: 2021-04-24T08:45:01Z
 header:
   overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80

@@ -143,7 +143,7 @@ author_profile: true
 author: lsolesen
 ---
 
-Her har vi samlet en række cykelruter i Danmark. I denne oversigt over  cykelture og cykelstier kan du finde de mange skiltede nationale og regionale cykelruter.
+Her har vi samlet en række cykelruter i Danmark. I denne oversigt over cykelture og cykelstier kan du finde de mange skiltede nationale og regionale cykelruter.
 
 Du kan bruge vores oversigt til at danne dig et overblik over de danske cykelruter og [planlægge din næste cykeltur og cykelferie]({% link _posts/2019-07-02-planlaegning-af-turen.md %}).
 
