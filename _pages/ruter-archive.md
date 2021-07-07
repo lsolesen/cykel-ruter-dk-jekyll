@@ -154,17 +154,27 @@ Hvis du har mod på at beskrive ruter og dele dem med resten af Danmark, så kon
 
 ## 12.000 km skiltede cykelruter i Danmark
 
-I Danmark findes der tusindvis af skiltede og kortlagte nationale og regionale cykelruter. I alt findes der i Danmark 12.000 km cykelruter.
+I Danmark findes der tusindvis af skiltede og kortlagte nationale og regionale cykelruter. I alt findes der i Danmark mere end 12.000 km cykelruter.
 
 Jeg har selv skrevet en oversigt over [cykelruter i Østjylland]({% link _pages/cykelguide-oestjylland.md %}), [cykelruter i Vestjylland]({% link _pages/cykelguide-oestjylland.md %}) og [cykelture i Vejle]({% link _pages/cykelguide-visitvejle.md %}), så jeg har cyklet på store dele af det danske cykelvejnet.
 
-Vi har her samlet beskrivelser af af [nationale cykelruter]({% link _pages/nationale-cykelruter.md %}), [regionale cykelruter]({% link _pages/regionale-cykelruter.md %}).
+## De danske nationalruter
+
+I Danmark findes der et unikt netværk af 11 nationale cykelruter på hele 4.233 km cykelvenlige ruter. De nationale cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Vi beskriver her de danske nationalruter, og hvordan du finder kort til cykelruterne.
+
+[Læs mere om de nationale cykelruter]({% link _pages/nationale-cykelruter.md %})
+
+## Regionale ruter og regionalruter
+
+I Danmark findes der et stort netværk af afmærkede regionale cykelruter og cykelstier. De regionale cykelstier forbinder alle dele af en region på tværs af kommuner.
+
+[Læs mere om de regionale cykelruter]({% link _pages/regionale-cykelruter.md %})
 
 ## Cykelruter Vestjylland
 
 Jeg har samlet alle cykelruterne fra vores guidebog med cykelruter i Vestjylland. Når du planlægger en cykeltur i Vestjylland, så husk at tjekke listen først.
 
-[Find cykelruter i Østjylland]({% link _pages/cykelguide-vestjylland.md %})
+[Find cykelruter i Vestjylland]({% link _pages/cykelguide-vestjylland.md %})
 
 ## Cykelruter Østjylland
 
@@ -211,18 +221,6 @@ Jeg har her samlet de mest populære cykelruter på Fyn. Der er ikke så mange b
 ## Cykelruter Sønderjylland
 
 {% endcomment %}
-
-## De danske nationalruter
-
-I Danmark findes der et unikt netværk af 11 nationale cykelruter på hele 4.233 km cykelvenlige ruter. De nationale cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Vi beskriver her de danske nationalruter, og hvordan du finder kort til cykelruterne.
-
-[Læs mere om de nationale cykelruter]({% link _pages/nationale-cykelruter.md %})
-
-## Regionale ruter og regionalruter
-
-I Danmark findes der et stort netværk af afmærkede regionale cykelruter og cykelstier. De regionale cykelstier forbinder alle dele af en region på tværs af kommuner.
-
-[Læs mere om de regionale cykelruter]({% link _pages/regionale-cykelruter.md %})
 
 {% assign site_posts = site.routes | sort: "title" %}
 
