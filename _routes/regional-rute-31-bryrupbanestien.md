@@ -1,7 +1,7 @@
 ---
 title: &title "Bryrupbanestien: Regional cykelrute 31: Horsens - Silkeborg"
-seo_title: "Bryrupbanestien: Naturstien på cykel fra Horsens - Silkeborg"
-description: "Bryrupbanestien og regional cykelrute 31 går fra Horsens til Silkeborg. Naturstien følger en nedlagt jernbane og er perfekt til en cykeltur. Fri for biler og ..."
+seo_title: "Bryrupbanestien: Naturstien fra Horsens - Silkeborg"
+description: "Bryrupbanestien og regional cykelrute 31 er en banesti fra Horsens til Silkeborg. Naturstien følger en nedlagt jernbane og er perfekt til en cykeltur. Fri for biler og ..."
 permalink: /rute/regional-rute-31-bryrupbanestien/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-13T09:48:02+02:00
@@ -62,17 +62,19 @@ På vej ud af Horsens troner det iøjnefaldende Horsens Statsfængsel op på vor
 
 En lille cykelsti fører os gennem Horsens Golfklubs velplejede greens, inden ruten et stykke efter krydset med motorvejen fortsætter på Provstlundstien, der starter som skovsti, men senere snævrer ind til et traktorspor og ender som et enkelt spor.
 
-## Bryrupbanestien starter
+## Banestien Bryrupbanestien starter
 
-I Lund kommer vi igen på asfalteret vej, og her begynder den egentlige Bryrupbanesti. Bryrupbanestien er anlagt på den nedlagte jernbanestrækning mellem Horsens og Silkeborg. Dens fortid som jernbane betyder idag, at stigninger og fald undervejs på ruten er begrænsede, hvilket vi nyder godt af på cykel gennem de kuperede midtjyske områder. Fri for konkurrencen med den motoriserede trafik får man fornemmelsen af at skære sig lige gennem bakkerne.
+I Lund kommer vi igen på asfalteret vej, og her begynder den egentlige Bryrupbanesti. Bryrupbanestien er anlagt på den nedlagte jernbanestrækning mellem Horsens og Silkeborg. Dens fortid som jernbane betyder i dag, at stigninger og fald undervejs på ruten er begrænsede, hvilket vi nyder godt af på cykel gennem de kuperede midtjyske områder. Fri for konkurrencen med den motoriserede trafik får man fornemmelsen af at skære sig lige gennem bakkerne.
 
-Kommer man i den rigtige sæson, er der rig mulighed for at fylde munden med kirsebær fra de mange kirsebærtræer, som er spredt over næsten hele ruten. Det kan også betale sig at komme en par stykker i lommerne og skynde sig videre til et af de mange oplagte stoppesteder undervejs. Allerede lige efter Vestbirk krydser vi en bro over Vestbirksøerne, der er skabt som følge af Vestbirk Vandkraftværks opdæmning af Gudenåen. Kraftværket fungerer nu som arbejdende museum. På søens nærliggende græsplæne er der opsat borde og bænke til dem, som vil nyde medbragt mad og den fine udsigt.
+Kommer man i den rigtige sæson, er der rig mulighed for at fylde munden med kirsebær fra de mange kirsebærtræer, som er spredt over næsten hele ruten. Det kan også betale sig at komme en par stykker i lommerne og skynde sig videre til et af de mange oplagte stoppesteder undervejs.
+
+Allerede lige efter Vestbirk krydser vi en bro over Vestbirksøerne, der er skabt som følge af Vestbirk Vandkraftværks opdæmning af Gudenåen. Kraftværket fungerer nu som arbejdende museum. På søens nærliggende græsplæne er der opsat borde og bænke til dem, som vil nyde medbragt mad og den fine udsigt.
 
 {% include gallery id="gallery" caption="Billeder fra Bryrupbanestien taget af Villy Fink Isaksen fra [Wikipedia om Naturstien: Horsens-Silkeborg](https://da.wikipedia.org/wiki/Naturstien_Horsens-Silkeborg)" layout="half" class="full" %}
 
 Ikke mange meter herfra krydser vi Gudenåen igen. Er du allerede oppe i fart, så hold øjnene åbne i de ådalens grønne omgivelser, men tag dig ellers tid til at stoppe op for at nyde roen på dette fredfyldte sted, hvor du på et oplysningsskilt kan læse, at Nordeuropas engang højeste stålgitterbro stadig ligger begravet.
 
-I Brædstrup kan du handle ind til et overdådigt måltid, som kan nydes i den omgivende Ring Skov eller i Brædstrup Park. Både i skoven og i byens park er der opstillet borde og bænke. I dette område er ruten skiltet under navnet "naturstien".
+I Brædstrup kan du handle ind til et overdådigt måltid, som kan nydes i den omgivende Ring Skov eller i Brædstrup Park. Både i skoven og i byens park er der opstillet borde og bænke. I dette område er ruten skiltet under navnet "Naturstien".
 
 Videre gennem det meget naturskønne, midtjyske landskab fører ruten os gennem Bryrup og forbi søerne Kulsø, Kvindsø, Karlsø og Bryrup Langsø, der er alle er beliggende i Bryrupdalen. I sidstnævnte er der bademulighed og ellers findes afmærkede vandreruter omkring Bryrup langsø og Karlsø med flotte udsigtspunkter.
 
