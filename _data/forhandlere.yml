@@ -39,40 +39,50 @@
   url: https://www.cykelgear.dk/?utm_source=cpc&utm_medium=cykel-ruter.dk
   workshop: Ja
   country: Danmark
+  rel: noopener
 - title: Buhl Cykler
   url: http://www.buhlcykler.dk/
   shop: Frydenslund Allé 1, 8210 Hasle
   workshop: Ja
   country: Danmark
+  rel: noopener
 - title: Allbike.dk
   url: http://www.allbike.dk/
   shop: Messingvej 6, 8940 Randers
   workshop: Ja
   country: Danmark
+  rel: noopener
 - title: Børkop Cykler
   url: http://www.bcbikeshop.dk/
   shop: Vestergade 17, 7080 Børkop
   workshop: Ja
   country: Danmark
+  rel: noopener
 - title: Heino Cykler
   url: https://heino-cykler.dk/
   shop: København, Brøndby og Odense. [Se butikker](https://heino-cykler.dk/pages/kontakt).
   workshop: Ja
   country: Danmark
+  rel: noopener
 - title: Bike Discount
   url: https://www.bike-discount.de/en?currency=9&delivery_country=227
   image_path: http://www.cykelstart.dk/wp-content/uploads/bike-discount-logo.png
   country: Tyskland
+  rel: noopener
 - title: MHW Bike
   url: https://www.mhw-bike.com/
   image_path: http://www.cykelstart.dk/wp-content/uploads/mhw-bike-logo.png
   country: Tyskland
+  rel: noopener
 - title: Bike Components
   url: https://www.bike-components.de/en/
   image_path: http://www.cykelstart.dk/wp-content/uploads/bike-components-logo-600x138.png
+  rel: noopener
 - title: Wiggle
   url: https://www.wiggle.co.uk/
   country: England
+  rel: noopener
 - title: Chain Reaction Cycles
   url: https://www.chainreactioncycles.com/
   country: England
+  rel: noopener

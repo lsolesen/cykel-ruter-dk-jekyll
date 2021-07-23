@@ -35,7 +35,7 @@ Her kan du finde online cykelhandlere og webshops i Danmark. I disse online cyke
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
 {% for post in site_posts -%}
-| [{{ post.title }}]({{ post.url }}) | {{ post.shop }} | {{ post.workshop }}
+| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }}
 {% endfor %}
 
 ## Cykelbutik i Tyskland
@@ -47,7 +47,7 @@ Her kan du købe en cykel i Tyskland. I en tysk cykel webshop kan du ofte få no
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
 {% for post in site_posts -%}
-| [{{ post.title }}]({{ post.url }}) | {{ post.shop }} | {{ post.workshop }}
+| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }}
 {% endfor %}
 
 ## Online cykelbutik og cykeludstyr i England
@@ -59,7 +59,7 @@ Inden Brexit kunne man ofte få gode tilbud, når du ville købe en cykel i Engl
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
 {% for post in site_posts -%}
-| [{{ post.title }}]({{ post.url }}) | {{ post.shop }} | {{ post.workshop }}
+| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }}
 {% endfor %}
 
 ## Sikkerhed og online cykelsalg
