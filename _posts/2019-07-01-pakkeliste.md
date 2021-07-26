@@ -1,6 +1,8 @@
 ---
 title: "Pakkeliste til cykelferien og cykelturen"
 permalink: /pakkeliste/
+category:
+  - Forberedelse
 tags:
   - cykelferie
   - gode råd

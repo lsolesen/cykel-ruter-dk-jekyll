@@ -1,6 +1,8 @@
 ---
 title: "Overnatning på cykelturen og cykelferien"
 permalink: /overnatning/
+category:
+  - Cykelferie
 tags:
   - cykelferie
   - gode råd

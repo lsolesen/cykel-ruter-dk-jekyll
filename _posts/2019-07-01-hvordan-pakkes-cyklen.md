@@ -1,6 +1,8 @@
 ---
 title: "Hvordan pakkes cyklen til cykelturen?"
 permalink: /hvordan-pakkes-cyklen/
+category:
+  - Forberedelse
 tags:
   - cykelferie
   - gode råd

@@ -3,7 +3,10 @@ layout: single
 title: "15 tankevækkende tips til cykeltur og cykelferie med børn"
 seo_title: "Cykelferie og cykeltur med børn • 15 tankevækkende tips »"
 permalink: /boern-paa-cykelferie/
+category:
+  - Planlægning
 tags:
+  - forberedelse
   - cykelkort
   - cykelguide
 last_modified_at: 2020-06-04T16:59:01Z

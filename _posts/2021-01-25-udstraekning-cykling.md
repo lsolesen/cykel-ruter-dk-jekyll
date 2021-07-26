@@ -2,6 +2,8 @@
 layout: single
 title: &title "Udstrækning efter cykling: Stræk ud efter cykelturen?"
 permalink: /udstraekning-cykling-cykeltur/
+category:
+  - Inspiration
 tags:
   - cykeltur
   - udstrækning

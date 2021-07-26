@@ -2,12 +2,18 @@
 main:
   - title: "Cykelruter"
     url: /cykelruter-danmark/
+  - title: "Cykelferie"
+    url: /cykelferie/
+  - title: "Planlægning"
+    url: /planlaegning-cykeltur/
+  - title: "Cykelkort"
+    url: /cykelkort/
+  - title: "Inspiration"
+    url: /inspiration/
   - title: "Nationalruter"
     url: /nationale-cykelruter/
   - title: "Regionalruter"
     url: /regionale-cykelruter/
-  - title: "Inspiration"
-    url: /inspiration/
   - title: "Blog"
     url: /blog/
   - title: "Om"

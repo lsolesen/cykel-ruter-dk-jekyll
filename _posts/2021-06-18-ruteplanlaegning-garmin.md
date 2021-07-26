@@ -8,8 +8,9 @@ header:
   caption: *title
 tags:
   - ruteplanlægning
+  - forberedelse
 category:
-  - Guide
+  - Planlægning
 last_modified_at: 2021-06-18T12:21:26Z
 ---
 

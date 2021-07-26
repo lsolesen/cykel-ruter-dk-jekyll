@@ -14,7 +14,10 @@ header:
   overlay_filter: 0.2
 last_modified_at: 2021-04-09T03:36:13+02:00
 toc: true
+category:
+  - Planlægning
 tags:
+  - forberedelse
   - cykelferie
   - gode råd
   - featured

@@ -12,7 +12,7 @@ tags:
   - cykeludstyr
   - cykelforhandlere
 category:
-  - Cykling
+  - Udstyr
 last_modified_at: 2021-07-23T12:21:26Z
 ---
 

@@ -8,7 +8,7 @@ header:
   credit: "Photo by Everton Vila on Unsplash"
   overlay_filter: 0.2
 tags:
-  - cykelferie
+  - cykelruter
 category:
   - Cykelruter
 last_modified_at: 2011-06-28T16:08:57Z

@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Inspiration til cykelferie og cykeloplevelser
-excerpt: "Inspiration til at gøre din oplevelse med cykelferie og cykeloplevelser i Danmark endnu bedre."
-permalink: /inspiration/
+title: Anbefalinger til det bedste cykeludstyr
+excerpt: "Jeg har samlet alle mine anbefalinger til udstyr til cyklen, din cykeltur og cykelferien her. Alt udstyret er noget, jeg selv nyder at bruge."
+permalink: /cykeludstyr/
 author_profile: true
 classes: wide
 toc: true
@@ -174,9 +174,7 @@ feature_row_bags:
     rel: sponsored nofollow noopener
 ---
 
-Jeg har samlet alle mine bedste anbefalinger og inspiration til at dykke længere ned i, hvordan du kan planlægge og udføre din cykelferie på denne side.
-
-Jeg har skrevet en guide med [anbefalinger til cykeludstyr](/cykeludstyr/), hvis du vil dykke lidt mere ned i det.
+Jeg har samlet alle mine bedste anbefalinger til cykeludstyr, som du med fordel kan overveje til din cykeltur.
 
 Links markeret med (*) er reklamelinks, hvor jeg får en lille kommision, hvis du ender med at købe fra de enkelte steder. Derved er du med til at støtte driften af dette site, så det håber jeg, at du vil overveje.
 {: .notice .notice--info }
@@ -185,7 +183,7 @@ Links markeret med (*) er reklamelinks, hvor jeg får en lille kommision, hvis d
 
 {% include gallery id="gallery_maps" %}
 
-Læs mere om, hvordan du [vælger det rigtige cykelkort til cykeltur og cykelferie i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+Læs mere om, [hvad du skal tænke på når du vælger et cykelkort]({% link _posts/2020-06-04-cykelkort.md %}).
 
 [Køb cykelkort hos Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
@@ -219,9 +217,9 @@ Jeg synes også rigtig godt om disse [cykelbøger](/cykelboeger-bedste-boeger-om
 
 {% include feature_row id="feature_row_food" type="left" %}
 
-## Flere artikler med inspiration
+## Flere artikler med cykeludstyr
 
-{% assign site_posts = site.posts | where: "category", "Inspiration" | sort: "title" %}
+{% assign site_posts = site.posts | where: "category", "Udstyr" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -233,7 +231,7 @@ Jeg synes også rigtig godt om disse [cykelbøger](/cykelboeger-bedste-boeger-om
 
 ## Samarbejdspartnere (reklamelinks)
 
-Hvis du vil støtte cykel-ruter.dk og udviklingen af sitet, så kan du handle ved vores samarbejdspartnere. Jeg får en lille kommision, hvis du handler hos dem, men prisen er den samme for dig.
+Hvis du skal købe cykeludstyr og gerne vil støtte sitet, så kan du overveje at handle hos vores samarbejdspartnere. Jeg får en lille kommision, hvis du handler hos dem, men prisen er den samme for dig.
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
 

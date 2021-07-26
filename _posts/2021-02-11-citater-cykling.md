@@ -9,7 +9,7 @@ header:
   caption: *title
   overlay_filter: 0.8
 category:
-  - Citater
+  - Inspiration
 tags:
   - citater
   - motivation

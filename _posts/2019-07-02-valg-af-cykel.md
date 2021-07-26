@@ -1,6 +1,8 @@
 ---
 title: "Valg af cykel til cykeltur"
 permalink: /valg-af-cykel/
+category:
+  - Udstyr
 tags:
   - cykelferie
   - gode råd

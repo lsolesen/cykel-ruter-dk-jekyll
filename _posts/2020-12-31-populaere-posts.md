@@ -10,7 +10,7 @@ header:
 tags:
   - website
 category:
-  - Website
+  - Inspiration
 last_modified_at: 2020-12-31T18:21:26Z
 popular_posts:
   - /cykling-kalorier/

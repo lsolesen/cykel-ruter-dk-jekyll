@@ -1,6 +1,8 @@
 ---
 title: "Transport af cykler på cykelferien?"
 permalink: /transport-af-cykler/
+category:
+  - Cykelferie
 tags:
   - cykelferie
   - gode råd

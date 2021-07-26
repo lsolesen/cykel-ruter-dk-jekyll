@@ -9,7 +9,7 @@ header:
 tags:
   - hastighed
 category:
-  - Beregner
+  - Regler & Sikkerhed
 last_modified_at: 2021-05-17T18:21:26Z
 ---
 

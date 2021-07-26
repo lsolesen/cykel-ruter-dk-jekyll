@@ -9,8 +9,9 @@ header:
 tags:
   - cykelcomputer
   - køberguide
+  - børn
 category:
-  - Børn
+  - Udstyr
 last_modified_at: 2021-05-17T18:21:26Z
 feature_row_sigma:
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/5ac503b8-83ee-42d2-89eb-feb8acbab276/4903102_B_default.jpg

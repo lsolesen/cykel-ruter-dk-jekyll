@@ -2,7 +2,10 @@
 layout: single
 title: "16 tips og råd til cykelturen og cykelferien fra en ekspert"
 permalink: /raad-til-cykelturen/
+category:
+  - Planlægning
 tags:
+  - forberedelse
   - cykelkort
   - cykelguide
 last_modified_at: 2020-06-04T16:59:01Z

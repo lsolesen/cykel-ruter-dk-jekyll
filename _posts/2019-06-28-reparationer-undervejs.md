@@ -1,6 +1,8 @@
 ---
 title: "Reparationer af cykel undervejs på cykelturen"
 permalink: /reparationer-undervejs/
+category:
+  - Forberedelse
 tags:
   - cykelferie
   - gode råd

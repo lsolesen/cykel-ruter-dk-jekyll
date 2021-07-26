@@ -9,9 +9,11 @@ header:
   teaser: https://images.unsplash.com/photo-1421429167374-8fc8ab6d0f66?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
 tags:
-  - hastighed
+  - gear
+  - gearing
+  - beregner
 category:
-  - Beregner
+  - Udstyr
 last_modified_at: 2021-05-17T18:21:26Z
 ---
 

@@ -10,7 +10,7 @@ header:
 tags:
   - cykeldæk
 category:
-  - Guide
+  - Udstyr
 last_modified_at: 2021-05-17T18:21:26Z
 ---
 

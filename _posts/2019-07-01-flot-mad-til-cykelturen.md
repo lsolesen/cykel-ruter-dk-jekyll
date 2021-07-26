@@ -3,6 +3,8 @@ title: "Mad til cykelturen og cykelferien: 4 enkle retter på Trangia"
 permalink: /flot-mad-til-cykelturen/
 redirect_from:
   - /enkle-retter-primus/
+category:
+  - Cykelferie
 tags:
   - cykelferie
   - gode råd

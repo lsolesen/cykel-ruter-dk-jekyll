@@ -2,6 +2,8 @@
 layout: single
 title: &title "Sådan undgår du at blive svedig, når du cykler"
 permalink: /undgaa-sved/
+category:
+  - Inspiration
 tags:
   - sved
 last_modified_at: 2019-04-26T16:59:01Z

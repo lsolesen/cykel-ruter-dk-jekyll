@@ -1,8 +1,10 @@
 ---
 title: "Guide til cykeloplevelser i Østjylland og Vestjylland"
 excerpt: "Vi har skrevet en guide til cykeloplevelser i Østjylland og Vestjylland."
+category:
+  - Inspiration
 tags:
-  - cykelferie
+  - cykelruter
 last_modified_at: 2019-04-26T16:59:01Z
 permalink: /guide-til-cykeloplevelser-i-ost-og-vestjylland/
 redirect_from:

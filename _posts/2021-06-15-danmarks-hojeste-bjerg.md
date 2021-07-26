@@ -6,9 +6,9 @@ header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/7/76/Ejer-bavneh%C3%B8j-2004.jpg
   caption: *title
 tags:
-  - cykelslanger
+  - bjerge
 category:
-  - Guide
+  - Inspiration
 last_modified_at: 2021-05-17T18:21:26Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788755912908/0x500

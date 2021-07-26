@@ -1,6 +1,8 @@
 ---
 title: "Påklædning til cykelturen og cykelferien"
 permalink: /paaklaedning/
+category:
+  - Udstyr
 tags:
   - cykelferie
   - gode råd

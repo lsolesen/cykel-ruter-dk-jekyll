@@ -1,6 +1,8 @@
 ---
 title: "Børn på cykelferie og cykeltur - hvilken cykel eller transport?"
 permalink: /boern-cykel-paa-cykelferie/
+category:
+  - Udstyr
 tags:
   - cykelferie
   - gode råd

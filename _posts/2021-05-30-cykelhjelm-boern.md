@@ -12,7 +12,7 @@ tags:
   - cykelhjelm
   - børn
 category:
-  - Guide
+  - Regler & Sikkerhed
 last_modified_at: 2021-05-17T18:21:26Z
 feature_row_abus:
   - image_path: https://fricdn.dk//Files/Images/FriBikeShop/ProductImages/blaa-abus-youn-l-hjelm.jpg
