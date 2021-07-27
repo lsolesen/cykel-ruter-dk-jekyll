@@ -27,6 +27,7 @@ bikemaps:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
+feature_row:
   - url: https://www.kk.dk/artikel/cykelruter-og-cykelkort
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Cykelruter i København"
@@ -105,7 +106,7 @@ De Grønne Cykelruter kobler mange cykelruter sammen, og du kan se dem på samme
 
 ## Læs mere om cykelruter i København
 
-{% include feature_row type="left" %}
+{% include feature_row id="feature_row" type="left" %}
 
 ## Gratis cykelkort over København
 
@@ -117,7 +118,7 @@ På cykelkortet kan du se alle de etablerede grønne cykelruter, nationale cykel
 
 [Download Gratis Cykelkort](https://kk.sites.itera.dk/apps/kk_pub2/pdf/1846_d6f1da8e8514.pdf){: .btn .btn--large .btn--danger }
 
-Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af [Cykelkort Danmark og København fra scanmaps.dk](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Det bliver jævnligt opdateret, så det kommer til at indeholde de nyest forbedringer til cykelstierne i København.
+Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af Cykelkort Danmark og København fra [Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Det bliver jævnligt opdateret, så det kommer til at indeholde de nyest forbedringer til cykelstierne i København.
 
 **Cykelkortet over Storkøbenhavn** er i 1:35.000. Hvis du skal på cykeltur i hovedstadsområdet, er det altså rigtig fint at navigere efter.
 

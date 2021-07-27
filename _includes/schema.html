@@ -1,0 +1,55 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      {% if site.social.type == "Organization" %}
+        "@type": "Organization",
+        "@id": "{{ site.url }}/#organization",
+        "legalName": {{ site.name | jsonify }},
+        "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
+        "logo": {{ site_og_image | jsonify }}{% endif %}{% if site.social.links %},
+        "sameAs": {{ site.social.links | jsonify }}{% endif %}
+      {% else %}
+        "@type": "Person",
+        "name": {{ site.social.name | default: site.name | jsonify }},
+        "url": {{ '/' | absolute_url | jsonify }}{% if site.social.links %},
+        "sameAs": {{ site.social.links | jsonify }}{% endif %}
+      {% endif %}
+    }
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "{{ site.url | absolute_url }}/#website",
+        "url": {{ site.url | absolute_url | jsonify }},
+        "name": {{ site.name | jsonify }},
+        "description": {{ site.description  | jsonify }},
+        "inLanguage": {{ site.locale | jsonify }}
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "{{ site.url }}#primaryimage",
+        "inLanguage": {{ site.locale | jsonify }},
+        "url": {{ default: page.og_image | default: site.og_image | default: site.logo | absolute_url | jsonify }},
+        "contentUrl": {{ default: page.og_image | default: site.og_image | default: site.logo | absolute_url | jsonify }}
+      },
+      {
+        "@type": "WebPage",
+        "@id": "{{ site.url | absolute_url }}#webpage",
+        "url": {{ site.url | absolute-url | jsonify }},
+        "name": {{ site.name | jsonify }},
+        "isPartOf": { "@id": "{{ site.url }}/#website" },
+        "datePublished": {{ page.date | default: page.last_modified_at | jsonify }},
+        "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
+        "description": {{ page.description | default: page.excerpt | strip | jsonify }},
+        "inLanguage": {{ page.locale | default: site.locale | jsonify}},
+        "potentialAction": [
+          { "@type": "ReadAction", "target": [{{ page.url | absolute_url | jsonify }}] }
+        ]
+      }
+    ]
+  }
+</script>
