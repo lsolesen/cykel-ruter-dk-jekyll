@@ -1,0 +1,5 @@
+{% assign heading = include.heading | default: "h3" %}
+{% for item in page.faq %}
+<{{ heading }}>{{ item.question }}</{{ heading }}>
+{{ item.answer | markdownify }}
+{% endfor %}

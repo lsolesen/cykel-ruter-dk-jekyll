@@ -43,6 +43,8 @@ Samtidig er mange børnecykler relativt tunge i forhold til deres størrelse. Je
 
 Cykelhandlerne er heldigvis begyndt at have en del letvægtscykler til børn, som kan gøre, at de kan cykle længere. Du kan se udvalget af børnecykler hos [cykelexperten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/bornecykler/){: rel="sponsored nofollow noopener" }. Jeg synes, at de har en god kundeservice, hvis du spørger efter råd.
 
+Du kan læse mere om, [hvilken cykel du skal vælge til børn eller andre måder at transportere børnene på cykelturen](/boern-cykel-paa-cykelferie/).
+
 ## Hvor langt kan 4-årige køre?
 
 For nylig havde vi taget alle cyklerne med i sommerhus ved Blåvand. Vi kørte flere gange til stranden, som lå omkring 3-4 fire kilometer væk. Nogle af dagene løb jeg frem og tilbage, mens jeg havde en 4-årig på cykel.

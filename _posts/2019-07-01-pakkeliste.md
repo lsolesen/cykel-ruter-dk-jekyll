@@ -1,5 +1,5 @@
 ---
-title: "Pakkeliste til cykelferien og cykelturen"
+title: "Pakkeliste til cykelferien og cykelturen [Huskeliste]"
 permalink: /pakkeliste/
 category:
   - Forberedelse
@@ -29,7 +29,7 @@ Hvad enten du er til detaljerede forberedel ser eller er mere den impulsive type
 
 _God tur!_
 
-## HUSK
+## Huskeliste til din cykeltur
 
 ### Værktøj og reservedele til cyklen
 

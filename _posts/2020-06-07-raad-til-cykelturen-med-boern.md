@@ -28,7 +28,7 @@ Jeg har flere gange været på cykeltur med mine børn. Vi har som forældre beg
 
 Vi har primært satset på lidt kortere cykelture og cykelferier med vores tre piger. 
 
-Her er nogle godt tips til, hvordan I kan komme afsted på cykelferie - uanset om I mangler udstyr og erfaring. 
+Her er nogle godt tips til, hvordan I kan komme afsted på en børnevenlig cykelferie - uanset om I mangler udstyr og erfaring. 
 
 Du kan bruge rådene – uanset om du drømmer om en lang cykelferie eller bare et par dages cykeltur til sommer.
 

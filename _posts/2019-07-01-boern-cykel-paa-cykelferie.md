@@ -1,5 +1,5 @@
 ---
-title: "Børn på cykelferie og cykeltur - hvilken cykel eller transport?"
+title: "Hvilken cykel eller transport til børn på cykeltur?"
 permalink: /boern-cykel-paa-cykelferie/
 category:
   - Udstyr
@@ -35,7 +35,13 @@ header:
   overlay_filter: 0.2
 ---
 
-Cykelferien er en genial måde at holde ferie med børn. Her kan man helt selv bestemme ruten og tempoet, så alle kan være med. Nedenfor får du gode råd om både de selvkørende feriebørn og de små, som skal køre med mor eller far.
+Cykelferien er en genial måde at holde ferie med børn. Her kan man helt selv bestemme ruten og tempoet, så alle kan være med.
+
+Men hvordan får du børnene med på cykelturen uanset om de er selvkørende eller ej. Hvilken cykel skal du vælge til børnene, så de kan blive selvkørende - eller hvordan kan du ellers transportere børnene på cykelturen?
+
+Vi har skrevet en [guide til hvilken cykel voksne skal vælge til cykelturen](/valg-af-cykel/).
+
+Nedenfor får du gode råd om både de selvkørende feriebørn og de små, som skal køre med mor eller far.
 
 ## Børn på cyklen
 

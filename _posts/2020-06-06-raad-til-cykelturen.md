@@ -48,7 +48,7 @@ Inden I tager afsted er der flere spørgsmål at besvare:
 - Hvor langt skal I cykle om dagen?
 - Skal vi cykle alle dage?
 - **Er cyklerne overhovedet klar?** Har du fået servicetjekket den for nylig? Jeg er engang kommet afsted på en cykel, hvor dækkene nærmest var mørnet. Det kostede en del lapninger undervejs.
-- **Skal I booke overnatning?** I højsæsonen kan der være fyldt på mange vandrehjemmene og bed & breakfast. Du kan også udnytte den lokale turistinformation til at få flere muligheder. Jeg har flere gange selv brugt [AirBnb\*](/go/airbnb/) og været rigtig glad for det. Hvis du bruger mit [link til AirBnb\*](/go/airbnb/) får du op til 303 kroner til din første rejse.
+- **Skal I booke overnatning?** I højsæsonen kan der være fyldt på mange vandrehjemmene og bed & breakfast. Du kan også udnytte den lokale turistinformation til at få flere muligheder. Jeg har flere gange selv brugt [AirBnb](/go/airbnb/){: rel="sponsored nofollow noopener" } og været rigtig glad for det. Hvis du bruger mit [link til AirBnb](/go/airbnb/){: rel="sponsored nofollow noopener" } får du op til 303 kroner til din første rejse.
 
 ## 2) Afstem forventningerne
 
@@ -126,7 +126,7 @@ Hvis du kører med en tohjulet cykelanhænger skal den have følgende:
 - [ ] To gule reflekser på hver side.
 - [ ] Efter mørkets frembrud skal cykelanhængeren have en rød baglygte midt bagpå eller i venstre side.
 
-Hvis du vil dykke ekstra ned i lovene for cykler, så Her kan du læse mere om [love og regler for cyklister, så har Cyklistforbundet skrevet lidt om det her](https://www.cyklistforbundet.dk/Alt-om-cykling/Love-og-regler).
+Hvis du vil dykke ekstra ned i lovene for cykler, så Her kan du læse mere om love og regler for cyklister, så har [Cyklistforbundet skrevet lidt om det her](https://www.cyklistforbundet.dk/Alt-om-cykling/Love-og-regler).
 
 ## 9) Tjek udstyret til cykelferien
 
