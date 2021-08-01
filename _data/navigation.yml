@@ -8,8 +8,8 @@ main:
     url: /planlaegning-cykeltur/
   - title: "Cykelkort"
     url: /cykelkort/
-  - title: "Inspiration"
-    url: /inspiration/
+  - title: "Cykeludstyr"
+    url: /cykeludstyr/
   - title: "Nationalruter"
     url: /nationale-cykelruter/
   - title: "Regionalruter"

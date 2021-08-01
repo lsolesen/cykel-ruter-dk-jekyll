@@ -59,6 +59,8 @@ Se også [www.rejseplanen.dk](http://www.rejseplanen.dk)
 
 {% include feature_row type="left" %}
 
+Du kan tjekke meget mere [udstyr til cykelturen her](/cykeludstyr/).
+
 ## Samarbejdspartnere
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}

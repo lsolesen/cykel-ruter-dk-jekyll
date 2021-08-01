@@ -321,6 +321,8 @@ I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste 
 
 **Hvis du er medlem af Cyklistforbundet, så kan du bruge koden ’D8C2F5dk’ og få 15% rabat, når du køber cykelkort fra [scanmaps.dk](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020){: rel="sponsored nofollow noopener" }.**
 
+Du kan tjekke meget mere [udstyr til cykelturen her](/cykeludstyr/).
+
 {% include gallery id="scanmaps" %}
 
 [Tjek priserne hos Scanmaps](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }

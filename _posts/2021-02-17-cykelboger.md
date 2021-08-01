@@ -106,6 +106,6 @@ Her har jeg valgt {{ page.feature_row.size }} cykelbøger, som du kan lade dig i
 
 Hvis du vil have inspiration til flere cykelbøger, så kan du kigge hos nogle af vores samarbejdspartnere. Hvis du gerne vil støtte dette site, så er links reklamelinks. Vi får en lille kommision for hvert salg, men din pris er den samme, hvis du vælger at købe en bog efter at have klikket på vores links.
 
-Vi har også skrevet andre sider med [anden inspiration til cykling](/inspiration/) eller en guide til at finde det [rigtige cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+Vi har også skrevet en side med [cykeludstyr til cykling](/cykeludstyr/) eller en guide til at finde det [rigtige cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
 
 {% include feature_row id="feature_row_partners"  %}

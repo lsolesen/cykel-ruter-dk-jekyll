@@ -32,7 +32,7 @@ sidebar:
 </div>
 {% endif %}
 
-## Udstyr
+## Cykeludstyr og udstyr til din cykel
 
 {% assign site_posts = site.posts | where: "category", "Udstyr" | sort: "title" %}
 
@@ -43,6 +43,8 @@ sidebar:
   {% endfor %}
 </div>
 {% endif %}
+
+Du kan læse mere om [cykeludstyr og udstyr til cyklen her](/cykeludstyr/) her.
 
 ## Regler og sikkerhed på cyklen
 

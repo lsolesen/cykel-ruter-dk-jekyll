@@ -169,6 +169,8 @@ Fribikeshop.dk skriver, at
 
 --- <cite>[Fribikeshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/udstyr/til-dig/cykelhjelme/til-boern){: rel="sponsored nofollow noopener" }</cite>
 
+Du kan tjekke meget mere [cykeludstyr](/cykeludstyr/).
+
 ## Hvor kan jeg købe cykelhjelme til børn?
 
 Hvis du er på udkig efter cykelhjelme til børn, så kan du kigge hos nogle af vores samarbejdspartnere. Vi får en lille kommision, hvis du vælger at købe din cykelhjelm der. Vi har kun gode erfaringer med de virksomheder, vi samarbejder med.

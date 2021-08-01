@@ -52,6 +52,8 @@ Mountainbiken kan fint anvendes til cykelferien. Som navnet afslører, er den ve
 
 Racerens smalle hjul er ikke velegnede til ujævne underlag. Til gengæld kommer man let og hurtigt omkring på den lette cykel, hvis ruten er asfalteret og oppakningen let. De smalle dæk og fælge kan godt være lidt skrøbelige, hvis cyklen skal læsses tungt. Vælg evt. en let anhænger for ikke at overbelaste cyklen.
 
+Du kan tjekke meget mere [udstyr til cykelturen her](/cykeludstyr/).
+
 ## Samarbejdspartnere
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}

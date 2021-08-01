@@ -111,6 +111,8 @@ Skær grøntsagerne i skiver på skrå og pensl dem med lidt olie, salt og peber
 
 Du kan spare dig selv mange overvejelser om maden undervejs på din cykeltur ved at lave en madplan for turen. Det betyder også, at du kan [spare mange penge](https://www.ifire.dk/spar-penge/), hvis du har tænkt over, hvordan du kan købe fornuftigt ind til maden.
 
+Du kan få inspiration til [udstyr til madlavning som du kan have med på cykelferie her](/cykeludstyr/).
+
 Jeg har skrevet et indlæg om at [lave madplan, så du kan holde dit madbudget og undgå luksusfælden på ifire.dk](https://www.ifire.dk/madbudget-undgaa-luksusfaelden-med-madplan/).
 
 _Velbekomme._

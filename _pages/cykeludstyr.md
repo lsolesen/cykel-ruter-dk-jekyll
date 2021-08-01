@@ -1,10 +1,12 @@
 ---
 layout: single
-title: Inspiration til cykelferie og cykeloplevelser
-excerpt: "Inspiration til at gøre din oplevelse med cykelferie og cykeloplevelser i Danmark endnu bedre."
-permalink: /inspiration/
+title: Cykeludstyr
+seo_title: "Cykeludstyr til cykelferie og cykeltur"
+excerpt: "Cykeludstyr til cykelferie og cykeltur som kan være med til at gøre din oplevelse endnu bedre"
+redirect_from:
+  - /inspiration/
+permalink: /cykeludstyr/
 author_profile: true
-classes: wide
 toc: true
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771555714/0x500
@@ -185,7 +187,7 @@ Links markeret med (*) er reklamelinks, hvor jeg får en lille kommision, hvis d
 
 {% include gallery id="gallery_maps" %}
 
-Læs mere om, hvordan du [vælger det rigtige cykelkort til cykeltur og cykelferie i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+Læs mere om, [hvordan du vælger det rigtige cykelkort til cykeltur og cykelferie i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
 
 [Køb cykelkort hos Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
@@ -207,6 +209,8 @@ Jeg synes også rigtig godt om disse [cykelbøger](/cykelboeger-bedste-boeger-om
 
 {% include feature_row id="feature_row_transport" type="left" %}
 
+Jeg har skrevet mere om [transport af cykler](/transport-af-cykler/).
+
 ## Cykelur, puls, watt og cykelcomputere
 
 {% include feature_row id="feature_row_gps" type="left" %}
@@ -215,9 +219,27 @@ Jeg synes også rigtig godt om disse [cykelbøger](/cykelboeger-bedste-boeger-om
 
 {% include feature_row id="feature_row_bags" type="left" %}
 
+Jeg har skrevet mere om [pakning af bagage på cyklen her](/hvordan-pakkes-cyklen/).
+
 ## Madlavning på cykeltur
 
 {% include feature_row id="feature_row_food" type="left" %}
+
+Tjek også artiklen om [at lave mad på cykelturen](/flot-mad-til-cykelturen/).
+
+## Cykeludstyr og udstyr til din cykel
+
+{% assign site_posts = site.posts | where: "category", "Udstyr" | sort: "title" %}
+
+{% if site_posts.size > 0 %}
+<div class="feature__wrapper">
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+{% endif %}
+
+Du kan læse mere om [cykeludstyr](/cykeludstyr/) her.
 
 ## Flere artikler med inspiration
 

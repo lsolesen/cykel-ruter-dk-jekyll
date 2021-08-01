@@ -83,6 +83,8 @@ Cykelcomputeren har også [kalorieforbrænding på din cykeltur]({% link _posts/
 
 Jeg endte selv med at købe cykelcomputeren fra Sigma, da den har det bedste display. Modellen fra Atredo har lidt flere funktioner, så hvis du gerne vil have kalorieforbrænding på cykelcomputeren, så er den også et godt valg.
 
+Du kan tjekke meget mere [cykeludstyr](/cykeludstyr/).
+
 ## Hvor kan jeg købe en cykelcomputer til børn?
 
 Hvis du er på udkig efter en cykelcomputer til børn, så kan du støtte dette site ved at handle hos en af vores samarbejdspartnere, som har rigtig fine tilbud på udvalg af udstyr til cykling og cykler.

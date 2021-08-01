@@ -36,7 +36,8 @@ Der findes også regntøj, der bare holder regnen ude. Det er en del billigere e
 
 Regntøj, der er designet til at cykle i, har ekstra lange ærmer og ekstra længde i ryg gen. Bukserne skal have god plads omkring bagen og knæene. Der må ikke være for meget benvidde nederst, da bukserne så let kommer ind i kæden. Før køb er det en god idé at prøve regntøjet og så strække armene frem og løfte knæet højt for at se, om tøjet stadig passer.
 
-Jeg har skrevet lidt om, hvordan du kan [undgå at svede, når du cykler](/undgaa-sved/).
+Jeg har skrevet lidt om, hvordan du kan [undgå at svede, når du cykler](/undgaa-sved/). 
+Du kan tjekke meget mere [udstyr til cykelturen her](/cykeludstyr/).
 
 ## Samarbejdspartnere
 

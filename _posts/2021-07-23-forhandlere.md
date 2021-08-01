@@ -66,4 +66,16 @@ Inden Brexit kunne man ofte få gode tilbud, når du ville købe en cykel i Engl
 
 Jeg har gode erfaringer med alle webshops her på listen, men når du handler online, så bør du altid lige tjekke butikken omdømme på fx [Trustpilot.dk](https://www.trustpilot.dk), inden du handler. Det er godt at kende andre brugeres erfaringer med den online cykelhandler du har udtænkt dig.
 
+{% comment %}
+
 ## Online cykelauktion
+
+{% endcomment %}
+
+## Samarbejdspartnere (reklamelinks)
+
+Hvis du vil støtte cykel-ruter.dk og udviklingen af sitet, så kan du handle ved vores samarbejdspartnere. Jeg får en lille kommision, hvis du handler hos dem, men prisen er den samme for dig.
+
+{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+
+{% include gallery array=ads %}

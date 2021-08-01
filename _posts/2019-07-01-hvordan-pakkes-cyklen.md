@@ -54,6 +54,8 @@ Hvis du vil pakke lidt mere minimalistisk, så kan du også lade dig inspirere a
 
 {% include figure image_path="https://images.unsplash.com/flagged/photo-1592507944147-964ee9914499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80" caption="Smarte løsninger til pakning af cyklen fra bikepacking" alt="cykel pakket til bikepacking" %}
 
+Du kan tjekke meget mere [cykeludstyr til cykelferien her](/cykeludstyr/).
+
 ## Samarbejdspartnere (reklamelinks)
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
