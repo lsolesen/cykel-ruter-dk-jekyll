@@ -11,6 +11,11 @@ tags:
 category:
   - Regler & Sikkerhed
 last_modified_at: 2021-05-17T18:21:26Z
+faq:
+  question: "Hvor hurtigt må man køre på cykel?"
+  answer: "Du skal overholde hastighedsreglerne på den vej, du cykler på. Du må altså ikke køre hurtigere end bilerne. Det er vigtigt, at du cykler efter forholdene."
+  question: "Hvor lang tid tager det at cykle 10 kilometer?"
+  answer: "Det kommer jo helt an på, hvor hurtigt du cykler. Hvis du fx kører 20 km/t, så tager det 30 minutter at cykle 10 kilometer. Du kan bruge den her beregner til at udregne, hvor lang tid det tager at cykle en bestemt distance."
 ---
 
 Her kan du læse mere om, hvor hurtigt man cykler? Jeg har lavet en beregner, så du kan udregne din gennemsnitshastighed på cykel, når du kender distancen.
@@ -48,7 +53,7 @@ Jeg vil gerne udvide tabellen med bedre data. Hvis du har nogle gode indsigter o
 
 ## Hvor hurtigt cykler man x km?
 
-Jeg har lavet en beregner, så du kan udregne hvor hurtigt man cykler x antal kilometer. Det kan være godt at vide, hvor hurtigt man cykler fx 5 eller 10 km, når du skal et sted hen.
+Jeg har lavet en beregner, så du kan udregne hvor hurtigt, man cykler x antal kilometer. Det kan være godt at vide, hvor hurtigt man cykler fx 5 eller 10 km, når du skal et sted hen.
 
 {% include calculate-hastighed-time.html %}
 
@@ -83,7 +88,7 @@ Det afhænger naturligvis meget af, hvilken distance den professionelle cykelryt
 - Højeste gennemsnitsfart for en Tour de France etape = 50,4 km/t
 - Højeste gennemsnitsfart op af bjerget Alpe d´Huez = 22,58 km/t
 
-## Hvor hurtigt må man køre på cykel?
+## Hvor hurtigt må cykle på vejen?
 
 På cykel skal du overholde de hastighedsregler, der er på den vej, du kører på. Det vil sige, at du skal cykle efter de hastighedsregler, som også gælder for bilerne. Du skal altså cykle efter forholdene.
 
@@ -100,6 +105,10 @@ Din gennemsnitshastighed afhænger af **motoren** på cyklen (som er dig selv), 
 Der er altså mange ting, der kan have indvirkning på din gennemsnitsfart, når du cykler.
 
 Det er også vanskeligt at sammenligne gennemsnitshastigheder og vurdere om det er langsomt eller hurtigt. For hvad er det i forhold til? Når du kører en hyggetur, med familien, en træningstur i bakker, en enkeltstart på fladt underlag eller måske endda i skoven.
+
+## Ofte stillede spørgsmål
+
+{% include faq.html %}
 
 ## Konklusion
 

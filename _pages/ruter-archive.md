@@ -164,7 +164,7 @@ I Danmark findes der et unikt netværk af 11 nationale cykelruter på hele 4.233
 
 [Læs mere om de nationale cykelruter]({% link _pages/nationale-cykelruter.md %})
 
-## Regionale ruter og regionalruter
+## Regionale danske cykelruter og regionalruter
 
 I Danmark findes der et stort netværk af afmærkede regionale cykelruter og cykelstier. De regionale cykelstier forbinder alle dele af en region på tværs af kommuner.
 

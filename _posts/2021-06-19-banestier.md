@@ -83,4 +83,6 @@ Herunder kan du se nogle af de beskrivelser, vi har lavet af banestier.
 
 ## Konklusion
 
-Kender du andre gode banestier i Danmark, som er værd at prøve.
+Ud over banestierne, så findes der også andre [cykelruter til børn]()
+
+Kender du andre gode banestier i Danmark, som er værd at prøve?
