@@ -126,4 +126,4 @@ Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af Cykelkor
 
 ## Andre cykelruter i Danmark
 
-Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _pages/ruter-archive.md %}).
+Jeg har skrevet om en lang række [andre cykelruter]({% link _pages/ruter-archive.md %}), som du kan lade dig inspirere af også.

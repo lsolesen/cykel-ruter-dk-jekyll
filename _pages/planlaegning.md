@@ -20,6 +20,8 @@ sidebar:
 
 {{ page.excerpt }}
 
+Planlægning er vigtig uanset om du har fundet en [cykelrute](/cykelruter-danmark/) til en dagstur eller skal på en [længere cykelferie](/cykelferie/).
+
 ## Forberedelse af din cykeltur
 
 {% assign site_posts = site.posts | where: "category", "Planlægning" | where: "tags", "forberedelse" | sort: "title" %}

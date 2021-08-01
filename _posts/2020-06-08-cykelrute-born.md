@@ -76,7 +76,7 @@ Jeg forsøger altid at gøre mig umage med at vælge en god rute til børnene.
 
 ## Vælg en god børnevenlig rute i Danmark
 
-I Danmark er der rigtig mange gode skiltede cykelruter, som gør planlægningen og selve turen lettere. Fordelen ved de skiltede ruter er, at det er lettere at finde vej undervejs, men også at ruten følger en cykelvenlig rute.
+I Danmark er der rigtig mange gode [skiltede cykelruter](/cykelruter-danmark/), som gør planlægningen og selve turen lettere. Fordelen ved de skiltede ruter er, at det er lettere at finde vej undervejs, men også at ruten følger en cykelvenlig rute.
 
 Tænk over følgende når du vælger cykelrute:
 

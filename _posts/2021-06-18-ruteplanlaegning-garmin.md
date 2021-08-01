@@ -16,7 +16,7 @@ last_modified_at: 2021-06-18T12:21:26Z
 
 Inden jeg cykler planlægger jeg ofte min rute, så jeg kan have en ruteplan med på GPS på mit Garmin Edge på min cykel. Jeg laver typisk ruteplanlægning i Garmin og Alltrails.
 
-Du kan både planlægge din rute i Garmin og på Alltrails. Jeg synes det er lettest at dele de planlagte ruter fra Alltrails, så her tegner jeg ofte cykelruterne.
+Du kan både planlægge din rute i Garmin og på Alltrails. Jeg synes det er lettest at dele de planlagte ruter fra Alltrails, så her tegner jeg ofte cykelruterne. Det er Alltrails jeg har brugt til at tegne [alle cykelruterne her](/cykelruter-danmark/).
 
 Det er imidlertid også ret let at lave ruter på Garmin. Jeg laver typisk mine ruter på Garmin Connect eller Alltrails. Begge apps er genial til at tegne sin cykelrute på et kort.
 

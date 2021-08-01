@@ -99,4 +99,4 @@ Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cyclin
 
 ## Konklusion
 
-Jeg håber, at du fik et godt overblik over de regionale cykelruter, og hvordan du kan finde cykelkort til ruterne.
+Jeg håber, at du fik et godt overblik over de regionale cykelruter, og hvordan du kan finde cykelkort til ruterne. De regionale cykelruter udgør en stor del af [cykelruterne i Danmark](/cykelruter-danmark/), men du kan også tjekke de [nationale cykelruter](/nationale-cykelruter/).

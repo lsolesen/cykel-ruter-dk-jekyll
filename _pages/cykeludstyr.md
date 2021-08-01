@@ -178,7 +178,7 @@ feature_row_bags:
 
 Jeg har samlet alle mine bedste anbefalinger og inspiration til at dykke længere ned i, hvordan du kan planlægge og udføre din cykelferie på denne side.
 
-Jeg har skrevet en guide med [anbefalinger til cykeludstyr](/cykeludstyr/), hvis du vil dykke lidt mere ned i det.
+Jeg har samlet alle mine bedste anbefalinger til cykeludstyr, som du med fordel kan overveje til din cykeltur.
 
 Links markeret med (*) er reklamelinks, hvor jeg får en lille kommision, hvis du ender med at købe fra de enkelte steder. Derved er du med til at støtte driften af dette site, så det håber jeg, at du vil overveje.
 {: .notice .notice--info }

@@ -119,4 +119,4 @@ Hvis du er klar på at kaste dig ud i en cykeltur omkring Århus, Favrskov, Djur
 
 ## Andre cykelruter i Danmark
 
-Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _pages/ruter-archive.md %}).
+Hvis du er interesseret, så har vi også skrevet om en lang række [andre cykelruter i Danmark]({% link _pages/ruter-archive.md %}).

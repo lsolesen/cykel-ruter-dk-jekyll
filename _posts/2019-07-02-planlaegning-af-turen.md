@@ -100,7 +100,7 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 2. Planlæg cykelruten i store træk
 3. Anskaf gode cykelkort - læs mere om det [bedste cykelkort til Danmark]({% link _posts/2020-06-04-cykelkort.md %})
 4. Hvad skal med - og hvem skal bære det?
-5. Bestil evt. overnatning, fx [AirBnb*](/go/airbnb/)
+5. Bestil evt. overnatning, fx [AirBnb](/go/airbnb/){: rel="sponsored nofollow noopener" }
 6. Reserver evt. plads i tog eller bus til ud- og hjemrejse
 7. Anskaf nyt udstyr i god tid og prøv det af før ferien - tjek vores samarbejdspartnere.
 8. Kør et par træningsture
@@ -109,20 +109,20 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 
 ## Populære cykelruter i Danmark
 
-At tage på en cykeltur eller cykelferie i Danmark er oplagt med vores mange [nationale cykelruter](/nationale-cykelruter/) og [regionale cykelruter](/regionale-cykelruter/). Der er mange steder, der der inviterer på oplevelser i det uendelige. Ruterne er spredt udover hele landet – fra cykelruter i [Vestjylland](/cykelruter-vestjylland/) og [Østjylland](/cykelruter-oestjylland/) til Nordsjælland, Fyn og Bornholm.
+At tage på en cykeltur i Danmark er oplagt med vores mange [fantastiske cykelruter](/cykelruter-danmark/). Du kan vælge [nationale cykelruter](/nationale-cykelruter/) og [regionalruterne](/regionale-cykelruter/). Der er mange steder, der der inviterer på oplevelser i det uendelige. Ruterne er spredt udover hele landet – fra cykelruter i [Vestjylland](/cykelruter-vestjylland/) og [Østjylland](/cykelruter-oestjylland/) til Nordsjælland, [Fyn](/cykelruter-fyn/) og [Bornholm](/cykelruter-bornholm/).
 
 Der er gode muligheder for at tage sin cykel med i toget.
 
-1. Vestkystruten (Cykelrute 1)
+1. [Vestkystruten (Cykelrute 1)](/rute/national-rute-1-vestkyststien/)
 2. Nordkystcykelstien (Cykelrute 47)
 3. Fjordstien (Cykelrute 40)
 4. Hillerød til Tisvildeleje (Cykelrute 32)
 5. Nyborg-Faaborg (Cykelrute 51)
 6. Østkystruten (Cykelrute 5)
-7. Østersøruten (Cykelrute 8)
-8. Silkeborg-Randers (Cykelrute 29)
-9. Søndervig - København (Cykelrute 4)
-10. Esbjerg - København (Cykelrute 6)
+7. [Østersøruten (Cykelrute 8)](/rute/national-rute-8-ostersoruten/)
+8. [Silkeborg-Randers (Cykelrute 29)](/rute/regional-rute-29-silkeborg-gjern-langaa/)
+9. [Søndervig - København (Cykelrute 4)](/rute/national-rute-4-sondervig-kobenhavn/)
+10. [Esbjerg - København (Cykelrute 6)](/rute/national-rute-6-esbjerg-koebenhavn/)
 11. Gendarmstien
 12. [Bryrupbanestien (Cykelrute 31)](https://www.cykel-ruter.dk/rute/regional-rute-31-bryrupbanestien/)
 

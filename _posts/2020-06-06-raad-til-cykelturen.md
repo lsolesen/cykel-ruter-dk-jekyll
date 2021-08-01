@@ -38,7 +38,7 @@ Hvis du ikke er vant til at tage på længere cykelture eller cykelferier, så s
 
 Når du skal på cykeltur, så er det en rigtig god ide at have et mål. Især på længere cykelture og -ferier får du en meget bedre oplevelse, hvis du planlægger lidt på forhånd.
 
-Så få fat i et cykelkort, hvor du kan se nogle skiltede cykelruter. Fordelen ved at prioritere skiltede cykelruter er, at man netop har gjort sig umage med, at cyklisterne har en god oplevelse på disse ruter.
+Så få fat i et cykelkort, hvor du kan se de skiltede [cykelruter](/cykelruter-danmark/). Fordelen ved at prioritere skiltede cykelruter er, at man netop har gjort sig umage med, at cyklisterne har en god oplevelse på disse ruter.
 
 Jeg har skrevet en artikel om, [hvilke kort der dækker cykelruterne i Danmark](/cykelkort/), og i den artikel er der et rigtig godt fif til at holde dig på ruten, så [tjek det ud](/cykelkort/).
 

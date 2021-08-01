@@ -72,3 +72,7 @@ Desværre kan cykelguidebogen over Østjylland ikke længere købes. Hvis du led
 ## Kort over cykelruter i Østjylland
 
 {% include gallery caption="Jeg foretrækker kortene fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }. Tjek min [udførlige guide til de bedste cykelkort over Danmark](/cykelkort/)." %}
+
+## Konklusion
+
+Husk at der også er [rigtig mange andre cykelruter](/cykelruter-danmark/), som du kan lade dig inspirere af.

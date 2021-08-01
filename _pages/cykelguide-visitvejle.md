@@ -60,3 +60,7 @@ Jeg har lavet tre cykelruter ud fra hver campingplads. Cykelruterne er af tre fo
 {% include gallery %}
 
 Jeg har skrevet en guide til at vælge de [bedste cykelkort](/cykelkort/). Der er lavet nogle ganske glimrende cykelkort med udgangspunkt i Sydjylland, hvor cykelruterne fra Vejle er i.
+
+## Konklusion
+
+Husk at der også er [rigtig mange andre cykelruter](/cykelruter-danmark/), som du kan lade dig inspirere af.

@@ -139,4 +139,4 @@ Du kan fx købe kortet her. Prisen er absolut overkommelig.
 
 ## Konklusion
 
-Jeg håber du fik inspiration til at tage en cykeltur på Fyn. Der er i hvert fald masser af spændende cykelruter på Fyn, og du kan også finde nogle gode cykelkort over Fyn.
+Jeg håber du fik inspiration til at tage en cykeltur på Fyn. Der er i hvert fald masser af spændende cykelruter på Fyn, og du kan også finde nogle gode cykelkort over Fyn. Du kan også finde [andre cykelruter i Danmark her](/cykelruter-danmark/).

@@ -7,6 +7,8 @@ classes: wide
 author_profile: true
 ---
 
+Læs med på vores blog om cykling, [cykelruter](/cykelruter-danmark/) og [cykelferie](/cykelferie/). Vores cykelblog indeholder forskellige råd om og tips om [planlægning af cykelturen](/planlaegning/), og hvordan du kommer af sted, men også indlæg om [cykeludstyr](/cykeludstyr/).
+
 <h2>De nyeste indlæg på cykel-ruter.dk</h2>
 
 <div class="feature__wrapper">

@@ -142,3 +142,7 @@ Kortet indeholder som en ekstra bonus også informationer målrettet cyklisterne
 Du kan fx købe kortet her. Prisen er absolut overkommelig.
 
 {% include gallery id="scanmaps" caption="Cykelkort over Bornholm med de regionale og nationale cykelruter på øen." %}
+
+## Konklusion
+
+Bornholm er et fantastisk sted at tage på cykeltur, men du kan også lade dig inspirere til andre [cykelruter i Danmark](/cykelruter-danmark/).

@@ -75,11 +75,11 @@ Sommetider har jeg taget en løbetur og spurgt om de vil med. På turen har vi s
 
 ## Formålet med turen betyder også noget for længden
 
-Vi har lavet nogle rigtig fine ture, da pigerne var 6 år også, hvor vi har kørt 15 kilometer ud af en rigtig børnevenlig cykelrute. Det fungerer særlig godt, når man tænker over de små hyggelige stunder undervejs.
+Vi har lavet nogle rigtig fine ture, da pigerne var 6 år også, hvor vi har kørt 15 kilometer ud af en rigtig [børnevenlig cykelrute](/cykelrute-born/). Det fungerer særlig godt, når man tænker over de små hyggelige stunder undervejs.
 
 > Hav et par bananer med eller en lille plade chokolade til at lokke ungerne, hvis de bliver trætte. Det kan også være lidt småting som rosiner og nødder. Alt, hvad der er lidt energi i, og som ikke bliver alt for blødt og kvalmt i varmen.
 
---- <cite>Mikkel Lybæch - [kilde](https://www.bt.dk/forbrug/tag-cyklen-paa-ferie-saa-langt-kan-du-komme-omkring)</cite>
+--- <cite>[Mikkel Lybæch](https://www.bt.dk/forbrug/tag-cyklen-paa-ferie-saa-langt-kan-du-komme-omkring)</cite>
 
 Når turen bliver til et lille eventyr, så vil børnene tænke mere på, at I er på en hyggelig udflugt sammen end hvor langt de cykler. Fx kan I sammen planlægge nogle snacks, I har med, og I kan sørge for, at I har rigeligt tid og kan stoppe, hvis I kommer forbi noget spændende.
 

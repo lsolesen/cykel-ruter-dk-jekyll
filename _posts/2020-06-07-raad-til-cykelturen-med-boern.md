@@ -22,7 +22,7 @@ author: lsolesen
 
 Jeg sidder og planlægger min næste cykeltur med mine børn. Jeg har samlet de bedste tips og råd til, hvad man skal tænke på, hvis man vil cykelferie med børn.
 
-**Cykeltur og cykelferie med børn er en virkelig god oplevelse, når du tænker over et par ting på forhånd. Vælg en god cykelrute, sæt tempoet ned og vær tålmodig og planlæg det uforudsete. Drop skærmene og skru op for nærværet. Og så hjælper snacks altid på humøret.**
+**Cykeltur og cykelferie med børn er en virkelig god oplevelse, når du tænker over et par ting på forhånd. Vælg en [god cykelrute](/cykelruter-danmark/), sæt tempoet ned og vær tålmodig og planlæg det uforudsete. Drop skærmene og skru op for nærværet. Og så hjælper snacks altid på humøret.**
 
 Jeg har flere gange været på cykeltur med mine børn. Vi har som forældre begået masser af fejl, men jeg har mest hæftet mig ved alt det, der er gået godt. 
 
