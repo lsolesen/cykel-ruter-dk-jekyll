@@ -21,8 +21,8 @@ feature_row:
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1549937917-3761227f52f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80
-  teaser: https://images.unsplash.com/photo-1549937917-3761227f52f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1612332187021-595a87bd1e5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
+  teaser: https://images.unsplash.com/photo-1612332187021-595a87bd1e5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: "Photo by WanderLabs on Unsplash"
 ---
 
@@ -46,7 +46,13 @@ Når du pakker i cykeltasker, kan du prøve på at sortere tingene lidt. Hav fx 
 
 ## Anhænger
 
-Har du meget bagage, eller kører du på en racercykel, kan det være en god idé at pakke i en anhænger i stedet for tasker. En almin delig plast- eller trækasseanhænger er ud mærket til ture, hvor dagsetaperne ikke er for lange, men hvis du har ambitioner om lange stræk, bør du investere i en rigtig tou ring anhænger. I en anhænger har du mas ser af plads, men pas på: Tag ikke for meget med. Anhængeren bliver hurtig tung at trække rundt med. Husk at du også kan få brug for en ekstra slange til anhængeren. 
+Har du meget bagage, eller kører du på en racercykel, kan det være en god idé at pakke i en anhænger i stedet for tasker. En almin delig plast- eller trækasseanhænger er ud mærket til ture, hvor dagsetaperne ikke er for lange, men hvis du har ambitioner om lange stræk, bør du investere i en rigtig tou ring anhænger. I en anhænger har du mas ser af plads, men pas på: Tag ikke for meget med. Anhængeren bliver hurtig tung at trække rundt med. Husk at du også kan få brug for en ekstra slange til anhængeren.
+
+## Bikepacking
+
+Hvis du vil pakke lidt mere minimalistisk, så kan du også lade dig inspirere af _bikepacking_.
+
+{% include figure image_path="https://images.unsplash.com/flagged/photo-1592507944147-964ee9914499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80" caption="Smarte løsninger til pakning af cyklen fra bikepacking" alt="cykel pakket til bikepacking" %}
 
 ## Samarbejdspartnere (reklamelinks)
 

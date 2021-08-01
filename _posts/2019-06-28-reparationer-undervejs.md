@@ -1,5 +1,5 @@
 ---
-title: "Reparationer af cykel undervejs på cykelturen"
+title: &title "Reparationer af cykel undervejs på cykelturen"
 permalink: /reparationer-undervejs/
 category:
   - Forberedelse
@@ -46,10 +46,10 @@ feature_row_minimum:
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1523210299746-f23a7af1a413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
-  teaser: https://images.unsplash.com/photo-1523210299746-f23a7af1a413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: "Photo by Lance Grandahl on Unsplash"
-  overlay_filter: 0.2
+  overlay_image: https://images.unsplash.com/photo-1601839554994-e36fcc65da74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80
+  teaser: https://images.unsplash.com/photo-1601839554994-e36fcc65da74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80
+  caption: *title
+  alt: "Photo by Lance Grandahl on Unsplash"
 ---
 
 **Man kan enten trille ud i det blå under devisen - jeg ta'r en taxa, hvis jeg punkterer, eller man kan pakke lidt reparationsgrej i cykeltasken.**
@@ -64,13 +64,15 @@ Det er klart, at du kan få mekaniske problemer på en cykelferie. Men du skal i
 
 Hvis du ikke har mod på at sørge for disse ting, kan du få din cykelhandler til det. Han har stor erfaring med at vurdere cyklens tilstand og kan sørge for, at de rigtige ting bliver ordnet.
 
-## Hvilket værktøj?
+{% include figure image_path=page.header.overlay_image alt=page.title %}
+
+## Hvilket værktøj skal du have med?
 
 Hvilket værktøj og hvilke reservedele bør du tage med? Det afhænger af, hvilken cykel du har og ikke mindst af dine egne kundskaber. Overordnet kan man sige, hvis du ikke ved, hvordan man bruger værktøjet, så lad være med at tage det med. I kolonnen til højre på siden er tre værktøjspakker, du kan bruge som inspiration alt efter temperament.
 
 Hvis uheldet er ude, må du prøve at vurdere, om du kan ordne skaden på stedet. Ellers må du prøve at finde den nærmeste cykelhandler og evt. tage bus, tog eller taxa dertil.
 
-## Minimum pakken:
+## Minimum pakken til cykelturen
 
 - Pumpe (vær sikker på at den passer til cyklens ventiler)
 - Lappegrej
