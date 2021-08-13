@@ -12,10 +12,10 @@ category:
   - Regler & Sikkerhed
 last_modified_at: 2021-05-17T18:21:26Z
 faq:
-  question: "Hvor hurtigt må man køre på cykel?"
-  answer: "Du skal overholde hastighedsreglerne på den vej, du cykler på. Du må altså ikke køre hurtigere end bilerne. Det er vigtigt, at du cykler efter forholdene."
-  question: "Hvor lang tid tager det at cykle 10 kilometer?"
-  answer: "Det kommer jo helt an på, hvor hurtigt du cykler. Hvis du fx kører 20 km/t, så tager det 30 minutter at cykle 10 kilometer. Du kan bruge den her beregner til at udregne, hvor lang tid det tager at cykle en bestemt distance."
+  - question: "Hvor hurtigt må man køre på cykel?"
+    answer: "Du skal overholde hastighedsreglerne på den vej, du cykler på. Du må altså ikke køre hurtigere end bilerne. Det er vigtigt, at du cykler efter forholdene."
+  - question: "Hvor lang tid tager det at cykle 10 kilometer?"
+    answer: "Det kommer jo helt an på, hvor hurtigt du cykler. Hvis du fx kører 20 km/t, så tager det 30 minutter at cykle 10 kilometer. Du kan bruge den her beregner til at udregne, hvor lang tid det tager at cykle en bestemt distance."
 ---
 
 Her kan du læse mere om, hvor hurtigt man cykler? Jeg har lavet en beregner, så du kan udregne din gennemsnitshastighed på cykel, når du kender distancen.
