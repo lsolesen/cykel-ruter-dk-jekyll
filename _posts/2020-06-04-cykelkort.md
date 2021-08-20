@@ -180,11 +180,11 @@ Når jeg skal afsted på selve turen, så foretrækker jeg de regionale kort, s�
 
 ## Cykelkort Danmark er et oversigtskort
 
-Cykelkortet er i målestok 1:500.000, og jeg bruger det hovedsageligt i planlægningsfasen for at få et overblik over det samlede cykelrutenet.
+Cykelkortet viser de 11 nationale og 160 regionale cykelruter og veje med cykelsti. _Cykelkort Danmark_ er i lavet i målestoksforholdet 1:500.000. Det gør det velegnet særligt i planlægningsfasen til at skabe et overblik over det samlede cykelrutenet i Danmark.
 
 {% include feature_row type="left" %}
 
-Cykelkortet viser de 11 nationale og 160 regionale cykelruter og veje med cykelsti. Nordisk Korthandel skriver selv om kortet:
+Nordisk Korthandel skriver selv om kortet:
 
 > Danmarkskortet indeholder mange oplysninger, der er uundværlige på cykelferie i Danmark. På kortet er indtegnet nationale og regionale cykelruter, vej med cykelsti, vandrerhjem, campingpladser, turistinformationer mm.,og der er indtegnet et Eurovelo kort over de ruter, der går igennem Danmark. Informationer om de danske cykelregler er med. Der er over 160 regionale og 11 nationale ruter på kortet, og af nye ruter kan nævnes Kulturringen (Østjylland) og Vestegnsruten (København).
 >
@@ -193,7 +193,7 @@ Cykelkortet viser de 11 nationale og 160 regionale cykelruter og veje med cykels
 
 --- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }</cite>
 
-Ud over at indeholde et Danmarks-kort, så er der også et [kort over Storkøbenhavn og cykelruterne i København]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}) i målestokforholdet 1:35.000.
+Ud over Danmarks-kortet, så er der også et [kort over cykelruterne i København og Storkøbenhavn]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}). Dette mere detaljerede korte er lavet i målestok 1:35.000.
 
 {% comment %}
 
@@ -241,11 +241,11 @@ Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man p�
 
 Jeg synes prisen for kortene er rimelig, fordi de holder rigtig godt. Og det er helt sikkert rigtig fedt at have et godt kort, når man sidder og planlægger turen, men også for at sikre sig at man kører rigtigt undervejs.
 
-Du kan se en lille video her af kortenes holdbarhed:
+Nordkisk Korthandel har lavet en Youtube-video her, hvor du kan få en fornemmelse af kortenes holdbarhed:
 
 {% include video provider="youtube" id="8Mab1GDTrgw" %}
 
-Du kan købe kortene direkte hos Nordisk Korthandel på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel har været så venlige at give mig en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
+Du kan købe cykelkortene online på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel har været så venlige at give mig en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
 
 Du kan tjekke den [aktuelle pris på alle kortene her](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel plejer at have et godt tilbud, hvis du vil købe alle cykelkortene på en gang.
 
