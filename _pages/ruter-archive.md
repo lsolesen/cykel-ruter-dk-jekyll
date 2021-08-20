@@ -8,12 +8,6 @@ redirect_from:
   - /ruter/
   - /cykelruter-oversigt/
 permalink: /cykelruter-danmark/
-tags:
-  - cykelruter
-  - cykelkort
-  - cykelguide
-  - cykelture
-  - cykelstier
 header:
   overlay_image: &image https://c.pxhere.com/photos/8e/b5/family_cycling_bike_landscape_summer_sky_north_sea_sylt-723487.jpg!d
   teaser: *image
