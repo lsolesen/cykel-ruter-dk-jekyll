@@ -140,13 +140,13 @@ Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor 
 
 Hvilket cykelkort du skal bruge til de nationale ruter afhænger naturligvis af, hvilken rute du gerne vil cykle.
 
-Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020){: rel="sponsored nofollow noopener" }, hvor et par af kortene dækker udvalgte danske nationale cykelruter.
+Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020){: rel="sponsored nofollow noopener" }, hvor et par af kortene dækker udvalgte danske nationale cykelruter. Kortene er skrevet på tysk.
+
+{% comment %}
 
 Bikelines kort dækker fire af de 11 nationalruter. Kortbøgerne sælges fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" } og dækker Nationalrute 1 Vestkystruten, Nationalrute 3: Hærvejsruten, Nationalrute 8: Østersøruten og i nogen udstrækning Nationalrute 9: Helsingør-Gedser.
 
 {% include feature_row type="left" id="gallery" caption="Link er reklamelinks" %}
-
-{% comment %}
 
 ## Værd at vide om Bikelines cykelkort
 
@@ -154,9 +154,9 @@ Bikelines kort dækker fire af de 11 nationalruter. Kortbøgerne sælges fra [No
 - I detaljeringsgrad udmærker kortene sig virkelig. Du får oplysninger om rutens underlag, seværdigheder undervejs, højdeprofiler, hvor langt der er mellem tingene, overnatningsmuligheder.
 - Kortene passer perfekt ned i de fleste cykelkortholdere. De er lavet i et aflangt format med spiralryg, og derfor går de ikke i stykker så let som kort, der skal foldes ind og ud. Papiret er også vandfast, hvilket er en kæmpe fordel med vores lidt uforudsigelige sommervejr.
 
-Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til de bedste cykelkort over Danmark](/cykelkort/).
-
 {% endcomment %}
+
+Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til de bedste cykelkort over Danmark](/cykelkort/).
 
 ## Læs mere nationalruterne hos Vejdirektoratet
 
