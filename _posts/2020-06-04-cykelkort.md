@@ -174,7 +174,7 @@ Der findes nogle forskellige cykelkort, der dækker Danmark. Der er et kort, der
 - Cykelkort Danmark i målestoksforholdet 1:500.000
 - Regionale cykelkort i målestoksforholdet 1:100.000
 
-Hvilket cykelkort du har brug for kommer selvfølgelig helt an på, hvad du skal skal. Jeg kan godt lide at bruge kortet over hele Danmark til at få et overblik over, hvor jeg gerne vil hen, og hvor langt der er.
+Hvilket cykelkort du har brug for kommer selvfølgelig helt an på, hvad du skal skal. Jeg kan godt lide at bruge kortet over hele Danmark til at få et overblik over, hvor jeg gerne vil hen, og hvor langt der er, når jeg [planlægger min cykelrute](/planlaegning-af-turen/).
 
 Når jeg skal afsted på selve turen, så foretrækker jeg de regionale kort, så jeg er mere sikker på, at jeg kan finde de rigtige cykelveje.
 
@@ -184,7 +184,7 @@ Cykelkortet er i målestok 1:500.000, og jeg bruger det hovedsageligt i planlæg
 
 {% include feature_row type="left" %}
 
-Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cykelsti, hvilket er ret vildt.
+Cykelkortet viser de 11 nationale og 160 regionale cykelruter og veje med cykelsti. Nordisk Korthandel skriver selv om kortet:
 
 > Danmarkskortet indeholder mange oplysninger, der er uundværlige på cykelferie i Danmark. På kortet er indtegnet nationale og regionale cykelruter, vej med cykelsti, vandrerhjem, campingpladser, turistinformationer mm.,og der er indtegnet et Eurovelo kort over de ruter, der går igennem Danmark. Informationer om de danske cykelregler er med. Der er over 160 regionale og 11 nationale ruter på kortet, og af nye ruter kan nævnes Kulturringen (Østjylland) og Vestegnsruten (København).
 >
@@ -201,7 +201,7 @@ Den nuværende udgave er udgivet i 2017, men der kommer en **ny udgave af cykelk
 
 {% endcomment %}
 
-Du kan [købe kortet hos Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Jeg synes prisen er rimelig for et kort af fin kvalitet. Selvom der er mange ruter på kortet, er det stadig overskueligt.
+Du kan købe kortet hos [Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Jeg synes prisen er rimelig for et kort af fin kvalitet. Selvom der er mange ruter på kortet, er det stadig overskueligt. Derfor kan det være en god hjælpe, hvis du skal [have overblik over din cykelferie](/cykelferie/) eller bare skal planlægge en [cykelrute på tværs af regioner](/cykelruter-danmark/).
 
 Hvis du vil planlægge din tur i detaljer, så synes jeg dog ikke, at oversigtskortet kan stå helt alene.
 
@@ -223,7 +223,7 @@ I det følgende kan du læse mine kommentarer til begge cykelkortserier.
 
 ## Nordisk Korthandels regionale cykelkort over Danmark
 
-Nordisk Korthandel laver også holdbare cykelkort, der er trykt på vandafvisende papir. De har udgivet cykelkortserien siden 2016.
+Nordisk Korthandel laver også holdbare cykelkort, der er trykt på vandafvisende papir. De har udgivet cykelkortserien siden 2016. Der findes også en cykelkortserie fra Legind, som ikke bliver opdateret længere. Du kan se kortene på [saxo.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort){: rel="sponsored nofollow noopener" }. Bikeline har en serie med tysksprogede kort, som du kan købe hos [Nordisk Korthandel](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020){: rel="sponsored nofollow noopener" }. Hvis du vil læse mere om cykelkort fra Legind og Bikeline, så kan du tjekke artiklen ud på [alleud.dk](https://alleud.dk/cykelkort-danmark-nye-kort-fra-2017-alt-hvad-du-boer-vide/).
 
 {% comment %}
 
@@ -237,7 +237,7 @@ Derudover kan du også på kortet finde nyttige oplysninger om badestrande, dagl
 
 {% endcomment %}
 
-Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man på kortet kan se, hvilket underlag ruterne følger. Det er rart at vide, om man skal cykle på asfalt eller grus. Selvom jeg anbefaler at tage en cykel på cykelferie, der kan håndtere begge dele, så kan komforten på grusveje betyde lidt både for tøjvalg og dækvalg.
+Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man på kortet kan se, hvilket underlag ruterne følger. Det er rart at vide, om man skal cykle på asfalt eller grus. Selvom jeg anbefaler at tage en cykel på cykelturen, der kan håndtere begge dele, så kan komforten på grusveje betyde lidt både for tøjvalg og dækvalg.
 
 Jeg synes prisen for kortene er rimelig, fordi de holder rigtig godt. Og det er helt sikkert rigtig fedt at have et godt kort, når man sidder og planlægger turen, men også for at sikre sig at man kører rigtigt undervejs.
 
