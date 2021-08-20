@@ -66,6 +66,8 @@ I Danmark findes der et unikt netværk af 11 nationale cykelruter på hele 4.233
 
 De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan de forbinder Danmark.
 
+{% comment %}
+
 ### Nord-sydgående ruter
 
 - National cykelrute 1: Vestkystruten, der følger Jyllands vestkyst
@@ -85,6 +87,8 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 - National cykelrute 8, Østersøruten – der har facon som et liggende ottetal og forbinder Syddanmarks øer og landsdele
 - National cykelrute 10, Bornholm Rundt – der følger kyststækningen hele øen rundt
 - National cykelrute 12, Limfjordsruten – der følger Limfjordens syd- og nordlige bredder fra Hals i Øst til Thyborøn i vest
+
+{% endcomment %}
 
 ## Oversigt over de danske nationalruter
 
@@ -142,6 +146,8 @@ Bikelines kort dækker fire af de 11 nationalruter. Kortbøgerne sælges fra [No
 
 {% include feature_row type="left" id="gallery" caption="Link er reklamelinks" %}
 
+{% comment %}
+
 ## Værd at vide om Bikelines cykelkort
 
 - Teksterne i Bikelines kortbøger er på tysk, men kortene er alligevel lette at bruge. På selve kortene er der jo ikke tekst, men her skal du aflæse vejene og landskabet.
@@ -149,6 +155,8 @@ Bikelines kort dækker fire af de 11 nationalruter. Kortbøgerne sælges fra [No
 - Kortene passer perfekt ned i de fleste cykelkortholdere. De er lavet i et aflangt format med spiralryg, og derfor går de ikke i stykker så let som kort, der skal foldes ind og ud. Papiret er også vandfast, hvilket er en kæmpe fordel med vores lidt uforudsigelige sommervejr.
 
 Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til de bedste cykelkort over Danmark](/cykelkort/).
+
+{% endcomment %}
 
 ## Læs mere nationalruterne hos Vejdirektoratet
 

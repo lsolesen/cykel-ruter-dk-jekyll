@@ -19,7 +19,9 @@ Danmark har mere end 1.000 km nedlagte jernbaner, som er lavet om til cykelruter
 I dette indlæg får du:
 
 - en beskrivelse af banestierne
-- hvor finder du banestierne, som du kan cykle på?
+- hvor finder du banestier, som du kan cykle på?
+
+{% comment %}
 
 ## Banestierne er perfekte til børnefamilier
 
@@ -27,9 +29,12 @@ Banestierne er et oplagt sted at starte dit cykeleventyr med børnene. Der er ne
 
 - **Banestierne er bilfri**
 Det er en fornøjelse at køre på de gamle banestier. Der er nemlig ikke adgang for biler! De fleste af cykelruterne på banestierne er lavet, så du kun sjældent kommer i kontakt med den øvrige trafik.
-
 - **Banestierne er flade - med meget få bakker**
 De gamle jernbanespor skar igennem landskabet med kun få hældninger. Det skyldes at det blev lettere for lokomotiverne at trække de tunge godsvogne, når de ikke skulle op ad bakkerne. Ruterne der følger de nedlagte jernbaner er derfor ret flade, og derfor er de egnet for alle.
+
+{% endcomment %}
+
+PÅ [alleud.dk](https://alleud.dk/banestier-danmark/) kan du læse endnu mere om banestier, og hvorfor de er oplagte til en cykeltur med børnene.
 
 ## Hvordan er belægningen på banestierne?
 
@@ -65,12 +70,14 @@ Herunder kan du se nogle af de beskrivelser, vi har lavet af banestier.
 </div>
 {% endif %}
 
+{% comment %}
+
 ## Hvad er de bedste banestier?
 
 ### Bedste banestier i Østjylland og Midtjylland
 
 - Silkeborg-Horsens (Bryrupbanestien)
-- Viborg-Herning (Alhedestien) 
+- Viborg-Herning (Alhedestien)
 - Vejle-Bindeballe (Bindeballestien)
 
 ### Fyns bedste banesti
@@ -81,8 +88,10 @@ Herunder kan du se nogle af de beskrivelser, vi har lavet af banestier.
 
 - Banestien Fodsporet fra Slagelse-Næstved-Skælskør
 
+{% endcomment %}
+
 ## Konklusion
 
-Ud over banestierne, så findes der også andre [cykelruter til børn]()
+Ud over banestierne, så findes der også andre [cykelruter til børn]({% link _posts/2020-06-08-cykelrute-born.md %})
 
 Kender du andre gode banestier i Danmark, som er værd at prøve?
