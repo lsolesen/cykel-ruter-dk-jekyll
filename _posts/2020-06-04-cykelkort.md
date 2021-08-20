@@ -161,9 +161,13 @@ Når du skal på cykeltur i Danmark, er det rigtig godt at kunne finde vej. Jeg 
 
 Hvad er et cykelkort? **Et cykelkort er et speciallavet kort med høj detaljeringsgrad, hvor cykelruterne er indtegnet. I Danmark er der 11 nationale cykelruter og virkelig mange regionale ruter og veje med cykelsti. På et godt cykelkort, kan du også finde markeringer af vandrehjem, campingpladser, turistinformationer og måske handlemuligheder. Sørg for at købe et holdbart kort.**
 
+{% comment %}
+
 Jeg har prøvet at samle alt, hvad du skal vide om cykelkort, der beskriver [Danmarks cykelruter]({% link _pages/ruter-archive.md %}). Et godt cykelkort er uundværligt, når du planlægger din tur, men også når du er ude på din tur.
 
 Jeg kommer også med nogle fif til, hvordan du finder vej, mens du er på cyklen uden at det er alt for bøvlet.
+
+{% endcomment %}
 
 Der findes nogle forskellige cykelkort, der dækker Danmark. Der er et kort, der dækker hele Danmark, og så er der nogle regionale cykelkort, der dækker dele af Danmark.
 
@@ -191,9 +195,13 @@ Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cyke
 
 Ud over at indeholde et Danmarks-kort, så er der også et [kort over Storkøbenhavn og cykelruterne i København]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}) i målestokforholdet 1:35.000.
 
+{% comment %}
+
 Den nuværende udgave er udgivet i 2017, men der kommer en **ny udgave af cykelkortet i maj 2021**. De seneste par år er der lavet enkelt omlægninger på nogle cykelruter, og derfor kan man ikke være helt sikker på, at alle ruterne er rigtige i den nuværende udgave af kortet. Derfor glæder jeg mig til den nye udgave kommer.
 
-Du kan [købe kortet hos Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Jeg synes helt sikkert, at prisen er rimelig for et kort af fin kvalitet - og selvom der er mange ruter på kortet, synes jeg stadig, at det er overskueligt.
+{% endcomment %}
+
+Du kan [købe kortet hos Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Jeg synes prisen er rimelig for et kort af fin kvalitet. Selvom der er mange ruter på kortet, er det stadig overskueligt.
 
 Hvis du vil planlægge din tur i detaljer, så synes jeg dog ikke, at oversigtskortet kan stå helt alene.
 

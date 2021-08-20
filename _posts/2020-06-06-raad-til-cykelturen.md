@@ -176,7 +176,7 @@ Du kan sagtens tage på cykelferie og cykeltur med børn også.
 
 Hvis børnene er yngre kan du tage cykelanhænger med eller barnestol. Du kan også få cykelanhænger, hvor du kan have en babylift i.
 
-Når børnene bliver ældre, så kan de sagtens køre rimelig langt selv. Det hele handler om, hvor øvede børnene er, og hvor stor lyst de har til at cykle. Et barn på 8 kan normalt sagtens køre 30 km, og fra 12 år kan man køre lige så langt som de voksne. Jeg har skrevet lidt mere om, [hvor langt børn kan cykle i et andet indlæg](/barn-cykle-langt/).
+Når børnene bliver ældre, så kan børnene sagtens køre rimelig langt selv. Det hele handler om, hvor øvede børnene er, og hvor stor lyst de har til at cykle. Et barn på 8 kan normalt sagtens køre 30 km, og fra 12 år kan man køre lige så langt som de voksne. Jeg har skrevet lidt mere om, [hvor langt børn kan cykle i et andet indlæg](/barn-cykle-langt/).
 
 Du skal naturligvis tænke over, hvordan cyklen passer barnet. Hvis cyklen er for stor, giver det dårlig kontrol. Hvis den er for lille bliver det hurtigt meget hårdt i benene.
 
