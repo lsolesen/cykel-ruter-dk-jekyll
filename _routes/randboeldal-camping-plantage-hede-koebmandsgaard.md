@@ -4,9 +4,7 @@ permalink: /rute/randboeldal-camping-plantage-hede-koebmandsgaard/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
-  overlay_image: &image https://www.dcu.dk/sites/default/files/styles/slide/public/randboeldal.jpg?itok=HOYn2OGg
-  teaser: *image
-  caption: "Billede fra dcu.dk"
+  teaser: https://images.unsplash.com/photo-1580978611222-9898f853e74d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80
 category:
   - VisitVejle Cykelguide
 tags:
@@ -38,7 +36,7 @@ Fra Gl. Randbølvej følger vi den blå pil og drejer østpå ad Nordre Hestedal
 
 Følg igen ruten og de blå pile mod den gamle skovvej i Springbjerg Plantage og videre ud mod Hærvejen. Vi drejer til højre og følger Hærvejen omkring 50 meter, inden vi drejer til venstre ned ad sidevejen mod Springbjerglund. Nu går turen mod Bindeballe, hvor vi kan besøge det levende museum Bindeballe Købmandsgård. Butikken har været i drift siden 1897 og er virkelig et besøg værd.
 
-Herfra kører vi videre mod Bindeballe og Randbøldal ad asfaltvejen. Her passerer vi et hedeområde med klitter og Bindeballe Sø. Uden for Bindeballegård står der en lille sten ved vejen, der stammer helt tilbage fra landboreformen i 1700-tallet. På stenen er der en inskription fra den nye selvbevidste bondestand. 
+Herfra kører vi videre mod Bindeballe og Randbøldal ad asfaltvejen. Her passerer vi et hedeområde med klitter og Bindeballe Sø. Uden for Bindeballegård står der en lille sten ved vejen, der stammer helt tilbage fra landboreformen i 1700-tallet. På stenen er der en inskription fra den nye selvbevidste bondestand.
 
 Tilbage i Randbøldal er det måske tid til at stille cyklen for i dag og i stedet besøge Randbøldal-museet, som fortæller om Randbøldals storhedstid i 1700-tallet i forbindelse med anlæggelsen af papirfabrikken, som indledte den jyske industrielle revolution baseret på vandkraft. Når det er gjort, kan vi slutte dagen på kroen.
 
