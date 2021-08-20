@@ -237,7 +237,7 @@ Derudover kan du også på kortet finde nyttige oplysninger om badestrande, dagl
 
 {% endcomment %}
 
-Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man på kortet kan se, hvilket underlag ruterne følger. Det er rart at vide, om man skal cykle på asfalt eller grus. Selvom jeg anbefaler at tage på cykelferie, der kan håndtere begge dele, så kan komforten på grusveje betyde lidt både for tøjvalg og dækvalg.
+Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man på kortet kan se, hvilket underlag ruterne følger. Det er rart at vide, om man skal cykle på asfalt eller grus. Selvom jeg anbefaler at tage en cykel på cykelferie, der kan håndtere begge dele, så kan komforten på grusveje betyde lidt både for tøjvalg og dækvalg.
 
 Jeg synes prisen for kortene er rimelig, fordi de holder rigtig godt. Og det er helt sikkert rigtig fedt at have et godt kort, når man sidder og planlægger turen, men også for at sikre sig at man kører rigtigt undervejs.
 
@@ -287,7 +287,7 @@ Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanm
 
 ## Har jeg også brug for guidebøger til cykelturen?
 
-Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. Jeg synes det kan være ret inspirerende at læse gennem guidebøger for at få lidt ideer om, hvilken rute, man skal vælge. Du kan naturligvis efterhånden også finde en del informationer om forskellige ruter online.
+Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. Jeg synes det kan være ret inspirerende at læse guidebøger for at få lidt ideer til, hvilken rute man skal vælge. Du kan naturligvis efterhånden også finde en del informationer om forskellige ruter online.
 
 Nordisk Korthandel har faktisk udgivet tre cykelguidebøger i forbindelse med deres cykelkortserie. Cykelguiden er skrevet af Jens Erik Larsen, og de giver nogle forskellige turforslag til cykelture på Sjælland, Fyn og øerne.
 
@@ -341,7 +341,7 @@ Du kan finde mange af de regionale cykelruter i cykelkortene præsenteret på de
 
 Men husk uanset om du bruger lidt moderne teknologi til at hjælpe dig med stedsansen, så bør du have et cykelkort med på cykelturen eller -ferien. Hvis teknologien eller batteriet svigter, eller du vil have et lidt større overblik, så er et kort uundværligt.
 
-I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste cykelkort over Danmark på markedet, og de kan holde til flere end bare en cykeltur.
+I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste cykelkort over Danmark på markedet, og de kan holde til flere end bare en enkelt cykeltur.
 
 **Hvis du er medlem af Cyklistforbundet, så kan du bruge koden ’D8C2F5dk’ og få 15% rabat, når du køber cykelkort fra [scanmaps.dk](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020){: rel="sponsored nofollow noopener" }.**
 
