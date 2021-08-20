@@ -161,13 +161,9 @@ Når du skal på cykeltur i Danmark, er det rigtig godt at kunne finde vej. Jeg 
 
 Hvad er et cykelkort? **Et cykelkort er et speciallavet kort med høj detaljeringsgrad, hvor cykelruterne er indtegnet. I Danmark er der 11 nationale cykelruter og virkelig mange regionale ruter og veje med cykelsti. På et godt cykelkort, kan du også finde markeringer af vandrehjem, campingpladser, turistinformationer og måske handlemuligheder. Sørg for at købe et holdbart kort.**
 
-{% comment %}
-
 Jeg har prøvet at samle alt, hvad du skal vide om cykelkort, der beskriver [Danmarks cykelruter]({% link _pages/ruter-archive.md %}). Et godt cykelkort er uundværligt, når du planlægger din tur, men også når du er ude på din tur.
 
 Jeg kommer også med nogle fif til, hvordan du finder vej, mens du er på cyklen uden at det er alt for bøvlet.
-
-{% endcomment %}
 
 Der findes nogle forskellige cykelkort, der dækker Danmark. Der er et kort, der dækker hele Danmark, og så er der nogle regionale cykelkort, der dækker dele af Danmark.
 
@@ -231,7 +227,7 @@ Nordisk Korthandels cykelkort opdateres stadig. Kortene fylder lidt mindre end L
 
 Cykelkortet fra Nordisk Korthandel kommer ikke i et hylster, men det har jeg ikke selv savnet. Jeg synes kortet er i rigtig god kvalitet, og jeg har ikke oplevet, at det er gået i stykker, så længe jeg behandler det ordentligt på turen.
 
-På de regionale cykelkort fra Nordisk Korthandel kan du finde nationale, regionale og lokale cykelruter. Der er også en række overnatningsmuligheder afbilledet på korte, så du kan finde vandrerhjem, campingpladser og andre overnatningsmuligheder langs din rute.
+På de regionale cykelkort fra Nordisk Korthandel kan du finde nationale, regionale og lokale cykelruter. Der er også en række overnatningsmuligheder afbilledet på kortene, så du kan finde vandrerhjem, campingpladser og andre overnatningsmuligheder langs din rute.
 
 Derudover kan du også på kortet finde nyttige oplysninger om badestrande, dagligvarebtikker, vejkirker, rastepladser. Det er virkelig fedt, at man fx på kortet har et overblik over, hvor man kan købe lidt ind undervejs i forhold til, hvor man evt. vil overnatte på cykelturen.
 
@@ -241,7 +237,7 @@ Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man p�
 
 Jeg synes prisen for kortene er rimelig, fordi de holder rigtig godt. Og det er helt sikkert rigtig fedt at have et godt kort, når man sidder og planlægger turen, men også for at sikre sig at man kører rigtigt undervejs.
 
-Nordkisk Korthandel har lavet en Youtube-video her, hvor du kan få en fornemmelse af kortenes holdbarhed:
+Nordisk Korthandel har lavet en Youtube-video her, hvor du kan få en fornemmelse af kortenes holdbarhed:
 
 {% include video provider="youtube" id="8Mab1GDTrgw" %}
 
@@ -289,7 +285,7 @@ Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanm
 
 Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. Jeg synes det kan være ret inspirerende at læse guidebøger for at få lidt ideer til, hvilken rute man skal vælge. Du kan naturligvis efterhånden også finde en del informationer om forskellige ruter online.
 
-Nordisk Korthandel har faktisk udgivet tre cykelguidebøger i forbindelse med deres cykelkortserie. Cykelguiden er skrevet af Jens Erik Larsen, og de giver nogle forskellige turforslag til cykelture på Sjælland, Fyn og øerne.
+Nordisk Korthandel har udgivet tre cykelguidebøger i forbindelse med deres cykelkortserie. Cykelguiden er skrevet af Jens Erik Larsen, og de giver nogle forskellige turforslag til cykelture på Sjælland, Fyn og øerne.
 
 Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan købe guidebøgerne alene. Tjek prisen ud på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" } ved at klikke på den bog, du er interesseret i nedenunder.
 
@@ -299,19 +295,15 @@ Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan kø
 
 Første gang jeg var på en længere cykelferie, så lavede jeg den fejl, at jeg ikke havde et rigtig godt sted at opbevare kortet, så det samtidig var let tilgængeligt ved de små usikkerheder, man støder på undervejs.
 
-{% comment %}
-
 Man bliver hurtig træt af at stoppe hele tiden for at hive kortet frem og tjekke ruten. Man kan få styrtasker, hvor der er en kortlomme øverst. På den måde kan du tjekke kortet undervejs.
 
 Ofte bliver du imidlertid nødt til at folde kortet på en uhensigtsmæssig måde, hvis du hele tiden vil kunne se ruten lige nu. Hvis jeg har givet mere end 100 kroner for et kort er jeg lidt tilbageholdende med “fejlfoldninger”, så **tager jeg ofte en kopi af hjemmefra**. Så bruger jeg kopien som det let tilgængelige kort.
 
 Jeg har også flere gange brugt en kortholder, som man bruger til adventurerace. Den er let at montere på cyklen og er netop lavet til at holde et kort, som skal være let tilgængeligt. Det er virkelig dejligt med en kortholder, så man ikke hele tiden skal have kortet op og ned af tasken.
 
-Cykelpartner.dk har jeg ret [smart kortholder fra Klickfix](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/kortholder-gpsholder-mm/klickfix---freeliner---kortholder-){: rel="sponsored nofollow noopener" }. Jeg er faktisk overrasket over, hvor billig en kortholder er. Du kan også tjekke alle [Cykelpartners kortholdere](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/search/?query=kortholder){: rel="sponsored nofollow noopener" }.
+Jeg er faktisk overrasket over, hvor [billig en kortholder er](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/kortholder-gpsholder-mm/klickfix---freeliner---kortholder-){: rel="sponsored nofollow noopener" }. Du kan også tjekke alle [Cykelpartners kortholdere her](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/search/?query=kortholder){: rel="sponsored nofollow noopener" }.
 
 Hvis du helt vil undgå kortet, så læs mit næste _mest geniale_ råd.
-
-{% endcomment %}
 
 ## Tegn din cykelrute med GPS
 
