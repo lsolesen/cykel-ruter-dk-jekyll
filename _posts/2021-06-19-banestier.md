@@ -8,7 +8,6 @@ header:
   caption: *title
 tags:
   - banestier
-  - featured
 category:
   - Cykelruter
 last_modified_at: 2021-06-18T12:21:26Z
