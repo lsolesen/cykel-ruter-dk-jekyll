@@ -34,7 +34,7 @@ Du kan starte cykelturen ved Thyborøn Havn, der giver et indblik et af byens vi
 Herfra kører køres sydpå ned ad Harboøre Tange, der er fredet for at sikre de lave strandenge og rige fugleliv. Du kommer forbi Flyvholm, som var en af Danmarks første redningsstationer og nu er indrettet som museum. I stenalderen ville du have haft behov for en vandcykel for at køre her, da vandet dengang gik helt ind til skrænterne ved Engbjerg Kirke.
 
 Landet har senere hævet sig, og et af resultaterne er Ferring Sø. I Ferring kan du se et museum med maleren, Jens Søndergårds, malerier, der er inspireret af udsigten over havet og de bratte lerskrænter omkring Bovbjerg. En kort afstikker til Bovbjerg Fyr gør oplevelsen komplet. Herfra kan du se de høfder, hvoraf de tidligste blev bygget i 1875, som skal beskytte kysten mod yderligere nedbrydning. Ved fyret ligger den velbevarede bronzealderhøj, Hesthøj.
- 
+
 Mellem Bovbjerg og Husby Klitplantage kommer du igennem Trans, Fjaltring og Torsminde, som er nærmere beskrevet under den regionale cykelrute 17 (Nissum Fjord Rundt).
 
 Efter Husby nærmer du dig Vest Stadil Fjord, der nu er fredet. I midten af 1800-tallet blev fjorden afvandet til landbrugsjord, men den nordlige del af området er ved at blive genoprettet, og vandstanden er stadig stigende. Fjorden har international betydning som rasteplads for gæs, ænder og svaner. Fortsæt herfra til Søndervig, som er en attraktiv badeby. Ikke så langt fra byen ligger den lille landsby, Kloster, hvor du bl.a. selv kan dyppe stearinlys.
@@ -69,7 +69,7 @@ Jeg har også lavet en samlet [rutebeskrivelse af Vestkyststien]({% link _routes
 
 ## Links til Vestkystruten
 
-- [Vestkystruten](http://vestkystruten.dk/da/forside/)
+- [Vestkystruten](https://vestkystruten.dk/)
 
 ## Kort over {{ page.title }}
 

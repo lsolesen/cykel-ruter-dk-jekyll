@@ -15,7 +15,7 @@ category:
   - Cykelruter
 last_modified_at: 2021-06-18T12:21:26Z
 feature_row:
-  - url: https://www.visitfyn.dk/fyn/cycling-holiday/cykelferie/bike-island-ruten-og-ostersoruten-forer-dig-fyn-og-ohavet-rundt
+  - url: https://www.visitfyn.dk/fyn/outdoor-og-bike/oestersoeruten-paa-fyn
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Cykelruter på Fyn"
     alt: "Cykelruter på Fyn"

@@ -66,6 +66,8 @@ I Danmark findes der et unikt netværk af 11 nationale cykelruter på hele 4.233
 
 De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan de forbinder Danmark.
 
+{% comment %}
+
 ### Nord-sydgående ruter
 
 - National cykelrute 1: Vestkystruten, der følger Jyllands vestkyst
@@ -85,6 +87,8 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 - National cykelrute 8, Østersøruten – der har facon som et liggende ottetal og forbinder Syddanmarks øer og landsdele
 - National cykelrute 10, Bornholm Rundt – der følger kyststækningen hele øen rundt
 - National cykelrute 12, Limfjordsruten – der følger Limfjordens syd- og nordlige bredder fra Hals i Øst til Thyborøn i vest
+
+{% endcomment %}
 
 ## Oversigt over de danske nationalruter
 
@@ -136,7 +140,9 @@ Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor 
 
 Hvilket cykelkort du skal bruge til de nationale ruter afhænger naturligvis af, hvilken rute du gerne vil cykle.
 
-Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020){: rel="sponsored nofollow noopener" }, hvor et par af kortene dækker udvalgte danske nationale cykelruter.
+Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020){: rel="sponsored nofollow noopener" }, hvor et par af kortene dækker udvalgte danske nationale cykelruter. Kortene er skrevet på tysk.
+
+{% comment %}
 
 Bikelines kort dækker fire af de 11 nationalruter. Kortbøgerne sælges fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" } og dækker Nationalrute 1 Vestkystruten, Nationalrute 3: Hærvejsruten, Nationalrute 8: Østersøruten og i nogen udstrækning Nationalrute 9: Helsingør-Gedser.
 
@@ -147,6 +153,8 @@ Bikelines kort dækker fire af de 11 nationalruter. Kortbøgerne sælges fra [No
 - Teksterne i Bikelines kortbøger er på tysk, men kortene er alligevel lette at bruge. På selve kortene er der jo ikke tekst, men her skal du aflæse vejene og landskabet.
 - I detaljeringsgrad udmærker kortene sig virkelig. Du får oplysninger om rutens underlag, seværdigheder undervejs, højdeprofiler, hvor langt der er mellem tingene, overnatningsmuligheder.
 - Kortene passer perfekt ned i de fleste cykelkortholdere. De er lavet i et aflangt format med spiralryg, og derfor går de ikke i stykker så let som kort, der skal foldes ind og ud. Papiret er også vandfast, hvilket er en kæmpe fordel med vores lidt uforudsigelige sommervejr.
+
+{% endcomment %}
 
 Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til de bedste cykelkort over Danmark](/cykelkort/).
 

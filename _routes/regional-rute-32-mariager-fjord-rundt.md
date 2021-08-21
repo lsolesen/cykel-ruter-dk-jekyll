@@ -6,9 +6,7 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
 header:
-  overlay_image: &image https://usercontent.one/wp/mariager-havn.dk/wp-content/uploads/2020/01/stemningmariager-2000x1200-1.jpg
-  caption: "Stemningsbillede Mariager - mariager-havn.dk"
-  teaser: *image
+  teaser: https://images.unsplash.com/photo-1470920456752-d50214d7ed59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80
 category:
   - Regional Cykelrute
 tags:

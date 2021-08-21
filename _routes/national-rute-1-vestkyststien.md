@@ -25,7 +25,7 @@ rubble: 168
 #  id: https://www.alltrails.com/widget/map/map--50487
 #  url: https://www.alltrails.com/explore/map/map--50487
 feature_row:
-  - url: http://vestkystruten.dk/da/forside/
+  - url: https://vestkystruten.dk/
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
     title: "Vestkystruten"
     alt: "Vestkystruten"
@@ -61,7 +61,7 @@ Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, de
 
 ## Links til Vestkystruten
 
-- [Vestkystruten](http://vestkystruten.dk/da/forside/)
+- [Vestkystruten](https://vestkystruten.dk/)
 
 ## Kort over {{ page.title }}
 

@@ -7,6 +7,7 @@ category:
 excerpt: "Planlægger du en cykeltur efter lange, hårde, store og stejle bakker, så er der en guide til de længste, hårdeste, største og stejleste cykelbakker for at få så mange højdemeter i benene som muligt."
 tags:
   - cykelbakker
+  - featured
 last_modified_at: 2019-04-26T16:59:01Z
 header:
   overlay_image: https://images.jfmedier.dk/images/5/5f/5fb/5fb9ebfc-88c5-4353-a06b-097b161f1df6_1_90_0_0_3264_2448_1440_1080_6cc59a4a.jpg

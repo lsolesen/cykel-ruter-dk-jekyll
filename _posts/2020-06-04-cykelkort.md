@@ -170,17 +170,17 @@ Der findes nogle forskellige cykelkort, der dækker Danmark. Der er et kort, der
 - Cykelkort Danmark i målestoksforholdet 1:500.000
 - Regionale cykelkort i målestoksforholdet 1:100.000
 
-Hvilket cykelkort du har brug for kommer selvfølgelig helt an på, hvad du skal skal. Jeg kan godt lide at bruge kortet over hele Danmark til at få et overblik over, hvor jeg gerne vil hen, og hvor langt der er.
+Hvilket cykelkort du har brug for kommer selvfølgelig helt an på, hvad du skal skal. Jeg kan godt lide at bruge kortet over hele Danmark til at få et overblik over, hvor jeg gerne vil hen, og hvor langt der er, når jeg [planlægger min cykelrute](/planlaegning-af-turen/).
 
 Når jeg skal afsted på selve turen, så foretrækker jeg de regionale kort, så jeg er mere sikker på, at jeg kan finde de rigtige cykelveje.
 
 ## Cykelkort Danmark er et oversigtskort
 
-Cykelkortet er i målestok 1:500.000, og jeg bruger det hovedsageligt i planlægningsfasen for at få et overblik over det samlede cykelrutenet.
+Cykelkortet viser de 11 nationale og 160 regionale cykelruter og veje med cykelsti. _Cykelkort Danmark_ er i lavet i målestoksforholdet 1:500.000. Det gør det velegnet særligt i planlægningsfasen til at skabe et overblik over det samlede cykelrutenet i Danmark.
 
 {% include feature_row type="left" %}
 
-Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cykelsti, hvilket er ret vildt.
+Nordisk Korthandel skriver selv om kortet:
 
 > Danmarkskortet indeholder mange oplysninger, der er uundværlige på cykelferie i Danmark. På kortet er indtegnet nationale og regionale cykelruter, vej med cykelsti, vandrerhjem, campingpladser, turistinformationer mm.,og der er indtegnet et Eurovelo kort over de ruter, der går igennem Danmark. Informationer om de danske cykelregler er med. Der er over 160 regionale og 11 nationale ruter på kortet, og af nye ruter kan nævnes Kulturringen (Østjylland) og Vestegnsruten (København).
 >
@@ -189,17 +189,23 @@ Cykelkortet viser hele 11 nationale og 160 regionale cykelruter og veje med cyke
 
 --- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }</cite>
 
-Ud over at indeholde et Danmarks-kort, så er der også et [kort over Storkøbenhavn og cykelruterne i København]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}) i målestokforholdet 1:35.000.
+Ud over Danmarks-kortet, så er der også et [kort over cykelruterne i København og Storkøbenhavn]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}). Dette mere detaljerede korte er lavet i målestok 1:35.000.
+
+{% comment %}
 
 Den nuværende udgave er udgivet i 2017, men der kommer en **ny udgave af cykelkortet i maj 2021**. De seneste par år er der lavet enkelt omlægninger på nogle cykelruter, og derfor kan man ikke være helt sikker på, at alle ruterne er rigtige i den nuværende udgave af kortet. Derfor glæder jeg mig til den nye udgave kommer.
 
-Du kan [købe kortet hos Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Jeg synes helt sikkert, at prisen er rimelig for et kort af fin kvalitet - og selvom der er mange ruter på kortet, synes jeg stadig, at det er overskueligt.
+{% endcomment %}
+
+Du kan købe kortet hos [Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Jeg synes prisen er rimelig for et kort af fin kvalitet. Selvom der er mange ruter på kortet, er det stadig overskueligt. Derfor kan det være en god hjælpe, hvis du skal [have overblik over din cykelferie](/cykelferie/) eller bare skal planlægge en [cykelrute på tværs af regioner](/cykelruter-danmark/).
 
 Hvis du vil planlægge din tur i detaljer, så synes jeg dog ikke, at oversigtskortet kan stå helt alene.
 
 (Det har jeg prøvet en gang, og det blev et rigtig godt eventyr i Polen, men også nogle rigtig lange dage på cyklen, fordi det også er lidt vanskeligere at finde afstandene helt præcist på oversigtskort.)
 
 Så er det bedre at finde et regionalt cykelkort, som har et lidt mindre målestoksforhold.
+
+{% comment %}
 
 ## Regionale cykelkort fra Danmark
 
@@ -209,27 +215,33 @@ Du kan stadig købe begge serier af regionale cykelkort, men Legind og Cyklistfo
 
 I det følgende kan du læse mine kommentarer til begge cykelkortserier.
 
+{% endcomment %}
+
 ## Nordisk Korthandels regionale cykelkort over Danmark
 
-Nordisk Korthandel laver også holdbare cykelkort, der er trykt på vandafvisende papir. De har udgivet cykelkortserien siden 2016.
+Nordisk Korthandel laver også holdbare cykelkort, der er trykt på vandafvisende papir. De har udgivet cykelkortserien siden 2016. Der findes også en cykelkortserie fra Legind, som ikke bliver opdateret længere. Du kan se kortene på [saxo.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelkort){: rel="sponsored nofollow noopener" }. Bikeline har en serie med tysksprogede kort, som du kan købe hos [Nordisk Korthandel](https://www.scanmaps.dk/catalogsearch/result/?q=bikeline&G=020){: rel="sponsored nofollow noopener" }. Hvis du vil læse mere om cykelkort fra Legind og Bikeline, så kan du tjekke artiklen ud på [alleud.dk](https://alleud.dk/cykelkort-danmark-nye-kort-fra-2017-alt-hvad-du-boer-vide/).
+
+{% comment %}
 
 Nordisk Korthandels cykelkort opdateres stadig. Kortene fylder lidt mindre end Leginds cykelkort, nemlig 12,5 cm x 17,5 cm.
 
 Cykelkortet fra Nordisk Korthandel kommer ikke i et hylster, men det har jeg ikke selv savnet. Jeg synes kortet er i rigtig god kvalitet, og jeg har ikke oplevet, at det er gået i stykker, så længe jeg behandler det ordentligt på turen.
 
-På de regionale cykelkort fra Nordisk Korthandel kan du finde nationale, regionale og lokale cykelruter. Der er også en række overnatningsmuligheder afbilledet på korte, så du kan finde vandrerhjem, campingpladser og andre overnatningsmuligheder langs din rute.
+På de regionale cykelkort fra Nordisk Korthandel kan du finde nationale, regionale og lokale cykelruter. Der er også en række overnatningsmuligheder afbilledet på kortene, så du kan finde vandrerhjem, campingpladser og andre overnatningsmuligheder langs din rute.
 
 Derudover kan du også på kortet finde nyttige oplysninger om badestrande, dagligvarebtikker, vejkirker, rastepladser. Det er virkelig fedt, at man fx på kortet har et overblik over, hvor man kan købe lidt ind undervejs i forhold til, hvor man evt. vil overnatte på cykelturen.
 
-Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man på kortet kan se, hvilket underlag ruterne følger. Det er rart at vide, om man skal cykle på asfalt eller grus. Selvom jeg anbefaler at tage på cykelferie, der kan håndtere begge dele, så kan komforten på grusveje betyde lidt både for tøjvalg og dækvalg.
+{% endcomment %}
+
+Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man på kortet kan se, hvilket underlag ruterne følger. Det er rart at vide, om man skal cykle på asfalt eller grus. Selvom jeg anbefaler at tage en cykel på cykelturen, der kan håndtere begge dele, så kan komforten på grusveje betyde lidt både for tøjvalg og dækvalg.
 
 Jeg synes prisen for kortene er rimelig, fordi de holder rigtig godt. Og det er helt sikkert rigtig fedt at have et godt kort, når man sidder og planlægger turen, men også for at sikre sig at man kører rigtigt undervejs.
 
-Du kan se en lille video her af kortenes holdbarhed:
+Nordisk Korthandel har lavet en Youtube-video her, hvor du kan få en fornemmelse af kortenes holdbarhed:
 
 {% include video provider="youtube" id="8Mab1GDTrgw" %}
 
-Du kan købe kortene direkte hos Nordisk Korthandel på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel har været så venlige at give mig en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
+Du kan købe cykelkortene online på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel har været så venlige at give mig en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
 
 Du kan tjekke den [aktuelle pris på alle kortene her](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel plejer at have et godt tilbud, hvis du vil købe alle cykelkortene på en gang.
 
@@ -242,6 +254,8 @@ Jeg har angivet på listen, hvornår kortet senest er opdateret.
 {% endfor %}
 
 {% include gallery id="scanmaps" layout="fourth" caption="Find dit cykelkort hos vores samarbejdspartner [Nordisk Korthandel](http://www.scanmaps.dk?G=020){: rel='sponsored nofollow noopener' }. Links er reklamelinks." %}
+
+{% comment %}
 
 ## Legind og Cyklistforbundets 8 regionale cykelkort
 
@@ -265,11 +279,13 @@ Forlaget Estebauer producerer en serie af cykelkort [Bikeline](https://www.scanm
 - I detaljeringsgrad udmærker kortene sig virkelig. Du får oplysninger om rutens underlag, seværdigheder undervejs, højdeprofiler, hvor langt der er mellem tingene, overnatningsmuligheder.
 - Kortene passer perfekt ned i de fleste cykelkortholdere. De er lavet i et aflangt format med spiralryg, og derfor går de ikke i stykker så let som kort, der skal foldes ind og ud. Papiret er også vandfast, hvilket er en kæmpe fordel med vores lidt uforudsigelige sommervejr.
 
+{% endcomment %}
+
 ## Har jeg også brug for guidebøger til cykelturen?
 
-Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. Jeg synes det kan være ret inspirerende at læse gennem guidebøger for at få lidt ideer om, hvilken rute, man skal vælge. Du kan naturligvis efterhånden også finde en del informationer om forskellige ruter online.
+Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. Jeg synes det kan være ret inspirerende at læse guidebøger for at få lidt ideer til, hvilken rute man skal vælge. Du kan naturligvis efterhånden også finde en del informationer om forskellige ruter online.
 
-Nordisk Korthandel har faktisk udgivet tre cykelguidebøger i forbindelse med deres cykelkortserie. Cykelguiden er skrevet af Jens Erik Larsen, og de giver nogle forskellige turforslag til cykelture på Sjælland, Fyn og øerne.
+Nordisk Korthandel har udgivet tre cykelguidebøger i forbindelse med deres cykelkortserie. Cykelguiden er skrevet af Jens Erik Larsen, og de giver nogle forskellige turforslag til cykelture på Sjælland, Fyn og øerne.
 
 Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan købe guidebøgerne alene. Tjek prisen ud på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" } ved at klikke på den bog, du er interesseret i nedenunder.
 
@@ -285,7 +301,7 @@ Ofte bliver du imidlertid nødt til at folde kortet på en uhensigtsmæssig måd
 
 Jeg har også flere gange brugt en kortholder, som man bruger til adventurerace. Den er let at montere på cyklen og er netop lavet til at holde et kort, som skal være let tilgængeligt. Det er virkelig dejligt med en kortholder, så man ikke hele tiden skal have kortet op og ned af tasken.
 
-Cykelpartner.dk har jeg ret [smart kortholder fra Klickfix](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/kortholder-gpsholder-mm/klickfix---freeliner---kortholder-){: rel="sponsored nofollow noopener" }. Jeg er faktisk overrasket over, hvor billig en kortholder er. Du kan også tjekke alle [Cykelpartners kortholdere](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/search/?query=kortholder){: rel="sponsored nofollow noopener" }.
+Jeg er faktisk overrasket over, hvor [billig en kortholder er](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/kortholder-gpsholder-mm/klickfix---freeliner---kortholder-){: rel="sponsored nofollow noopener" }. Du kan også tjekke alle [Cykelpartners kortholdere her](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/search/?query=kortholder){: rel="sponsored nofollow noopener" }.
 
 Hvis du helt vil undgå kortet, så læs mit næste _mest geniale_ råd.
 
@@ -317,7 +333,7 @@ Du kan finde mange af de regionale cykelruter i cykelkortene præsenteret på de
 
 Men husk uanset om du bruger lidt moderne teknologi til at hjælpe dig med stedsansen, så bør du have et cykelkort med på cykelturen eller -ferien. Hvis teknologien eller batteriet svigter, eller du vil have et lidt større overblik, så er et kort uundværligt.
 
-I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste cykelkort over Danmark på markedet, og de kan holde til flere end bare en cykeltur.
+I øjeblikket synes jeg regionalkortene fra Nordisk Korthandel er det de bedste cykelkort over Danmark på markedet, og de kan holde til flere end bare en enkelt cykeltur.
 
 **Hvis du er medlem af Cyklistforbundet, så kan du bruge koden ’D8C2F5dk’ og få 15% rabat, når du køber cykelkort fra [scanmaps.dk](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort+danmark&G=020){: rel="sponsored nofollow noopener" }.**
 
