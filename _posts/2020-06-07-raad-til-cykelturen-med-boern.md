@@ -45,7 +45,9 @@ Det viser sig næsten altid, at de kan klare meget mere, end de selv tror. De ka
 Det kan godt være, at børnene klager lidt og brokker sig, men de kan også være tålmodige og stædige. Hvis vi sammen skal forcere den næste bakketop, inden vi kan slå lejr, så kan de rejse sig op i pedalerne. Hvis det regner, så kan det være dem, der synes det er helt vildt fedt (og dig der må bekymre dig om, hvordan tøjet nu skal tørre igen).
 
 Hvis man tror på børnene og bakker dem op, så kan de klare de fleste udfordringer. Og du kan bruge de tidligere oplevelser til at trække børnene gennem nye udfordringer, som de har besluttet sig for, at “de ikke kan”. 
- 
+
+{% comment %}
+
 ## 3) Børn elsker tid med forældrene
 
 En cykelferie er en unik mulighed for at være sammen i familien. Vi er sammen om et fælles projekt, men ofte på ret lidt plads.
@@ -57,6 +59,8 @@ På cykelturen er man hele tiden indstillet på hinanden, og man kan følge hina
 Cykelferien er et rum, hvor I kan få nærvær, spille kort, lege sammen, snakke sammen, slappe af sammen, kigge ud i det uendelige sammen. I kan også læse sammen - i hver jeres bog - eller bare være sammen. Mulighederne er uendelige, hvis I bare er i det. 
 
 Så drop elektroniske hjælpemidler, men gå _off the grid_ på jeres cykeltur og skru op for jeres fælles nærvær.
+
+{% endcomment %}
 
 ## 4) Afpas jeres forventninger
 
