@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "16 tips og råd til cykelturen og cykelferien fra en ekspert"
+title: "15 tips og råd til cykelturen og cykelferien"
+seo_title: "15 tips og råd til cykelturen og cykelferien fra en ekspert"
 permalink: /raad-til-cykelturen/
 category:
   - Planlægning
@@ -176,7 +177,7 @@ Du kan sagtens tage på cykelferie og cykeltur med børn også.
 
 Hvis børnene er yngre kan du tage cykelanhænger med eller barnestol. Du kan også få cykelanhænger, hvor du kan have en babylift i.
 
-Når børnene bliver ældre, så kan børnene sagtens køre rimelig langt selv. Det hele handler om, hvor øvede børnene er, og hvor stor lyst de har til at cykle. Et barn på 8 kan normalt sagtens køre 30 km, og fra 12 år kan man køre lige så langt som de voksne. Jeg har skrevet lidt mere om, [hvor langt børn kan cykle i et andet indlæg](/barn-cykle-langt/).
+Når børnene bliver ældre, så kan børnene sagtens køre rimelig langt selv. Det hele handler om, hvor øvede børnene er, og hvor stor lyst de har til at cykle. Et barn på 8 kan normalt sagtens køre 30 km, og fra 12 år kan man køre lige så langt som de voksne. Jeg har skrevet et andet indlæg om, [hvor langt børn kan cykle](/barn-cykle-langt/)?
 
 Du skal naturligvis tænke over, hvordan cyklen passer barnet. Hvis cyklen er for stor, giver det dårlig kontrol. Hvis den er for lille bliver det hurtigt meget hårdt i benene.
 
@@ -190,9 +191,13 @@ Du kan også spænde en halvcykel på din cykel.
 
 Jeg har skrevet et mere dybtgående indlæg om at [have børn med på cykeltur og cykelferie](/boern-paa-cykelferie/).
 
+{% comment %}
+
 ## 16) Smil til verden og den smiler tilbage
 
 Derudover er det værd at huske at man kommer langt med et smil og et venligt ord. Sig gerne hej når du passere eller bliver passeret. Snak gerne med folk, det kan jo være de har et fantastisk tip til andre steder at besøge på cykel.
+
+{% endcomment %}
 
 ## Flere råd
 
