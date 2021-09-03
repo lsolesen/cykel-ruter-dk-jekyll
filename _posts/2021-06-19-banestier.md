@@ -47,11 +47,11 @@ Endelig så kan du på et godt cykelkort også finde ud af, hvad belægningen er
 
 På [railtrails.dk](http://www.railtrails.dk/banestier.html) og [lgbertelsen.dk](http://www.lgbertelsen.dk/Banestier.html) kan du finde meget mere information om de danske banestier.
 
-Begge hjemmesider er imponerende arbejde omkring jernbanestierne. Du kan finde både rutebeskrivelser og fotos fra rigtig mange af stierne.
+På begge hjemmesider kan du finde en omfattende oversigt over forskellige jernbanestier. Du kan finde både rutebeskrivelser og fotos fra mange af jernbanestierne.
 
-Særligt på [railtrails.dk](http://www.railtrails.dk/banestier.html) kan du finde rigtig meget information. her er der kortlagt mere end 200 banestier, og langt de fleste er gode at cykle på.
+Særligt på [railtrails.dk](http://www.railtrails.dk/banestier.html) er opdateret, og du kan bruge mange timer på at dykke ned i hjemmesiden og blive klogere på oprindelsen og udviklingen af de enkelte banestier. Du kan på siden finde mere end 200 banestier, der er kortlagt, og langt de fleste er gode at cykle på.
 
-Du kan finde alle [banestierne på et kort her](http://www.railtrails.dk/kort.html). Ruterne er plottet ind i Google Maps. Derfor kan du let se, hvordan ruten nøjagtig forløber.
+Du kan finde oversigten over banestier på et [kort her](http://www.railtrails.dk/kort.html). Ruterne er plottet ind i Google Maps. Derfor kan du let se, hvordan ruten nøjagtig forløber.
 
 Hvis du vil se en oversigt over alle banestierne, så tjek denne [oversigt fra railtrails.dk](http://www.railtrails.dk/banestier.html).
 

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "15 tankevækkende tips til cykeltur og cykelferie med børn"
-seo_title: "Cykelferie og cykeltur med børn • 15 tankevækkende tips »"
+title: "13 tankevækkende tips til cykeltur og cykelferie med børn"
+seo_title: "Cykelferie og cykeltur med børn • 13 tankevækkende tips »"
 permalink: /boern-paa-cykelferie/
 category:
   - Planlægning
@@ -45,7 +45,9 @@ Det viser sig næsten altid, at de kan klare meget mere, end de selv tror. De ka
 Det kan godt være, at børnene klager lidt og brokker sig, men de kan også være tålmodige og stædige. Hvis vi sammen skal forcere den næste bakketop, inden vi kan slå lejr, så kan de rejse sig op i pedalerne. Hvis det regner, så kan det være dem, der synes det er helt vildt fedt (og dig der må bekymre dig om, hvordan tøjet nu skal tørre igen).
 
 Hvis man tror på børnene og bakker dem op, så kan de klare de fleste udfordringer. Og du kan bruge de tidligere oplevelser til at trække børnene gennem nye udfordringer, som de har besluttet sig for, at “de ikke kan”. 
- 
+
+{% comment %}
+
 ## 3) Børn elsker tid med forældrene
 
 En cykelferie er en unik mulighed for at være sammen i familien. Vi er sammen om et fælles projekt, men ofte på ret lidt plads.
@@ -58,14 +60,17 @@ Cykelferien er et rum, hvor I kan få nærvær, spille kort, lege sammen, snakke
 
 Så drop elektroniske hjælpemidler, men gå _off the grid_ på jeres cykeltur og skru op for jeres fælles nærvær.
 
-## 4) Afpas jeres forventninger
+{% endcomment %}
+
+## 3) Afpas jeres forventninger
 
 Selvom I sammen har lagt en god plan for jeres cykelferie, så kommer det sikkert til at være anderledes. I kommer på cykelferien til at være rigtig meget sammen som familie, og I skal tage hensyn. 
  
 Jeg kan godt være slem til at synes, at “børnene må tage sig sammen”, hvis de er lidt trætte. Men jeg skal huske på, at børnene også er på ferie og skal nyde det, selvom jeg har en forestilling om, hvordan turen skal være. 
  
 Det er ikke sikkert, at det er børnenes drøm, at vi sammen skal på cykeltur og cykle langt. Måske er det mere deres drøm at være sammen som familie, og det er ikke sikkert, at de synes, at det bliver opfyldt, mens de sidder i sadlen.
- 
+
+{% comment %}
 ## 5) Forbered jer på, at det bliver hårdt
 
 I kan godt forberede jer på, at nogle af dagene bliver hårdere end I havde planlagt. Selvom jeg ofte har camperet og elsker at cykle, så er der mange gøremål hver eneste dag på en cykeltur.
@@ -74,7 +79,7 @@ I kan godt forberede jer på, at nogle af dagene bliver hårdere end I havde pla
 - I skal etablere lejr og pakke ned hver dag
 - I skal købe ind og lave mad
 - I skal ordne vasketøj
-- I skal være sammen i familien, passe børn og måske lave lektier.
+- I skal være sammen i familien, passe børn og måske lave lektier
 - I skal forberede og planlægge de næste etaper
 
 Det gør det bare ekstra vigtigt, at I ikke planlægger for lange etaper. Hvis vinden nøjagtigt i dag på den lange etape har valgt at være modvind, så er det bare rigtig hårdt at få hele familien med gennem strabadserne.
@@ -83,7 +88,9 @@ Det er en **mental udfordring** at holde humøret højt og hele tiden være med 
 
 I må finde en forståelse for hinanden, men også tage de hvil der er nødvendige for at blive klar igen.
 
-## 6) Øvelse gør mester
+{% endcomment %}
+
+## 4) Øv jer på forhånd
 
 Hvis I vil ud at cykle som familie, så husk at komme ud og øve jer først. Hvis jeres drøm er at komme på cykelferie et par uger, så kom afsted nogle dage på forhånd.
 
@@ -95,7 +102,7 @@ På den måde får I tjekket og øvet jer i nogle af de følgende ting:
 - I får øvet jer i at lave mad.
 - I finder ud af hvad I savner eller har brug for.
 
-## 7) Vær fleksibel med børnene på cykeltur
+## 5) Vær fleksibel med børnene på cykeltur
 
 En cykeltur kan blive udfordret af modvind, regn, punkteringer, uheld, manglende overskud. Derfor er det vigtigt at være fleksibel, og du skal være klar til at ændre din plan undervejs.
  
@@ -105,7 +112,7 @@ I er taget på cykeltur for at få en god fælles oplevelse med at cykle og vær
  
 Det er ikke en god oplevelse for mig at kæmpe gennem regnvejr og vind, og så er det helt sikkert heller ikke for børnene.
  
-## 8) Udstyret betyder ikke så meget
+## 6) Udstyret betyder ikke så meget
 
 Man kan sagtens starte sin første cykelferie og cykeltur med det udstyr, du allerede har eller kan låne dig frem til. Når I har været afsted første gang, så kan I supplere op med udstyr. Men børnene vokser hurtigt ud af udstyret, og måske vil I næste gang overnatte på en anden måde.
 
@@ -115,7 +122,7 @@ Jeg har været rigtig glad for at køre med cykeltrailer på de ture, hvor jeg s
 
 Ellers kig først og fremmest på Den Blå Avis eller lignende steder, hvor du kan købe brugt udstyr.
  
-## 9) Vælg en god børnevenlig rute i Danmark
+## 7) Vælg en god børnevenlig rute i Danmark
 
 I Danmark er der rigtig mange gode skiltede cykelruter, som gør planlægningen og selve turen lettere. Fordelen ved de skiltede ruter er, at det er lettere at finde vej undervejs, men også at ruten følger en cykelvenlig rute.
 
@@ -128,7 +135,7 @@ Tænk over følgende når du vælger cykelrute:
 
 Jeg har skrevet et andet indlæg om, hvordan du vælger den perfekte [cykelrute til en cykeltur med børn](/cykelrute-born/).
  
-## 10) Tilpas etaperne til børnenes alder og erfaring
+## 8) Tilpas etaperne til børnenes alder og erfaring
 
 En cykeltur og cykelferie bliver kun en rigtig god oplevelse, hvis børnene oplever, at de kan mestre udfordringen. Derfor skal du tilpasse den enkelte cykeltur til deres alder og erfaring.
  
@@ -138,7 +145,7 @@ Det er virkelig vigtigt, at I får afstemt forventningerne til afstanden på cyk
  
 Jeg har skrevet et andet [indlæg om, hvor langt børn kan cykle](/barn-cykle-langt/), men kig først og fremmeste på dine egne børn og prøv jer frem på små cykeludflugter.
 
-## 11) Børnene skal styre tempoet på cykelturen
+## 9) Børnene skal styre tempoet på cykelturen
 
 Hvis jeg ikke træder i pedalerne, så ruller min cykel meget hurtigere end børnenes cykler. Jeg bliver altså ofte nødt til at bremse, hvis vi skal køre i samme tempo.
  
@@ -152,7 +159,7 @@ På andre tidspunkter lader vi den lille styre tempoet, og så er der andre tål
 
 Uanset hvad der passer bedst for jeres familie, så snak grundigt om det.
 
-## 12) Planlæg de første cykeldage grundigt
+## 10) Planlæg de første cykeldage grundigt
 
 Af erfaring vil jeg anbefale at lave de første cykeldage kortere, end du instinktivt ville planlægge den. Det er vigtigt at komme godt i gang med en overskuelig oplevelse.
 
@@ -160,9 +167,9 @@ Hvis du prioriterer tid på at planlægge de første cykeldage, så du har et go
 
 Der kan jo ske alt muligt undervejs. I kan blive ramt af punkteringer, blive stegt i solen, det kan begynde at regne, I kan blive trætte. Derfor er det virkelig vigtigt, at distancen er overskuelig.
 
-Sidst jeg var afsted havde jeg alligevel glemt en ingrediens til aftensmaden. Det var på ingen måde kritisk, men min store pige på 9 år var straks klar til at køre næsten 9 kilometer ekstra bare for at hente den (bacon er et godt trækplaster). Hun fortrød lidt på vej hjem, for det var op ad bakke det meste ad vejen, men vi kom sammen igennem det med højt humør.
+Sidst jeg var afsted havde jeg alligevel glemt en ingrediens til aftensmaden. Det var på ingen måde kritisk, men min store pige på 9 år var straks klar til at køre næsten 9 kilometer ekstra bare for at hente den (bacon er et godt trækplaster). Hun fortrød lidt på vej hjem, for det var op ad bakke det meste ad vejen derhen, men vi kom sammen igennem det med højt humør.
 
-## 13) Vælg den den rigtige overnatning til din familie
+## 11) Vælg den den rigtige overnatning til din familie
 
 Der er ikke en rigtig måde at overnatte på, når du er på cykelferie. Mange forbinder måske en cykelferie med telt, men du kan også sagtens sove indendørs.
  
@@ -180,7 +187,7 @@ Hvis I gerne vil have, at jeres børn skal møde andre børn undervejs, så kan 
  
 En legeplads som tiltrækker børnene kan også være et rum til, at de voksne kan sætte sig stille og roligt med en øl, mens trætheden trækker nærmer sig.
  
-## 14) Begræns jeres bagage og afprøv pakningen på cyklen
+## 12) Begræns jeres bagage og afprøv pakningen på cyklen
 
 Dette er et virkelig vigtigt råd! Begræns jeres bagage. Ofte tager man for meget med, når man har børn med, fordi man vil være helt sikker på, at der er nok. Når I pakker tøjet, så tænk over at det kan bruges _lag-på-lag_. Hvis der kommer pletter på tøjet, så går det nok. I er på cykelferie.
  
@@ -190,7 +197,7 @@ Hvis I kommer til at mangle noget undervejs, så lav rum i budgettet til, at I k
  
 Det er en rigtig god ide at køre en tur med **ALT** bagagen, _inden_ i skal på den rigtige tur. Så ved I hvor meget tingene vejer. I kan lave det som et minieventyr, hvor I sammen øver jer i at være på cykelferie.
  
-## 15) Gør alle cyklerne klar før cykelturen
+## 13) Gør alle cyklerne klar før cykelturen
 
 Det kan virkelig betale sig at bruge tid på at gøre cyklerne klar til strabadserne, inden I tager på tur. Det gør cykelferien sjovere og lettere, hvis kæden er smurt, dækkene pumpet, tjekket gearene og bremserne.
 
