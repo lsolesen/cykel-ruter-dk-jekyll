@@ -30,7 +30,7 @@ Lad os gå direkte til sagen.
 
 ## Hvordan planlægger jeg jeg cykelruter på Garmin Connect?
 
-Det er ret let at lave ruter på Garmin Connect. Jeg bruger den danske udgave. Du skal bruge webversionen, når du gerne vil oprette ruter.
+Det er ret let at lave ruter på Garmin Connect. Jeg bruger den danske udgave. Du både bruge webversionen og mobilversionen, når du gerne vil oprette ruter. Jeg synes man får det bedste overblik i webversionen.
 
 Først logger du naturligvis ind. Derefter vælger du i højre menu **Træning → Baner**.
 

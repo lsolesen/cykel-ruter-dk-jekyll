@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Regional cykelrute 32 går på tværs af nogle af de jyske ådale og giver derfor mulighed for at opleve nogle gode udsigter. Du bringes bl.a. tæt forbi udspringet af Skjern Å, som er en del af Danmarks største naturgenopretningsprojekt."
+excerpt: "Regional cykelrute 32 fra Harboøre til Brande går på tværs af nogle af de jyske ådale og giver derfor mulighed for at opleve nogle gode udsigter."
 gps:
   url: https://www.alltrails.com/explore/map/map-9ad97ad--7
   id: https://www.alltrails.com/widget/map/map-9ad97ad--7
@@ -41,6 +41,8 @@ Tag evt. en lille afstikker fra ruten til Skibbild for at besøge Danmarks enest
 Efter mosen nærmer du dig Arnborg og kirken på den østlige side af ruten. Her krydser du både Skjern Å og den nationale cykelrute 4. I krydset ligger et lille kombineret hjemstavnshus og naturcenter, som er drevet på frivillig basis. Naturcenteret fortæller om Det danske Hedeselskab, engvandingssystemerne og områdets naturgenopretningsprojektet, mens hjemstavnshuset er et historisk tilbageblik på egnen.
 
 Resten af vejen til Brande kører du på sydsiden af Skjern Å, hvor noget af ruten køres på udfordrende grusvej. I Brande by kan du slappe af på Storetorv i byens centrum, og du kan lægge mærke til de mange gavlmalerier, der især pryder bygningerne i området mellem Storegade og Stationsvej. Når du nu har fået de kulturelle briller på, kan du også kigge forbi remisen, som er omdannet til et levende kunstnerværksted.
+
+Hvis du vil videre fra Brande mod Horsens, så kan du fortsætte på næste del af [regional cykelrute 32 fra Brande til Horsens]({% link _routes/regional-rute-32-brande-horsens.md %}).
 
 ## Seværdigheder
 

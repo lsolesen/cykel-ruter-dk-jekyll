@@ -14,7 +14,7 @@ tags:
   - cykelrute
   - regional
   - Guidebog Vestjylland
-excerpt: "Regional cykelrute 32 går på tværs af nogle af de jyske ådale og giver derfor mulighed for at opleve nogle gode udsigter. Du bringes bl.a. tæt forbi udspringet af Skjern Å, som er en del af Danmarks største naturgenopretningsprojekt, og Gudenåen, som er Danmarks længste å."
+excerpt: "Regional cykelrute 32 fra Brande til Horsens går på tværs af nogle af de jyske ådale og giver derfor mulighed for at opleve nogle gode udsigter. Du bringes bl.a. tæt forbi udspringet af Skjern Å, som er en del af Danmarks største naturgenopretningsprojekt, og Gudenåen, som er Danmarks længste å."
 gps:
   url: https://www.alltrails.com/explore/map/map-0589dd5--7
   id: https://www.alltrails.com/widghet/map/map-0589dd5--7
