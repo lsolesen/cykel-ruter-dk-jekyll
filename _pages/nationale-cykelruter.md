@@ -194,4 +194,4 @@ Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cyclin
 
 Jeg håber du fik et godt overblik over de nationale cykelruter. Husk at du kan vælge at køre delforløb eller etaper af de enkelte cykelruter.
 
-Husk også at få tjekket, hvilket [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), du skal have med på ruten. De nationale cykelruter er naturligvis kun nogle af de [danske cykelruter](/cykelruter-danmark/).
+Husk også at få tjekket, hvilket [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), du skal have med på ruten. De nationale cykelruter er naturligvis kun et udsnit af [cykelruter i Danmark](/cykelruter-danmark/).

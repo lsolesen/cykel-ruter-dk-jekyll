@@ -2,7 +2,7 @@
 layout: single
 title: Cykelruter og cykelture i Danmark
 seo_title: Cykelruter i Danmark • 50+ rutebeskrivelser og cykelture »
-description: "En omfattende liste over cykelruter, cykelture og cykelstier i Danmark. Start her hvis du skal på cykelferie eller cykeltur i Østjylland, Sydjylland og Vestjylland."
+description: "En omfattende liste over cykelture, cykelstier og cykelruter i Danmark. Start her hvis du skal på cykeltur i Østjylland, Sydjylland og Vestjylland."
 excerpt: "Vi har samlet en række cykelruter, cykelture og cykelstier i Danmark i denne omfattende oversigt over cykeloplevelser i Danmark. Der er masser af inspiration, hvis du skal på cykeltur i Østjylland, Sydjylland og Vestjylland."
 redirect_from:
   - /ruter/
@@ -218,7 +218,7 @@ Jeg har her samlet de mest populære cykelruter på Fyn. Der er ikke så mange b
 
 {% assign site_posts = site.routes | sort: "title" %}
 
-## {{ site_posts.size }} cykelruter, cykelture og cykelstier i Danmark
+## {{ site_posts.size }} cykelruter Danmark
 
 Her har jeg samlet alle beskrivelserne af cykelruter her på cykel-ruter.dk. Hvis du vil bidrage med en rutebeskrivelse, så kunne det være rigtig fedt.
 
