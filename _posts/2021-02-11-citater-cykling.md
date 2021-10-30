@@ -150,7 +150,7 @@ Jeg har lavet et board med citater om fitness på Pinterest. SKynd dig ind og f�
 
 ## Konklusion om cykelcitater
 
-Du kender sikkert også en masse andre citater om cykling og det at cykle. Brug meget gerne kommentarerne, hvis du har nogle mindeværdige citater, som du gerne vil del. 
+Du kender sikkert også en masse andre citater om cykling og det at cykle. Brug meget gerne kommentarerne, hvis du har nogle mindeværdige citater, som du gerne vil del. Du kan også lade dig inspirere af [citater om at kæmpe her](https://www.motionsplan.dk/citater-om-at-kaempe/).
 
 ## Flere plakater og citater om cykling
 
