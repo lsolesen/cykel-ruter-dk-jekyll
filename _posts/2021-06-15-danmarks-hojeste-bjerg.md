@@ -1,8 +1,11 @@
 ---
+layout: single-without
 title: &title "Danmarks højeste bjerge: Top 10 [2021]"
+excerpt: "Jeg har samlet en liste over de højeste bjerge i Danmark. Her kan du få helt styr på Danmarks toppe og finde ud af, hvor de ligger i landet."
 permalink: /danmarks-hojeste-bjerge/
 language: da
 header:
+  image: https://upload.wikimedia.org/wikipedia/commons/7/76/Ejer-bavneh%C3%B8j-2004.jpg
   teaser: https://upload.wikimedia.org/wikipedia/commons/7/76/Ejer-bavneh%C3%B8j-2004.jpg
   caption: *title
 tags:
