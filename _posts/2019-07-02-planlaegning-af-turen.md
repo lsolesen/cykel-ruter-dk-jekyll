@@ -109,7 +109,7 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 
 ## Populære cykelruter i Danmark
 
-At tage på en cykeltur i Danmark er oplagt med vores mange [fantastiske cykelruter](/cykelruter-danmark/). Du kan vælge [nationale cykelruter](/nationale-cykelruter/) og [regionalruterne](/regionale-cykelruter/). Der er mange steder, der der inviterer på oplevelser i det uendelige. Ruterne er spredt udover hele landet – fra cykelruter i [Vestjylland](/cykelruter-vestjylland/) og [Østjylland](/cykelruter-oestjylland/) til Nordsjælland, [Fyn](/cykelruter-fyn/) og [Bornholm](/cykelruter-bornholm/).
+At tage på en cykeltur i Danmark er oplagt med vores mange [fantastiske danske cykelruter](/cykelruter-danmark/). Du kan vælge [nationale cykelruter](/nationale-cykelruter/) og [regionalruterne](/regionale-cykelruter/). Der er mange steder, der der inviterer på oplevelser i det uendelige. Ruterne er spredt udover hele landet – fra cykelruter i [Vestjylland](/cykelruter-vestjylland/) og [Østjylland](/cykelruter-oestjylland/) til Nordsjælland, [Fyn](/cykelruter-fyn/) og [Bornholm](/cykelruter-bornholm/).
 
 Der er gode muligheder for at tage sin cykel med i toget.
 
