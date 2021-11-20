@@ -111,7 +111,7 @@ Her er en liste over de regionale cykelruter på Fyn. Hvis du har lyst til at be
 
 {% include feature_row type="left" %}
 
-## Cykelkort Fyn
+## Cykelkort og kort over Fyn
 
 Jeg anbefaler altid, at du får fat i et godt cykelkort, når du skal på cykeltur. Jeg har lavet en guide til [cykelkort over Danmark](/cykelkort/), hvor du kan se, hvilke jeg synes er de bedste kort.
 
@@ -123,9 +123,9 @@ Desuden kan du finde lidt lokale cykelruter, fx [banestien]({% link _posts/2021-
 
 Kortet indeholder også alle mulige nyttige informationer for cyklisten. Du kan finde rastepladser, overnatningsmuligheder, cykelhandlere, seværdigheder og turistattraktioner. Du kan i kortet finde alle de cykelvenlige faciliteter på Fyn.
 
-Du kan fx købe kortet her. Prisen er absolut overkommelig.
+Du kan fx købe et kort over Fyn her. Prisen er absolut overkommelig.
 
-{% include gallery id="scanmaps" caption="Cykelkort over Fyn med de regionale og nationale ruter på Fyn." %}
+{% include gallery id="scanmaps" caption="Cykelkort over Fyn med de regionale og nationale ruter på Fyn." alt="kort fyn" %}
 
 ## Cykelguidebog over Fyn
 
