@@ -70,7 +70,7 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 ### Nord-sydgående ruter
 
-- National cykelrute 1: Vestkystruten, der følger Jyllands vestkyst
+- [National cykelrute 1: Vestkystruten](/rute/national-rute-1-vestkyststien/), der følger Jyllands vestkyst
 - National cykelrute 3: Hærvejen, der går op gennem Jylland
 - National cykelrute 5: Østkystruten, der følger Jyllands østkyst
 - National cykelrute 7: fra Sjællands Odde til Rødby Havn
@@ -94,7 +94,7 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 | | Navn	| Længde	| Asfalt % | Kommentar |
 |-|-|-|-|-|
-| N1	| Vestkystruten	| 560 km	| 70 %	| Rudbøl - Skagen |
+| N1	| [Vestkystruten](/rute/national-rute-1-vestkyststien/)	| 560 km	| 70 %	| Rudbøl - Skagen |
 | N2	| Hanstholm-København	| 420 km	| 80 %	| |
 | N3	| Hærvejsruten	| 450 km	| 78 %	| Padborg - Frederikshavn |
 | N4	| Søndervig-København	| 310 km	| 90 %	| Omlagt i 2019. Løber nu over Samsø i stedet for den nedlagte færgerute Aarhus - Kalundborg. |
@@ -174,7 +174,7 @@ Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cyclin
 
 | Navn	| Søg efter	|
 |-|-|
-| N1	| Vestkystruten	|
+| N1	| [Vestkystruten](/rute/national-rute-1-vestkyststien/)	|
 | N2	| Hanstholm-København	|
 | N3	| Hærvejsruten |
 | N4	| Søndervig-København	|

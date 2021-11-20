@@ -1,19 +1,21 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.2.0"
 #gem "github-pages", group: :jekyll_plugins
 #gem "jekyll-include-cache"
 group :jekyll_plugins do
-    gem "jekyll-paginate"
-    gem "jekyll-feed"
-    gem "jemoji"
-    gem "jekyll-redirect-from"
-    gem "jekyll-gist"
+    gem 'jekyll-paginate'
+    gem 'jekyll-feed'
+    gem 'jemoji'
+    gem 'jekyll-redirect-from'
+    gem 'jekyll-gist'
     gem 'jekyll-include-cache'
-    gem "jekyll-remote-theme"
-    gem "jekyll-sitemap"
+    gem 'jekyll-remote-theme'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-gzip'
+    gem 'jekyll-brotli'
 end
 gem 'html-proofer'
 gem 'classifier-reborn'
 gem 'gsl'
-
+gem "minimal-mistakes-jekyll", "~> 4.24"

@@ -1,13 +1,13 @@
 ---
-title: "National Rute 01: Vestkyststien fra Rudbøl til Skagen"
-seo_title: "National Cykelrute 1: Vestkyststien fr Rudbøl til Skagen"
+title: "National Rute 01: Vestkystruten fra Rudbøl til Skagen"
+seo_title: "National Cykelrute 1: Vestkystruten fr Rudbøl til Skagen"
 permalink: /rute/national-rute-1-vestkyststien/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
   teaser: *image
-  caption: "National cykelrute 1: Vestkystien. Billede: [www.videnomfriluftsliv.dk](https://www.videnomfriluftsliv.dk)"
+  caption: "National cykelrute 1: Vestkystruten. Billede: [www.videnomfriluftsliv.dk](https://www.videnomfriluftsliv.dk)"
 category:
   - National Cykelrute
 tags:
@@ -32,6 +32,15 @@ feature_row:
     excerpt: "Vi præsenterer her en del af de cykelruter, der er langs Vestkysten. Du kan vælge imellem Danmarks nationale cykelrute nr. 1 på 560 km. Mulighed for cykelpakkerejser."
     btn_label: "Besøg Vestkystruten"
     btn_class: "btn--success"
+gallery:
+  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
+    url: https://www.scanmaps.dk/0251a67?G=020
+    alt: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
+    title: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
+    excerpt: "Vestkystruten er en del af den internationale cykelrute Eurovelo 12 Nordsøcykelruten på i alt 5.942 km. Den nationale cykelrute, Vestkystruten, udgør i alt 560 km langs Danmarks Vestkyst."
+    btn_label: "Tjek prisen"
+    btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 {{ page.excerpt }}
@@ -54,6 +63,12 @@ feature_row:
 Vestkystruten er i alt 560 kilometer fra Skagen til Rudbøl.
 
 Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, den danske Nordsøkyst og UNESCOS verdensnaturarv Vadehavet. Det er en af Danmarks længste skiltede cykelruter og går gennem noget af det skønneste og mest varierede natur i Danmark.
+
+## Køb kort over Vestkyststien
+
+{% include gallery layout="fourth" caption="Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel='sponsored nofollow noopener' } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }." %}
+
+Tjek også vores artikel om [cykelkort over Danmark](/cykelkort/s).
 
 ## Læs mere om Vestkystruten
 

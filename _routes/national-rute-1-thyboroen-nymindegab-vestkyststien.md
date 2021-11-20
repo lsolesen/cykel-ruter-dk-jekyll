@@ -65,11 +65,7 @@ Vestkystruten er i alt 560 kilometer fra Skagen til Rudbøl.
 
 Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, den danske Nordsøkyst og UNESCOS verdensnaturarv Vadehavet. Det er en af Danmarks længste skiltede cykelruter og går gennem noget af det skønneste og mest varierede natur i Danmark.
 
-Jeg har også lavet en samlet [rutebeskrivelse af Vestkyststien]({% link _routes/national-rute-1-vestkyststien.md %}).
-
-## Links til Vestkystruten
-
-- [Vestkystruten](https://vestkystruten.dk/)
+Jeg har også lavet en samlet [rutebeskrivelse af Vestkystruten og Vestkyststien]({% link _routes/national-rute-1-vestkyststien.md %}).
 
 ## Kort over {{ page.title }}
 
