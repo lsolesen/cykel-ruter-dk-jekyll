@@ -21,8 +21,8 @@ feature_row:
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1612332187021-595a87bd1e5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
-  teaser: https://images.unsplash.com/photo-1612332187021-595a87bd1e5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1612332187021-595a87bd1e5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=5
+  teaser: https://images.unsplash.com/photo-1612332187021-595a87bd1e5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: "Photo by WanderLabs on Unsplash"
 ---
 
@@ -52,7 +52,7 @@ Har du meget bagage, eller kører du på en racercykel, kan det være en god id�
 
 Hvis du vil pakke lidt mere minimalistisk, så kan du også lade dig inspirere af _bikepacking_.
 
-{% include figure image_path="https://images.unsplash.com/flagged/photo-1592507944147-964ee9914499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80" caption="Smarte løsninger til pakning af cyklen fra bikepacking" alt="cykel pakket til bikepacking" %}
+{% include figure image_path="https://images.unsplash.com/flagged/photo-1592507944147-964ee9914499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=5" caption="Smarte løsninger til pakning af cyklen fra bikepacking" alt="cykel pakket til bikepacking" %}
 
 Du kan tjekke meget mere [cykeludstyr til cykelferien her](/cykeludstyr/).
 

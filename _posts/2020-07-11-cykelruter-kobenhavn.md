@@ -29,7 +29,7 @@ bikemaps:
     rel: sponsored nofollow noopener
 feature_row:
   - url: https://www.kk.dk/artikel/cykelruter-og-cykelkort
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
     title: "Cykelruter i København"
     alt: "Cykelruter i København"
     excerpt: "Find de bedste cykelruter i København med cykelkort. Download et gratis cykelkort, hvor du se alle de etablerede grønne cykelruter, nationale cykelruter og grønne cykelmuligheder. Kortet er spækket med praktiske informationer til cyklister i København og kan foldes, så det kan være i lommen på cykelturen."
