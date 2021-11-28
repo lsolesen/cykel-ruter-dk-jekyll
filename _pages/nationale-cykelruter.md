@@ -5,6 +5,8 @@ permalink: /nationale-cykelruter/
 excerpt: "Danmark har 11 nationale cykelruter på hele 4.233 km cykelvenlige ruter. De nationale cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Læs mere om de danske nationalruter, og hvordan du finder kort til cykelruterne."
 description: "Læs om Danmarks 11 nationale cykelruter. De nationale cykelstier forbinder alle dele af landet, og her finder du de bedste kort til de 4.233 kilometer nationale cykelruter."
 author_profile: true
+category:
+  - Cykelruter
 classes: wide
 header:
   overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1900&q=5
