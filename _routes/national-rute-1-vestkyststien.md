@@ -68,7 +68,7 @@ Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, de
 
 {% include gallery layout="fourth" caption="Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel='sponsored nofollow noopener' } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }." %}
 
-Tjek også vores artikel om [cykelkort over Danmark](/cykelkort/s).
+Tjek også vores artikel om [cykelkort over Danmark](/cykelkort/).
 
 ## Læs mere om Vestkystruten
 

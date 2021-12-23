@@ -41,7 +41,7 @@ Der er mange gode cykelruter i København. Jeg har samlet de bedste cykelture og
 
 ## København er en cykelby
 
-København vil gerne være en by med bedre plads, mindre larm, renere luft og sundere borgere. Cyklister er et middel til at opnå dette [mål](https://byudvikling.kk.dk/artikel/verdens-bedste-cykelby). Og for at få cyklister kræver det at cykelruterne i byen får et løft, og København har rigtig mange fine cykelstier.
+København vil gerne være en by med bedre plads, mindre larm, renere luft og sundere borgere. Cyklister er et middel til at opnå dette [mål](https://byudvikling.kk.dk/cyklernesby). Og for at få cyklister kræver det at cykelruterne i byen får et løft, og København har rigtig mange fine cykelstier.
 
 {% include figure image_path="https://c.pxhere.com/photos/9d/48/denmark_copenhagen_denmark_symbol_tourists_switch_bicycles_city_bike-695538.jpg!s" caption="De mange gode cykelruter, supercykelstier og grønne cykelruter i København gør også at cykling er meget populært. [Pxhere](https://pxhere.com/da/photo/695538)." alt="Cykler klar til cykelruter, supercykelstier og grønne cykelruter og cykelkort over København" %}
 

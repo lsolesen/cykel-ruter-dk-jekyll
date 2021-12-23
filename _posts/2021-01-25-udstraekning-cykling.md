@@ -32,7 +32,7 @@ Jeg har gode erfaringer med at strække ud efter cykling og mine cykelture. Det 
 
 ## Eksempler på udstrækningsøvelser efter cykling
 
-[Aktiv Træning](https://aktivtraening.dk/traening/landevejscykling/6-gode-straek-til-cykelryttere-80e134a1-0288-473e-8c24-abc0a435acdd) deler seks gode stræk for cykelryttere, og [Bikeoptimize](https://www.bikeoptimize.dk/post/bliv-smidig-p%C3%A5-cyklen-ved-4-hurtige-str%C3%A6k) deler 4 hurtige stræk, som du kan lave efter din cykeltur.
+[Aktiv Træning](https://aktivtraening.dk/traening/landevejscykling/6-gode-straek-til-cykelryttere-80e134a1-0288-473e-8c24-abc0a435acdd) deler seks gode stræk for cykelryttere, og [Bikeoptimize](https://web.archive.org/web/20210415012840/https://www.bikeoptimize.dk/post/bliv-smidig-p%C3%A5-cyklen-ved-4-hurtige-str%C3%A6k){: rel="nofollow noopener" } deler 4 hurtige stræk, som du kan lave efter din cykeltur.
 
 Desuden har jeg delt en masse eksempler på [øvelser til udstrækning og udspænding på motionsplan.dk](https://www.motionsplan.dk/udstraekning-udspaending/)
 
