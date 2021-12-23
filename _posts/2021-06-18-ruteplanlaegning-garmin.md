@@ -1,5 +1,5 @@
 ---
-title: &title "Ruteplanlægning med Garmin Connect og AllTrails [Opdateret 2021]"
+title: &title "Ruteplanlægning med Garmin Connect og AllTrails [Opdateret 2022]"
 permalink: /garmin-connect-ruteplanlaegning-alltrails/
 language: da
 header:

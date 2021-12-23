@@ -1,6 +1,6 @@
 ---
 layout: single
-title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur [2021] 🗺"
+title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur [2022] 🗺"
 permalink: /cykelkort/
 description: "Jeg har samlet nogle rigtig gode cykelkort over Danmark, der er detaljerede nok til, at du kan finde vej - både når du planlægger din cykeltur og undervejs."
 category:

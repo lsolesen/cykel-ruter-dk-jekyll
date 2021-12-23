@@ -18,11 +18,7 @@
   url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560
   image_path: /assets/images/logo/fribikeshop.png
   tags: featured
-- title: Friluftsland
-  url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=52895&htmlurl=https://www.friluftsland.dk/
-  image_path: /assets/images/logo/friluftsland.png
-  tags: featured
 - title: Green Bike Tours
   url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=63475&htmlurl=https://greenbiketours.org/
   image_path: /assets/images/logo/green-bike-tours.png
-  tags: planning
+  tags: planning featured

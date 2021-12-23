@@ -29,14 +29,6 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-  - image_path: https://www.outmore.dk/img/shopid/7/varer/300/kupilka-spork-225-6430014977021-6430014977021-3002002k.jpg
-    alt: "Kuplika Spork 225"
-    title: "Kuplika Spork 225"
-    excerpt: "Praktisk og ekstra lang spork i et flot design, inspireret af klassisk snitteteknik og et lækkert, miljøvenligt materiale. Det eneste stykke bestik, du behøver på tur."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=52894&htmlurl=https://www.friluftsland.dk/product/view/39211"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
   - image_path: https://www.outmore.dk/img/shopid/7/varer/600/trangia-multidisc-27-7315086027098-50-5010.jpg
     alt: "Trangia Multidisc"
     title: "Trangia Multidisc"

@@ -1,6 +1,6 @@
 ---
-title: &title "Cykling apps: De bedste i 2021"
-seo_title: "Cykling apps: De bedste i 2021"
+title: &title "Cykling apps: De bedste i 2022"
+seo_title: "Cykling apps: De bedste i 2022"
 permalink: /cykling-apps/
 language: da
 header:
