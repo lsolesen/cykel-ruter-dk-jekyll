@@ -42,6 +42,8 @@ De fleste cykelshorts, særligt til kvinder, produceres uden seler, men kommer i
 
 Cykelshorts er dog ikke den eneste mulighed for benbeklædning til vintertiden. Du kan også med fordel erhverve dig et par lange cykelbukser, der både kan fungere som enkeltstående beklædning, men også kan suppleres med dine normale cykelshorts. Samtidig kan begge produkter anvendes til andre sportsfokuserede aktiviteter såsom løb, fitness mv.
 
+{% include figure image_path="https://images.unsplash.com/photo-1541690922024-ecd939490163?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=5" alt="cykeltøj til kvinder" %}
+
 ## Cykeltrøje dame
 
 Et af de vigtigste aspekter i forbindelse med cykling om vinteren er, at være klædt ordentligt på og minimere chancen for at fryse. Det er derfor yderst vigtigt ikke kun at være forberedt på den nederste del af kroppen, men også have styr på overdelen.
@@ -57,5 +59,9 @@ Det er samtidig ikke gået nogens næse forbi, at der er forskel mellem pasforme
 Foruden cykelshorts, cykelbukser og cykeljakke, er der andre ting der kan gøre cykelturen om vinteren en anelse sjovere. En af de ting, der især er at foretrække, er cykelhandsker for at beskytte hænderne mod den bidende kulde. Har du endnu ikke den store erfaring med cykling, kan det samtidig være en god ide at købe nogle handsker, der enten inkluderer en pude eller gel, da man efter en lang cykeltur kan være udmattet og få ondt i hænderne.
 
 Cykelhandsker kan desuden fås i forskellige varmeniveauer, så du kan skifte alt afhængigt af temperaturen. Enkelte cykelhandsker har tilmed samlet flere fingre i små lommer, så man er ekstra godt dækket ind, selvom vind, frost og kulde huserer udenfor.
+
+{% include figure image_path="https://images.unsplash.com/photo-1605271925036-a4ed1ea88ddd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=5" alt="cyketøj og cykelhandsker til kvinder" %}
+
+## Konklusion
 
 Med alt denne nye information in mente, er du klar til at indtage de danske cykelruter med et smil velvidende omkring, at du er både i fysisk god form og har den korrekte påklædning til at begive dig ud på en længere tur. Leder du efter inspiration til cykelruter i Danmark, kan du passende besøge denne side og kigge efter en [cykelrute der passer perfekt til dig](/cykelruter-danmark/) og dine lyster.
