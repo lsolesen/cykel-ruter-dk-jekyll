@@ -23,3 +23,11 @@ dina:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/dina-knudsen-0aa6176"
+nikolai.jauk:
+  name             : "Nikolai Jauk"
+  avatar           : "/assets/images/authors/nikolai-jauk.jpeg"
+  bio              : "Træningsentusiast og cykelekspert med fokus på cykeltræning og cykeltøj."
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/najauk/"
