@@ -1,6 +1,6 @@
 ---
 layout: single
-title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur [2021] 🗺"
+title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur [2022] 🗺"
 permalink: /cykelkort/
 description: "Jeg har samlet nogle rigtig gode cykelkort over Danmark, der er detaljerede nok til, at du kan finde vej - både når du planlægger din cykeltur og undervejs."
 category:
@@ -12,8 +12,8 @@ tags:
   - featured
 last_modified_at: 2021-04-24T08:45:01Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80
-  teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=5
+  teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: *title
   alt: "Photo by Annie Spratt on Unsplash"
   overlay_filter: 0.2
@@ -161,7 +161,7 @@ Når du skal på cykeltur i Danmark, er det rigtig godt at kunne finde vej. Jeg 
 
 Hvad er et cykelkort? **Et cykelkort er et speciallavet kort med høj detaljeringsgrad, hvor cykelruterne er indtegnet. I Danmark er der 11 nationale cykelruter og virkelig mange regionale ruter og veje med cykelsti. På et godt cykelkort, kan du også finde markeringer af vandrehjem, campingpladser, turistinformationer og måske handlemuligheder. Sørg for at købe et holdbart kort.**
 
-Jeg har prøvet at samle alt, hvad du skal vide om cykelkort, der beskriver [Danmarks cykelruter]({% link _pages/ruter-archive.md %}). Et godt cykelkort er uundværligt, når du planlægger din tur, men også når du er ude på din tur.
+Jeg har prøvet at samle alt, hvad du skal vide om cykelkort, der beskriver [cykelruter i Danmark]({% link _pages/ruter-archive.md %}). Et godt cykelkort er uundværligt, når du planlægger din tur, men også når du er ude på din tur.
 
 Jeg kommer også med nogle fif til, hvordan du finder vej, mens du er på cyklen uden at det er alt for bøvlet.
 

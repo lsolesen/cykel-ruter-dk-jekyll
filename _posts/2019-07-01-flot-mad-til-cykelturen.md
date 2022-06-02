@@ -29,14 +29,6 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-  - image_path: https://www.outmore.dk/img/shopid/7/varer/300/kupilka-spork-225-6430014977021-6430014977021-3002002k.jpg
-    alt: "Kuplika Spork 225"
-    title: "Kuplika Spork 225"
-    excerpt: "Praktisk og ekstra lang spork i et flot design, inspireret af klassisk snitteteknik og et lækkert, miljøvenligt materiale. Det eneste stykke bestik, du behøver på tur."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=52894&htmlurl=https://www.friluftsland.dk/product/view/39211"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
   - image_path: https://www.outmore.dk/img/shopid/7/varer/600/trangia-multidisc-27-7315086027098-50-5010.jpg
     alt: "Trangia Multidisc"
     title: "Trangia Multidisc"
@@ -56,8 +48,8 @@ feature_row:
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1647&q=80
-  teaser: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1647&q=5
+  teaser: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: "Photo by Alex Kotomanov on Unsplash"
 ---
 

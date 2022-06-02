@@ -8,8 +8,8 @@ tags:
   - energiforbrug
 last_modified_at: 2020-07-24T16:59:01Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
-  teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=5
+  teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   overlay_filter: 0.2
   caption: "Kalorieforbrænding, kalorier og cykling: Hvad forbrænder du ved at cykle?"
 toc: true
@@ -55,7 +55,7 @@ Energiforbruget afhænger af forskellige faktorer:
 
 I de følgende beregninger for udendørs cykling taler vi hovedsageligt om hastigheden, men det er en relativt grov generalisering.
 
-{% include figure image_path="https://images.unsplash.com/photo-1499871435582-a1d4ff236842?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" caption="Desto hurtigere og desto længere, du cykler, desto flere kalorier forbrænder du. Vindmodstanden betyder naturligvis en del, så hvis du ligger i læ i et felt, så er energiforbruget mindre." alt="vindmodstand og kalorieforbrænding på cykel" %}
+{% include figure image_path="https://images.unsplash.com/photo-1499871435582-a1d4ff236842?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=5" caption="Desto hurtigere og desto længere, du cykler, desto flere kalorier forbrænder du. Vindmodstanden betyder naturligvis en del, så hvis du ligger i læ i et felt, så er energiforbruget mindre." alt="vindmodstand og kalorieforbrænding på cykel" %}
 
 ## Hvordan kan jeg gøre kalorieberegningen endnu mere præcis?
 

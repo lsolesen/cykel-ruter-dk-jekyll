@@ -5,8 +5,8 @@ description: "Jeg har samlet de bedste cykelruter på Fyn. Ruterne er relativt f
 permalink: /cykelruter-fyn/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80
-  teaser: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=5
+  teaser: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: *title
 tags:
   - cykelruter
@@ -16,7 +16,7 @@ category:
 last_modified_at: 2021-06-18T12:21:26Z
 feature_row:
   - url: https://www.visitfyn.dk/fyn/outdoor-og-bike/oestersoeruten-paa-fyn
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
     title: "Cykelruter på Fyn"
     alt: "Cykelruter på Fyn"
     excerpt: "Bike Island ruten og Østersøruten er oplagte at navigere efter, når du vil opleve Fyn og Øhavets på to hjul. En cykelferie på Fyn og Øerne fører dig både rundt til små hyggelige byer, smukke landskaber, kystnære strækninger og lavvandede badestrande."
@@ -111,7 +111,7 @@ Her er en liste over de regionale cykelruter på Fyn. Hvis du har lyst til at be
 
 {% include feature_row type="left" %}
 
-## Cykelkort Fyn
+## Cykelkort og kort over Fyn
 
 Jeg anbefaler altid, at du får fat i et godt cykelkort, når du skal på cykeltur. Jeg har lavet en guide til [cykelkort over Danmark](/cykelkort/), hvor du kan se, hvilke jeg synes er de bedste kort.
 
@@ -123,9 +123,9 @@ Desuden kan du finde lidt lokale cykelruter, fx [banestien]({% link _posts/2021-
 
 Kortet indeholder også alle mulige nyttige informationer for cyklisten. Du kan finde rastepladser, overnatningsmuligheder, cykelhandlere, seværdigheder og turistattraktioner. Du kan i kortet finde alle de cykelvenlige faciliteter på Fyn.
 
-Du kan fx købe kortet her. Prisen er absolut overkommelig.
+Du kan fx købe et kort over Fyn her. Prisen er absolut overkommelig.
 
-{% include gallery id="scanmaps" caption="Cykelkort over Fyn med de regionale og nationale ruter på Fyn." %}
+{% include gallery id="scanmaps" caption="Cykelkort over Fyn med de regionale og nationale ruter på Fyn." alt="kort fyn" %}
 
 ## Cykelguidebog over Fyn
 

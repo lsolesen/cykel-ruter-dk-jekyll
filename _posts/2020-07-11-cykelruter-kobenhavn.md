@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cykelruter, supercykelstier og cykelkort København [2021]"
+title: "Cykelruter, supercykelstier og cykelkort København [2022]"
 permalink: /cykelruter-koebenhavn/
 category:
   - Cykelruter
@@ -29,7 +29,7 @@ bikemaps:
     rel: sponsored nofollow noopener
 feature_row:
   - url: https://www.kk.dk/artikel/cykelruter-og-cykelkort
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
     title: "Cykelruter i København"
     alt: "Cykelruter i København"
     excerpt: "Find de bedste cykelruter i København med cykelkort. Download et gratis cykelkort, hvor du se alle de etablerede grønne cykelruter, nationale cykelruter og grønne cykelmuligheder. Kortet er spækket med praktiske informationer til cyklister i København og kan foldes, så det kan være i lommen på cykelturen."
@@ -41,7 +41,7 @@ Der er mange gode cykelruter i København. Jeg har samlet de bedste cykelture og
 
 ## København er en cykelby
 
-København vil gerne være en by med bedre plads, mindre larm, renere luft og sundere borgere. Cyklister er et middel til at opnå dette [mål](https://byudvikling.kk.dk/artikel/verdens-bedste-cykelby). Og for at få cyklister kræver det at cykelruterne i byen får et løft, og København har rigtig mange fine cykelstier.
+København vil gerne være en by med bedre plads, mindre larm, renere luft og sundere borgere. Cyklister er et middel til at opnå dette [mål](https://byudvikling.kk.dk/cyklernesby). Og for at få cyklister kræver det at cykelruterne i byen får et løft, og København har rigtig mange fine cykelstier.
 
 {% include figure image_path="https://c.pxhere.com/photos/9d/48/denmark_copenhagen_denmark_symbol_tourists_switch_bicycles_city_bike-695538.jpg!s" caption="De mange gode cykelruter, supercykelstier og grønne cykelruter i København gør også at cykling er meget populært. [Pxhere](https://pxhere.com/da/photo/695538)." alt="Cykler klar til cykelruter, supercykelstier og grønne cykelruter og cykelkort over København" %}
 

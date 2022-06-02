@@ -1,10 +1,10 @@
 ---
-title: &title "Ruteplanlægning med Garmin Connect og AllTrails [Opdateret 2021]"
+title: &title "Ruteplanlægning med Garmin Connect og AllTrails [Opdateret 2022]"
 permalink: /garmin-connect-ruteplanlaegning-alltrails/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
-  teaser: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
+  teaser: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: *title
 tags:
   - ruteplanlægning
@@ -30,7 +30,7 @@ Lad os gå direkte til sagen.
 
 ## Hvordan planlægger jeg jeg cykelruter på Garmin Connect?
 
-Det er ret let at lave ruter på Garmin Connect. Jeg bruger den danske udgave. Du skal bruge webversionen, når du gerne vil oprette ruter.
+Det er ret let at lave ruter på Garmin Connect. Jeg bruger den danske udgave. Du både bruge webversionen og mobilversionen, når du gerne vil oprette ruter. Jeg synes man får det bedste overblik i webversionen.
 
 Først logger du naturligvis ind. Derefter vælger du i højre menu **Træning → Baner**.
 

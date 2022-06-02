@@ -1,6 +1,6 @@
 lsolesen:
   name: "Lars Olesen"
-  bio: "Lars har skrevet flere cykelguidebøger om cykelruter i Danmark - særligt i Østjylland og Vestjylland - og han drømmer om den næste cykeltur og cykelferie med sin familie."
+  bio: "Lars har skrevet flere cykelguidebøger om [cykelruter i Danmark](/cykelruter-danmark/) - særligt i Østjylland og Vestjylland - og han drømmer om den næste cykeltur og cykelferie med sin familie."
   avatar: "/assets/images/authors/larsolesen.png"
   links:
     - label: "Email"
@@ -23,3 +23,11 @@ dina:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/dina-knudsen-0aa6176"
+nikolai.jauk:
+  name             : "Nikolai Jauk"
+  avatar           : "/assets/images/authors/nikolai-jauk.jpeg"
+  bio              : "Træningsentusiast og cykelekspert med fokus på cykeltræning og cykeltøj."
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/najauk/"

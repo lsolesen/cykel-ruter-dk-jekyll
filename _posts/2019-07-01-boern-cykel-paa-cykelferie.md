@@ -29,8 +29,8 @@ feature_row_bee:
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1494382111960-c530e53a3a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  teaser: https://images.unsplash.com/photo-1494382111960-c530e53a3a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1494382111960-c530e53a3a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=5
+  teaser: https://images.unsplash.com/photo-1494382111960-c530e53a3a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: "Photo by 童 彤 on Unsplash"
   overlay_filter: 0.2
 ---

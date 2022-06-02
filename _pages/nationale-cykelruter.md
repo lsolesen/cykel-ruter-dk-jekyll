@@ -1,19 +1,22 @@
 ---
 layout: single
-title: &title "Danmarks Nationale Cykelruter: Hvor finder jeg kort [2021]?"
+title: &title "Danmarks Nationale Cykelruter"
+seo_title: "Danmarks Nationale Cykelruter: Hvor finder jeg kort [2022]?"
 permalink: /nationale-cykelruter/
 excerpt: "Danmark har 11 nationale cykelruter på hele 4.233 km cykelvenlige ruter. De nationale cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Læs mere om de danske nationalruter, og hvordan du finder kort til cykelruterne."
 description: "Læs om Danmarks 11 nationale cykelruter. De nationale cykelstier forbinder alle dele af landet, og her finder du de bedste kort til de 4.233 kilometer nationale cykelruter."
 author_profile: true
+category:
+  - Cykelruter
 classes: wide
 header:
-  overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1900&q=80
-  teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1900&q=5
+  teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=5
   caption: *title
   overlay_filter: 0.2
 feature_row:
   - url: https://www.vejdirektoratet.dk/side/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter#.UxmeSj95OSo
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
     title: "Vejdirektoratets cykelruter"
     alt: "Vejdirektoratets cykelruter"
     excerpt: "Du kan finde kortet over de nationale cykelruter på Vejdirektoratets trafikkort på trafikken.dk. Nogle af ruterne har også deres egen hjemmeside, hvor du kan læse mere, og der findes ældre trykte kort hos Cyklistforbundet."
@@ -70,7 +73,7 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 ### Nord-sydgående ruter
 
-- National cykelrute 1: Vestkystruten, der følger Jyllands vestkyst
+- [National cykelrute 1: Vestkystruten](/rute/national-rute-1-vestkyststien/), der følger Jyllands vestkyst
 - National cykelrute 3: Hærvejen, der går op gennem Jylland
 - National cykelrute 5: Østkystruten, der følger Jyllands østkyst
 - National cykelrute 7: fra Sjællands Odde til Rødby Havn
@@ -94,7 +97,7 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 | | Navn	| Længde	| Asfalt % | Kommentar |
 |-|-|-|-|-|
-| N1	| Vestkystruten	| 560 km	| 70 %	| Rudbøl - Skagen |
+| N1	| [Vestkystruten](/rute/national-rute-1-vestkyststien/)	| 560 km	| 70 %	| Rudbøl - Skagen |
 | N2	| Hanstholm-København	| 420 km	| 80 %	| |
 | N3	| Hærvejsruten	| 450 km	| 78 %	| Padborg - Frederikshavn |
 | N4	| Søndervig-København	| 310 km	| 90 %	| Omlagt i 2019. Løber nu over Samsø i stedet for den nedlagte færgerute Aarhus - Kalundborg. |
@@ -174,7 +177,7 @@ Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cyclin
 
 | Navn	| Søg efter	|
 |-|-|
-| N1	| Vestkystruten	|
+| N1	| [Vestkystruten](/rute/national-rute-1-vestkyststien/)	|
 | N2	| Hanstholm-København	|
 | N3	| Hærvejsruten |
 | N4	| Søndervig-København	|
@@ -194,4 +197,4 @@ Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cyclin
 
 Jeg håber du fik et godt overblik over de nationale cykelruter. Husk at du kan vælge at køre delforløb eller etaper af de enkelte cykelruter.
 
-Husk også at få tjekket, hvilket [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), du skal have med på ruten. De nationale cykelruter er naturligvis kun nogle af de [danske cykelruter](/cykelruter-danmark/).
+Husk også at få tjekket, hvilket [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), du skal have med på ruten. De nationale cykelruter er naturligvis kun et udsnit af [cykelruter i Danmark](/cykelruter-danmark/).

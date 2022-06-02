@@ -7,8 +7,8 @@ description: "Det er noget helt særligt at være på cykelferie. Du oplever nat
 excerpt: "Det er noget helt særligt at være på cykelferie. Du oplever naturen på en helt anden måde end hvis du kører i bil."
 author_profile: true
 header:
-  overlay_image: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
-  teaser: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
+  teaser: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: *title
   overlay_filter: 0.2
 toc: true
@@ -131,7 +131,7 @@ Du har flere muligheder, når du skal vælge, hvordan du vil overnatte på cykel
 
 Telt, sovepose og liggeunderlag skal du vælge ud fra destination, årstid og vejrudsigt. Vælg et let telt til længere ture.
 
-{% include figure image_path="https://images.unsplash.com/flagged/photo-1593971784329-dcdeb77239e3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" caption="Telt med på cykelferien kan slås op mange smukke steder." alt="Cykel ved siden af telt på cykelferie." %}
+{% include figure image_path="https://images.unsplash.com/flagged/photo-1593971784329-dcdeb77239e3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=5" caption="Telt med på cykelferien kan slås op mange smukke steder." alt="Cykel ved siden af telt på cykelferie." %}
 
 Du kan også spare teltet væk og overnatte i shelters. Danmark er et rigtig godt land at være på cykelferie i. Du kan vælge alt mellem at overnatte primitivt i telt eller shelter, eller du kan vælge at bo på andrehjem, bed & breakfast, kro eller hotel.
 

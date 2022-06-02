@@ -5,6 +5,8 @@ excerpt: "Jeg har skrevet en guidebog med cykelruter i Østjylland. Læs gratis 
 permalink: /cykelruter-oestjylland/
 redirect_from:
   - /cykelguide-oestjylland/
+category:
+  - Cykelruter
 author_profile: true
 sidebar:
   - title: "Om Cykelguide til cykeloplevelser i Østjylland"

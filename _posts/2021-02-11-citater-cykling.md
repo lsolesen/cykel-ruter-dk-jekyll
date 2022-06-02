@@ -1,11 +1,11 @@
 ---
-title: &title "Cykelcitater: 16 citater om cykling og at cykle [2021]"
+title: &title "Cykelcitater: 16 citater om cykling og at cykle [2022]"
 permalink: /cykelcitater-citater-om-cykling/
 last_modified_at: 2021-01-29T09:41:09Z
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
-  teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=5
+  teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: *title
   overlay_filter: 0.8
 category:
@@ -150,7 +150,7 @@ Jeg har lavet et board med citater om fitness på Pinterest. SKynd dig ind og f�
 
 ## Konklusion om cykelcitater
 
-Du kender sikkert også en masse andre citater om cykling og det at cykle. Brug meget gerne kommentarerne, hvis du har nogle mindeværdige citater, som du gerne vil del. 
+Du kender sikkert også en masse andre citater om cykling og det at cykle. Brug meget gerne kommentarerne, hvis du har nogle mindeværdige citater, som du gerne vil del. Du kan også lade dig inspirere af [citater om at kæmpe her](https://www.motionsplan.dk/citater-om-at-kaempe/).
 
 ## Flere plakater og citater om cykling
 

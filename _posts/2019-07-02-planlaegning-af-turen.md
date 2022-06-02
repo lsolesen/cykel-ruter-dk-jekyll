@@ -8,8 +8,8 @@ description: Hvad skal man huske inden man tager afsted på en cykeltur? Vi har
 excerpt: Grundig planlægning af cykelturen og cykelferien kan gøre tingene
   lettere, men planlæg også muligheden for at være spontan.
 header:
-  overlay_image: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=80
-  teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=5
+  teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: Photo by Mohit Tomar on Unsplash
   overlay_filter: 0.2
 last_modified_at: 2021-04-09T03:36:13+02:00
@@ -109,7 +109,7 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 
 ## Populære cykelruter i Danmark
 
-At tage på en cykeltur i Danmark er oplagt med vores mange [fantastiske cykelruter](/cykelruter-danmark/). Du kan vælge [nationale cykelruter](/nationale-cykelruter/) og [regionalruterne](/regionale-cykelruter/). Der er mange steder, der der inviterer på oplevelser i det uendelige. Ruterne er spredt udover hele landet – fra cykelruter i [Vestjylland](/cykelruter-vestjylland/) og [Østjylland](/cykelruter-oestjylland/) til Nordsjælland, [Fyn](/cykelruter-fyn/) og [Bornholm](/cykelruter-bornholm/).
+At tage på en cykeltur i Danmark er oplagt med vores mange [fantastiske danske cykelruter](/cykelruter-danmark/). Du kan vælge [nationale cykelruter](/nationale-cykelruter/) og [regionalruterne](/regionale-cykelruter/). Der er mange steder, der der inviterer på oplevelser i det uendelige. Ruterne er spredt udover hele landet – fra cykelruter i [Vestjylland](/cykelruter-vestjylland/) og [Østjylland](/cykelruter-oestjylland/) til Nordsjælland, [Fyn](/cykelruter-fyn/) og [Bornholm](/cykelruter-bornholm/).
 
 Der er gode muligheder for at tage sin cykel med i toget.
 

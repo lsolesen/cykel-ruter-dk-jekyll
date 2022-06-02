@@ -16,7 +16,7 @@ tags:
   - Guidebog Vestjylland
   - børnevenlig
   - banesti
-excerpt: "Alhedestien er et sammenhængede stisystem anlagt på den nedlagte Herning-Viborg jernbane. Regional cykelrute 21 følger stien. På Alhedestien vil du passere enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede."
+excerpt: "Alhedestien er et sammenhængende stisystem anlagt på den nedlagte Herning-Viborg jernbane. Regional cykelrute 21 følger stien. På Alhedestien vil du passere enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede."
 toc: true
 gps:
   url: https://www.alltrails.com/explore/map/map-8e443d6--10
@@ -52,7 +52,7 @@ asphalt: 45
 rubble: 0
 ---
 
-**Alhedestien - eller regional cykelrute 21 fra Viborg til Herning - er et sammenhængede stisystem anlagt på den nedlagte Herning-Viborg jernbane. Du passerer på ruten enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede.**
+**Alhedestien - eller regional cykelrute 21 fra Viborg til Herning - er et sammenhængende stisystem anlagt på den nedlagte Herning-Viborg jernbane. Du passerer på ruten enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede.**
 
 Jernbanen var i brug omkring 70 år, inden den blev nedlagt i 1978, fordi den ikke kunne konkurrere med biler og busser. Inden da havde jernbanen både transporteret personer og gods.
 
