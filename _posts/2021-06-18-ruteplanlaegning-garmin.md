@@ -45,27 +45,27 @@ Når du har tegnet ruten færdig i Garmin Connect, så er den klar til at sende 
 
 Jeg har tegnet en cykelrute på Alltrails over Bindeballestien. Den vil jeg gerne have overført til Garmin Connect, så jeg kan lægge den på mit Garmin GPS-ur.
 
-{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-bindeballestien.png" caption="Find ruten på AllTrails og klik på Eksporter." alt="eksporter rute fra alltrails" %}
+{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-bindeballestien.jpg" caption="Find ruten på AllTrails og klik på Eksporter." alt="eksporter rute fra alltrails" %}
 
 Vælg at downloade ruten som GPX-track, som du kan importere i Garmin.
 
-{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-alltrails-export.png" caption="Eksporter ruten som GPX." alt="eksporter rute fra alltrails" %}
+{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-alltrails-export.jpg" caption="Eksporter ruten som GPX." alt="eksporter rute fra alltrails" %}
 
 Når du igen er i Garmin Connect, så kan du importere en `Bane` under `Træning`.
 
-{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-garmin-ruteplanlaegning-import.png" caption="Importer ruten ind i ruteplanlægningen på Garmin Connect" alt="importer ruten i garmin" %}
+{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-garmin-ruteplanlaegning-import.jpg" caption="Importer ruten ind i ruteplanlægningen på Garmin Connect" alt="importer ruten i garmin" %}
 
 Åbn GPX-filen og klik på `Kom i gang`.
 
-{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-garmin-ruteplanlaegning-import-2.png" caption="Find GPX-filen og sæt gang i importen i Garmin" alt="importer ruten i garmin" %}
+{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-garmin-ruteplanlaegning-import-2.jpg" caption="Find GPX-filen og sæt gang i importen i Garmin" alt="importer ruten i garmin" %}
 
 Vælg en banetype som bedst beskriver den rute, du er ved at planlægge:
 
-{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-vaelg-banetype.png" caption="Vælg en banetype i Garmin" alt="vælg banetype i garmin" %}
+{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-vaelg-banetype.jpg" caption="Vælg en banetype i Garmin" alt="vælg banetype i garmin" %}
 
 Så er ruten importeret. Nu kan du give den et navn, og du kan også sende den til din enhed.
 
-{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-ruteplan-slut.png" caption="Ruten er oprettet, og du er klar til at kunne sende den til din enhed." alt="garmin connect ruteplanlægning slut" %}
+{% include figure image_path="/assets/images/posts/ruteplanlaegning-garmin-ruteplan-slut.jpg" caption="Ruten er oprettet, og du er klar til at kunne sende den til din enhed." alt="garmin connect ruteplanlægning slut" %}
 
 Personligt plejer jeg altid at bruge Garmin Connect Appen på min telefon, når jeg gerne vil sende baner frem og tilbage mellem mine devices.
 

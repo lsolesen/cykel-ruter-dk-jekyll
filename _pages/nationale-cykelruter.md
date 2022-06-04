@@ -173,7 +173,7 @@ Du kan finde de landsdækkende cykelruter på [OpenStreetMap](https://www.openst
 
 Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade ruterne fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise.
 
-{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.png" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de nationale cykelruter frem." alt="waymarkedtrails gpx nationale cykelruter" %}
+{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.jpg" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de nationale cykelruter frem." alt="waymarkedtrails gpx nationale cykelruter" %}
 
 | Navn	| Søg efter	|
 |-|-|

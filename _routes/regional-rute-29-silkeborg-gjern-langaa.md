@@ -26,11 +26,17 @@ rubble: 10
 
 **{{ page.excerpt }}**
 
-Ruten starter i Silkeborg på den smukt beliggende landevej mod Resenbro. Umiddelbart efter Resenbro drejer du ind på det gamle, asfalterede jernbanespor. Den første del af ruten kører langs Gudenådalen, som blev skabt under isens afsmeltning efter seneste istid. Danmarks længste å, Gudenåen, ligger i bunden af dalen, og det brede løb slynger sig mellem enge, moser og skovdækkede dalsider.
+Ruten starter i Silkeborg på den smukt beliggende landevej mod Resenbro. Umiddelbart efter Resenbro drejer du ind på det gamle, asfalterede jernbanespor.
 
-Lige før Sminge Sø drejer ruten ind i den mindre Gjern Ådal. Gjern Ådal er smal og dyb, og dalsiderne på strækningen mellem Sminge og Gjern er helt dækket af skov. Det højeste punkt er Store Troldhøj, der er 80 meter over dalbunden. Fra Store Troldhøj er der en fin udsigt over både Gudenådalen og Gjern Ådal. I området omkring Gjern er der flere skønne vandreruter, hvis benene skal strækkes lidt - og cyklen skal hvile sig.
+Den første del af ruten kører langs Gudenådalen, som blev skabt under isens afsmeltning efter seneste istid. Danmarks længste å, Gudenåen, ligger i bunden af dalen, og det brede løb slynger sig mellem enge, moser og skovdækkede dalsider.
 
-Efter Gjern by stiger ruten langsomt op på et højere og fladere område og på de næste 15 km indtil landsbyen, Bøstrup, præges området af landbrugsdrift. Herefter falder ruten igen ned mod Lilleådalen tæt på Herregården Bidstrup, som også besidder store dele af områdets arealer. Desværre er der ikke adgang til selve herregården. I bunden af Lilleådalen slynger Lilleå sig gennem store mose- og engarealer, mens de stejlere dalsider er dækket af store skovområder. Mellem Laurbjerg og Langå kører du helt tæt på Lilleåen. Lige før Langå løber Lilleådalen ud i den større Gudenådal.
+Lige før Sminge Sø drejer ruten ind i den mindre Gjern Ådal. Gjern Ådal er smal og dyb, og dalsiderne på strækningen mellem Sminge og Gjern er helt dækket af skov. Det højeste punkt er Store Troldhøj, der er 80 meter over dalbunden.
+
+Fra Store Troldhøj er der en fin udsigt over både Gudenådalen og Gjern Ådal. I området omkring Gjern er der flere skønne vandreruter, hvis benene skal strækkes lidt - og cyklen skal hvile sig.
+
+Efter Gjern by stiger ruten langsomt op på et højere og fladere område og på de næste 15 km indtil landsbyen, Bøstrup, præges området af landbrugsdrift. Herefter falder ruten igen ned mod Lilleådalen tæt på Herregården Bidstrup, som også besidder store dele af områdets arealer. Desværre er der ikke adgang til selve herregården.
+
+I bunden af Lilleådalen slynger Lilleå sig gennem store mose- og engarealer, mens de stejlere dalsider er dækket af store skovområder. Mellem Laurbjerg og Langå kører du helt tæt på Lilleåen. Lige før Langå løber Lilleådalen ud i den større Gudenådal.
 
 ## Seværdigheder
 

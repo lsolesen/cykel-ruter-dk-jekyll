@@ -1,7 +1,7 @@
 lsolesen:
   name: "Lars Olesen"
   bio: "Lars har skrevet flere cykelguidebøger om [cykelruter i Danmark](/cykelruter-danmark/) - særligt i Østjylland og Vestjylland - og han drømmer om den næste cykeltur og cykelferie med sin familie."
-  avatar: "/assets/images/authors/larsolesen.png"
+  avatar: "/assets/images/authors/larsolesen.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -18,7 +18,7 @@ lsolesen:
 dina:
   name: "Dina Knudsen"
   bio: "Dina har skrevet flere cykelguidebøger om cykelruter i Danmark. Hun har også cyklet fra Nordpolen til Sydpolen - altså i Polen."
-  avatar: "/assets/images/authors/dinaknudsen.png"
+  avatar: "/assets/images/authors/dinaknudsen.jpg"
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"

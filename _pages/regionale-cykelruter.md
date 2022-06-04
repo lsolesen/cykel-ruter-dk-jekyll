@@ -98,7 +98,7 @@ Du kan finde nogle af de regionale cykelruter på [OpenStreetMap](https://www.op
 
 Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade nogle af regionalruterne fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise.
 
-{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.png" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de regionale cykelruter frem." alt="waymarkedtrails gpx regionale cykelruter" %}
+{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.jpg" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de regionale cykelruter frem." alt="waymarkedtrails gpx regionale cykelruter" %}
 
 ## Konklusion
 
