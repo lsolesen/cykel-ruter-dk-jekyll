@@ -5,10 +5,10 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 author: lsolesen
 header:
-  overlay_image: &image https://www.fotoagent.dk/single_picture/12111/25/large/Cykel.jpg
+  overlay_image: &image https://gdkfiles.visitdenmark.com/files/428/257744_Thorsminde_-_Fugleen_-_Havtorn_GD.jpg?width=1200
   caption: *title
   credit: "Billede fra Naturpark Nissum Fjord"
-  teaser: *image
+  teaser: https://gdkfiles.visitdenmark.com/files/428/257744_Thorsminde_-_Fugleen_-_Havtorn_GD.jpg?width=400
 category:
   - Regional Cykelrute
 tags:

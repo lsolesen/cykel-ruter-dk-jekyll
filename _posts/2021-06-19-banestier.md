@@ -1,9 +1,10 @@
 ---
+layout: single-simple
 title: &title "Banestier: Bilfri cykeltur på nedlagte jernbaner"
 permalink: /banestier-i-danmark/
 language: da
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Kjellerupbanen37Skovvej.JPG
+  featured_image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Kjellerupbanen37Skovvej.JPG
   teaser: https://upload.wikimedia.org/wikipedia/commons/c/c4/Kjellerupbanen37Skovvej.JPG
   caption: *title
 tags:
