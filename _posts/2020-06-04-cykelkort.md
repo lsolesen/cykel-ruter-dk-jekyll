@@ -22,7 +22,7 @@ author_profile: true
 author: lsolesen
 feature_row:
   - image_path: https://www.scanmaps.dk/media/catalog/product/c/y/cykelkort-500000-forside_03.jpg
-    title: "Cykelkort Danmark og København"
+    title: "Cykelkort Danmark og København (2021)"
     alt: "Cykelkort Danmark og København"
     excerpt: "Danmarkskortet i 3. udgave er nu med cykelkort på begge sider af kortet. Udover Danmarkskortet i målestok 1:500.000 får man også et cykelkort over Storkøbenhavn i målestok 1:35.000."
     url: "https://www.scanmaps.dk/0251c83?G=020"
@@ -69,42 +69,42 @@ scanmaps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_nordlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d57?G=020
     alt: "Cykelkort #1 Nordlige Sjælland"
-    title: "#1 Nordlige Sjælland (nyt kort maj 2021)"
+    title: "#1 Nordlige Sjælland (2021)"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_sydlige_sj_lland_1.jpg
     url: https://www.scanmaps.dk/0251d58?G=020
     alt: "Cykelkort #2 Sydlige Sjælland, Møn, Lolland og Falster"
-    title: "#2 Sydsjælland, Møn, Lolland og Falster (nyt kort maj 2021)"
+    title: "#2 Sydsjælland, Møn, Lolland og Falster (2021)"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
     url: https://www.scanmaps.dk/0251f59?G=020
     alt: "Cykelkort #3 Fyn, Ærø, Tåsinge og Langeland"
-    title: "#3 Fyn, Ærø, Tåsinge og Langeland"
+    title: "#3 Fyn, Ærø, Tåsinge og Langeland (2022)"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
     url: https://www.scanmaps.dk/0251d60?G=020
     alt: "Cykelkort #4 Østlige Jylland"
-    title: "#4 Østlige Jylland (nyt kort 2020)"
+    title: "#4 Østlige Jylland (2019)"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d63?G=020
     alt: "Cykelkort #5 Nordlige Jylland"
-    title: "#5 Nordlige Jylland"
+    title: "#5 Nordlige Jylland (2022)"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_vestlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d62?G=020
     alt: "Cykelkort #6 Vestlige Jylland"
-    title: "#6 Vestlige Jylland"
+    title: "#6 Vestlige Jylland (2022)"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
     url: https://www.scanmaps.dk/0251d61?G=020
     alt: "Cykelkort #7 Sydlige Jylland"
-    title: "#7 Sydlige Jylland (nyt kort maj 2021)"
+    title: "#7 Sydlige Jylland (2021)"
     rel: sponsored nofollow noopener
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_bornholm.jpg
     url: https://www.scanmaps.dk/0251d64?G=020
-    alt: "Cykelkort #8 Bornholm (nyt kort 2022)"
-    title: "#8 Bornholm"
+    alt: "Cykelkort #8 Bornholm"
+    title: "#8 Bornholm (2022)"
     rel: sponsored nofollow noopener
 cykelguide:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
