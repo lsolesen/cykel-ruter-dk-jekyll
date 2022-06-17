@@ -24,6 +24,10 @@ body.layout--single, body.layout--routes {
   content: "*";
 }
 
+.btn--bmc {
+  background-color:hsl(51, 100%, 50%);
+}
+
 figure {
   &.fourth {
     > a,
