@@ -1,7 +1,7 @@
 ---
 layout: single
 title: &title "Danmarks regionale cykelruter"
-seo_title: "Danmarks regionale cykelruter: Hvor finder jeg kort [2022]?"
+seo_title: "Danmarks regionale cykelruter: Hvor finder jeg kort (2022)?"
 excerpt: "I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. Læs alt om regionalruterne og find regionale cykelkort."
 permalink: /regionale-cykelruter/
 category:

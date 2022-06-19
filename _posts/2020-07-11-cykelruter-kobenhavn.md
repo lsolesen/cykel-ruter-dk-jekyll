@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cykelruter, supercykelstier og cykelkort København [2022]"
+title: "Cykelruter, supercykelstier og cykelkort København (2022)"
 permalink: /cykelruter-koebenhavn/
 category:
   - Cykelruter

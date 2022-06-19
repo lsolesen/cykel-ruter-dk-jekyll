@@ -1,0 +1,93 @@
+---
+layout: splash
+permalink: /confirm/
+sitemap: false
+title: Din e-mail blev bekræftet
+excerpt: "Din e-mail blev bekræftet. Vi er rigtig glade for, at du vil følge med på sitet. Måske har du allerede nu lyst til at kigge lidt rundt."
+header:
+  overlay_image: https://images.unsplash.com/photo-1523210299746-f23a7af1a413?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=10
+  actions:
+    - label: "Find de bedste cykelkort 🗺"
+      url: "/cykelkort/"
+    - label: "Se alle cykelruterne 🧭"
+      url: "/cykelruter-danmark/"
+feature_row_intro:
+  - title: Din e-mail blev bekræftet
+    excerpt: "Din e-mail blev bekræftet. Vi er rigtig glade for, at du vil følge med på sitet. Måske har du allerede nu lyst til at kigge lidt rundt."
+feature_row:
+  - image_path: https://c.pxhere.com/photos/8e/b5/family_cycling_bike_landscape_summer_sky_north_sea_sylt-723487.jpg!d
+    url: /cykelruter-danmark/
+    title: Cykelruter i Danmark
+    excerpt: Vi har samlet en perlerække af forslag til cykelture i Danmark. Du kan kigge oversigten over danske cykelruter igennem for at planlægge din næste cykeltur.
+    btn_label: Se cykelruter i Danmark
+    btn_class: btn--success
+  - image_path: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    url: /cykelferie/
+    title: Cykelferie
+    excerpt: Har du overvejet at tage på en cykelferie, men er lidt i tvivl om, hvordan du skal planlægge det? Så er denne guide lige netop skrevet til dig.
+    btn_label: Læs om cykelferie
+    btn_class: btn--success
+  - image_path: https://images.unsplash.com/photo-1601839554994-e36fcc65da74?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+    url: /planlaegning-cykeltur/
+    title: Planlægning
+    excerpt: Når du skal på cykeltur, så kan det betale sig at planlægge et par enkelte ting på forhånd. Planlægningen kan nemlig gøre hele cykelturen mere behagelig.
+    btn_label: Læs om planlægning
+    btn_class: btn--success
+  - image_path: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    url: /cykelkort/
+    title: Cykelkort
+    excerpt: Når du skal på cykeltur i Danmark, er det rigtig godt at kunne finde vej. Jeg har flere gange lavet den fejl ikke at medbringe et cykelkort, der er detaljeret nok. Der findes nogle rigtig gode cykelkort, som du kan bruge, når du planlægger din cykeltur.
+    btn_label: Vælg cykelkort
+    btn_class: btn--success
+  - image_path: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=80
+    url: /nationale-cykelruter/
+    title: Danske nationalruter
+    excerpt: I Danmark findes der 11 nationale cykelruter på hele 4.233 km cykelvenlige ruter. De nationale cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture.
+    btn_label: Find nationale cykelruter
+    btn_class: btn--success
+  - image_path: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=80
+    url: /regionale-cykelruter/
+    title: Danske regionalruter
+    excerpt: I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. Læs alt om regionalruterne og find regionale cykelkort.
+    btn_label: Find regionale cykelruter
+    btn_class: btn--success
+
+blog:
+  - excerpt: '[Se alle blogindlæg](/blog/){: .btn .btn--large .btn--success }'
+---
+
+{% include feature_row id="feature_row_intro" type="center" %}
+
+<h2>Mest populære sider</h2>
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | where: "tags", "featured" | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:8 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
+{% include feature_row id="blog" type="center" %}
+
+<h2>Tjek de nyeste indlæg på cykel-ruter.dk</h2>
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:8 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
+{% include feature_row id="blog" type="center" %}
+
+{% include feature_row %}
