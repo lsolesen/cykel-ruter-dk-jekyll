@@ -12,8 +12,8 @@ excerpt: "Du har mange muligheder for at overnatte på cykelferien og cykelturen
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1551303174-2b0eb4ab8cef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=5
-  teaser: https://images.unsplash.com/photo-1551303174-2b0eb4ab8cef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1551303174-2b0eb4ab8cef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1551303174-2b0eb4ab8cef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: "Photo by Tarn S on Unsplash"
   overlay_filter: 0.2
 ---
