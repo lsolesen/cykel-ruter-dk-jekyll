@@ -6,6 +6,8 @@ excerpt: "Bindeballestien er en 36 km lang cykelrute, der følger en gammel bane
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-13T09:48:02+02:00
 author: lsolesen
+keywords:
+  - Bindeballestien
 header:
   overlay_image: &image https://c.pxhere.com/photos/e9/95/bike_rapeseed_field_way_tour_tourism_nature_the_cultivation_of-877564.jpg!d
   caption: "Bindeballestien mellem Vejle og Billund. Pxhere - [via](https://pxhere.com/da/photo/877564)"
@@ -49,11 +51,13 @@ gallery:
     alt: Bindeballestien går gennem Randbølgård Plantage
 ---
 
-**{{ page.excerpt }}**
+Bindeballestien er en 36 km lang cykelrute, der følger en gammel jernbanesti mellem Vejle til Bindeballe Købmandsgård og videre til Billund. Ruten er skiltet som regional cykelrute 36.
 
-**Bindeballestien** er en attraktiv, børnevenlig cykelrute og vandrerute gennem den naturskønne Vejle Ådal.
+**Bindeballestien** er en attraktiv, børnevenlig cykelrute og vandrerute gennem den naturskønne Vejle Ådal. Ruten er en af dem mange [danske banestier](/banestier-i-danmark/).
 
 Strækningen fra Vejle til Bindeballe følger den gamle Vandelbanes spor gennem landskabet. Derfor er den næsten flad, og langt hovedparten af ruten er bilfri zone. Ruten er skiltet som regional cykelrute nr. 36 og går fra Vejle til Bindeballe og videre til Billund.
+
+{% include video provider="youtube" id="KeFDOkNiSjI" ezoic="ezoic-pub-video-placeholder-6" %}
 
 ## Skiltning og kort på Bindeballestien
 

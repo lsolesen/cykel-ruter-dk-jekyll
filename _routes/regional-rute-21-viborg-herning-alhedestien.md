@@ -52,11 +52,13 @@ asphalt: 45
 rubble: 0
 ---
 
-**Alhedestien - eller regional cykelrute 21 fra Viborg til Herning - er et sammenhængende stisystem anlagt på den nedlagte Herning-Viborg jernbane. Du passerer på ruten enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede.**
+Alhedestien - eller regional cykelrute 21 fra Viborg til Herning - er et sammenhængende stisystem anlagt på den nedlagte Herning-Viborg jernbane.
+
+Du passerer på ruten enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede.
 
 Jernbanen var i brug omkring 70 år, inden den blev nedlagt i 1978, fordi den ikke kunne konkurrere med biler og busser. Inden da havde jernbanen både transporteret personer og gods.
 
-Indtægterne fra transport af mergel på jernbanen var med at finansiere forvandlingen af heden til frugtbart agerland, og resultatet er tydeligt, når man kører på ruten. Langt det meste af ruten foregår på mindre cykelstier og grusveje.
+Indtægterne fra transport af mergel på jernbanen var med at finansiere forvandlingen af heden til frugtbart agerland, og resultatet er tydeligt, når man kører på ruten. Langt det meste af ruten foregår ligesom den [andre jernbanestier](/banestier-i-danmark/) på mindre cykelstier og grusveje.
 
 Start med at bruge lidt tid i Viborg og besøg bl.a. Viborg Domkirke, hvor Erik Klipping er begravet. Tag derefter ruten ud af Viborg, hvor den følges tæt med den nationale rute 3.
 
@@ -68,7 +70,7 @@ Tæt på Hald Hovedgård skilles den regionale rute 21 fra den nationale rute 3.
 
 Uanset hvilken vej du vælger, kan du svinge et smut ind til Dollerup og besøge Hjørnegaards besøgspark med rhododendronbede og japanske haveafsnit. Lige efter Dollerup i Skelhøje samles de to ruter igen kortvarigt, og turen går nu over Frederiks til Karup med Alheden på den vestlige side af vejen.
 
-{% include gallery caption="Billeder fra [Wikipedia Alhedestien på Herning-Viborg-banen](https://da.wikipedia.org/wiki/Herning-Viborg-banen)" class="full" %}
+{% include gallery caption="Billeder fra [Wikipedias](https://da.wikipedia.org/wiki/Herning-Viborg-banen) side: Alhedestien på Herning-Viborg-banen" class="full" %}
 
 ## Alhedestien fører forbi Alheden
 

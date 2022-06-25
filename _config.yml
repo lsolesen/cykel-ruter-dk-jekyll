@@ -18,7 +18,7 @@ future: true
 locale                   : "da"
 title                    : "Cykel-ruter.dk"
 title_separator          : false # "-"
-subtitle                 : "Cykelferie og cykelruter i Østjylland, Sydjylland og Vestjylland"
+subtitle                 : "Alt om cykelruter og cykelferie"
 logo                     : "/android-chrome-192x192.png"
 name                     : "Cykelferie og cykelruter i Østjylland, Sydjylland og Vestjylland - Danmark"
 description              : "Danmark er et helt fantastisk sted at tage på cykelferie. Vi har beskrevet cykelruter i Østjylland, Sydjylland og Vestjylland."

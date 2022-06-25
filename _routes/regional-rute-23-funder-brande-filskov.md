@@ -26,13 +26,19 @@ asphalt: 40
 rubble: 23
 ---
 
-**{{ page.excerpt }}**
+Regional cykelrute 23 følger stort set den gamle banestrækning hele vejen mellem Funder via Brande til Filskov. Denne strækning var en del af en jernbane, der gik skråt ned over Jylland fra Langå til Esbjerg. Jernbanen blev kaldt Den Skæve Bane i folkemunde.
 
-Turen starter i Lysbro ved den tidligere stationsbygning, som nu danner ramme om amatørteater og hedder Perronteatret. Den første halvdel af ruten følger en smukt anlagt natursti mellem Funder og Ejstrup gennem den dybe og meget kuperede Funder Ådal med enge og løvskove. Mod sydvest går området over i mere sandede egne.
+Den Skæve Bane er altså en del af Danmarks mange [banestier](/banestier-i-danmark/), som giver dig mulighed for at få en rolig cykelopvelse, .
+
+Turen starter i Lysbro ved den tidligere stationsbygning, som nu danner ramme om amatørteater og hedder Perronteatret.
+
+Den første halvdel af ruten følger en smukt anlagt natursti mellem Funder og Ejstrup gennem den dybe og meget kuperede Funder Ådal med enge og løvskove. Mod sydvest går området over i mere sandede egne.
 
 Langs naturstien er der stadig minder fra jernbanetiden: Stationer, ledvogterhuse, led ved markveje og tre røde kolonnehuse, hvor jernbanearbejderne opholdt sig. Husene kan nu bruges af naturstiens trafikanter til rast.
 
-Mellem Christianshede og Hampen cykler vi gennem flere plantager, hvor Gludsted Plantage er en af Danmarks største. Nabo hertil er Hjøllund Mose, hvor krondyr og rådyr passer på, så de ikke træder på hugormene. Kort før Hampen du krydser den nationale cykelrute 4. Her bør du tænke på at tage en afstikker til Hampen Sø, hvor der er en god badestrand og en 5 kilometer lang natursti rundt om søen. Efter Hampen fortsætter du videre gennem det lyngbeklædte landskab mod Ejstrup Sø. I sidste århundrede forsøgte man at tørlægge søen, men efter ihærdig lokal indsats indbyder området nu til en dejlig og afveklsende vandretur på naturstien rundt om søen.
+Mellem Christianshede og Hampen cykler vi gennem flere plantager, hvor Gludsted Plantage er en af Danmarks største. Nabo hertil er Hjøllund Mose, hvor krondyr og rådyr passer på, så de ikke træder på hugormene. Kort før Hampen du krydser den nationale cykelrute 4.
+
+Her bør du tænke på at tage en afstikker til Hampen Sø, hvor der er en god badestrand og en 5 kilometer lang natursti rundt om søen. Efter Hampen fortsætter du videre gennem det lyngbeklædte landskab mod Ejstrup Sø. I sidste århundrede forsøgte man at tørlægge søen, men efter ihærdig lokal indsats indbyder området nu til en dejlig og afveklsende vandretur på naturstien rundt om søen.
 
 Fra Ejstrup fortsætter ruten mod Brande. I udkanten af byen kommer du tæt forbi Brandes gamle elværk fra 1910, hvor Skjern Å er dæmmet op. Elkraftsøen ligger som en stille oase med laksetrapper, klart blåt vand og et rigt fugleliv. Gennem gavlvinduet kan du se Danmarks ældste, igangværende turbiner af kobber. Brande kan du læse mere om under regional rute nummer 32 fra Harboøre til Horsens.
 
@@ -40,7 +46,7 @@ På vej ud af Brande krydser du hovedvejen mod Give. Her kan du tage en kort afs
 
 Udhvilet går det sidste stykke af ruten over Hallundbæk, hvor du forlader stien det sidste stykke til Filskov og fortsætter på mindre veje.
 
-## Seværdigheder langs Den Skvæe Bane
+## Seværdigheder langs Den Skæve Bane
 
 - Funder Ådal
 - Christianshede Stationsby
