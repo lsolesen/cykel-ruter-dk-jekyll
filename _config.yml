@@ -282,6 +282,7 @@ defaults:
       type: posts
     values:
       layout: single
+      breadcrumbs: true
       author_profile: true
       read_time: true
       comments: true
@@ -291,6 +292,19 @@ defaults:
       sidebar:
         title: "Populære sider"
         nav: blog
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      breadcrumbs: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      toc: true
 # _routes
   - scope:
       path: ""
