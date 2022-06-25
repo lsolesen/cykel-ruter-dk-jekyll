@@ -4,10 +4,8 @@ permalink: /rute/regional-rute-36-bindeballestien/
 seo_title: "Bindeballestien: Følg banestien mellem Vejle og Billund"
 excerpt: "Bindeballestien er en 36 km lang cykelrute, der følger en gammel banesti mellem Vejle til Bindeballe Købmandsgård og videre til Billund. Ruten er skiltet som regional cykelrute 36."
 created_at: 2006-07-03T09:48:02+02:00
-last_modified_at: 2021-06-13T09:48:02+02:00
+last_modified_at: 2022-06-22T09:48:02+02:00
 author: lsolesen
-keywords:
-  - Bindeballestien
 header:
   overlay_image: &image https://c.pxhere.com/photos/e9/95/bike_rapeseed_field_way_tour_tourism_nature_the_cultivation_of-877564.jpg!d
   caption: "Bindeballestien mellem Vejle og Billund. Pxhere - [via](https://pxhere.com/da/photo/877564)"
@@ -49,6 +47,11 @@ gallery:
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VejleVandelGrindsted65Randb%C3%B8lg%C3%A5rdPlantage2.JPG/1024px-VejleVandelGrindsted65Randb%C3%B8lg%C3%A5rdPlantage2.JPG
     title: Bindeballestien går gennem Randbølgård Plantage
     alt: Bindeballestien går gennem Randbølgård Plantage
+faq:
+  - question: Hvor lang er Bindeballestien?
+    answer: Bindeballestien er 36 km lang. Ruten følger den gamle Vandelbane gennem landskabet, så ruten er næsten flad, og ruten er skærmet for biler.
+  - question: Er Bindeballestien asfalteret?
+    answer: Du skal køre både på grusvej og asfalteret cykelsti, hvis du vælger at køre på Bindeballestien. Hele stien er let fremkommelig og passagerne med grus er stadig fine cykelveje. Regional rute 36 er asfalteret fra Vejle til Ravningbroen og igen fra Frederikshåb Plantage i lange strækninger mod Billund. Ruten er skiltet hele vejen.
 ---
 
 Bindeballestien er en 36 km lang cykelrute, der følger en gammel jernbanesti mellem Vejle til Bindeballe Købmandsgård og videre til Billund. Ruten er skiltet som regional cykelrute 36.
@@ -91,14 +94,6 @@ En kort del af ruten på Bindeballestien følger herfra den trafikerede Koldingv
 
 I Billund kan du opleve LEGOLAND®, Wow Park og Lalandia.
 
-## Hvor lang er Bindeballestien?
-
-Bindeballestien er 36 km lang. Ruten følger den gamle Vandelbane gennem landskabet, så ruten er næsten flad, og ruten er skærmet for biler.
-
-## Er Bindeballestien asfalteret?
-
-Du skal køre både på grusvej og asfalteret cykelsti, hvis du vælger at køre på Bindeballestien. Hele stien er let fremkommelig og passagerne med grus er stadig fine cykelveje. Regional rute 36 er asfalteret fra Vejle til Ravningbroen og igen fra Frederikshåb Plantage i lange strækninger mod Billund. Ruten er skiltet hele vejen.
-
 ## Overnatning på Bindeballestien?
 
 Der er flere muligheder for overnatning langs ruten. Du kan bo både primitivt eller komfortabelt.
@@ -118,6 +113,10 @@ Du kan se i nedenstående virkelig velproducerede video, hvordan det er at vandr
 ## Folder over Bindeballestien
 
 Du kan downloade en [PDF-folder](http://www.okolariet.dk/media/345467/bindeballeinfotavle_juni_2016_1_lav.pdf) over Bindeballestien. Du kan også hente en folder fx på Økolariet i Vejle over banestien.
+
+## Ofte stillede spørgsmål om Bindeballestien
+
+{% include faq.html %}
 
 ## Kort over Bindeballestien
 
