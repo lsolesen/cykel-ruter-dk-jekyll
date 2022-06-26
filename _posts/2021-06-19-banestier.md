@@ -1,5 +1,4 @@
 ---
-layout: single-simple
 title: &title "Banestier: Bilfri cykeltur på nedlagte jernbaner"
 permalink: /banestier-i-danmark/
 language: da
