@@ -54,8 +54,10 @@ layout: default
         <div class="feature__wrapper">
           {% if page.gps.provider %}
             {% include gps provider=page.gps.provider id=page.gps.id %}
+            {% if page.gps.url %}
             <div><a href="{{ page.gps.url }}" class="btn btn--large btn--success"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].get_gps_track | default: "Se GPS track" }}</a></div>
-          {% endif %}
+            {% endif %}
+            {% endif %}
         </div>
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

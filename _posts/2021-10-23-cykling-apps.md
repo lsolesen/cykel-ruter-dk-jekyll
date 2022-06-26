@@ -55,7 +55,7 @@ Lad os dykke ned i de bedste cykel apps i øjeblikket.
 
 ## 1. Relive.cc
 
-{% include figure image_path="/assets/images/apps/relive-cykling-app.jpg" %}
+{% include figure image_path="/assets/images/apps/relive-cykel-app.jpg" %}
 
 Relive er en af de bedste apps til cyklister, der ønsker at spore deres ture og genopleve dem senere. Hvis du bruger appen på telefonen til at optage din tur og tage billeder undervejs, så kan du få en ret unik video bagefter af turen.
 
@@ -69,7 +69,7 @@ Relive findes både i en gratis udgave og en premium-udgave. Tidligere har man k
 
 Ayvri er en 3D virtual reality-app, som giver dig mulighed for at cykle på alle veje i verden fra dit eget hjem. Appen indeholder et bibliotek med over 1000 ruter fra hele verden, som brugerne har lagt op.
 
-{% include figure image_path="/assets/images/apps/ayvri-cycling-app.jpg" %}
+{% include figure image_path="/assets/images/apps/ayvri-cykling-app.jpg" %}
 
 Hvis du selv har cyklet en rute eller bare tegnet den på forhånd, så kan du importere den ind i Ayvri. Derefter lægger Ayvri den ind på et 3D-kort, så du kan se, hvordan din cykeltur forløber gennem landskabet.
 

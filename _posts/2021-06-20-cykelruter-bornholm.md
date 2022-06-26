@@ -123,7 +123,7 @@ Her er en liste over nogle af de gode banestier på Bornholm.
 
 De fleste af disse jernbanestier er relativt kort. Men prøv at få dem som en del af din tur på Bornholm. Det er virkelig dejligt og afslappende at køre på banestier på Bornholm.
 
-Jeg har skrevet en mere udførlig artikel om [banestier i Danmark her]({% link _posts/2021-06-19-banestier.md %}).
+Jeg har skrevet en mere udførlig artikel om [banestier i Danmark her](/banestier-i-danmark/).
 
 ## Se flere ruter på Bornholm
 

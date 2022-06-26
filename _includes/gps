@@ -12,5 +12,7 @@
   <div class='naviki'><script type='text/javascript' src='https://www.naviki.org/typo3conf/ext/naviki/Resources/Public/Js/Util/naviki.util.widget.js?tx_naviki_pi_widget%5Bwayid%5D={{ map_id }}&tx_naviki_pi_widget%5Blpid%5D=142&tx_naviki_pi_widget%5Blanguage%5D=da'></script></div>
 {% elsif map_provider == "alltrails" %}
   <iframe class="alltrails" src="{{ map_id }}?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+{% elsif map_provider == "outdooractive" %}
+  <iframe src="https://www.outdooractive.com/en/embed/{{ map_id }}/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
 {% endif %}
 </div>

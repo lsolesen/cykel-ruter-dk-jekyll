@@ -119,7 +119,7 @@ Heldigvis er der lavet et rigtig godt og vejrbestandigt kort, hvor du kan få ov
 
 På cykelkortet over Fyn kan du finde informationer om **nationale cykelruter 6 og 8**. Samtidig kan du finde informationer om alle de **regionale cykelruter** på øen. De regionale ruter i kortet er følgende 2, 30, 31, 32, 33, 35, 37, 38, 40, 41, 42, 43, 45, 50, 51, 55, 65, 71, 75, 79, 80, 81, 82, 83, 90, 91 og 92.
 
-Desuden kan du finde lidt lokale cykelruter, fx [banestien]({% link _posts/2021-06-19-banestier.md %}) fra Ringe til Korinth.
+Desuden kan du finde lidt lokale cykelruter, fx [banestien](/banestier-i-danmark/) fra Ringe til Korinth.
 
 Kortet indeholder også alle mulige nyttige informationer for cyklisten. Du kan finde rastepladser, overnatningsmuligheder, cykelhandlere, seværdigheder og turistattraktioner. Du kan i kortet finde alle de cykelvenlige faciliteter på Fyn.
 
