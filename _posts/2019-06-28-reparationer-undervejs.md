@@ -46,8 +46,8 @@ feature_row_minimum:
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1601839554994-e36fcc65da74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=5
-  teaser: https://images.unsplash.com/photo-1601839554994-e36fcc65da74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1601839554994-e36fcc65da74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1601839554994-e36fcc65da74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   alt: "Photo by Lance Grandahl on Unsplash"
 ---

@@ -68,14 +68,12 @@ layout: default
           {% include pinterest image_path=path hidden="true" %}
         {% endif %}
 
-        {% assign routes = site.routes | where: "tags", page.related %}
+        {% assign routes = site.routes | where: "tags", page.related | where_exp: "post", "post.url != page.url" %}
         {% if routes.size > 0 %}
         <div class="feature__wrapper">
           <h2>Relaterede cykelruter og cykelture</h2>
           {% for post in routes %}
-            {% unless post.url == page.url %}
               {% include archive-single.html type="grid" %}
-            {% endunless %}
           {% endfor %}
         </div>
         {% endif %}

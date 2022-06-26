@@ -4,19 +4,19 @@ title: &title "Danmarks Nationale Cykelruter"
 seo_title: "Danmarks Nationale Cykelruter: Hvor finder jeg kort (2022)?"
 permalink: /nationale-cykelruter/
 excerpt: "Danmark har 11 nationale cykelruter på hele 4.233 km cykelvenlige ruter. De nationale cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Læs mere om de danske nationalruter, og hvordan du finder kort til cykelruterne."
-description: "Læs om Danmarks 11 nationale cykelruter. De nationale cykelstier forbinder alle dele af landet, og her finder du de bedste kort til de 4.233 kilometer nationale cykelruter."
+description: "Læs om Danmarks 11 nationalruter. De nationale cykelstier forbinder alle dele af landet, og her finder du de bedste kort til de 4.233 kilometer nationale cykelruter."
 author_profile: true
 category:
   - Cykelruter
 classes: wide
 header:
-  overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   overlay_filter: 0.2
 feature_row:
   - url: https://www.vejdirektoratet.dk/side/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter#.UxmeSj95OSo
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
     title: "Vejdirektoratets cykelruter"
     alt: "Vejdirektoratets cykelruter"
     excerpt: "Du kan finde kortet over de nationale cykelruter på Vejdirektoratets trafikkort på trafikken.dk. Nogle af ruterne har også deres egen hjemmeside, hvor du kan læse mere, og der findes ældre trykte kort hos Cyklistforbundet."

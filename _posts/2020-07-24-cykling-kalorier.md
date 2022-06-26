@@ -8,8 +8,8 @@ tags:
   - energiforbrug
 last_modified_at: 2020-07-24T16:59:01Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=5
-  teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   overlay_filter: 0.2
   caption: "Kalorieforbrænding, kalorier og cykling: Hvad forbrænder du ved at cykle?"
 toc: true

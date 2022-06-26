@@ -9,8 +9,8 @@ tags:
   - børn
 last_modified_at: 2019-04-26T16:59:01Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1551085780-35e6a3fe7871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=5
-  teaser: https://images.unsplash.com/photo-1551085780-35e6a3fe7871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1551085780-35e6a3fe7871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1551085780-35e6a3fe7871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: "Photo by Guillaume de Germain on Unsplash"
   overlay_filter: 0.2
 toc: true

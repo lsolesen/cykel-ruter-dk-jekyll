@@ -12,8 +12,8 @@ tags:
   - featured
 last_modified_at: 2022-06-05T08:45:01Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   alt: "Photo by Annie Spratt on Unsplash"
   overlay_filter: 0.2

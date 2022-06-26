@@ -18,7 +18,7 @@ future: true
 locale                   : "da"
 title                    : "Cykel-ruter.dk"
 title_separator          : false # "-"
-subtitle                 : "Cykelferie og cykelruter i Østjylland, Sydjylland og Vestjylland"
+subtitle                 : "Alt om cykelruter og cykelferie"
 logo                     : "/android-chrome-192x192.png"
 name                     : "Cykelferie og cykelruter i Østjylland, Sydjylland og Vestjylland - Danmark"
 description              : "Danmark er et helt fantastisk sted at tage på cykelferie. Vi har beskrevet cykelruter i Østjylland, Sydjylland og Vestjylland."
@@ -282,6 +282,7 @@ defaults:
       type: posts
     values:
       layout: single
+      breadcrumbs: true
       author_profile: true
       read_time: true
       comments: true
@@ -291,6 +292,19 @@ defaults:
       sidebar:
         title: "Populære sider"
         nav: blog
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      breadcrumbs: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      toc: true
 # _routes
   - scope:
       path: ""

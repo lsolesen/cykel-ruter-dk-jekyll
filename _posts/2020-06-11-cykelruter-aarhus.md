@@ -42,7 +42,7 @@ Du kan både køre langs vandet ud mod Djursland, hvor du kan opleve 250 km kyst
 
 Du kan også køre indenlands i noget af den flotteste natur i Danmark forbi Skanderborg og vestpå. Her kommer du forbi søer, gennem skove og oplever, hvordan landskabet har reageret på istiden. Det kan være en god ide at tjekke bakkeprofilen for din rute, inden du tager afsted, da området også kan byde på en del bakker.
 
-I det hele taget er der mange muligheder, og du kan se endnu flere muligheder under de ruter, jeg har beskrevet til [cykelguiden til Østjylland]({% link _pages/cykelguide-oestjylland.md %}).
+I det hele taget er der mange muligheder, og du kan se endnu flere muligheder under de ruter, jeg har beskrevet til [cykelguiden til Østjylland](/cykelruter-oestjylland/).
 
 ## Cykelruter med udgangspunkt i Århus
 
@@ -119,4 +119,4 @@ Hvis du er klar på at kaste dig ud i en cykeltur omkring Århus, Favrskov, Djur
 
 ## Andre cykelruter i Danmark
 
-Hvis du er interesseret, så har vi også skrevet om en lang række [andre cykelruter i Danmark]({% link _pages/ruter-archive.md %}).
+Hvis du er interesseret, så har vi også skrevet om en lang række [andre cykelruter i Danmark](/cykelruter-danmark/).

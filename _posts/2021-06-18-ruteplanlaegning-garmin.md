@@ -3,8 +3,8 @@ title: &title "Ruteplanlægning med Garmin Connect og AllTrails [Opdateret 2022]
 permalink: /garmin-connect-ruteplanlaegning-alltrails/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1580939986207-ca028ff38c0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 tags:
   - ruteplanlægning
@@ -69,6 +69,8 @@ Så er ruten importeret. Nu kan du give den et navn, og du kan også sende den t
 
 Personligt plejer jeg altid at bruge Garmin Connect Appen på min telefon, når jeg gerne vil sende baner frem og tilbage mellem mine devices.
 
+{% include video provider="youtube" id="KeFDOkNiSjI" ezoic="ezoic-pub-video-placeholder-7" %}
+
 ## Lav selv cykelrute i Garmin Connect Ruteplanlægger
 
 Garmin Connect følger som standard vejene. Du kan endda vælge at bruge popularitetsruter, så hvis du bare markerer to steder, så finder Garmin Connect Ruteplanlæggeren selv en populær vej mellem de to punkter.
@@ -91,7 +93,7 @@ Når du har tegnet cykelruten på kortet, så giver begge apps dig et estimat p�
 
 ## Hvordan finder jeg en cykelrute?
 
-Du kan naturligvis kigge på alle vores [cykelruter]({% link _pages/ruter-archive.md %}). Men du kan også søge efter offentlige cykelruter, som andre har tegnet i appen. Der er også rigtig mange gode forslag til cykelruter på Alltrails.
+Du kan naturligvis kigge på alle vores [cykelruter](/cykelruter-danmark/). Men du kan også søge efter offentlige cykelruter, som andre har tegnet i appen. Der er også rigtig mange gode forslag til cykelruter på Alltrails.
 
 ## Hvordan bruger jeg Garmin Connect på PC og computeren?
 

@@ -3,7 +3,7 @@ title: &title "Hvor hurtigt cykler man? Udregn gennemsnitsfart ved cykling ðŸš´ð
 permalink: /gennemsnitsfart-cykling/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1476631840528-13bdc7f18072?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGJpa2UlMjBmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=60
+  overlay_image: https://images.unsplash.com/photo-1476631840528-13bdc7f18072?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGJpa2UlMjBmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1476631840528-13bdc7f18072?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGJpa2UlMjBmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60
   caption: *title
 tags:

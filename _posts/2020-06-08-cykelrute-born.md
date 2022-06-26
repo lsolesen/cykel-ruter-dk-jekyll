@@ -96,6 +96,6 @@ Tænk over følgende når du vælger cykelrute:
 
 ## Cykelruter og råd til børn
 
-Jeg har skrevet et andet indlæg med en række [tankevækkende tips til cykelturen og cykelferien med børn]({% link _posts/2020-06-07-raad-til-cykelturen-med-boern.md %}), og så husk at få fat i et [godt cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}). Jeg har skrevet en grundig guide til, hvordan du kan vælge det bedste af slagsen.
+Jeg har skrevet et andet indlæg med en række [tankevækkende tips til cykelturen og cykelferien med børn](/boern-paa-cykelferie/), og så husk at få fat i et [godt cykelkort over Danmark](/cykelkort/). Jeg har skrevet en grundig guide til, hvordan du kan vælge det bedste af slagsen.
 
 {% include gallery id="scanmaps" caption="Du kan købe cykelkort hos vores samarbejdspartner Nordisk Korthandel på [scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }" %}

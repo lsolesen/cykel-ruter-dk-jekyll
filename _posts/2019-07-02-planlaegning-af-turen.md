@@ -8,8 +8,8 @@ description: Hvad skal man huske inden man tager afsted på en cykeltur? Vi har
 excerpt: Grundig planlægning af cykelturen og cykelferien kan gøre tingene
   lettere, men planlæg også muligheden for at være spontan.
 header:
-  overlay_image: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=5
-  teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Mohit Tomar on Unsplash
   overlay_filter: 0.2
 last_modified_at: 2021-04-09T03:36:13+02:00
@@ -98,7 +98,7 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 
 1. Fastsæt mål for turen cykelturen
 2. Planlæg cykelruten i store træk
-3. Anskaf gode cykelkort - læs mere om det [bedste cykelkort til Danmark]({% link _posts/2020-06-04-cykelkort.md %})
+3. Anskaf gode cykelkort - læs mere om det [bedste cykelkort til Danmark](/cykelkort/)
 4. Hvad skal med - og hvem skal bære det?
 5. Bestil evt. overnatning, fx [AirBnb](/go/airbnb/){: rel="sponsored nofollow noopener" }
 6. Reserver evt. plads i tog eller bus til ud- og hjemrejse

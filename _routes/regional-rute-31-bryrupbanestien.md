@@ -54,7 +54,9 @@ asphalt: 54
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+Bryrupbanestien er en cykelrute, der fører os behageligt gennem det midtjyske landskab. Ruten kaldes også Naturstien fra Horsens til Silkeborg.
+
+Ruten følger en nedlagt jernbane og er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm. Bryrupbanestien er en af [Danmarks bedste banestier](/banestier-i-danmark/).
 
 **Bryrupbanestien** begynder ved Horsens Fjord og følger sydsiden af ferskvandssøen Nørrestrand, som indtil 1915 var en del af fjorden. Fra ruten er der skilte til et fugletårn ved søen, hvor man kan studere søens mere end 200 fuglearter.
 
@@ -78,9 +80,15 @@ I Brædstrup kan du handle ind til et overdådigt måltid, som kan nydes i den o
 
 Videre gennem det meget naturskønne, midtjyske landskab fører ruten os gennem Bryrup og forbi søerne Kulsø, Kvindsø, Karlsø og Bryrup Langsø, der er alle er beliggende i Bryrupdalen. I sidstnævnte er der bademulighed og ellers findes afmærkede vandreruter omkring Bryrup langsø og Karlsø med flotte udsigtspunkter.
 
-Mellem Bryrup og Vrads fungerer den gamle bane som veteranbane, der om sommeren genoplives for at give turister en god oplevelse af det naturskønne landskab og af den gamle togdrift, mens toget transporterer folk (og deres cykler) mellem de to byer. Den gamle stationsbygning i Vrads er idag indrettet som restaurant, der tilbyder skiftende sommermenuer eller et koldt glas hvidvin i den hyggelige atmosfære omkring banen.
+Mellem Bryrup og Vrads fungerer den gamle bane som veteranbane, der om sommeren genoplives for at give turister en god oplevelse af det naturskønne landskab og af den gamle togdrift, mens toget transporterer folk (og deres cykler) mellem de to byer.
 
-Vælger man i stedet benenes kraft videre mod Vrads, er det en god ide at have sparet lidt på kræfterne. Idet vi ikke kører på banen dette lille stykke, støder vi på den midtjyske højderyg, som viser sig fra sin mest brutale side, inden vi igen drejer ind på Bryrupbanestien til en smuk udsigt udover et lille dambrug, der ligger i forbindelse med det flotte landskabsområde omkring Salten Ådalen og Snabegård Plantage. På dette stykke kører ruten højt i forhold til resten af området, hvilket giver god afstand til at fornemme vidder i den fredede Vrads Sandes klithedeområder.
+Den gamle stationsbygning i Vrads er idag indrettet som restaurant, der tilbyder skiftende sommermenuer eller et koldt glas hvidvin i den hyggelige atmosfære omkring banen.
+
+Vælger man i stedet benenes kraft videre mod Vrads, er det en god ide at have sparet lidt på kræfterne. 
+
+Idet vi ikke kører på banen dette lille stykke, støder vi på den midtjyske højderyg, som viser sig fra sin mest brutale side, inden vi igen drejer ind på Bryrupbanestien til en smuk udsigt udover et lille dambrug, der ligger i forbindelse med det flotte landskabsområde omkring Salten Ådalen og Snabegård Plantage.
+
+På dette stykke kører ruten højt i forhold til resten af området, hvilket giver god afstand til at fornemme vidder i den fredede Vrads Sandes klithedeområder.
 
 Området byder også på gode, afmærkede vandreruter i klitlandskabet, hvor tidligere tiders rovdrift på skovene og udpining af jorden fik sandet til at fyge. l 1800-tallet fik man standset sandflugten, og heden bredte sig. Her kan man i øvrigt finde tyttebær, enebær, sortbær og mosebølle og være heldig (men varsom), hvis man ser en hugorm eller stålorm.
 
@@ -92,7 +100,7 @@ Naturstien fra Horsens til Silkeborg er i alt 61 kilometer lang. Naturstien er e
 
 ## Folder over Naturstien fra Horsens til Silkeborg
 
-Du kan [downloade en PDF-folder over Naturstien fra Horsens til Silkeborg her](https://naturstyrelsen.dk/media/nst/67357/26_Horsens-Silkeborg_A3.pdf).
+Du kan downloade Naturstyrelsens [PDF-folder](https://naturstyrelsen.dk/media/nst/67357/26_Horsens-Silkeborg_A3.pdf) over Naturstien fra Horsens til Silkeborg.
 
 ## Overnatning på Bryrupbanestien
 

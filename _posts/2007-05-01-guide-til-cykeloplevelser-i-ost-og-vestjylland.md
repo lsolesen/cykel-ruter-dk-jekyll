@@ -31,8 +31,8 @@ gallery:
     title: "#4 Østjylland"
     rel: sponsored nofollow noopener
 header:
-  overlay_image: https://images.unsplash.com/photo-1541625602330-2277a4c46182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=5
-  teaser: https://images.unsplash.com/photo-1541625602330-2277a4c46182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1541625602330-2277a4c46182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1541625602330-2277a4c46182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: "Photo by Coen van den Broek on Unsplash"
   overlay_filter: 0.2
 ---
@@ -71,4 +71,4 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 
 ## Andre cykelruter i Danmark
 
-Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _pages/ruter-archive.md %}).
+Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark](/cykelruter-danmark/).

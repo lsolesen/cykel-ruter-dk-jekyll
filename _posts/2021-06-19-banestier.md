@@ -33,7 +33,7 @@ De gamle jernbanespor skar igennem landskabet med kun få hældninger. Det skyld
 
 {% endcomment %}
 
-PÅ [alleud.dk](https://alleud.dk/banestier-danmark/) kan du læse endnu mere om banestier, og hvorfor de er oplagte til en cykeltur med børnene.
+På [alleud.dk](https://alleud.dk/banestier-danmark/) kan du læse endnu mere om banestier, og hvorfor de er oplagte til en cykeltur med børnene.
 
 ## Hvordan er belægningen på banestierne?
 
@@ -91,6 +91,6 @@ Herunder kan du se nogle af de beskrivelser, vi har lavet af banestier.
 
 ## Konklusion
 
-Ud over banestierne, så findes der også andre [cykelruter til børn]({% link _posts/2020-06-08-cykelrute-born.md %})
+Ud over banestierne så findes der også andre [cykelruter til børn]({% link _posts/2020-06-08-cykelrute-born.md %})
 
 Kender du andre gode banestier i Danmark, som er værd at prøve?

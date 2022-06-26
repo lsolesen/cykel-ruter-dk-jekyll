@@ -5,8 +5,8 @@ description: "10+ gode online cykelbutikker og cykelhandlere, hvor du let kan k�
 permalink: /cykelhandlere-og-cykelbutikker/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=5
-  teaser: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1508028339507-ff30e5b2d025?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1508028339507-ff30e5b2d025?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 tags:
   - cykeludstyr
@@ -22,7 +22,7 @@ Jeg har udvalgt online cykelbutikker i Danmark, England og Tyskland som alle sen
 
 Når du har lavet din [pakkeliste til cykelturen]({% link _posts/2019-07-01-pakkeliste.md %}), så har du måske opdaget et par ting, du mangler. Jeg har valgt nogle gode online cykelhandlere ud her, hvor du kan købe det meste cykeludstyr.
 
-Jeg har skrevet en anden guide til at [vælge kort over cykelruter i Danmark]({% link _posts/2020-06-04-cykelkort.md %}) eller finde [gode cykelbøger]({% link _posts/2021-02-17-cykelboger.md %}).
+Jeg har skrevet en anden guide til at [vælge kort over cykelruter i Danmark](/cykelkort/) eller finde [gode cykelbøger]({% link _posts/2021-02-17-cykelboger.md %}).
 
 Men lad os dykke ned i listen over online cykelhandlere.
 

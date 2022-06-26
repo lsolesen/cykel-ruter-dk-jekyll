@@ -7,8 +7,8 @@ description: "Det er noget helt særligt at være på cykelferie. Du oplever nat
 excerpt: "Det er noget helt særligt at være på cykelferie. Du oplever naturen på en helt anden måde end hvis du kører i bil."
 author_profile: true
 header:
-  overlay_image: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   overlay_filter: 0.2
 toc: true
