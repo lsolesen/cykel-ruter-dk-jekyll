@@ -1,31 +1,5 @@
 ---
-title: &title "Cykling apps: De bedste cykelapps i 2022"
-seo_title: "Cykling apps: De bedste cykelapps i 2022"
-permalink: /cykling-apps/
-language: da
-header:
-  overlay_image: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
-  caption: *title
-tags:
-  - apps
-category:
-  - Udstyr
-last_modified_at: 2021-10-23T12:21:26Z
-strava:
-  - image_path: /assets/images/apps/strava-1.jpg
-    url: /assets/images/apps/strava-1.jpg
-  - image_path: /assets/images/apps/strava-2.jpg
-    url: /assets/images/apps/strava-2.jpg
-  - image_path: /assets/images/apps/strava-3.jpg
-    url: /assets/images/apps/strava-3.jpg
-garmin:
-  - image_path: /assets/images/apps/garmin-1.jpg
-    url: /assets/images/apps/garmin-1.jpg
-  - image_path: /assets/images/apps/garmin-2.jpg
-    url: /assets/images/apps/garmin-2.jpg
-  - image_path: /assets/images/apps/garmin-3.jpg
-    url: /assets/images/apps/garmin-3.jpg
+last_modified_at: 2022-06-26T12:01:50+02:00
 bkool:
   - image_path: /assets/images/apps/bkool-1.jpg
     url: /assets/images/apps/bkool-1.jpg
@@ -33,6 +7,23 @@ bkool:
     url: /assets/images/apps/bkool-2.jpg
   - image_path: /assets/images/apps/bkool-3.jpg
     url: /assets/images/apps/bkool-3.jpg
+permalink: /cykling-apps/
+title: "Cykling apps: De bedste cykelapps i 2022"
+seo_title: "Cykling apps: De bedste cykelapps i 2022"
+header:
+  overlay_image: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  caption: "Cykling apps: De bedste cykelapps i 2022"
+language: da
+tags:
+  - apps
+garmin:
+  - image_path: /assets/images/apps/garmin-1.jpg
+    url: /assets/images/apps/garmin-1.jpg
+  - image_path: /assets/images/apps/garmin-2.jpg
+    url: /assets/images/apps/garmin-2.jpg
+  - image_path: /assets/images/apps/garmin-3.jpg
+    url: /assets/images/apps/garmin-3.jpg
 zwift:
   - image_path: /assets/images/apps/zwift-1.jpg
     url: /assets/images/apps/zwift-1.jpg
@@ -40,18 +31,25 @@ zwift:
     url: /assets/images/apps/zwift-2.jpg
   - image_path: /assets/images/apps/zwift-3.jpg
     url: /assets/images/apps/zwift-3.jpg
+strava:
+  - image_path: /assets/images/apps/strava-1.jpg
+    url: /assets/images/apps/strava-1.jpg
+  - image_path: /assets/images/apps/strava-2.jpg
+    url: /assets/images/apps/strava-2.jpg
+  - image_path: /assets/images/apps/strava-3.jpg
+    url: /assets/images/apps/strava-3.jpg
+category:
+  - Udstyr
 ---
-
-Cykel apps: De bedste cykling apps i 2022
 Der findes en række forskellige apps til cykling på markedet, som hver især har deres egne unikke funktioner.
 
 Der findes mange rigtig gode cykel apps. Jeg har samlet en rigtig god liste her med de apps, jeg bruger mest i forbindelse med cykling og har størst fornøjelse af.
 
 På listen har jeg inkluderet apps, der kan:
 
-- holde styr på dine cykelpræstationer og fremskridt
-- optage dine cykelture og give dem liv bagefter
-- virtuelle træningsplatforme, hvor du kan holde formen i løbet af vinteren.
+* holde styr på dine cykelpræstationer og fremskridt
+* optage dine cykelture og give dem liv bagefter
+* virtuelle træningsplatforme, hvor du kan holde formen i løbet af vinteren.
 
 Lad os dykke ned i de bedste cykel apps i øjeblikket.
 
@@ -77,19 +75,17 @@ Hvis du selv har cyklet en rute eller bare tegnet den på forhånd, så kan du i
 
 Det er virkelig genialt, fordi du let kan se, hvilke landskaber du kan forvente at skulle køre igennem. Jeg har selv brugt denne app til cykling på dette site til at illustrere nogle af ruterne.
 
-{% include video provider="youtube" id="" ezoic="" %}
+{% include video provider="youtube" id="060ECU0A_0g" ezoic="ezoic-pub-video-placeholder-8" %}
 
 Når man genspiller i Ayvri, så havde jeg lidt udfordringer med, at kortet ikke helt gentegende sig hurtigt nok. Det kan man se lidt i videoen, men resultatet er stadig meget fedt.
 
 Ayvri kan du connecte direkt med Strava, men der er ikke nogen app, hvor du kan optage dit trail. Ayvri er stadig ret nye, men mon ikke de går efter at være en seriøs konkurrent til Relive.
 
-{% include video provider="youtube" id="060ECU0A_0g" %}
-
 ## 3. Garmin Connect
 
 I Garmin Connect kan du både [planlægge dine cykelruter](/garmin-connect-ruteplanlaegning-alltrails/) og din træning. Du kan også tracke, hvilken rute og hvor langt du har kørt.
 
-{% include gallery id="garmin" %}
+{% include gallery id="garmin" caption="Screenshots fra Garmin Connect" %}
 
 Garmin Connect er allerbedst, hvis du bruger det sammen med devices fra Garmin, fx et ur eller en cykelcomputer, og hvis du skal optage dine egne cykelture, så er det nødvendigt med et Garmin device.
 
@@ -115,11 +111,11 @@ I premium-versionen får adgang til flere analyser af dine ture, fx puls- og eff
 
 ## 5. BKOOL - virtuel træning
 
-BKOOL er et spil du kan bruge sammen med din _hometrainer_ til cykling. BKOOL er en platform for cykelryttere. BKOOL giver dig mulighed for at linke din _hometrainer_ op til din computer, iPad, iPhone, Apple TV, Android device, så du kan køre med andre cykelryttere i et virtuelt miljø. Du kan både træne i BKOOL og køre løb mod andre i den virtuelle BKOOL-verden.
+BKOOL er et spil du kan bruge sammen med din *hometrainer* til cykling. BKOOL er en platform for cykelryttere. BKOOL giver dig mulighed for at linke din *hometrainer* op til din computer, iPad, iPhone, Apple TV, Android device, så du kan køre med andre cykelryttere i et virtuelt miljø. Du kan både træne i BKOOL og køre løb mod andre i den virtuelle BKOOL-verden.
 
 Ud over at konkurrere mod andre cykelryttere i BKOOL-cykelløb kan du også lægge hele din træning ind i BKOOL. Selvom træningsplanlægning altid bør være individuel, er det nu meget motiverende at vide at træningsprogrammerne i BKOOL er designet af professionelle trænere, men du kan også sagtens lægge din egen træning ind i programmet.
 
-{% include gallery id="bkool" %}
+{% include gallery id="bkool" caption="Screenshots fra BKOOL" %}
 
 Jeg har skrevet en [begynderguide til BKOOL på motionsplan.dk](https://www.motionsplan.dk/bkool-begynderguide/). BKOOL står lidt i skyggen af det meget populære Zwift.
 
@@ -129,7 +125,7 @@ Zwift er en meget populær app, når du flytter cykeltræningen indendørs. Det 
 
 Min motivation for træning på min indendørs cykel har i hvert fald været noget højere de seneste uger efter jeg fik øjnene op for Zwift. Men der er lige nogle ting, du skal vide inden du kan komme i gang med at køre på din hometrainer, mens du følger dig selv og din avatar på skærmen.
 
-{% include gallery id="zwift" %}
+{% include gallery id="zwift" caption="Screenshots fra Zwift" %}
 
 Jeg har skrevet en [begynderguide til Zwift på motionsplan.dk](https://www.motionsplan.dk/komplet-begynderguide-zwift/).
 
