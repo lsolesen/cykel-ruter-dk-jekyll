@@ -57,13 +57,19 @@ Lad os dykke ned i de bedste cykel apps i øjeblikket.
 
 {% include figure image_path="/assets/images/apps/relive-cykel-app.jpg" %}
 
-Relive er en af de bedste apps til cyklister, der ønsker at spore deres ture og genopleve dem senere. Hvis du bruger appen på telefonen til at optage din tur og tage billeder undervejs, så kan du få en ret unik video bagefter af turen.
+[Relive](https://www.relive.cc/invite?u=v935zk8mk1ej3m&s=post-share){: rel="nofollow noopener" } er en af de bedste apps til cyklister, der ønsker at spore deres ture og genopleve dem senere. Hvis du bruger appen på telefonen til at optage din tur og tage billeder undervejs, så kan du få en ret unik video bagefter af turen.
 
 Relive.cc er virkelig nem at bruge. Hvis ikke du vil have din telefon med på turen, så kan du også importere dine ture efterfølgende og lægge billeder op sammen med GPS-tracket.
 
 Når din tur er importeret, vil Relive analyserer den automatisk og skaber en interaktiv video. Du kan se videoen med billeder på enhver enhed.
 
+Se et eksempel her fra Bindeballestien, hvordan en video der er optaget med Relive-appen på telefonen kommer til at se ud. I den gratis version kunne jeg kun vedhæfte 5 billeder, og jeg kan ikke selv bestemme videokvaliteten. Jeg kan også kun redigere videoen en gang, når jeg gemmer den.
+
+{% include video provider="youtube" id="6ksvhYb1ODs" ezoic="ezoic-pub-video-placeholder-9" %}
+
 Relive findes både i en gratis udgave og en premium-udgave. Tidligere har man kunnet forbinde den meget brugte cykel app, Strava, direkte til Relive, men det samarbejde lukkede ned i [maj 2022](https://support.strava.com/hc/en-us/articles/360030429332-An-update-on-our-integration-with-Relive). Strava vurderer, at Relive ikke overholder deres retningslinjer for at beskytte brugernes privatliv.
+
+[Prøv Relive](https://www.relive.cc/invite?u=v935zk8mk1ej3m&s=post-share){: .btn .btn--large .btn--bmc rel="nofollow noopener" }
 
 ## 2. Ayvri
 

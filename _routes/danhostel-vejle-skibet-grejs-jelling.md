@@ -20,6 +20,10 @@ gps:
   url: https://www.alltrails.com/explore/map/skibet-vejle-grejs-jelling-576d026
   id: https://www.alltrails.com/widget/map/skibet-vejle-grejs-jelling-576d026
   provider: alltrails
+#gps:
+#  url: https://www.naviki.org/da/naviki/static/map/way/05176017-b2f6-11eb-abb0-fe7edd379005/142/ 
+#  id: 05176017-b2f6-11eb-abb0-fe7edd379005
+#  provider: naviki
 author: dina
 related: "Danhostel Vejle"
 ---
