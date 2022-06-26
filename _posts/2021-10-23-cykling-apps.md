@@ -40,7 +40,7 @@ Der findes en række forskellige interessant apps til cykling. Her har jeg samle
 
 ## Garmin Connect
 
-I Garmin Connect kan du både [planlægge dine cykelruter]({% link _posts/2021-06-18-ruteplanlaegning-garmin.md %}) og din træning. Du kan også tracke, hvilken rute og hvor langt du har kørt. Garmin Connect er allerbedst, hvis du bruger det sammen med devices fra Garmin, fx et ur eller en cykelcomputer.
+I Garmin Connect kan du både [planlægge dine cykelruter](/garmin-connect-ruteplanlaegning-alltrails/) og din træning. Du kan også tracke, hvilken rute og hvor langt du har kørt. Garmin Connect er allerbedst, hvis du bruger det sammen med devices fra Garmin, fx et ur eller en cykelcomputer.
 
 {% include gallery id="garmin" %}
 

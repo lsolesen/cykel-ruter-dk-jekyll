@@ -93,7 +93,7 @@ Når du har tegnet cykelruten på kortet, så giver begge apps dig et estimat p�
 
 ## Hvordan finder jeg en cykelrute?
 
-Du kan naturligvis kigge på alle vores [cykelruter]({% link _pages/ruter-archive.md %}). Men du kan også søge efter offentlige cykelruter, som andre har tegnet i appen. Der er også rigtig mange gode forslag til cykelruter på Alltrails.
+Du kan naturligvis kigge på alle vores [cykelruter](/cykelruter-danmark/). Men du kan også søge efter offentlige cykelruter, som andre har tegnet i appen. Der er også rigtig mange gode forslag til cykelruter på Alltrails.
 
 ## Hvordan bruger jeg Garmin Connect på PC og computeren?
 

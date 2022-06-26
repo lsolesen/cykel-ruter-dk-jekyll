@@ -92,7 +92,7 @@ feature_row_partners:
 
 Her er {{ page.feature_row.size }} forslag til dig, der er på udkig efter gode cykelbøger. Der er ikke noget bedre end at læse en god cykelbog, mens du restituerer efter en hård cykeltur - eller ankommer til din destination på din cykeltur.
 
-Jeg har her udvalgt en række gode cykelbøger, som du kan blive inspireret af. Bøgerne er fyldt med gode anekdoter og fortællinger fra cykelsportens helt, tips til træning og hvordan du kommer i god cykelform uanset om du vil køre på [stejle bakker i Danmark]({% link _posts/2020-05-21-danmarkscykelbakker.md %}), søger inspiration til en tur til Alperne, køre watt træning eller er interesseret [cykelruter i Danmark]({% link _pages/ruter-archive.md %}).
+Jeg har her udvalgt en række gode cykelbøger, som du kan blive inspireret af. Bøgerne er fyldt med gode anekdoter og fortællinger fra cykelsportens helt, tips til træning og hvordan du kommer i god cykelform uanset om du vil køre på [stejle bakker i Danmark]({% link _posts/2020-05-21-danmarkscykelbakker.md %}), søger inspiration til en tur til Alperne, køre watt træning eller er interesseret [cykelruter i Danmark](/cykelruter-danmark/).
 
 Jeg har også inkluderet cykelbøger om [cykelreparation]({% link _posts/2019-06-28-reparationer-undervejs.md %}). En bog om cykling er en rigitig god inspiration og gaveide til cykelentusiasten. Og der er rigtig mange cykelbøger, som du kan lade dig inspirere af i denne liste over gode bøger om cykling.
 
@@ -106,6 +106,6 @@ Her har jeg valgt {{ page.feature_row.size }} cykelbøger, som du kan lade dig i
 
 Hvis du vil have inspiration til flere cykelbøger, så kan du kigge hos nogle af vores samarbejdspartnere. Hvis du gerne vil støtte dette site, så er links reklamelinks. Vi får en lille kommision for hvert salg, men din pris er den samme, hvis du vælger at købe en bog efter at have klikket på vores links.
 
-Vi har også skrevet en side med [cykeludstyr til cykling](/cykeludstyr/) eller en guide til at finde det [rigtige cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+Vi har også skrevet en side med [cykeludstyr til cykling](/cykeludstyr/) eller en guide til at finde det [rigtige cykelkort over Danmark](/cykelkort/).
 
 {% include feature_row id="feature_row_partners"  %}

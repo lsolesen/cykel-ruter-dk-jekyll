@@ -201,4 +201,4 @@ Derudover er det værd at huske at man kommer langt med et smil og et venligt or
 
 ## Flere råd
 
-Hvis du har flere råd, så del dem endelig i kommentarerne. Husk også at tjekke vores guide til at få [valgt det rigtige cykelkort til din cykeltur i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+Hvis du har flere råd, så del dem endelig i kommentarerne. Husk også at tjekke vores guide til at få [valgt det rigtige cykelkort til din cykeltur i Danmark](/cykelkort/).

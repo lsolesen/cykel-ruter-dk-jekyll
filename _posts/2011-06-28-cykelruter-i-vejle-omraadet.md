@@ -63,4 +63,4 @@ Her kan du læse om alle cykelruterne omkring Vejle, som vi har beskrevet.
 
 ## Andre cykelruter i Danmark
 
-Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _pages/ruter-archive.md %}).
+Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark](/cykelruter-danmark/).

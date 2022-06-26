@@ -211,4 +211,4 @@ Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport
 
 Så burde du være klar til cykelferien med børn. 
 
-God tur! Hvis du vil have endnu flere råd til din cykeltur og cykelferie, så har jeg skrevet et indlæg, der primært retter sig mod de [voksne på cykeltur her](/raad-til-cykelturen/) og husk også at tjekke guiden til at [vælge det rigtige cykelkort til din cykelferie i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+God tur! Hvis du vil have endnu flere råd til din cykeltur og cykelferie, så har jeg skrevet et indlæg, der primært retter sig mod de [voksne på cykeltur her](/raad-til-cykelturen/) og husk også at tjekke guiden til at [vælge det rigtige cykelkort til din cykelferie i Danmark](/cykelkort/).

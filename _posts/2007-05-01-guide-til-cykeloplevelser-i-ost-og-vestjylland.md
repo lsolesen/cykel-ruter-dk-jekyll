@@ -71,4 +71,4 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 
 ## Andre cykelruter i Danmark
 
-Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark]({% link _pages/ruter-archive.md %}).
+Hvis du er interesseret, så har vi også skrevet om en lang række andre [cykelruter i Danmark](/cykelruter-danmark/).

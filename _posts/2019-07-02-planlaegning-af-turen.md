@@ -98,7 +98,7 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 
 1. Fastsæt mål for turen cykelturen
 2. Planlæg cykelruten i store træk
-3. Anskaf gode cykelkort - læs mere om det [bedste cykelkort til Danmark]({% link _posts/2020-06-04-cykelkort.md %})
+3. Anskaf gode cykelkort - læs mere om det [bedste cykelkort til Danmark](/cykelkort/)
 4. Hvad skal med - og hvem skal bære det?
 5. Bestil evt. overnatning, fx [AirBnb](/go/airbnb/){: rel="sponsored nofollow noopener" }
 6. Reserver evt. plads i tog eller bus til ud- og hjemrejse
