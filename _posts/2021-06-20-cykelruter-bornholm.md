@@ -44,6 +44,8 @@ Bornholm har anlagt skiltede cykelveje og cykelstier på over 230 kilometer rund
 
 Cykelruterne fører dig forbi den storslåede bornholmske natur og de små hyggelige byer langs kysten.
 
+{% include video provider="youtube-playlist" id="PL6DiVRYM9dDSIu8lY1tZuy_NKB8x_9X79" ezoic="ezoic-pub-video-placeholder-14" %}
+
 ## 8 forslag til cykelruter på Bornholm
 
 Den officielle guide til [Ferieøen Bornholm](https://bornholm.info/cykelferie/) foreslår en række dejlige cykelruter på Bornholm.

@@ -49,6 +49,8 @@ Men først og fremmest – for nu at bruge en lettere omskrivning at solen Kierk
 
 _Rigtig god fornøjelse – og god tur!_
 
+{% include video provider="youtube-playlist" id="PL6DiVRYM9dDSIu8lY1tZuy_NKB8x_9X79" ezoic="ezoic-pub-video-placeholder-16" %}
+
 ## Cykelruter i Østjylland med GPX-trails
 
 <iframe class="alltrails" src="https://www.alltrails.com/widget/list/vestjylland?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
