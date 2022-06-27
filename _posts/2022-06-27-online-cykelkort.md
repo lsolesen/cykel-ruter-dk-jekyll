@@ -1,5 +1,5 @@
 ---
-title: &title "Online cykelkort: 5 gratis mulighedern"
+title: &title "Online cykelkort: 5 gratis muligheder"
 seo_title: "Online cykelkort: 5 gratis muligheder"
 description: "Har du brug for et online cykelkort? Her guider vi dig til gode gratis muligheder for at finde et kort til din cykeltur, som har onlineforbindelse."
 permalink: /cykelkort-online/

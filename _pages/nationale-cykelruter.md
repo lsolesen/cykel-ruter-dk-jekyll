@@ -72,6 +72,8 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 - Øst-vestgående ruter, der alle ender i København
 - Rundture
 
+Du kan se nogle videoer af nogle af de nationale cykelruter i denne playliste, så du kan få en fornemmelse for, hvad du kan opleve på en af de ruter på langs eller tværs af landet.
+
 {% include video provider="youtube-playlist" id="PL6DiVRYM9dDQYrC8CRk3UASvV5i47W7f3" ezoic="ezoic-pub-video-placeholder-11" %}
 
 Du kan se en oversigt over alle de nationale cykelruter i skemaet nedenunder.
