@@ -2,7 +2,7 @@
 title: &title "National Rute N5: Østkystruten fra Sønderborg - Skagen"
 seo_title: "National cykelrute 5: Østkystruten fra Sønderborg - Skagen"
 permalink: /rute/national-rute-5-ostkystruten/
-number: N6
+number: N5
 comment: Følger Jyllands østkyst nord-sydgående retning
 created_at:  2006-06-05T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00

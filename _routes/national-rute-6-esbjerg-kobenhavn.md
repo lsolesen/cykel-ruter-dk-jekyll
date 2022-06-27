@@ -2,6 +2,7 @@
 title: "National Rute N6: Esbjerg - København"
 seo_title: "National cykelrute 6: Esbjerg - København"
 permalink: /rute/national-rute-6-esbjerg-koebenhavn/
+number: N6
 comment: "Cykelrute i øst-vestgående retning med slut i København"
 created_at:  2021-06-06T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00

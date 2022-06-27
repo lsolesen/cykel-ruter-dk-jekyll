@@ -45,7 +45,9 @@ gallery:
     rel: sponsored nofollow noopener
 ---
 
-Vestkystruten følger Nordsøkysten fra Rudbøl til Skagen. Ruten får dig forbi nogle af de største naturoplevelser i Danmark. Næsten en tredjedel af ruten på 560 km følger grusstier, så du skal helst have brede dæk på cyklen. Til gengæld er der ingen stigninger og minimal trafik, hvilket gør cykelstien til en familievenlig rute.
+Vestkystruten følger Nordsøkysten fra Rudbøl til Skagen. Ruten får dig forbi nogle af de største naturoplevelser i Danmark.
+
+Næsten en tredjedel af ruten på 560 km følger grusstier, så du skal helst have brede dæk på cyklen. Til gengæld er der ingen stigninger og minimal trafik, hvilket gør cykelstien til en familievenlig rute.
 
 {% include video provider="own-youtube" id="F01p9oCJU78" %}
 

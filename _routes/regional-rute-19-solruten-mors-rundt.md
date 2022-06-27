@@ -37,8 +37,7 @@ groede bakker og dybe slugter. I dag et spændende skovområde med afmærkede va
 Ruten krydser sig gennem sydøens ager land og landsbyer. En lille fiskerihavn kan man opleve i Sillerslev, og på øens syddel
 skuer man udover herregårdenes store marker. Agerø er fuglenes paradis og inde i Dragstrup Vig passeres en lille kirke fra 1200-tallet omgivet af et kampestensdige.
 
-National cykelrute 2 krydses for at komme
-op til den særprægede Hanklit og se de skiftende lag af molér og vulkansk aske. Kort efter nås øens højeste punkt, Salgjerhøj (88 m), der pudsigt nok ligger i Flade. Fra toppen kan man i klart vejr og med kikkert tælle 34 kirketårne. På Molérmuseet kan man få mere at vide om det verdensberømte ler og via en natursti kan man komme gennem nogle molérgrave.
+National cykelrute 2 krydses for at komme op til den særprægede Hanklit og se de skiftende lag af molér og vulkansk aske. Kort efter nås øens højeste punkt, Salgjerhøj (88 m), der pudsigt nok ligger i Flade. Fra toppen kan man i klart vejr og med kikkert tælle 34 kirketårne. På Molérmuseet kan man få mere at vide om det verdensberømte ler og via en natursti kan man komme gennem nogle molérgrave.
 Ved Fegge Klint kan man også beundre naturens skabelser, mens man tænker på, at Kong Fegge siges at være begravet her, efter at prins Hamlet dræbte ham for at hævne sin far. Mere historie kan man finde tilbage i Nykøbing, bl.a. på Dueholm Kloster, der stammer fra 1369 og som nu rummer lokalhistoriske samlinger.
 
 ## Seværdigheder
