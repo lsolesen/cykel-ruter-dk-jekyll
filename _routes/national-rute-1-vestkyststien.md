@@ -1,7 +1,9 @@
 ---
 title: "National Rute N1: Vestkystruten fra Rudbøl til Skagen"
-seo_title: "National Cykelrute 1: Vestkystruten fr Rudbøl til Skagen"
+seo_title: "National Cykelrute 1: Vestkystruten fra Rudbøl til Skagen"
 permalink: /rute/national-rute-1-vestkyststien/
+number: N1
+comment: Følger Jyllands Vestkyst i nord-sydgående retning
 created_at: 2006-06-01T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
@@ -43,7 +45,9 @@ gallery:
     rel: sponsored nofollow noopener
 ---
 
-{{ page.excerpt }}
+Vestkystruten følger Nordsøkysten fra Rudbøl til Skagen. Ruten får dig forbi nogle af de største naturoplevelser i Danmark. Næsten en tredjedel af ruten på 560 km følger grusstier, så du skal helst have brede dæk på cyklen. Til gengæld er der ingen stigninger og minimal trafik, hvilket gør cykelstien til en familievenlig rute.
+
+{% include video provider="own-youtube" id="F01p9oCJU78" %}
 
 {% assign site_posts = site.routes | where: "tags", "National Cykelrute 1" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 

@@ -3,7 +3,7 @@ title: "National Rute 02: Nykøbing - Hanstholm (delforløb 3)"
 seo_title: "National Rute 2: Nykøbing - Hanstholm (delforløb 3)"
 permalink: /rute/national-rute-2-nykoebing-hanstholm-del-3/
 author: dina
-created_at: 2006-07-03T09:48:02+02:00
+created_at: 2006-06-02T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Torvet_i_Nyk%C3%B8bing_Falster_03.jpg/1920px-Torvet_i_Nyk%C3%B8bing_Falster_03.jpg

@@ -4,7 +4,9 @@ seo_title: "National cykelrute 10: Bornholm rundt"
 permalink: /rute/national-rute-10-bornholm-rundt/
 created_at:  2021-06-10T09:48:02+02:00
 last_modified_at: 2022-06-24T09:48:02+02:00
+comment: Følger kyststrækningen rundt på Bornholm.
 author: lsolesen
+number: N10
 header:
   overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
@@ -32,6 +34,8 @@ Den nationale cykelrute 10 er en rundstrækning rundt om den danske ø Bornholm.
 
 Uanset om du er en ivrig cyklist eller bare er på udkig efter en afslappet måde at udforske Bornholm på, er den nationale cykelrute 10 den perfekte mulighed.
 
+{% include video provider="own-youtube" id="060ECU0A_0g" %}
+
 ## Hvordan forløber Bornholm Rundt på cykel
 
 Den nationale cykelrute 10 starter og slutter i byen Rønne, Bornholms største by på Bornholmog vigtigste indgangsport. Fra Rønne går ruten mod nord til øens næststørste by, Nexø. Fra Nexø drejer ruten mod vest og følger kysten rundt til Gudhjem, en malerisk landsby, der er kendt for sine huse med røde tage og en fantastisk udsigt.
@@ -53,7 +57,7 @@ Den nationale cykelrute 10 fører dig forbi nogle af Bornholms mest populære se
 ## Konklusion
 Uanset om du vil udforske Bornholms historie og kultur eller bare nyde den naturlige skønhed, er National cykelrute 10 den perfekte måde at gøre det på.
 
-Du kan læse mere om Bornholm Rundt - national cykelrute 10 - på [Wikipedia](https://da.wikipedia.org/wiki/Bornholm_Rundt_(cykelrute)).
+Du kan læse mere om Bornholm Rundt - national cykelrute 10 - på [Wikipedia](https://da.wikipedia.org/wiki/Bornholm_Rundt_(cykelrute).
 
 Så hvad venter du på? Kom i gang med at træde i pedalerne!
 

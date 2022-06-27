@@ -22,9 +22,9 @@ tags:
   - featured
 excerpt: "Bryrupbanestien er en cykelrute, der fører os behageligt gennem det midtjyske landskab. Ruten kaldes også Naturstien fra Horsens til Silkeborg. Ruten følger en nedlagt jernbane og er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm."
 gps:
-  provider: alltrails
-  url: https://www.alltrails.com/explore/map/map-c70daf2--5
-  id: https://www.alltrails.com/widget/map/map-c70daf2--5
+  provider: outdooractive
+  url: https://www.outdooractive.com/en/route/bicycle-touring/bryrupbanestien-naturstien-horsens-silkeborg/245205589/
+  id: 245205589
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/d/d2/Urup_Herreg%C3%A5rd.jpg
     image_path: https://upload.wikimedia.org/wikipedia/commons/d/d2/Urup_Herreg%C3%A5rd.jpg
@@ -85,7 +85,7 @@ Mellem Bryrup og Vrads fungerer den gamle bane som veteranbane, der om sommeren 
 
 Den gamle stationsbygning i Vrads er idag indrettet som restaurant, der tilbyder skiftende sommermenuer eller et koldt glas hvidvin i den hyggelige atmosfære omkring banen.
 
-Vælger man i stedet benenes kraft videre mod Vrads, er det en god ide at have sparet lidt på kræfterne. 
+Vælger man i stedet benenes kraft videre mod Vrads, er det en god ide at have sparet lidt på kræfterne.
 
 Idet vi ikke kører på banen dette lille stykke, støder vi på den midtjyske højderyg, som viser sig fra sin mest brutale side, inden vi igen drejer ind på Bryrupbanestien til en smuk udsigt udover et lille dambrug, der ligger i forbindelse med det flotte landskabsområde omkring Salten Ådalen og Snabegård Plantage.
 

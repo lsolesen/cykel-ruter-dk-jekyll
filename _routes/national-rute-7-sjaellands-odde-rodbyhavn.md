@@ -2,8 +2,10 @@
 title: "National Rute N7: Sjællands Odde-Rødbyhavn"
 seo_title: "National cykelrute 7: Sjællands Odde-Rødbyhavn"
 permalink: /rute/national-rute-7-sjaellands-odde-rodbyhavn/
+number: N7
 created_at:  2021-06-07T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00
+comment: Cykelrute ned gennem Sjælland
 author: lsolesen
 header:
   overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
@@ -26,6 +28,8 @@ rubble: 24
 ---
 
 **{{ page.excerpt }}**
+
+{% include video provider="own-youtube" id="L8L1vB7QgMU" %}
 
 {% assign site_posts = site.routes | where: "tags", "National Cykelrute 7" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 

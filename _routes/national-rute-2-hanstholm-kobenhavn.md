@@ -2,7 +2,9 @@
 title: &title "National Rute N2: Hanstholm - København"
 seo_title: "National cykelute 2: Hanstholm - København"
 permalink: /rute/national-rute-2-hanstholm-kobenhavn/
+number: N2
 author: dina
+comment: "Øst-vestgående cykelrute"
 created_at: 2006-06-02T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
@@ -18,15 +20,17 @@ tags:
   - hele ruten
 excerpt: "Du kan følge national cykelrute 2 420 kilometer fra Hanstholm til København. Det er en varieret tur gennem et typisk dansk landskab; landbrugsjord, små skove og langs stranden. Dette er en god rute, hvis du gerne vil på tværs af Danmark for første gang på cykel."
 gps:
-  url: https://ridewithgps.com/routes/35648342
-  id: 35648342
-  provider: ridewithgps
+  url: https://www.outdooractive.com/en/route/bicycle-touring/national-cykelrute-2-hanstholm-kobenhavn/245190403/
+  id: 245190403
+  provider: outdooractive
 distance: 420
 asphalt: 336
 rubble: 84
 ---
 
 **{{ page.excerpt }}**
+
+{% include video provider="own-youtube" id="HFFbNYMYlYQ" %}
 
 {% assign site_posts = site.routes | where: "tags", "National Cykelrute 2" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 

@@ -2,6 +2,8 @@
 title: "National Rute N12: Limfjordsruten - Rundtur omkring Limfjorden"
 seo_title: "National cykelrute 12: Limfjordsruten - Limfjorden rundt"
 permalink: /rute/national-rute-12-limfjordsruten/
+comment: Følger Limfjordens nord- og sydlige bredder fra Hals i Øst til Thyborøn i vest
+number: N12
 created_at: 2021-06-12T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
@@ -26,6 +28,8 @@ rubble: 61
 ---
 
 **{{ page.excerpt }}**
+
+{% include video provider="own-youtube" id="-02XRLSgBuY" %}
 
 National cykelrute 12 har et forløb hele vejen rundt om Limfjorden. Cykelturen kan opdeles i mindre etaper, hvis du synes, det er for langt med hele turen på en gang.
 

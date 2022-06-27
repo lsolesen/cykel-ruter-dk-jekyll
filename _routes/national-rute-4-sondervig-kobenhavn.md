@@ -2,6 +2,8 @@
 title: "National Rute N4: Søndervig-København"
 seo_title: "National cykelrute 4: Søndervig-København"
 permalink: /rute/national-rute-4-sondervig-kobenhavn/
+number: N4
+comment: Øst-vestgående cykelrute. Omlagt i 2019. Løber nu over Samsø i stedet for den nedlagte færgerute Aarhus - Kalundborg.
 last_modified_at: 2021-06-04T09:48:02+02:00
 created_at:  2006-06-04T09:48:02+02:00
 author: dina

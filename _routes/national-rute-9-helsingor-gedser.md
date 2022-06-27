@@ -4,7 +4,9 @@ seo_title: "National cykelrute 9: Helsingør-Gedser"
 permalink: /rute/national-rute-9-helsingoer-gedser/
 created_at:  2021-06-09T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00
+comment: Cykelrute ned gennem Sjælland
 author: lsolesen
+number: N9
 header:
   overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
@@ -27,6 +29,8 @@ rubble: 23
 ---
 
 **{{ page.excerpt }}**
+
+{% include video provider="own-youtube" id="5j4gJVmkVFI" %}
 
 {% assign site_posts = site.routes | where: "tags", "National Cykelrute 9" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 

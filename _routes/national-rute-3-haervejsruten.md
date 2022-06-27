@@ -3,6 +3,8 @@ title: &title "National Rute N3: Hærvejsruten - Padborg - Frederikshavn"
 seo_title: "National cykelrute 3: Hærvejsruten fra Padborg - Frederikshavn"
 permalink: /rute/national-rute-3-haervejsruten/
 author: lsolesen
+number: N2
+comment: Går op igennem Jylland nord-sydgående retning
 created_at: 2006-06-03T09:48:02+02:00
 last_modified_at: 2021-06-20T09:48:02+02:00
 header:

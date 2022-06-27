@@ -2,6 +2,8 @@
 title: "National Rute N8: Østersøruten"
 seo_title: "National cykelrute 8: Østersøruten"
 permalink: /rute/national-rute-8-ostersoruten/
+number: N8
+comment: 	En omlægning og udvidelse af Sydhavsruten (360 km). Rundtur med facon som et liggende 8-tal, der forbinder Syddanmarks øer og landsdele
 created_at:  2021-06-08T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00
 author: lsolesen

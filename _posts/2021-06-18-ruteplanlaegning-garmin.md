@@ -69,7 +69,7 @@ Så er ruten importeret. Nu kan du give den et navn, og du kan også sende den t
 
 Personligt plejer jeg altid at bruge Garmin Connect Appen på min telefon, når jeg gerne vil sende baner frem og tilbage mellem mine devices.
 
-{% include video provider="youtube" id="KeFDOkNiSjI" ezoic="ezoic-pub-video-placeholder-7" %}
+{% include video provider="own-youtube" id="KeFDOkNiSjI" %}
 
 ## Lav selv cykelrute i Garmin Connect Ruteplanlægger
 
