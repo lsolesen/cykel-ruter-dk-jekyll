@@ -1,7 +1,6 @@
 {% capture map_id %}{{ include.id }}{% endcapture %}
 {% capture map_provider %}{{ include.provider }}{% endcapture %}
-<!-- Courtesy of embedresponsively.com //-->
-<div class="responsive-video-container">
+<div>
 {% if map_provider == "endomondo" %}
   <iframe src="http://www.endomondo.com/embed/routes?id={{ map_id }}&width=900&height=600" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe>
 {% elsif map_provider == "bikemap" %}
@@ -16,5 +15,7 @@
   <iframe class="alltrails" src="{{ map_id }}?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 {% elsif map_provider == "outdooractive" %}
   <iframe src="https://www.outdooractive.com/en/embed/{{ map_id }}/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+  {% elsif map_provider == "komoot" %}
+  <iframe src="https://www.komoot.com/tour/{{ map_id }}/embed?profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 {% endif %}
 </div>

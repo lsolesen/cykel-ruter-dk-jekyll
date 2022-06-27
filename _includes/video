@@ -18,9 +18,10 @@
       </a>
     </div>
   </div>
-  {% comment %}
-    <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
-  {% endcomment %}
+{% elsif video_provider == "own-youtube" %}
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
+{% elsif video_provider == "youtube-playlist" %}
+  <iframe src="https://www.youtube.com/embed/videoseries?list={{ video_id }}&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 {% elsif video_provider == "google-drive" %}
   <iframe src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" allowfullscreen loading="lazy"></iframe>
 {% elsif video_provider == "wistia-net" %}

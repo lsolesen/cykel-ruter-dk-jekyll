@@ -93,6 +93,8 @@ De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan
 
 {% endcomment %}
 
+{% include video provider="youtube-playlist" id="PL6DiVRYM9dDQYrC8CRk3UASvV5i47W7f3" %}
+
 ## Oversigt over de danske nationalruter
 
 | | Navn	| Længde	| Asfalt % | Kommentar |
