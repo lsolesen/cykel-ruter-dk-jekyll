@@ -58,6 +58,8 @@ Vi beskriver her en del af de danske regionalruter, og hvordan du finder kort ti
 
 En regional cykelrute forløber gennem flere kommuner. Typisk er ruten længere end beregnet til en dagstur. Du kan kende de officielle cykelruter på skiltene. Skiltene er blå med en hvid cykel og hvid skrift. På skiltet står typisk et rutenummer inden i en hvid firkant. Ofte kan du også se afstanden til de nærmeste byer på skiltene.
 
+{% include video provider="youtube-playlist" id="PL6DiVRYM9dDQ8CTKOdn4fodgR9MlI1FYP" ezoic="ezoic-pub-video-placeholder-12" %}
+
 ## Rutebeskrivelser af regionale cykelruter
 
 De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet alle de regionale cykelruter, jeg har tilladelse til her på sitet. Hvis du vil bidrage med beskrivelser af nogle regionale cykelruter, så vil jeg blive rigtig glad.

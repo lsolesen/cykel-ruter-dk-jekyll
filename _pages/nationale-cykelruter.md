@@ -8,7 +8,6 @@ description: "Læs om Danmarks 11 nationalruter. De nationale cykelstier forbind
 author_profile: true
 category:
   - Cykelruter
-classes: wide
 header:
   overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=10
@@ -16,11 +15,11 @@ header:
   overlay_filter: 0.2
 feature_row:
   - url: https://www.vejdirektoratet.dk/side/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter#.UxmeSj95OSo
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+    image_path: /assets/images/posts/trafik-info-vejdirektoratets-nationale-cykelruter.jpg
     title: "Vejdirektoratets cykelruter"
-    alt: "Vejdirektoratets cykelruter"
-    excerpt: "Du kan finde kortet over de nationale cykelruter på Vejdirektoratets trafikkort på trafikken.dk. Nogle af ruterne har også deres egen hjemmeside, hvor du kan læse mere, og der findes ældre trykte kort hos Cyklistforbundet."
-    btn_label: "Besøg Vejdirektoratets cykelruter"
+    alt: "Vejdirektoratets cykelruter på Trafik.info"
+    excerpt: "På Vejdirektoratets trafikkort på trafikken.dk kan du finde et kort over de nationale cykelruter. Nogle af ruterne har også deres egen hjemmeside, hvor du kan læse mere."
+    btn_label: "Besøg Vejdirektoratet"
     btn_class: "btn--success"
 gallery:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
@@ -69,70 +68,37 @@ I Danmark findes der et unikt netværk af 11 nationale cykelruter på hele 4.233
 
 De nationale cykelruter kan inddeles i forskellige kategorier alt efter, hvordan de forbinder Danmark.
 
-{% comment %}
+- Nord-sydgående ruter
+- Øst-vestgående ruter, der alle ender i København
+- Rundture
 
-### Nord-sydgående ruter
+{% include video provider="youtube-playlist" id="PL6DiVRYM9dDQYrC8CRk3UASvV5i47W7f3" ezoic="ezoic-pub-video-placeholder-11" %}
 
-- [National cykelrute 1: Vestkystruten](/rute/national-rute-1-vestkyststien/), der følger Jyllands vestkyst
-- National cykelrute 3: Hærvejen, der går op gennem Jylland
-- National cykelrute 5: Østkystruten, der følger Jyllands østkyst
-- National cykelrute 7: fra Sjællands Odde til Rødby Havn
-- National cykelrute 9: fra Helsingør til Gedser
-
-### Øst-vestgående ruter, der alle ender i København:
-
-- National cykelrute 2: fra Hanstholm til København
-- National cykelrute 4: fra Søndervig til København
-- National cykelrute 6: fra Esbjerg til København
-
-### Rundture
-
-- National cykelrute 8, Østersøruten – der har facon som et liggende ottetal og forbinder Syddanmarks øer og landsdele
-- National cykelrute 10, Bornholm Rundt – der følger kyststækningen hele øen rundt
-- National cykelrute 12, Limfjordsruten – der følger Limfjordens syd- og nordlige bredder fra Hals i Øst til Thyborøn i vest
-
-{% endcomment %}
-
-{% include video provider="youtube-playlist" id="PL6DiVRYM9dDQYrC8CRk3UASvV5i47W7f3" %}
+Du kan se en oversigt over alle de nationale cykelruter i skemaet nedenunder.
 
 ## Oversigt over de danske nationalruter
 
-| | Navn	| Længde	| Asfalt % | Kommentar |
+{% assign routes = site.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
+
+| | Navn	| Længde | Asfalt | Note |
 |-|-|-|-|-|
-| N1	| [Vestkystruten](/rute/national-rute-1-vestkyststien/)	| 560 km	| 70 %	| Rudbøl - Skagen |
-| N2	| Hanstholm-København	| 420 km	| 80 %	| |
-| N3	| Hærvejsruten	| 450 km	| 78 %	| Padborg - Frederikshavn |
-| N4	| Søndervig-København	| 310 km	| 90 %	| Omlagt i 2019. Løber nu over Samsø i stedet for den nedlagte færgerute Aarhus - Kalundborg. |
-| N5	| Østkystruten | 650 km	| 90 %	| Sønderborg - Skagen |
-| N6	| Esbjerg-København	| 330 km	| 92 % | |
-| N7	| Sjællands Odde-Rødbyhavn	| 240 km	| 90 % | |
-| N8	| Østersøruten	| 840 km	| 95 %	| En omlægning og udvidelse af Sydhavsruten (360 km) |
-| N9	| Helsingør-Gedser	| 290 km	| 92 % | |
-| N10	| Bornholm Rundt	| 105 km	| 90 %	| |
-| N12	| Limfjordsruten	| 610 km	| 90 %	| Rundtur omkring Limfjorden |
+{%- for route in routes -%}
+{%- assign asphalt = route.asphalt | times: 1.0 -%}
+{%- assign distance = route.distance | times: 1.0 %}
+| {{ route.number }} | [{{ route.title }}]({{ route.url }})	| {{ route.distance }} km	| {{ asphalt | divided_by: distance | times: 100 | round: 0 }}% | {{ route.comment }} |
+{%- endfor %}
+{: .wide }
 
 ## Rutebeskrivelser af de nationale cykelruter
 
-Vi har beskrevet nogle af nationalruterne her:
+Vi har beskrevet nationalruterne her. Under de enkelte rutebeskrivelser kan du også finde beskrivelser af de forskellige delforløb og etaper på ruterne. Det kan være meget hjælpsomt, hvis du kun vil køre en kortere distance.
 
-{% assign site_posts = site.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "title" %}
+{% assign site_posts = site.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
   {% for post in site_posts %}
     {% include archive-single.html %}
-  {% endfor %}
-</div>
-{% endif %}
-
-## Beskrivelse af delforløb på de nationale cykelruter
-
-{% assign site_posts = site.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'delforløb'" | sort: "title" %}
-
-{% if site_posts.size > 0 %}
-<div class="feature__wrapper">
-  {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
 {% endif %}
@@ -171,9 +137,25 @@ Hvis du foretrækker kort skrevet på dansk, så har jeg skrevet en [guide til d
 
 Det er faktisk ikke så let at finde nogle steder, hvor du kan downloade de nationale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
 
-Du kan finde de landsdækkende cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem. De nationale cykelruter ligger også på [Vejdirektoratets hjemmeside](https://trafikkort.vejdirektoratet.dk/index.html?usertype=3), men herfra har du heller ikke mulighed for at downloade dem.
+Du kan finde de landsdækkende cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til.
 
-Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade ruterne fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise.
+Men herfra kan du desværre ikke downloade dem. De nationale cykelruter ligger også på [Vejdirektoratets hjemmeside](https://trafikkort.vejdirektoratet.dk/index.html?usertype=3), men herfra har du heller ikke mulighed for at downloade dem.
+
+### 1. Her på cykel-ruter.dk
+
+Denne side er faktisk din allerbedste mulighed, hvis du gerne vil finde brugbare GPS-tracks til dine ruter. Vi har været på udkig efter GPX-filer over hele internettet, og vi har på de enkelte rutebeskrivelser enten selv tegnet ruterne eller linket til de bedste ruter.
+
+Vi har brugt lang tid på at finde de enkelte steder, så nyd det endelig.
+
+### 2. Ride With GPS
+
+På RideWithGPS er der en samling af de nationale cykelruter i Danmark, som er samlet i foråret 2021. Enkelte ruter er muligvis opdateret eller ændret enkelte steder, så følg altid den lokale skiltning eller prøv at kigge efter et opdateret kort.
+
+{% include figure image_path="/assets/images/posts/ridewithgps-nationalruter.jpg" caption="På [RideWithGPS](https://ridewithgps.com/collections/22879) kan du finde en oversigt over de nationale ruter cykelruter." alt="gpx track på ridewithgps" %}
+
+### 3. Waymarked Trails
+
+Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade ruterne fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise. Desværre er min oplevelse, at jeg ikke umiddelbart kunne importere de enkelte trails ind i andre programmer.
 
 {% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.jpg" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de nationale cykelruter frem." alt="waymarkedtrails gpx nationale cykelruter" %}
 

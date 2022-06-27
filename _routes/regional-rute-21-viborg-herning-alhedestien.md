@@ -20,9 +20,9 @@ tags:
 excerpt: "Alhedestien er et sammenhængende stisystem anlagt på den nedlagte Herning-Viborg jernbane. Regional cykelrute 21 følger stien. På Alhedestien vil du passere enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede."
 toc: true
 gps:
-  url: https://www.alltrails.com/explore/map/map-8e443d6--10
-  id: https://www.alltrails.com/widget/map/map-8e443d6--10
-  provider: alltrails
+  url: https://www.outdooractive.com/en/route/bicycle-touring/alhedestien-regional-cykelrute-21-herning-viborg/245205864/
+  id: 245205864
+  provider: outdooractive
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HerningViborg21Stor%C3%A5.JPG/1024px-HerningViborg21Stor%C3%A5.JPG
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HerningViborg21Stor%C3%A5.JPG/1024px-HerningViborg21Stor%C3%A5.JPG

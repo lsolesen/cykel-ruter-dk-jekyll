@@ -1,8 +1,10 @@
 ---
-title: "National Rute 01: Vestkystruten fra Rudbøl til Skagen"
-seo_title: "National Cykelrute 1: Vestkystruten fr Rudbøl til Skagen"
+title: "National Rute N1: Vestkystruten fra Rudbøl til Skagen"
+seo_title: "National Cykelrute 1: Vestkystruten fra Rudbøl til Skagen"
 permalink: /rute/national-rute-1-vestkyststien/
-created_at: 2006-07-03T09:48:02+02:00
+number: N1
+comment: Følger Jyllands Vestkyst i nord-sydgående retning
+created_at: 2006-06-01T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
@@ -16,15 +18,14 @@ tags:
   - hele ruten
   - National Cykelrute 1
   - featured
-related: National Cykelrute 1
 excerpt: "Vestkystruten følger Nordsøkysten fra Rudbøl til Skagen. Ruten får dig forbi nogle af de største naturoplevelser i Danmark. Næsten en tredjedel af ruten på 560 km følger grusstier, så du skal helst have brede dæk på cyklen. Til gengæld er der ingen stigninger og minimal trafik, hvilket gør cykelstien til en familievenlig rute."
 distance: 560
 asphalt: 392
 rubble: 168
-#gps:
-#  provider: alltrails
-#  id: https://www.alltrails.com/widget/map/map--50487
-#  url: https://www.alltrails.com/explore/map/map--50487
+gps:
+  provider: outdooractive
+  id: 245188423
+  url: https://www.outdooractive.com/en/route/bicycle-touring/denmark/national-cykelrute-1-vestkystruten-fra-rudbol-til-skagen/245188423/
 feature_row:
   - url: https://vestkystruten.dk/
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
@@ -44,9 +45,11 @@ gallery:
     rel: sponsored nofollow noopener
 ---
 
-{{ page.excerpt }}
+Vestkystruten følger Nordsøkysten fra Rudbøl til Skagen. Ruten får dig forbi nogle af de største naturoplevelser i Danmark. Næsten en tredjedel af ruten på 560 km følger grusstier, så du skal helst have brede dæk på cyklen. Til gengæld er der ingen stigninger og minimal trafik, hvilket gør cykelstien til en familievenlig rute.
 
-{% assign site_posts = site.routes | where: "tags", "National Cykelrute 1" | where_exp: "post", "post.url != page.url" | sort: "title" %}
+{% include video provider="own-youtube" id="F01p9oCJU78" %}
+
+{% assign site_posts = site.routes | where: "tags", "National Cykelrute 1" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
@@ -67,7 +70,7 @@ Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, de
 
 ## Køb kort over Vestkyststien
 
-{% include gallery layout="fourth" caption="Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel='sponsored nofollow noopener' } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }." %}
+{% include gallery caption="Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel='sponsored nofollow noopener' } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }." %}
 
 Tjek også vores artikel om [cykelkort over Danmark](/cykelkort/).
 

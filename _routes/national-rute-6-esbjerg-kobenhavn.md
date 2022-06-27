@@ -1,8 +1,9 @@
 ---
-title: "National Rute 06: Esbjerg - København"
+title: "National Rute N6: Esbjerg - København"
 seo_title: "National cykelrute 6: Esbjerg - København"
 permalink: /rute/national-rute-6-esbjerg-koebenhavn/
-created_at:  2021-06-07T09:48:02+02:00
+comment: "Cykelrute i øst-vestgående retning med slut i København"
+created_at:  2021-06-06T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00
 author: lsolesen
 header:
@@ -17,10 +18,10 @@ tags:
   - National Cykelrute 6
 related: National Cykelrute 6
 excerpt: "Nationalrute 6 er en ret direkte rute mellem Esbjergg og København. Den går direkte over Jylland, Fyn og Sjælland til København. Du kan opleve danske landskaber med sorte og hvide køer i Jylland, bølgende kornmarker på Fyn og Sjælland. Næsten hele ruten på 330 km er asfalteret. Kun på Sjælland vil du opleve at ruten er ujævn og bakket."
-#gps:
-#  url: https://www.alltrails.com/explore/map/map-5463b51--4
-#  id: https://www.alltrails.com/widget/map/map-5463b51--4
-#  provider: alltrails
+gps:
+  url: https://www.outdooractive.com/en/route/bicycle-touring/nationalrute-6-esbjerg-til-kobenhavn/245189669/
+  id: 245189669
+  provider: outdooractive
 distance: 330
 asphalt: 304
 rubble: 26
@@ -28,7 +29,7 @@ rubble: 26
 
 **{{ page.excerpt }}**
 
-{% assign site_posts = site.routes | where: "tags", page.related | where_exp: "post", "post.url != page.url" | sort: "title" %}
+{% assign site_posts = site.routes | where: "tags", "National Cykelrute 6" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 

@@ -1,8 +1,10 @@
 ---
-title: &title "National Rute 05: Østkystruten fra Sønderborg - Skagen"
+title: &title "National Rute N5: Østkystruten fra Sønderborg - Skagen"
 seo_title: "National cykelrute 5: Østkystruten fra Sønderborg - Skagen"
 permalink: /rute/national-rute-5-ostkystruten/
-created_at:  2006-06-07T09:48:02+02:00
+number: N6
+comment: Følger Jyllands østkyst nord-sydgående retning
+created_at:  2006-06-05T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00
 author: dina
 header:
@@ -17,12 +19,11 @@ tags:
   - hele ruten
   - National Cykelrute 5
   - featured
-related: National Cykelrute 5
 excerpt: "På Østkystrutens 650 km cykler du fra Sønderborg til Hulsig og igennem adskillige gamle fjordbyer. Turen er velegnet til mange stop undervejs, fordi du hele tiden kommer forbi spændende byer. Ruten er relativt ujævn, men også utrolig smuk. Du skal bruge en alsidig cykel, og du skal være i god form, hvis du vil gennem hele ruten på en cykelferie."
-#gps:
-#  url: https://www.alltrails.com/explore/map/map-5463b51--4
-#  id: https://www.alltrails.com/widget/map/map-5463b51--4
-#  provider: alltrails
+gps:
+  url: https://www.outdooractive.com/en/route/hiking-route/denmark/national-cykelrute-n5-ostkystruten/245192061/
+  id: 245192061
+  provider: outdooractive
 distance: 650
 asphalt: 585
 rubble: 65
@@ -30,7 +31,9 @@ rubble: 65
 
 **{{ page.excerpt }}**
 
-{% assign site_posts = site.routes | where: "tags", page.related | where_exp: "post", "post.url != page.url" | sort: "title" %}
+{% include video provider="own-youtube" id="oh5U8PtXGC8" %}
+
+{% assign site_posts = site.routes | where: "tags", "National Cykelrute 5" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 

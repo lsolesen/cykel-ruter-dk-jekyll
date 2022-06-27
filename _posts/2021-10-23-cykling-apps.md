@@ -65,7 +65,7 @@ Når din tur er importeret, vil Relive analyserer den automatisk og skaber en in
 
 Se et eksempel her fra Bindeballestien, hvordan en video der er optaget med Relive-appen på telefonen kommer til at se ud. I den gratis version kunne jeg kun vedhæfte 5 billeder, og jeg kan ikke selv bestemme videokvaliteten. Jeg kan også kun redigere videoen en gang, når jeg gemmer den.
 
-{% include video provider="youtube" id="6ksvhYb1ODs" ezoic="ezoic-pub-video-placeholder-9" %}
+{% include video provider="own-youtube" id="6ksvhYb1ODs" %}
 
 Relive findes både i en gratis udgave og en premium-udgave. Tidligere har man kunnet forbinde den meget brugte cykel app, Strava, direkte til Relive, men det samarbejde lukkede ned i [maj 2022](https://support.strava.com/hc/en-us/articles/360030429332-An-update-on-our-integration-with-Relive). Strava vurderer, at Relive ikke overholder deres retningslinjer for at beskytte brugernes privatliv.
 
@@ -81,7 +81,7 @@ Hvis du selv har cyklet en rute eller bare tegnet den på forhånd, så kan du i
 
 Det er virkelig genialt, fordi du let kan se, hvilke landskaber du kan forvente at skulle køre igennem. Jeg har selv brugt denne app til cykling på dette site til at illustrere nogle af ruterne.
 
-{% include video provider="youtube" id="060ECU0A_0g" ezoic="ezoic-pub-video-placeholder-8" %}
+{% include video provider="own-youtube" id="060ECU0A_0g" %}
 
 Når man genspiller i Ayvri, så havde jeg lidt udfordringer med, at kortet ikke helt gentegende sig hurtigt nok. Det kan man se lidt i videoen, men resultatet er stadig meget fedt.
 

@@ -15,7 +15,9 @@
   <iframe class="alltrails" src="{{ map_id }}?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 {% elsif map_provider == "outdooractive" %}
   <iframe src="https://www.outdooractive.com/en/embed/{{ map_id }}/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
-  {% elsif map_provider == "komoot" %}
+{% elsif map_provider == "komoot" %}
   <iframe src="https://www.komoot.com/tour/{{ map_id }}/embed?profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+{% elsif map_provider == "ridewithgps" %}
+  <iframe src="https://ridewithgps.com/embeds?type=route&id={{ map_id }}&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 {% endif %}
 </div>
