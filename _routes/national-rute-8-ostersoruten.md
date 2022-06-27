@@ -1,8 +1,8 @@
 ---
-title: "National Rute 08: Østersøruten"
+title: "National Rute N8: Østersøruten"
 seo_title: "National cykelrute 8: Østersøruten"
 permalink: /rute/national-rute-8-ostersoruten/
-created_at:  2021-06-07T09:48:02+02:00
+created_at:  2021-06-08T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00
 author: lsolesen
 header:
@@ -16,12 +16,11 @@ tags:
   - hele ruten
   - National Cykelrute 8
   - featured
-related: National Cykelrute 8
 excerpt: "National Cykelrute 8, Østersøruten, fører dig gennem Sydjylland og derfra over Sydøøerne på en varieret tur gennem landet og langs vandet. Det er en hyggelig rute, som følger Østersøen hele 840 kilometer, og du kan cykle forbi det sydfynske øhav og fortsætte til Falster, Bogø, Møn og Sjælland."
-#gps:
-#  url: https://www.alltrails.com/explore/map/map-5463b51--4
-#  id: https://www.alltrails.com/widget/map/map-5463b51--4
-#  provider: alltrails
+gps:
+  url: https://ridewithgps.com/routes/35648842
+  id: 35648842
+  provider: ridewithgps
 distance: 840
 asphalt: 798
 rubble: 42
@@ -41,7 +40,7 @@ En omlægning og udvidelse af Sydhavsruten (360 km).
 - Østersøruten - Etape 11 Assens - Middelfart
 - Østersøruten - Etape 11 Middelfart - Christiansfeld
 
-{% assign site_posts = site.routes | where: "tags", page.related | where_exp: "post", "post.url != page.url" | sort: "title" %}
+{% assign site_posts = site.routes | where: "tags", "National Cykelrute 8" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 

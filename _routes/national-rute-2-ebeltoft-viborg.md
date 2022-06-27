@@ -1,9 +1,9 @@
 ---
-title: "National Rute 02: Ebeltoft - Viborg"
+title: "National Rute N2: Ebeltoft - Viborg"
 seo_title: "National Rute 2: Ebeltoft - Viborg"
 permalink: /rute/national-rute-2-ebeltoft-viborg/
 author: dina
-created_at: 2006-07-03T09:48:02+02:00
+created_at: 2006-07-02T09:48:02+02:00
 last_modified_at: 2020-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://www.ebeltoft.dk/wp-content/uploads/2018/05/ebeltoft-raadhus.jpg
@@ -23,7 +23,6 @@ gps:
   url: https://www.alltrails.com/explore/map/map-e4d8163--4
   id: https://www.alltrails.com/widget/map/map-e4d8163--4
   provider: alltrails
-related: "National Cykelrute 2"
 distance: 183
 asphalt: 183
 rubble: 0

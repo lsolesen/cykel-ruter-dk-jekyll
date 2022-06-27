@@ -1,13 +1,13 @@
 ---
-title: &title "National Rute 03: Hærvejsruten - Padborg - Frederikshavn"
+title: &title "National Rute N3: Hærvejsruten - Padborg - Frederikshavn"
 seo_title: "National cykelrute 3: Hærvejsruten fra Padborg - Frederikshavn"
 permalink: /rute/national-rute-3-haervejsruten/
 author: lsolesen
-created_at: 2006-07-03T09:48:02+02:00
+created_at: 2006-06-03T09:48:02+02:00
 last_modified_at: 2021-06-20T09:48:02+02:00
 header:
-  overlay_image: &image https://images.unsplash.com/photo-1452573992436-6d508f200b30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
-  teaser: *image
+  overlay_image: https://images.unsplash.com/photo-1452573992436-6d508f200b30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1452573992436-6d508f200b30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   credit: "Photo by Maico Amorim on Unsplash"
 category:
@@ -19,11 +19,10 @@ tags:
   - hele ruten
   - featured
 excerpt: "Du kan følge Hærvejsruten 450 km mellem Padborg til Federikshavn. Hærvejsruten er en historisk national cykelrute med rigtig mange oplevelser undervejs. Det fører endda over grænsen til Rendsburg i Tyskland."
-#gps:
-#  url: https://www.alltrails.com/explore/map/map-da4902c--8
-#  id: https://www.alltrails.com/widget/map/map-da4902c--8
-#  provider: alltrails
-related: "National Cykelrute 3"
+gps:
+  url: https://ridewithgps.com/routes/35120789
+  id: 35120789
+  provider: ridewithgps
 distance: 450
 asphalt: 351
 rubble: 99
@@ -35,7 +34,7 @@ rubble: 99
 hærvejscykelruten
 {% endcomment%}
 
-{% assign site_posts = site.routes | where: "tags", page.related | where_exp: "post", "post.url != page.url" | sort: "title" %}
+{% assign site_posts = site.routes | where: "tags", "National Cykelrute 2" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 

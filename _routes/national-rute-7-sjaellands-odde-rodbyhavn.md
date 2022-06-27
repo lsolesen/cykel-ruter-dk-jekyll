@@ -1,5 +1,5 @@
 ---
-title: "National Rute 07: Sjællands Odde-Rødbyhavn"
+title: "National Rute N7: Sjællands Odde-Rødbyhavn"
 seo_title: "National cykelrute 7: Sjællands Odde-Rødbyhavn"
 permalink: /rute/national-rute-7-sjaellands-odde-rodbyhavn/
 created_at:  2021-06-07T09:48:02+02:00
@@ -15,12 +15,11 @@ tags:
   - national
   - hele ruten
   - National Cykelrute 7
-related: National Cykelrute 7
 excerpt: "Nationalrute 7 fører fra Sjællands Odde asfalterede veje på Vestsjælland gennem behagelige landsbyer og marker. Ruten er meget børnevenlig, hvis du anser Sommerlandet Sjælland, BonBon Land, Knuthenborg Safari Park og badeland Lalandia som gode attraktioner."
-#gps:
-#  url: https://www.alltrails.com/explore/map/map-5463b51--4
-#  id: https://www.alltrails.com/widget/map/map-5463b51--4
-#  provider: alltrails
+gps:
+  url: https://www.outdooractive.com/en/route/bicycle-touring/denmark/national-cykelrute-n7-odden-rodby/245192229/
+  id: 245192229
+  provider: outdooractive
 distance: 240
 asphalt: 216
 rubble: 24
@@ -28,7 +27,7 @@ rubble: 24
 
 **{{ page.excerpt }}**
 
-{% assign site_posts = site.routes | where: "tags", page.related | where_exp: "post", "post.url != page.url" | sort: "title" %}
+{% assign site_posts = site.routes | where: "tags", "National Cykelrute 7" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
