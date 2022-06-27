@@ -13,10 +13,10 @@ tags:
   - regional
   - banesti
 excerpt: ""
-#gps:
-#  url: https://www.alltrails.com/explore/map/map-2dbf216--11
-#  id: https://www.alltrails.com/widget/map/map-2dbf216--11
-#  provider: alltrails
+gps:
+  url: https://www.alltrails.com/trail/denmark/north-denmark/himmerlandsstien-logstor-viborg
+  id: https://www.alltrails.com/trail/denmark/north-denmark/himmerlandsstien-logstor-viborg
+  provider: alltrails
 distance: 35
 asphalt: 25
 rubble: 10

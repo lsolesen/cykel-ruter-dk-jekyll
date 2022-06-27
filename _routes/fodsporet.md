@@ -13,10 +13,10 @@ tags:
   - regional
   - banesti
 excerpt: ""
-#gps:
-#  url: https://www.alltrails.com/explore/map/map-2dbf216--11
-#  id: https://www.alltrails.com/widget/map/map-2dbf216--11
-#  provider: alltrails
+gps:
+  url: https://www.outdooractive.com/en/route/hiking-route/fodsporet-slagelse-bisserup-naestved/245240290/
+  id: 245240290
+  provider: outdooractive
 distance: 35
 asphalt: 25
 rubble: 10

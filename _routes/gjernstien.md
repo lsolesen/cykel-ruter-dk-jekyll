@@ -13,10 +13,10 @@ tags:
   - regional
   - banesti
 excerpt: ""
-#gps:
-#  url: https://www.alltrails.com/explore/map/map-2dbf216--11
-#  id: https://www.alltrails.com/widget/map/map-2dbf216--11
-#  provider: alltrails
+gps:
+  url: https://www.alltrails.com/widget/trail/denmark/central-denmark/naturstien-gjernstien-langa-silkeborg
+  id: https://www.alltrails.com/widget/trail/denmark/central-denmark/naturstien-gjernstien-langa-silkeborg
+  provider: alltrails
 distance: 35
 asphalt: 25
 rubble: 10
