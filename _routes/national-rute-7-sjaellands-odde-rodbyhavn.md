@@ -17,6 +17,7 @@ tags:
   - national
   - hele ruten
   - National Cykelrute 7
+  - Nordsjælland
 excerpt: "Nationalrute 7 fører fra Sjællands Odde asfalterede veje på Vestsjælland gennem behagelige landsbyer og marker. Ruten er meget børnevenlig, hvis du anser Sommerlandet Sjælland, BonBon Land, Knuthenborg Safari Park og badeland Lalandia som gode attraktioner."
 gps:
   url: https://www.outdooractive.com/en/route/bicycle-touring/denmark/national-cykelrute-n7-odden-rodby/245192229/
