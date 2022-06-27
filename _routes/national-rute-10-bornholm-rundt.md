@@ -57,7 +57,7 @@ Den nationale cykelrute 10 fører dig forbi nogle af Bornholms mest populære se
 ## Konklusion
 Uanset om du vil udforske Bornholms historie og kultur eller bare nyde den naturlige skønhed, er National cykelrute 10 den perfekte måde at gøre det på.
 
-Du kan læse mere om Bornholm Rundt - national cykelrute 10 - på [Wikipedia](https://da.wikipedia.org/wiki/Bornholm_Rundt_(cykelrute).
+Du kan læse mere om Bornholm Rundt - national cykelrute 10 - på [Wikipedia](https://da.wikipedia.org/wiki/Bornholm_Rundt_(cykelrute)).
 
 Så hvad venter du på? Kom i gang med at træde i pedalerne!
 
