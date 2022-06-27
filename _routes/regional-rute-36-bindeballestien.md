@@ -17,6 +17,7 @@ tags:
   - regional
   - børnevenlig
   - banesti
+  - featured
 toc: true
 gps:
   url: https://www.alltrails.com/explore/map/bindeballestien-regionalrute-36-the-bindeballestien-route-regional-route-no-36--3

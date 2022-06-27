@@ -16,6 +16,7 @@ tags:
   - Guidebog Vestjylland
   - børnevenlig
   - banesti
+  - featured
 excerpt: "Alhedestien er et sammenhængende stisystem anlagt på den nedlagte Herning-Viborg jernbane. Regional cykelrute 21 følger stien. På Alhedestien vil du passere enkelte stationsbygninger, banevogterhuse, broer og dæmninger, ligesom de gamle kilometersten for hver 200 meter er blevet retablerede."
 toc: true
 gps:

@@ -4,7 +4,7 @@ permalink: /rute/randboeldal-camping-bindeballestien-jelling/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1522443091326-c5bc2ae991c9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1522443091326-c5bc2ae991c9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - VisitVejle Cykelguide
 tags:

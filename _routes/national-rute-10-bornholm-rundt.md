@@ -6,8 +6,8 @@ created_at:  2021-06-07T09:48:02+02:00
 last_modified_at: 2022-06-24T09:48:02+02:00
 author: lsolesen
 header:
-  overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80
-  teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - National Cykelrute
 tags:
@@ -15,6 +15,7 @@ tags:
   - national
   - hele ruten
   - National Cykelrute 10
+  - featured
 related: National Cykelrute 10
 excerpt: "Bornholm Rundt er National Cykelrute 10. Det er en utrolig smuk cykelrute, der starter nord for Hasle og fører til fiskerlandsbyen i Helligpeder på tidligere flugtveje, nedlagte jernbanelinjer og skovstier. Selvom turen kun er 105 kilometer, så er der bakker nok, og rigtig meget at se på turen. Husk at reservere indkvartering i god tid i højsæsonen."
 #gps:

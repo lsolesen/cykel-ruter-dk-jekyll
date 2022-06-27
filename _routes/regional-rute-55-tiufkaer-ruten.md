@@ -5,8 +5,6 @@ created_at: 2021-07-03T09:48:02+02:00
 last_modified_at: 2022-06-03T09:48:02+02:00
 author: lsolesen
 header:
-  caption: "Stemningsbillede fra regional rute 51: Horsens til Vissing Kloster"
-  teaser: *image
 category:
   - Regional Cykelrute
 tags:

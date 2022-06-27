@@ -319,6 +319,7 @@ defaults:
       toc: true
       header:
         overlay_color: "#000"
+        teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
       tag_archive_path: /rutetags/
       category_archive_path: /rutekategorier/
       sidebar:

@@ -6,8 +6,8 @@ created_at:  2021-06-07T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00
 author: lsolesen
 header:
-  overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80
-  teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - National Cykelrute
 tags:
@@ -15,6 +15,7 @@ tags:
   - national
   - hele ruten
   - National Cykelrute 8
+  - featured
 related: National Cykelrute 8
 excerpt: "National Cykelrute 8, Østersøruten, fører dig gennem Sydjylland og derfra over Sydøøerne på en varieret tur gennem landet og langs vandet. Det er en hyggelig rute, som følger Østersøen hele 840 kilometer, og du kan cykle forbi det sydfynske øhav og fortsætte til Falster, Bogø, Møn og Sjælland."
 #gps:

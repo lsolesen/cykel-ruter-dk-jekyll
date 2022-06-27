@@ -16,6 +16,7 @@ tags:
   - national
   - hele ruten
   - National Cykelrute 5
+  - featured
 related: National Cykelrute 5
 excerpt: "På Østkystrutens 650 km cykler du fra Sønderborg til Hulsig og igennem adskillige gamle fjordbyer. Turen er velegnet til mange stop undervejs, fordi du hele tiden kommer forbi spændende byer. Ruten er relativt ujævn, men også utrolig smuk. Du skal bruge en alsidig cykel, og du skal være i god form, hvis du vil gennem hele ruten på en cykelferie."
 #gps:

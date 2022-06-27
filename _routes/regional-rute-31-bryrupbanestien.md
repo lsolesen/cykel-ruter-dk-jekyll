@@ -19,6 +19,7 @@ tags:
   - Guidebog Østjylland
   - børnevenlig
   - banesti
+  - featured
 excerpt: "Bryrupbanestien er en cykelrute, der fører os behageligt gennem det midtjyske landskab. Ruten kaldes også Naturstien fra Horsens til Silkeborg. Ruten følger en nedlagt jernbane og er anlagt for cyklister og vandrere. Derfor møder man et minimalt antal bilister og kan nyde de stille omgivelser i fred og ro fra de større vejes larm."
 gps:
   provider: alltrails

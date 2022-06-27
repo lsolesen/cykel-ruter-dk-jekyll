@@ -17,6 +17,7 @@ tags:
   - national
   - National Cykelrute 3
   - hele ruten
+  - featured
 excerpt: "Du kan følge Hærvejsruten 450 km mellem Padborg til Federikshavn. Hærvejsruten er en historisk national cykelrute med rigtig mange oplevelser undervejs. Det fører endda over grænsen til Rendsburg i Tyskland."
 #gps:
 #  url: https://www.alltrails.com/explore/map/map-da4902c--8
@@ -29,6 +30,10 @@ rubble: 99
 ---
 
 {{ page.excerpt }}
+
+{% comment %}
+hærvejscykelruten
+{% endcomment%}
 
 {% assign site_posts = site.routes | where: "tags", page.related | where_exp: "post", "post.url != page.url" | sort: "title" %}
 
