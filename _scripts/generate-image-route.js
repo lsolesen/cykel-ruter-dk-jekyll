@@ -58,7 +58,7 @@ const urls = posts.map(post => objectToParams({
     'post-image': post.header.overlay_image || post.header.teaser || '',
     'distance': post.distance || '',
     'asphalt': post.asphalt || '',
-    'rubble': post.rubble || '0',    
+    'rubble': post.rubble || '0',
   })
 ).map(params => {
   // use `utoa` to encode emojis/special characters
@@ -69,7 +69,7 @@ const urls = posts.map(post => objectToParams({
 })
 
 // call chromium, get a buffer
-async function takeScreenshot(url) {
+async function takeScreenshot(url, file_path) {
   const browser = await puppeteer.launch()
   const page = await browser.newPage()
   await page.setViewport({
@@ -78,14 +78,17 @@ async function takeScreenshot(url) {
     deviceScaleFactor: 1,
   })
   await page.goto(url)
-  const buffer = await page.screenshot()
+  await page.screenshot({
+    path: file_path,
+    type: "jpeg",
+    fullPage: true
+  })
+  await page.close()
   await browser.close()
-  return Buffer.from(buffer, 'base64')
 }
 
 // take a buffer, save an image
 async function generateImage(url, path) {
-  const buffer = await takeScreenshot(url)
   // strip leading and trailing slashes off of link
   const fixedPath = () => {
     const letters = [...path]
@@ -93,11 +96,9 @@ async function generateImage(url, path) {
     if (letters[letters.length - 1] === '/') { delete letters[letters.length - 1] }
     return letters.join('').replace(/\//g, '-')
   }
-  const fileName = `./build/generated/${args.type}/${fixedPath()}.png`
-  fs.writeFile(fileName, buffer, (err) => {
-    if (err) return console.error(err)
-    console.log('file saved to ', fileName)
-  })
+  let fileName = `./build/generated/${args.type}/${fixedPath()}.jpg`
+  await takeScreenshot(url, fileName)
+  console.log('file saved to ', fileName)
 }
 
 // set up a queue so 200+ chromium instances don't open...

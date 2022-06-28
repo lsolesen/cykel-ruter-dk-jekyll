@@ -5,6 +5,7 @@ created_at: 2021-07-03T09:48:02+02:00
 last_modified_at: 2022-06-03T09:48:02+02:00
 author: lsolesen
 header:
+  teaser: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - Regional Cykelrute
 tags:
@@ -24,7 +25,7 @@ rubble: 13
 
 Fra Kolding kan du cykle ad Troldhedestien (regionalrute 62) til Vejle, som går gennem små landsbyer og dejlige naturomgivelser. Den 29 kilometer lange tur slutter ved Bindeballe Købmandsgård.
 
-De første 10 km cykler du på den nedlagte Troldhede-jernbanesti syd om Donssøerne, forbi Harteværket og til Ferup. Her møder Troldhedebanestien regionalrute 62, der strækker sig fra Gelballe i syd til Hærvejen nordvest for Egtved. 
+De første 10 km cykler du på den nedlagte Troldhede-jernbanesti syd om Donssøerne, forbi Harteværket og til Ferup. Her møder Troldhedebanestien regionalrute 62, der strækker sig fra Gelballe i syd til Hærvejen nordvest for Egtved.
 
 Fra Ferup går turen nordpå ad små veje til Jordrup, Knudsbøl og ad grusvej over Egtved Ådal og gennem Tågelund Plantage.
 

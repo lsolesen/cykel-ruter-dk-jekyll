@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Vælg det rigtige cykelkort over Danmark til din cykeltur (2022) 🗺"
+title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur (2022) 🗺"
 seo_title: "Vælg det rigtige cykelkort over Danmark til din cykeltur (2022)"
 permalink: /cykelkort/
 description: "Jeg har samlet nogle rigtig gode cykelkort over Danmark, der er detaljerede nok til, at du kan finde vej - både når du planlægger din cykeltur og undervejs."
@@ -164,7 +164,7 @@ Jeg har prøvet at samle alt, hvad du skal vide om cykelkort, der beskriver [cyk
 
 Jeg kommer også med nogle fif til, hvordan du finder vej, mens du er på cyklen uden at det er alt for bøvlet. Jeg har skrevet en anden guide til [online cykelkort](/cykelkort-online/).
 
-## Hvad er et cykelkort? 
+## Hvad er et cykelkort?
 
 Et cykelkort er et speciallavet kort med høj detaljeringsgrad, hvor cykelruterne er indtegnet. I Danmark er der 11 nationale cykelruter og virkelig mange regionale ruter og veje med cykelsti. På et godt cykelkort, kan du også finde markeringer af vandrehjem, campingpladser, turistinformationer og måske handlemuligheder. Sørg for at købe et holdbart kort.
 
@@ -206,7 +206,7 @@ Så er det bedre at finde et regionalt cykelkort, som har et lidt mindre målest
 
 ## Regionale cykelkort fra Danmark
 
-Der findes lidt forskellige cykelkortserier, der har de regionale cykelruter i Danmark. Jeg har valgt at fokusere på cykelkortene fra **Nordisk Korthandel**, da det er den eneste serie på dansk, som stadig opdateres. 
+Der findes lidt forskellige cykelkortserier, der har de regionale cykelruter i Danmark. Jeg har valgt at fokusere på cykelkortene fra **Nordisk Korthandel**, da det er den eneste serie på dansk, som stadig opdateres.
 
 Du kan stadig købe begge serier af regionale cykelkort, men Legind og Cyklistforbundets cykelkortserie genoptrykkes ikke.
 

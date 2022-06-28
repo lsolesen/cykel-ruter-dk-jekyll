@@ -13,7 +13,6 @@ tags:
   - cykelrute
   - regional
   - banesti
-excerpt: ""
 gps:
   url: https://www.alltrails.com/explore/recording/hvalpsundruten-regional-cykelrute-nr-29--2?u=m
   #id: https://www.alltrails.com/widget/map/map-2dbf216--11
