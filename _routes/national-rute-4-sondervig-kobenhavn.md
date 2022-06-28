@@ -30,6 +30,8 @@ rubble: 20
 
 **{{ page.excerpt }}**
 
+{% include video provider="own-youtube" id="65XxvRAV0gk" %}
+
 {% assign site_posts = site.routes | where: "tags", "National Cykelrute 4" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}

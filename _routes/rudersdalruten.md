@@ -21,9 +21,13 @@ asphalt: 17.195
 rubble: 25
 ---
 
+{{ page.excerpt }}
+
 Cykling er en fantastisk måde at se Rudersdals seværdigheder på. Rudersdalruten giver cyklisterne mulighed for at udforske kommunens mange seværdigheder. Ruten er godt skiltet og går gennem skove, søer og åbent landskab.
 
 Der er også masser af steder, hvor man kan stoppe for at få en forfriskning undervejs.
+
+{% include video provider="own-youtube" id="caMV0JE6JZ8" %}
 
 ## Hvad er Rudersdalruten?
 

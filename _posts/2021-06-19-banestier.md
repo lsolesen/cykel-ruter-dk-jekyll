@@ -31,7 +31,11 @@ Banestier er tidligere jernbanelinjer, som er blevet omdannet til cykel- og vand
 
 Hvorfor er banestier gode, familievenlige destinationer for din cykeltur?
 
-Der er flere grunde til, at de gamle jernbanestier er gode til cykelture med familien, men også hvis du bare selv gerne vil have en roligere oplevelse i fladere terræn:
+Der er flere grunde til, at de gamle jernbanestier er gode til cykelture med familien, men også hvis du bare selv gerne vil have en roligere oplevelse i fladere terræn.
+
+Du kan få en fornemmelse af banestierne i disse videoer:
+
+{% include video provider="youtube-playliste" id="PL6DiVRYM9dDRnLmAyH2qP4sst0s9Cd5UU" ezoic="ezoic-pub-video-placeholder-14" %}
 
 ### 1. Banestierne er flade - med meget få bakker
 
@@ -129,7 +133,7 @@ Læs mere: [Regional Cykelrute 29: Hvalpsundruten fra Nibe til Års og Haubro](/
 
 ## Banestier i Østjylland og Midtjylland
 
-### Bryrupbanestien fra Silkeborg-Horsens 
+### Bryrupbanestien fra Silkeborg-Horsens
 
 Bryrupbanestien er en jernbanesti mellem Silkeborg og Horsens i Danmark. Den blev oprindeligt åbnet i 1895, men blev nedlagt i 1968. Stien blev genåbnet som cykelsti i 1996.
 
@@ -165,13 +169,19 @@ Hvis du er på udkig efter en hyggelig og naturskøn cykelrute i Danmark, skal d
 
 Denne 37,6 kilometer lange rute mellem Laurbjerg og Silkeborg er perfekt for cyklister på alle niveauer med masser af bakker og kurver.
 
+{% comment %}
+
 Læs mere: [Gjernstien fra Laurbjerg til Silkeborg](/rute/gjernstien/)
+
+{% endcomment %}
 
 ## Fyns bedste banesti
 
 ### Banestien fra Ringe-Korinth
 
 Banestien er en lille sti, der forbinder byen Ringe på Fyn med byen Korinth. Det er en populær sti for vandrere og cyklister, da den byder på en smuk udsigt over både landskabet og havet.
+
+{% include video provider="own-youtube" id="2UNsoMtooF8" %}
 
 Læs mere: [Banestien fra Ringe til Korinth](/rute/banestien-ringe-korinth/)
 
@@ -203,7 +213,7 @@ Herunder kan du se nogle af de beskrivelser, vi har lavet af banestier.
 
 ## Konklusion
 
-Banestierne er et oplagt sted at starte dit cykeleventyr med børnene eller hvis du er knap så erfaren på cyklen. 
+Banestierne er et oplagt sted at starte dit cykeleventyr med børnene eller hvis du er knap så erfaren på cyklen.
 
 Ud over banestierne så findes der også andre [cykelruter til børn](/cykelrute-born/)
 

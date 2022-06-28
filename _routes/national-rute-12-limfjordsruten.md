@@ -39,6 +39,8 @@ Limfjordsruten dækker over 610 km på forskellige cykelstier og sideruter - og 
 
 Hvis du vil besøge de små øer i Limfjorden, så kan du sagtens tage en afstikker undervejs på turen med mindre færger til øerne Egholm, Livø, Fur, Mors og Venø.
 
+{% include video provider="own-youtube" id="86ivxIt-JbY" %}
+
 {% assign site_posts = site.routes | where: "tags", "National Cykelrute 12" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}

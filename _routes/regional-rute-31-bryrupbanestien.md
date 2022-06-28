@@ -65,6 +65,8 @@ På vej ud af Horsens troner det iøjnefaldende Horsens Statsfængsel op på vor
 
 En lille cykelsti fører os gennem Horsens Golfklubs velplejede greens, inden ruten et stykke efter krydset med motorvejen fortsætter på Provstlundstien, der starter som skovsti, men senere snævrer ind til et traktorspor og ender som et enkelt spor.
 
+{% include video provider="own-youtube" id="B8gm6F6K5Lo" %}
+
 ## Banestien Bryrupbanestien starter
 
 I Lund kommer vi igen på asfalteret vej, og her begynder den egentlige Bryrupbanesti. Bryrupbanestien er anlagt på den nedlagte jernbanestrækning mellem Horsens og Silkeborg. Dens fortid som jernbane betyder i dag, at stigninger og fald undervejs på ruten er begrænsede, hvilket vi nyder godt af på cykel gennem de kuperede midtjyske områder. Fri for konkurrencen med den motoriserede trafik får man fornemmelsen af at skære sig lige gennem bakkerne.

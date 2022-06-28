@@ -12,7 +12,7 @@ tags:
   - cykelrute
   - regional
   - banesti
-excerpt: ""
+excerpt: "Himmerlandsstien er en 79,9 km lang regional cykelrute mellem Viborg og Løgstør i det danske Nordjylland. Den følger de gamle banestier."
 gps:
   url: https://www.alltrails.com/trail/denmark/north-denmark/himmerlandsstien-logstor-viborg
   id: https://www.alltrails.com/trail/denmark/north-denmark/himmerlandsstien-logstor-viborg
@@ -24,6 +24,25 @@ rubble: 10
 
 **{{ page.excerpt }}**
 
+Himmerlandsstien er en 79,9 km lang regional cykelrute mellem Viborg og Løgstør i det danske Nordjylland.
+
+Himmerlandsstien er en såkaldt [jernbanesti](/banestier-i-danmark/), da den følger det gamle spor på jernbanelinjeføringen fra [Himmerlandsbanerne](https://da.wikipedia.org/wiki/Himmerlandsbanerne).
+
+Ruten følger hovedsageligt landeveje og passerer gennem byerne Ålestrup, Hobro, Mariager og Hadsund, inden den når Løgstør.
+
+Ruten er velegnet til både landevejscykler og mountainbikes, selv om nogle dele kan være udfordrende for mindre erfarne cyklister. Der er nogle få korte strækninger, hvor du skal stige af og skubbe din cykel.
+
+Der er flere steder langs ruten, hvor du kan holde pause, bl.a. på en række caféer og restauranter. Derder er også flere campingpladser og hoteller langs ruten, så du kan nemt gøre det til en flerdagstur.
+
+{% include video provider="youtube" id="LVv6zqWHO9g" %}
+
 ## Kort over {{ page.title }}
 
 {% include maps-ad.md %}
+
+## Links
+
+{% comment %} viborg.dk-linket --> her kan vi få et link på{% endcomment %}
+
+- [Viborg.dk](https://viborg.dk/oplevelser-og-fritid/ud-i-naturen/vores-skoenne-naturperler/himmerlandsstien/
+- [Udinaturen.dk](https://udinaturen.dk/shelter/9389)
