@@ -70,7 +70,7 @@ Hvis du ikke har mod på at sørge for disse ting, kan du få din cykelhandler t
 
 Hvilket værktøj og hvilke reservedele bør du tage med? Det afhænger af, hvilken cykel du har og ikke mindst af dine egne kundskaber. Overordnet kan man sige, hvis du ikke ved, hvordan man bruger værktøjet, så lad være med at tage det med. I kolonnen til højre på siden er tre værktøjspakker, du kan bruge som inspiration alt efter temperament.
 
-Hvis uheldet er ude, må du prøve at vurdere, om du kan ordne skaden på stedet. Ellers må du prøve at finde den nærmeste cykelhandler og evt. tage bus, tog eller taxa dertil.
+Hvis uheldet er ude, må du prøve at vurdere, om du kan ordne skaden på stedet. Ellers må du prøve at finde den nærmeste cykelhandler og evt. tage bus, [tog](/cykel-med-toget/) eller taxa dertil.
 
 ## Minimum pakken til cykelturen
 

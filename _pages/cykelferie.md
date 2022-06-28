@@ -55,7 +55,7 @@ Når du er på cykelferie med andre, så får du masser af hyggelige stunder. S�
 
 Det gode ved cyklen er også, at du kan komme frem overalt, og der er ikke noget bøvl med at skulle parkere. Det gør det let at komme helt ud i naturen eller rundt i de lidt mindre steder i byerne.
 
-Og du behøver jo ikke lade dig begrænse af cyklens rækkevidde. Det er let at tage cyklen med fx på bilen eller med det offentlige. Særligt i togene er der gode muligheder for at have cyklen med.
+Og du behøver jo ikke lade dig begrænse af cyklens rækkevidde. Det er let at tage cyklen med fx på bilen eller med det offentlige. Der er fx gode muligheder for, at du kan have din [cykel med i toget](/cykel-med-toget/).
 
 > "Det er godt at cykle overalt, hvor man kan komme frem med sin cykel. Selvom det er godt at følge en rute, så behøver man ikke altid være så fastlåst. Nogengange kan man også bare cykle og se, hvor det bringer en hen. Eller tage toget eller bilen med cyklen bagpå og køre til et nyt naturområde og udforske. Og på cykel når man - selv i et roligt tempo - langt på omkring 2-3 timer."
  

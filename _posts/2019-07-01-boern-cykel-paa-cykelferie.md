@@ -67,7 +67,7 @@ Der findes særlige cykelanhængere med sæder til 1-2 børn. Nogle anhængere p
 
 Kør ikke for lange dagsetaper med små børn og hold pause ofte, så de kan komme ud og røre sig. Supplér gerne med et barne sæde på voksencyklen, så der kommer lidt variation i barnets tur.
 
-Udvalget af børneanhængere er stort. Vælg en let anhænger, der kører godt og stabilt uden at rokke fra side til side. Tjek at der er god bagageplads i vognen, og at koblingen er nem at bruge. Anhængeren skal kunne klappes sammen, hvis den skal med i bil, bus eller tog. Med ekstraudstyr kan visse anhængere også bruges som klap vogn. En god cykelanhænger koster ca. 3-5.000 kr.
+Udvalget af børneanhængere er stort. Vælg en let anhænger, der kører godt og stabilt uden at rokke fra side til side. Tjek at der er god bagageplads i vognen, og at koblingen er nem at bruge. Anhængeren skal kunne klappes sammen, hvis den skal med i bil, bus eller [have cyklen med i toget](/cykel-med-toget/). Med ekstraudstyr kan visse anhængere også bruges som klap vogn. En god cykelanhænger koster ca. 3-5.000 kr.
 
 {% include feature_row type="left" id="feature_row_bee" %}
 

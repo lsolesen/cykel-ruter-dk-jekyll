@@ -90,6 +90,8 @@ Station.
 **Cyklen kan medbringes gratis i S-toget, også i
 myldretiden.**
 
+Læs: [Alt om at med bringe cyklen i toget](/cykel-med-toget/)
+
 ## Grønne cykelruter
 
 De **[Grønne Cykelruter](https://www.kk.dk/groennecykelruter)** i København er et sammenhængende net af cykelstier, som løber gennem de rekreative områder i København og uden om den travle trafik.

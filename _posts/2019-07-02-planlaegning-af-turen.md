@@ -101,7 +101,7 @@ Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og
 3. Anskaf gode cykelkort - læs mere om det [bedste cykelkort til Danmark](/cykelkort/)
 4. Hvad skal med - og hvem skal bære det?
 5. Bestil evt. overnatning, fx [AirBnb](/go/airbnb/){: rel="sponsored nofollow noopener" }
-6. Reserver evt. plads i tog eller bus til ud- og hjemrejse
+6. Reserver evt. [plads til cyklen i et tog](/cykel-med-toget/) eller bus til ud- og hjemrejse
 7. Anskaf nyt udstyr i god tid og prøv det af før ferien - tjek vores samarbejdspartnere.
 8. Kør et par træningsture
 9. Gi' cyklerne et grundigt eftersyn

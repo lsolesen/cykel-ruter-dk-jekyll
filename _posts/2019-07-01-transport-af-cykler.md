@@ -49,6 +49,8 @@ I landområder er bussen et fint alternativ til toget, når det gælder cykeltra
 
 Almindelige cykler kan tages med i toget på alle strækninger i landet. Men ikke alle tog medtager cykler, og der er begrænset plads, så undersøg mulighederne på forhånd.
 
+Læs: [Værd at vide om at have cyklen med på tog](/cykel-med-toget/)
+
 Bagagen skal tages af cyklen under transporten, og cykelanhængere skal klappes sammen og tages med som håndbagage (max. mål er 100x60x30 cm). Husk at købe en speciel cykelbillet eller et cykelklippekort.
 
 Betingelserne for at få cyklen med varierer fra tog til tog. Kontakt DSB for nærmere information. Du kan bl.a. hente folderen "Cykler i tog" på den nærmeste station eller læse mere på [www.dsb.dk](http://www.dsb.dk)
