@@ -121,7 +121,7 @@ Stien er for det meste asfalteret, men der er nogle strækninger, der er ikke as
 
 Ruten er velegnet til alle niveauer af cyklister, men det anbefales, at du har en god kondition, hvis du vil gennemføre hele ruten.
 
-Læs mere: [Regional Cykelrute 35: Bjergbanestien fra Svenstrup - Nibe](/rute/regional-rute-35-bjergbanestien/)
+Læs mere: [Regional Cykelrute 35: Bjergbanestien fra Svenstrup - Nibe](/rute/bjergbanestien/)
 
 ### Hvalpsundruten fra Nibe - Års - Haubro
 
@@ -183,7 +183,7 @@ Banestien er en lille sti, der forbinder byen Ringe på Fyn med byen Korinth. De
 
 {% include video provider="own-youtube" id="2UNsoMtooF8" %}
 
-Læs mere: [Banestien fra Ringe til Korinth](/rute/banestien-ringe-korinth/)
+Læs mere: [Banestien fra Ringe til Korinth](/rute/banesti-korinth-ringe/)
 
 ### Bedste banestier på Sjælland
 

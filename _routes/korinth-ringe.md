@@ -2,6 +2,9 @@
 title: &title "Banestien fra Korinth til Ringe"
 seo_title: &title "Banestien fra Ringe til Korinth"
 permalink: /rute/banesti-korinth-ringe/
+redirect_from:
+  - /rute/banestien-korinth-ringe/
+  - /rute/banestien-ringe-korinth/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2022-06-03T09:48:02+02:00
 author: lsolesen
