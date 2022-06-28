@@ -10,7 +10,7 @@ tags:
   - banestier
 category:
   - Cykelruter
-last_modified_at: 2021-06-18T12:21:26Z
+last_modified_at: 2022-06-28T09:21:26Z
 ---
 
 Er du på udkig efter en relativt flad og bilfri rute? Så er en af Danmarks mange banestier et oplagt valg.
