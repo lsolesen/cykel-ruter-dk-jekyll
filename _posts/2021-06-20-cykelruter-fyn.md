@@ -51,7 +51,9 @@ Der er ikke så mange bakker på Fyn, og der er gjort rigtig meget ud af at få 
 
 Ruterne er lange, men heldigvis behøver man jo ikke at køre hele ruten på en gang.
 
-Lad os dykke ned i nogle af de fabelagtige cykelruter på Fyn.
+Lad os dykke ned i nogle af de fabelagtige cykelruter på Fyn, som du kan få et lille indblik i disse videoer:
+
+{% include video provider="youtube-playlist" id="PL6DiVRYM9dDTOovKrOLW4VZe8s7NZt0eE" ezoic="ezoic-pub-video-placeholder-17" %}
 
 ## Cykelruten: Fyn rundt
 

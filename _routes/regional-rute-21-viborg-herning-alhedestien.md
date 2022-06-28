@@ -65,6 +65,8 @@ Start med at bruge lidt tid i Viborg og besøg bl.a. Viborg Domkirke, hvor Erik 
 
 Ruten følger en mindre asfalteret cykelsti gennem Viborg Hedeplantage og Hald Ege Langskov. På nordsiden af Hald sø findes hele tre voldsteder fra middelalderen, som tilsammen giver et godt billede af tidens voldsteder og deres placering i landskabet.
 
+{% include video provider="own-youtube" id="6tnN6jeKOF0" %}
+
 ## En afstikker fra Alhedestien?
 
 Tæt på Hald Hovedgård skilles den regionale rute 21 fra den nationale rute 3. Vi kan anbefale at fortsætte med den nationale rute 3 for at køre tæt forbi Hald Sø, tage en dukkert og fortsætte gennem Dollerup Bakker. Du kan også vælge at at holde dig til rute 21 og måske lave en kort afstikker fra ruten til Finderup og se det stenkors, der markerer stedet, hvor Erik Klipping blev myrdet i 1286.
