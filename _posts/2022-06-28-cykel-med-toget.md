@@ -15,7 +15,7 @@ category:
 last_modified_at: 2022-06-27T12:21:26Z
 author: lsolesen
 faq:
-  - question: Hvornår er der myldretid for cykle i s-tog?
+  - question: Hvornår er der myldretid for cykel i s-tog?
     answer: Det er kun Nørreport Station, at du skal være opmærksom på, hvornår der er myldretid. På Nørreport station må du ikke stå af eller på med din cykel på hverdage (mandag-fredag) i tidsrummet kl. 7-9 og kl. 15.30-17.30, fordi pladsen er trang på Nørreport Station i myldretiderne.
 ---
 
@@ -186,13 +186,13 @@ cykelbillet kystbanen
 
 >write a blog outline
 
-1. Hvad er reglerne for at tage din cykel med i toget? 
+1. Hvad er reglerne for at tage din cykel med i toget?
 
-2. Hvor meget koster det at tage cyklen med i toget? 
+2. Hvor meget koster det at tage cyklen med i toget?
 
-3. Hvilke fordele er der ved at tage cyklen med i toget? 
+3. Hvilke fordele er der ved at tage cyklen med i toget?
 
-4. Sådan pakker du din cykel til transport i toget 
+4. Sådan pakker du din cykel til transport i toget
 
 5. Tips til at rejse med din cykel i toget
 
