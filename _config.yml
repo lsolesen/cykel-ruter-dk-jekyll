@@ -73,6 +73,7 @@ social:
   links: # An array of links to social media profiles
     - "https://www.pinterest.dk/cykelruter/"
     - "https://www.facebook.com/cykelruterdk"
+    - "https://www.youtube.com/channel/UCfUF4e8PVP8wsU0GDPX3XwA"
 
 
 # Site search
@@ -88,12 +89,15 @@ analytics:
 
 footer:
   links:
-    - label: "Pinterest"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/cykelruterdk"
     - label: "Pinterest"
       icon: "fab fa-fw fa-pinterest"
       url: "https://www.pinterest.dk/cykelruter/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCfUF4e8PVP8wsU0GDPX3XwA"
     - label: "Støt sitet"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/lsolesen"
@@ -116,6 +120,9 @@ author:
     - label: "Pinterest"
       icon: "fab fa-fw fa-pinterest"
       url: "https://www.pinterest.dk/cykelruter/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCfUF4e8PVP8wsU0GDPX3XwA"
     - label: "Støt sitet"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/lsolesen"
