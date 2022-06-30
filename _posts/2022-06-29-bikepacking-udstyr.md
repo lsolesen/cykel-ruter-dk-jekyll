@@ -96,7 +96,7 @@ feature_cykeltrailer:
     rel: sponsored nofollow noopener
     btn_label: Se prisen
     btn_class: btn--warning
-feature_framebag_frontloader:
+feature_frontloader:
   - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94343&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/topeak-frontloader---styrtaske---sort---8-liter-tbpfl2b
     image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/e6eb84e5-f301-45aa-86c9-00d661394ece/TBP-FL2B_A_default.jpg
     title: Topeak Frontloader - Styrtaske
