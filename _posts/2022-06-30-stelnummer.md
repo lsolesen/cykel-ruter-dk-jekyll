@@ -73,7 +73,6 @@ Ved at se på det sidste bogstaver i koden kan du se, hvilket år cyklen blev fr
 I denne tabel kan du altså slå alderen op på din cykel - eller en cykel du har tænkt dig at købe.
 
 |A|B|C|D|E|F|G|H|J|K|L|M|N|P|Q|R|S|T|U|V|X|Z|
-
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |1942|1943|1944|1945|1946|1947|1948|1949|1950|1951|1952|1953|1954|1955|1956|1957|1958|1959|1960|1961|1962|1963|
 |1964|1965|1966|1967|1968|1969|1970|1971|1972|1973|1974|1975|1976|1977| |1978|1979|1980|1981|1982|1983|1984|
@@ -90,7 +89,7 @@ Politiet kan spore ejeren ved hjælp af stelnummeret og returnere cyklen.
 
 Du kan tjekke en cykels stelnummer i Politiets database.
 
-{% include image_path="/assets/images/posts/politi-stelnummer.png" caption="På Politiets hjemmeside kan du indtaste et stelnummer og tjekke om cyklen er blevet stjålet. Tjek [Politiets database](https://politi.dk/cykler-og-koeretoejer/tjek-om-en-cykel-eller-et-koeretoej-er-efterlyst/tjek-om-en-cykel-er-efterlyst)." %}
+{% include figure image_path="/assets/images/posts/politi-stelnummer.png" caption="På Politiets hjemmeside kan du indtaste et stelnummer og tjekke om cyklen er blevet stjålet. Tjek [Politiets database](https://politi.dk/cykler-og-koeretoejer/tjek-om-en-cykel-eller-et-koeretoej-er-efterlyst/tjek-om-en-cykel-er-efterlyst)." %}
 
 ## Hvordan melder jeg en cykel stjålet?
 
@@ -98,7 +97,7 @@ Hvis din cykel bliver stjålet, skal du hurtigst muligt melde det til politiet.
 
 Du kan melde en cykel stjålet på [Politiets hjemmeside](https://politi.dk/tyveri-og-haervaerk/anmeld-cykeltyveri), men du kan også anmelde det personligt på en [politistation](https://politi.dk/kontakt-politiet/find-politistation) eller ved at ringe til 114.
 
-{% include image_path="/assets/images/posts/politi-anmeld-cykeltyveri.png" caption="På Politiets hjemmeside kan du melde en cykel stjålet." %}
+{% include figure image_path="/assets/images/posts/politi-anmeld-cykeltyveri.png" caption="På Politiets hjemmeside kan du melde en cykel stjålet." %}
 
 Hvis du vil anmelde en stjålet cykel, skal du oplyse dit navn, din adresse og det unikke stelnummer på din cykel. Derfor er det vigtigt at registrere dit stelnummer, så snart du anskaffer dig en ny cykel. Du kan også gemme registreringsnummeret på din telefon, så du altid har det til rådighed.
 
