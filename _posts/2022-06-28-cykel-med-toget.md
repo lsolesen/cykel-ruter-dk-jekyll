@@ -81,8 +81,8 @@ Arrivas [prispolitik og regler](https://arriva.dk/kundeservice/cykel) for en cyk
 
 Der findes forskellige typer billetter til din cykel:
 
-- **Enkeltbillet til cykel**. Hos Arriva kan du købe en enkeltbillet til din cykel. Prisen afhænger af de zoner du rejser i. Billetten koster 25% af en voksenbillet. Læs mere om [enkeltbilleten](https://arriva.dk/kundeservice/cykel/enkeltbillet-til-cykel).
-- **Arriva Cykel Dagsbillet**. Med en cykeldagsbillet kan du ubegrænset tage din cykel med en hel dag i Arrivas tog. Se mere om [dagsbilletten](https://arriva.dk/kort-og-billetter/arriva-cykel-dagsbillet).
+- **Enkeltbillet til cykel**. Hos Arriva kan du købe en enkeltbillet til din cykel. Prisen afhænger af de zoner du rejser i. Billetten koster som DSBs billet 20 kroner. Læs mere om cykelbilletten på [Arrivas hjemmeside](https://arriva.dk/kundeservice/cykel/arriva-cykelbillet).
+- **Arriva Cykel Dagsbillet**. Med en cykeldagsbillet kan du ubegrænset tage din cykel med en hel dag i Arrivas tog. Billetten koster en fast pris på 25 kroner. Se mere om [dagsbilletten](https://arriva.dk/kort-og-billetter/arriva-cykel-dagsbillet).
 - **Arriva Cykelbillet Fri**. Hvis du er Arriva+ Premium medlem, så kan du tage din cykel med i 30 dage i Arrivas Tog. Læs mere på [Arrivas hjemmeside](https://arriva.dk/kundeservice/plus).
 
 ## Hvordan køber jeg en cykelbillet?
@@ -213,6 +213,8 @@ Det er forskelligt, hvad en cykelbillet koster hos de forskellige togselskaber. 
 | Togselskab | Pris |
 |-|-|
 | DSB Cykelbillet | 20 kr |
+| Arriva Cykelbillet | 20 kr |
+| Arriva Cykel Dagsbillet | 25 kr |
 | Metro | 14 kr |
 
 ## Hvor kan jeg parkere cyklen, når jeg skal med toget?
