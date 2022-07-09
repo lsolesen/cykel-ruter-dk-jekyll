@@ -30,6 +30,8 @@ rubble: 42
 
 **{{ page.excerpt }}**
 
+{% include video provider="youtube" id="0Q9bPwMluco" %}
+
 En omlægning og udvidelse af Sydhavsruten (360 km).
 
 [VisitFyn](https://www.visitfyn.dk/fyn/cykelferie/fynske-cykelruter) kalder Østersøruten for en signaturrute. De foreslår, at du kan cykle langs hele Østersøruten eller tage den i etaper.
