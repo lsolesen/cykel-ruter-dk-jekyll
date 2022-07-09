@@ -1,6 +1,6 @@
 ---
 title: "National Rute N1: Vestkystruten fra Rudbøl til Skagen"
-seo_title: "National Cykelrute 1: Vestkystruten fra Rudbøl til Skagen"
+seo_title: "National Cykelrute 1: Vestkyststien fra Rudbøl til Skagen"
 permalink: /rute/national-rute-1-vestkyststien/
 number: N1
 comment: Følger Jyllands Vestkyst i nord-sydgående retning

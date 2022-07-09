@@ -14,7 +14,7 @@ category:
 tags:
   - cykelrute
   - national
-  - Guidebog Øsstjylland
+  - Guidebog Østjylland
   - National Cykelrute 3
   - delforløb
   - etape
@@ -29,7 +29,7 @@ asphalt: 42
 rubble: 6
 ---
 
-**Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, at cyklen blev opfundet.**
+Denne del af [Hærvejscykelruten](/rute/national-rute-3-haervejsruten/) er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, at cyklen blev opfundet.
 
 Turen starter i den hyggelige Hobro. Lige sydvest for byen kan du ønske dig tilbage i tiden ved Fyrkat, når du forestiller dig, hvordan livet var omkring en af de kendte vikingeborge. Du kan læse mere om Hobro og Vikingecenter Fyrkat under den [regionale cykelrute 32 rundt om Mariager Fjord]({% link _routes/regional-rute-32-mariager-fjord-rundt.md %}).
 
@@ -50,5 +50,7 @@ Hærvejsruten fortsætter langt ned i landet. Du kan læse om fortsættelsen i C
 - Hærvejsstenen
 
 ## Kort over {{ page.title }}
+
+{% include video provider="own-youtube" id="O5Toh-e2BRI" %}
 
 {% include maps-ad.md %}

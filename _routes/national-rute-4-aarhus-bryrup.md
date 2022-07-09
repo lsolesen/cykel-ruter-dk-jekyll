@@ -30,7 +30,9 @@ asphalt: 50
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+Denne del af [national rute N4](/rute/national-rute-4-sondervig-kobenhavn/) er uden tvivl en af Danmarks smukkeste. Vi føres fra det hyggelige cafeliv i Århus' smukke omgivelser til Midtjyllands skov- og sørige højland til de flade hedeegne i Vest. Sæt god tid af til denne rute, som byder på mange muligheder for hyggelige og spændende stop undervejs.
+
+{% include video provider="own-youtube" id="65XxvRAV0gk" %}
 
 På vej ud af Århus kører vi syd om Brabandsøen på en gang- og cykelsti. Området omkring søen er fredet og søen huser et rigt dyre- og naturliv, som kan iagttages fra det opstillede fugletårn ved søbredden nær den nedlagte Stavtrup Stationsbygning. Ruten fortsætter forbi den private herregård, Constantinsborg langs den fredede del af Århus Ådal til Jeksendalen, som er dannet ved overstrømningen af istidens smeltevand. Det meget kuperede område byder på afmærkede gåture af ca. en times varighed med flotte udsigter over skov, eng, sumparealer og dyrkede marklandskaber.
 

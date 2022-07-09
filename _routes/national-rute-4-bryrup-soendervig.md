@@ -29,7 +29,9 @@ asphalt: 88
 rubble: 20
 ---
 
-**{{ page.excerpt }}**
+Dette er er en fortsættelse af den [nationale cykelrute 4](/rute/national-rute-4-sondervig-kobenhavn/). Denne del af ruten kan give et godt indblik i konsekvenserne af Hedeselskabets ændringer af landskabet, og du kommer helt ud til Vesterhavet, hvor du får fornemmelse for naturens kræfter.
+
+{% include video provider="own-youtube" id="65XxvRAV0gk" %}
 
 Vi hopper på ruten i Bryrup, hvorfra vi kan starte bjergkørslen mod Vrads. Hvis det er en lidt voldsom start, kan du undersøge tidspunkterne for det veterantog, der kan gøre arbejdet for dig.
 

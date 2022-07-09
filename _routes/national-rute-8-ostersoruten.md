@@ -30,7 +30,7 @@ rubble: 42
 
 **{{ page.excerpt }}**
 
-{% include video provider="youtube" id="0Q9bPwMluco" %}
+{% include video provider="own-youtube" id="0Q9bPwMluco" %}
 
 En omlægning og udvidelse af Sydhavsruten (360 km).
 

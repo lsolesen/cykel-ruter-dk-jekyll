@@ -1,5 +1,5 @@
 ---
-title: "National Rute 03: Hald Ege - Nr. Snede (delrute af Hærvejsruten)"
+title: "National Rute N3: Hald Ege - Nr. Snede (delrute af Hærvejsruten)"
 seo_title: "National Rute 3: Hald Ege - Nr. Snede (del af Hærvejsruten)"
 permalink: /rute/national-rute-3-hald-ege-nr-snede-haervejsruten/
 author: lsolesen
@@ -30,7 +30,7 @@ asphalt: 59
 rubble: 2
 ---
 
-**Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, cyklen blev opfundet.**
+Dette er et delforløb af [National Cykelrute 3: Hærvejsruten](/rute/national-rute-3-haervejsruten/). Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, cyklen blev opfundet.**
 
 Ruten går over Hald Ege og Dollerup, og den kører næsten parallelt med den [regionale rute 21 Alhedestien]({% link _routes/regional-rute-21-viborg-herning-alhedestien.md %}) til Skelhøje. Ruterne skilles midlertidigt omkring Hald Hovedgård, hvor du i laden kan se modeller af landskabet og få et indtryk af isens betydning for området og landskabet.
 
@@ -73,5 +73,7 @@ Efter en længere tur på grusvej, er der igen sikker asfalt under hjulene, mens
 - Veteran Jernbane
 
 ## Kort over {{ page.title }}
+
+{% include video provider="own-youtube" id="O5Toh-e2BRI" %}
 
 {% include maps-ad.md %}

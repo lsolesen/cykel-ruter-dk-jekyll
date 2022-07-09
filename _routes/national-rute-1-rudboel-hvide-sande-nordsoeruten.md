@@ -40,7 +40,9 @@ Med sine 6.000 km er Nordsøruten, der følger kysten gennem syv lande, Europas 
 
 ## Hvor lang er Vestkystruten?
 
-Vestkystruten er i alt 560 kilometer fra Skagen til Rudbøl. Ruten fortsætter gennem Europa på Nordsøruten.
+[Vestkyststien: National Cykelrute 1](/rute/national-rute-1-vestkyststien/) er i alt 560 kilometer fra Skagen til Rudbøl. Ruten fortsætter gennem Europa på Nordsøruten.
+
+{% include video provider="own-youtube" id="F01p9oCJU78" %}
 
 Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, den danske Nordsøkyst og UNESCOS verdensnaturarv Vadehavet. Det er en af Danmarks længste skiltede cykelruter og går gennem noget af det skønneste og mest varierede natur i Danmark.
 

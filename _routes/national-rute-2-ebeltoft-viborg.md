@@ -28,7 +28,7 @@ asphalt: 183
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+På denne del af den [nationale cykelrute 2](/rute/national-rute-2-hanstholm-kobenhavn/) oplever vi alt fra strand og herregårdslandskaber til skovtætte ådale og lynghedearealer. Den varierede rute forbinder flere af Jyllands historiske knudepunkter, hvilket giver rig mulighed for gode byoplevelser som afveksling til de snørklede landevejsstrækninger.
 
 På vej med færgen fra Sjælland ind mod havnen nærmer vi os Ebeltoft vindmøllepark. Anlægget består af 16 vindmøller placeret på en mole, samt to større møller på land. Der er adgang til selve mølleområdet og gennem store vinduer kan man kigge helt ind til de tekniske installationer.
 
@@ -51,6 +51,8 @@ Videre på turen kører vi gennem Ørum, som ikke ligger langt fra bakkedraget, 
 Tilbage på ruten fører en komfortabel jernbanesti os tæt hele vejen langs Nørreå indtil vi drejer ind i Mølleådalens trætætte område mod Viborg. Her passerer vi den gamle Bruunshåb Papfabrik, hvis energiforbrug var baseret på kraft fra en vandmølle. Stedet er idag et arbejdende fabriksmuseum egnet for både børn og voksne. Museet er er åbent for besøgende i sommerhalvåret.
 
 Ikke langt herfra når vi Viborg. Vi ankommer fra byens bedste side med udsyn op mod byens tårne og de fredelige Søndersø og Nørresø. Byens gamle og stejle gader ligger stort set uændret siden Middelalderen og er fyldt med historie fra dengang, da byen blev betragtet som Jyllands hovedby og politiske magtcentrum. Der er mulighed for at tage en rundtur med Folkebladstoget, som i en times tid kører rundt til byens seværdigheder. Turen kan kombineres med en sejltur på Viborgsøerne med båden, Margrethe 1.
+
+{% include video provider="own-youtube" id="HFFbNYMYlYQ" %}
 
 ## Seværdigheder
 

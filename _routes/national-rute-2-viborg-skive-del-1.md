@@ -29,7 +29,7 @@ asphalt: 35
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+Denne del af [den nationale cykelrute 2](/rute/national-rute-2-hanstholm-kobenhavn/) forbinder Viborg og Skive. Ruten bringer dig forbi et par interessante herregårde og smukke fjorde. Turen starter eller fortsætter i domkirkebyen, Viborg, som altid er et besøg værd.
 
 På vej ud af Viborg nærmer vi os Hjarbæk Fjord, som vi følger rundt. På vejen kommer vi forbi den gamle Tårupgård fra 1500-tallet. Gården er privatejet, men der er afmærket offentlige vandreruter rundt i området.
 
@@ -43,7 +43,9 @@ Resten af vejen kører vi langs fjorden ind mod Skive, hvor der lige nord for by
 
 I Skive kan man se Skives 11 Stjerner. Det er skulpturer tegnet af den berømte tegnestue Jacob Jensen Design. Skulpturerne står placeret i rundkørsler i Skiveegnen og skal minde befolkningen om nytænkning og kreativitet i en forandrende verden. Du kommer forbi et par af skulpturerne, hvis du følger ruten rundt i byen. Fra byen kan man også tage på pirat- og solnedgangsture med et gammelt træskib. Der er dog ikke adgang alle dage, så man bør lige tjekke ved turistbureauet for at planlægge en tur.
 
-National cykelrute 2 fortsætter videre mod Hanstholm, men vores beskrivelse slutter her.
+National cykelrute 2 fortsætter [videre mod Hanstholm](/rute/national-rute-2-nykoebing-hanstholm-del-3/).
+
+{% include video provider="own-youtube" id="HFFbNYMYlYQ" %}
 
 ## Seværdigheder {{ page.title }}
 

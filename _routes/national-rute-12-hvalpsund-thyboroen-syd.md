@@ -27,7 +27,7 @@ asphalt: 160
 rubble: 5
 ---
 
-**{{ page.excerpt }}**
+Dette delforløb af [nationalrute 12](/rute/national-rute-12-limfjordsruten/) går syd om Limfjorden. Ruten er utrolig smuk, og der er rigeligt med muligheder for gode afstikkere fra ruten. Fjorden er smukkest om sommeren, hvor den også er meget populær hos fugle, dykkere og sejlere.
 
 I starten af ruten kan der flere steder skydes genvej, hvis du gerne vil nå så langt som muligt. Allerede ved starten af ruten på havnen i Hvalpsund kan du tage færgen til Sundsøre og fange rute 12 nordpå, eller du kan tage følge ruten sydpå langs Lovns Bredning mod Virksund. I Virksund kan der skydes genvej til Skive eller du kan følge Limfjordsruten omkring den smukke Hjarbæk Fjord.
 
@@ -52,6 +52,8 @@ Ved vestkysten er der rig mulighed for at kæmpe mod vinden på Harboøre Tange 
 På den 12 m høje klint ved Geddal Strandenge, er der en prgatfuld udsigt over Limfjorden til Struer, Venø og Sønder Lem Vig. Fra fugletårnet er der god mulighed for at observere det righoldige fugleliv i området.
 
 Turen slutter i feriebyen, Thyborøn, som er omgivet af hav, fjord og et varieret fugleliv. Besøg Kystcenteret, Jyllandsakvariet, De Røde Barakker eller Sneglehuset eller nyd blot det hyggelige miljø og livet på Havnen i Thyborøn.
+
+{% include video provider="own-youtube" id="-02XRLSgBuY" %}
 
 ## Seværdigheder
 

@@ -27,7 +27,7 @@ asphalt: 130
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+Dette delforløb af [N12 Limfjordsruten](/rute/national-rute-12-limfjordsruten/) går nord om Limfjorden. Ruten går fra Thyborøn til Fjerritslev og følger omkring 130 kilometer asfalterede veje.
 
 Beskrivelsen her starter i Thisted. Herfra kan du tage turen mod øst ud af byen og via Sennels og Sennels Hede ud til skrænten ned til fjorden ved Hovsør. Nyd udsigten og frihjulet ned til dæmningen, som passeres. Videre til Østerild, som nås efter et dyk under hovedvejen.
 
@@ -42,6 +42,8 @@ Lige efter kirken drejer du mod øst, og nu kører du ud gennem et meget spænde
 Knap er du kommet ud på asfalt, før rute skiltene prøver at lokke dig til at køre ad en mindre sti. Belægningen på denne sti er dog ikke alt for god, så vi kan anbefale at tage den stille, asfalterede kommunevej, der går lige til højre for det skiltede ruteforløb. Denne vej er ikke meget længere til Vester Torup, men den er noget mere behagelig.
 
 Ruten slutter i den lille by, Fjerritslev, som kan være en god base for at opleve den smukke natur i området.
+
+{% include video provider="own-youtube" id="-02XRLSgBuY" %}
 
 ## Seværdigheder
 

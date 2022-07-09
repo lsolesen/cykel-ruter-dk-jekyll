@@ -29,7 +29,9 @@ asphalt: 58
 rubble: 7
 ---
 
-**{{ page.excerpt }}**
+Denne delrute af [national cykelrute 2](/rute/national-rute-2-hanstholm-kobenhavn/) starter i Nykøbing og går tværs over Mors mod Vildsund og Hanstholm.
+
+{% include video provider="own-youtube" id="HFFbNYMYlYQ" %}
 
 Allerede i Tødsø bør du vælge at køre mod Bjergby og Flade, hvor vi kan opleve den 60 m høje Hanklit med en fantastisk udsigt ud over Thisted Bredning og Nordmors. I Flade ligger den fredede Salgjerhøj, som er det højeste punkt på Mors. Der er fine vandre ture i området.
 

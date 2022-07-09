@@ -29,7 +29,9 @@ asphalt: 8
 rubble: 27
 ---
 
-**{{ page.excerpt }}**
+Et dejligt delforløb af [national rute N2](/rute/national-rute-2-hanstholm-kobenhavn/) mellem Skive og Nykøbing. Ruten byder på masser af muligheder for afstikkere enten rundt i landskabet eller til store seværdigheder.
+
+{% include video provider="own-youtube" id="HFFbNYMYlYQ" %}
 
 Et dejligt delforløb af national cykelrute 2. Ruten byder på masser af muligheder for afstikkere enten rundt i landskabet eller til store seværdigheder.
 
