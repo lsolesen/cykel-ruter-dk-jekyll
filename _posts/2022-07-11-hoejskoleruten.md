@@ -24,7 +24,7 @@ Desværre er det ikke så let at finde et samlet overblik over Højskoleruten no
 
 ## Hvad er Højskoleruten?
 
-Højskoleruten er en oplevelsesrute, som du kan gennemføre gående, løbende eller på cykel. Ruterne forbinder flere danske højskoler. Undervejs på ruterne er der flere interaktive poster. I praksis skal du scanne en QR-kode for at få mere information om de enkelte stder på ruten. Typisk er posterne fordelt med maksimalt 10.000 skridt mellem de enkelte poster.
+Højskoleruten er en oplevelsesrute, som du kan gennemføre gående, løbende eller på cykel. Ruterne forbinder flere danske højskoler. Undervejs på ruterne er der flere interaktive poster. I praksis skal du scanne en QR-kode for at få mere information om de enkelte steder på ruten. Typisk er posterne fordelt med maksimalt 10.000 skridt mellem de enkelte poster.
 
 > Udover at nyde den skønne rute mellem højskolerne, byder vores poster blandt andet på skæve videofortællinger om stederne, små refleksionsopgaver, som man kan diskutere med dem, man går med, og musik fra Højskolesangbogen
 
@@ -34,7 +34,7 @@ Højskoleruten er en oplevelsesrute, som du kan gennemføre gående, løbende el
 
 Den første Højskolerute var mellem [Odder Højskole](https://www.odderhojskole.dk/), Rude Strand Højskole og [Idrætshøjskolen i Århus](https://www.ihaarhus.dk/).
 
-Idrætshøjskolen i Århus har også lavet et lokalt loop, der starter og sluter på højskolen.
+Idrætshøjskolen i Århus har også lavet et lokalt loop, der starter og slutter på højskolen.
 
 Du kan læse mere om denne etape [her](https://www.ihaarhus.dk/om-ihaa/hoejskoleruten/). Du kan downloade information om hele etapen og det lokale loop herunder.
 

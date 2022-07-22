@@ -26,15 +26,17 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--inverse"
     rel: sponsored nofollow noopener
+faq:
+  - question: 
 ---
 
 Jeg kan godt lide at udfordre mig selv lidt med lange, hårde bakker, når jeg cykler. Jeg har derfor kigget lidt efter de længste, stejleste, største og hårdeste bakker i Danmark. Her er hvad jeg fandt ud.
 
-Jeg har fundet to rigtig gode sites, som du kan bruge som udgangspunkt for at planlægge din rute, hvis du går efter at få så mange højdemeter i benene som muligt i Danmark. Der er faktisk mange stejler bakker rundt omkring i Danmark - og mange af de stejleste bakker ligger omkring Vejle.
+Jeg har fundet to rigtig gode sites, som du kan bruge som udgangspunkt for at planlægge din rute, hvis du går efter at få så mange højdemeter i benene som muligt i Danmark. Der er faktisk mange stejle bakker rundt omkring i Danmark - og mange af de stejleste bakker ligger omkring Vejle.
 
 ## Danmarks største bakker på cykel - [climbs.dk](http://www.climbs.dk)
 
-[Climbs.dk](http://www.climbs.dk) har samlet de fleste asfalterede bakker i Danmark. Alle bakkerne er målt - og du kan finde de skarpeste stigninger. Forfatteren går især op i antallet af højdemeter fra bund til top.
+[Climbs.dk](http://www.climbs.dk) har samlet de fleste asfalterede bakker i Danmark. Alle bakkerne er målt - og du kan finde de skarpeste stigninger. Forfatteren går især op i **antallet af højdemeter fra bund til top**.
 
 > Ofte beskrives en bakke primært ved sin maksimale stigningsprocent. Jeg synes ikke, dette siger meget om bakken som helhed. Det vigtigste mål for mig er antallet af højdemeter fra bund til top. Dette mål kan alene klacificere bakken: Jo flere højdemeter, des større er bakken. Hverken længde eller stigningsprocent kan alene beskrive bakken. Kombineres længde og maksimal stigningsprocent kan dette give et helt forkert billede, hvis en lang bakke har et kort, men meget stejl stykke.
 
@@ -63,6 +65,22 @@ VisitVejle beskriver 16 cykelruter som bringer dig rundt på Vejles kendte stign
 --- <cite>[VisitVejle](https://www.visitvejle.dk/vejle/oplevelser/landevejscykling/test-vejles-superruter)</cite>
 
 <iframe class="alltrails" src="https://www.alltrails.com/widget/list/bakker-i-vejle?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+
+{% comment %}
+Jeg bruger ofte byruten som en god træningstur, når jeg gerne vil have pakket nogle gode bakkespurter ind i min træning. Du kan se, hvordan ruten folder sig ud her. LINK TIL YOUTUBE-KLIP FRA RELIVE
+{% endcomment%}
+
+## Danmarks stejleste vej er i Vejle
+
+Christian Wintersvej i Vejle er med en stigningsprocent på op til 25,5% Danmarks stejleste vej. Vejen er så stejl, at fortovet flere steder på det første stykke er udformet som trapper, men det kan altså godt lade sig gøre at cykle op ad bakken.
+
+Du kan få en fornemmelse af vejen i denne Youtube-video:
+
+{% inclue video provider="youtube" id="7eMU5DO1wB8" %}
+
+## Ofte stillede spørgsmål
+
+{% include faq.html %}
 
 ## Udfordringen
 
