@@ -1,6 +1,6 @@
 ---
-title: &title "Regional Rute 57: Skærupdalruten fra Vejle - Fredericia"
-permalink: /rute/regional-rute-57-skaerupdalruten/
+title: &title "Regional Rute 58: Elbodalen fra Trelde Næs - Kolding"
+permalink: /rute/regional-rute-58-elbodalen-trelde-naes-kolding/
 created_at: 2021-07-03T09:48:02+02:00
 last_modified_at: 2022-06-03T09:48:02+02:00
 author: lsolesen
@@ -11,10 +11,8 @@ category:
 tags:
   - cykelrute
   - regional
-  - Vejle
-  - Fredericia
   - Sydjylland
-excerpt: "Tiufkær, regionalrute 55, er en cykelrute fra Vejle og sydover mod Kolding gennem Vejle Sønderskov og hyggelige landsbyer som Klattrup, Tiufkær og Håstrup. Ruten strækker sig er 26 km."
+excerpt: ""
 gps:
   id: 57688624
   provider: outdooractive

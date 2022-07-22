@@ -13,7 +13,8 @@ tags:
   - regional
   - Vejle
   - Kolding
-excerpt: "Regional rute 62, Troldhedebanestien, er en cykelrute fra Kolding mod Vejle, som tager dig gennem små landsbyer og skønne naturområder. Den 29 km lange rute slutter ved Bindeballe Købmandsgård."
+  - Sydjylland
+excerpt: "Regional rute 62, Troldhedebanestien, er en cykelrute fra Kolding mod Vejle, som tager dig gennem små landsbyer og skønne naturområder. Den 32 km lange rute slutter ved Bindeballe Købmandsgård."
 gps:
   url: https://www.komoot.com/tour/822372635
   id: 822372635

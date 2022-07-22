@@ -13,6 +13,7 @@ tags:
   - regional
   - Vejle
   - Kolding
+  - Sydjylland
 excerpt: "Tiufkær, regionalrute 55, er en cykelrute fra Vejle og sydover mod Kolding gennem Vejle Sønderskov og hyggelige landsbyer som Klattrup, Tiufkær og Håstrup. Ruten strækker sig er 26 km."
 gps:
   id: 245179040
@@ -21,6 +22,10 @@ gps:
 distance: 26
 asphalt: 24
 rubble: 2
+# Ifølge Sydjylland bogen
+#distance: 32
+#asphalt: 31
+#rubble: 1
 ---
 
 Tiufkær, regionalrute 55, er en cykelrute fra Vejle og sydover mod Kolding gennem Vejle Sønderskov og hyggelige landsbyer som Klattrup, Tiufkær og Håstrup. Ruten strækker sig over 26 km. Hvis du vil helt til Kolding skal du køre 5-6 kilometer mere.
