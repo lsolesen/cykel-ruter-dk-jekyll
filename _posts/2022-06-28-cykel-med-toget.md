@@ -31,7 +31,7 @@ Her kigger vi på de forskellige regler og begrænsninger, som cyklister skal v�
 - Hvad koster det at have cyklen med i toget?
 - Hvornår er det bedste tidspunkt?
 
-I dette blogindlæg vil vi skitsere reglerne for at tage din cykel med i toget, og hvad prisen er for at gøre det.
+I dette blogindlæg vil vi skitsere reglerne for at tage din cykel med i toget, og hvad prisen er for at gøre det. Vi har skrevet mere om, hvordan du ellers kan [rejse med din cykel](/transport-af-cykler/).
 
 Du bør altid holde dig opdateret på de enkelte selskabers hjemmesider. Jeg har gjort det let at finde de relevante links til, hvor du finder reglerne, priserne og hvordan du køber cykelbilleter.
 

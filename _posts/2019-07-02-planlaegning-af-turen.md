@@ -70,27 +70,27 @@ At planlægge sin cykelrute kan også være en rigtig hyggelig del af det at tag
 
 I denne artikel får du vores bedste råd og anbefalinger, til når du skal planlægge en cykelrute, samt gode tips til hvor i landet du finder Danmarks bedste cykelruter.
 
-## 1) Afstem forventningerne
+## 1. Afstem forventningerne
 
 Snak om, hvad I vil have ud af ferien – før I tager af sted. Tænk over turlængder, ter ræner, overnatningsmuligheder, bagage mængde og seværdigheder. Og vær sikker på at I er enige om, om cykelturens væsentligste mål er præstationen eller de oplevelser, der ligger undervejs.
 
-## 2) Vær realistisk!
+## 2. Vær realistisk!
 
 Vælg område og turlængde efter kørelyst og kondition. Ikke alle har lige gode ben hver dag, så der skal altid være kortere mellem overnatningsstederne, end det i højst kan køre. For mange er turen kun en succes hvis man har tilbagelagt 100 km eller mere pr. dag, for andre er det nok bare at være et nyt sted.
 
-## 3) Start cykeltræningen før turen
+## 3. Start cykeltræningen før turen
 
 Træn før ferien, så I kommer i form og lærer hinandens begrænsninger at kende. Kør et par endagsture og gerne en weekendtur, hvor tasker og andet udstyr afprøves.
 
-## 4) Pak cyklen rigtigt
+## 4. Pak cyklen rigtigt
 
 For meget bagage på cyklen gør bakkerne hårdere. Tag kun det nødvendige med og pak altid i cykeltasker, så tyngden placeres lavt på cyklen.
 
-## 5) Husk at stå af cyklen undervejs
+## 5. Husk at stå af cyklen undervejs
 
 Gør som de professionelle: Planlæg hvile dage, hvor I laver noget andet end at træde i pedalerne. Tag til stranden, på museum, på bondegårdsbesøg eller...
 
-## 6) Man har en plan, til man lægger en ny
+## 6. Følg en plan til du lægger en ny
 
 Læg ikke for mange faste planer. Undersøg hellere mulighederne og vælg til og fra undervejs. Vær klar til at improvisere. Værelser kan afbestilles, og cykelruter kan lægges om, så der bliver tid til at nyde livet. Planen må aldrig blive en sur pligt.
 
