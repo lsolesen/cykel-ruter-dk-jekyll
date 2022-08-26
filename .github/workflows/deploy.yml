@@ -27,7 +27,7 @@ jobs:
           fetch-depth: 1
       - name: ⚡️ Install dependencies
         run: |
-          sudo apt-get update 
+          sudo apt-get update
           sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev
           sudo gem install bundler:2.2.7
       - uses: ruby/setup-ruby@v1
@@ -69,7 +69,7 @@ jobs:
           directory: "./_site"
           # The directory to scan
           arguments: |
-            --only-4xx 
+            --only-4xx
             --assume-extension
             --ignore-status-codes "400,403,409,429"
             --allow-hash-href

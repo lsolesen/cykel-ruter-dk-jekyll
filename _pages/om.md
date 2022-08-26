@@ -34,7 +34,7 @@ Hvis du selv har beskrevet cykelruter, som du gerne vil have online, så andre k
 
 [Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger }
 
-Vi bruger billeder fra [Unsplash](http://unsplash.com) og [Pxhere](https://pxhere.com/).
+Vi bruger billeder fra [Unsplash](https://unsplash.com) og [Pxhere](https://pxhere.com/).
 
 ## Tal
 

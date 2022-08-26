@@ -77,7 +77,7 @@ Tandemmen er en anden mulighed, når to cyklister, der ikke er lige stærke, vil
 
 Der findes tandemcykler, hvor børn kan cykle med på bagsædet fra 8-års alderen. En sådan cykel vil ofte også kunne bruges af to voksne. En familietandem er en investe ring på ca. 10.000 kr. for en god tur-model. Men så får man også et fleksibelt køretøj, der kan bruges af hele familien.
 
-På Cyklistforbundets hjemmeside [www.dcf.dk](http://www.dcf.dk) kan du læse meget mere om transport af børn, børn på egen cykel, sikkerhed, lovgivning og køb af børnecykler.
+På Cyklistforbundets hjemmeside [www.dcf.dk](https://www.cyklistforbundet.dk/) kan du læse meget mere om transport af børn, børn på egen cykel, sikkerhed, lovgivning og køb af børnecykler.
 
 {% include feature_row type="left" %}
 

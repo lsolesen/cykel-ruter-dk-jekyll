@@ -88,7 +88,7 @@ Kort- og Matrikelstyrelsens opmålinger på de officielle kort gælder jordpunkt
 
 ## Det højeste bjerg i Danmark varierer!
 
-[Ejer Bavnehøjs venner](http://www.ejer-bavnehoj.dk/DKs-hojeste-punkt.aspx) skriver, hvor indviklet det kan være med at bestemme det højeste bjerg.
+[Ejer Bavnehøjs venner](https://ejer-bavnehoj.dk/danmarks-hoejeste-punkt/) skriver, hvor indviklet det kan være med at bestemme det højeste bjerg.
 
 Ejer Bavnehøj har historisk set været det højeste punkt i Danmark, men det har andre punkter også.
 

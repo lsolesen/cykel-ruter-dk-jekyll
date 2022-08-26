@@ -32,7 +32,7 @@ feature_row_routes:
     excerpt: "På DenmarkByBike finder du nogle af de bedste cykelture Danmark har at byde på. Du kan både finde afmærkede ruter og turforslag. De afmærkede cykelruter er nemme at kende på de blå rutetavler, som du også finder ude på ruten. Kortene kan downloades via den gratis app Naviki."
     btn_label: "Besøg DenmarkByBike"
     btn_class: "btn--success"
-  - url: http://www.udinaturen.dk/?searchid=8bbd8407-568b-4440-ab95-2d5b5f370b31#{%22x%22:671157,%22y%22:6240022,%22zoom%22:2}
+  - url: https://www.udinaturen.dk/?searchid=8bbd8407-568b-4440-ab95-2d5b5f370b31#{%22x%22:671157,%22y%22:6240022,%22zoom%22:2}
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
     title: "Naturstyrelsens cykelruter"
     alt: "Naturstyrelsens cykelruter"

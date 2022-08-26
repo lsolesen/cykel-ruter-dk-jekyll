@@ -47,8 +47,7 @@ På vejen til Ringkøbing Fjord krydser vi Skjern Å, hvis svingninger i 2003 en
 
 ## Links
 
-- [Søby-området og brunkulsudgravninger](http://www.dof-ringkobingamt.dk/lokaliteter/lok657050.asp?n=1)
-- [Veteranbanen mellem Bryrup og Vrads](http://www.veteranbanen.dk/)
+- [Veteranbanen mellem Bryrup og Vrads](https://www.veteranbanen.dk/)
 
 ## Seværdigheder
 

@@ -246,13 +246,13 @@ Nordisk Korthandel har lavet en Youtube-video her, hvor du kan få en fornemmels
 
 {% include video provider="youtube" id="8Mab1GDTrgw" %}
 
-Du kan købe cykelkortene online på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel har været så venlige at give mig en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
+Du kan købe cykelkortene online på [scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel har været så venlige at give mig en lille kommision, fordi jeg henviser til dem, men det havde de faktisk ikke behøvet. Jeg synes deres kort er de bedste, opdaterede danske cykelkort, jeg kender til.
 
 Du kan tjekke den [aktuelle pris på alle kortene her](https://www.scanmaps.dk/catalogsearch/result/?q=cykelkort?G=020){: rel="sponsored nofollow noopener" }. Nordisk Korthandel plejer at have et godt tilbud, hvis du vil købe alle cykelkortene på en gang.
 
-Du kan naturligvis også købe kortene enkeltvis. Jeg har lavet et link direkte til kortene nedenunder på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" }.
+Du kan naturligvis også købe kortene enkeltvis. Jeg har lavet et link direkte til kortene nedenunder på [scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }.
 
-{% include gallery id="scanmaps" layout="fourth" caption="Find dit cykelkort hos vores samarbejdspartner [Nordisk Korthandel](http://www.scanmaps.dk?G=020){: rel='sponsored nofollow noopener' }. Links er reklamelinks." %}
+{% include gallery id="scanmaps" layout="fourth" caption="Find dit cykelkort hos vores samarbejdspartner [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }. Links er reklamelinks." %}
 
 {% comment %}
 
@@ -286,7 +286,7 @@ Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. 
 
 Nordisk Korthandel har udgivet tre cykelguidebøger i forbindelse med deres cykelkortserie. Cykelguiden er skrevet af Jens Erik Larsen, og de giver nogle forskellige turforslag til cykelture på Sjælland, Fyn og øerne.
 
-Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan købe guidebøgerne alene. Tjek prisen ud på [scanmaps.dk](http://www.scanmaps.dk?G=020){: rel="sponsored nofollow noopener" } ved at klikke på den bog, du er interesseret i nedenunder.
+Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan købe guidebøgerne alene. Tjek prisen ud på [scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" } ved at klikke på den bog, du er interesseret i nedenunder.
 
 {% include gallery id="cykelguide" caption="Cykelguidebøgerne sælges fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }." %}
 

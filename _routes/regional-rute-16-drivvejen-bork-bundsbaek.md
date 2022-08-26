@@ -6,7 +6,7 @@ last_modified_at: 2021-06-03T09:48:02+02:00
 header:
   overlay_image: &image https://bikepackingdenmark.files.wordpress.com/2018/06/dsc_1564.jpg?w=740
   teaser: *image
-  caption: *title  
+  caption: *title
   credit: "Billede fra Bikepacking & Cycling Adventures Denmark"
 category:
   - Regional Cykelrute
@@ -45,11 +45,6 @@ Hvis du gerne vil se alt i området, kan du fra Bundsbæk Mølle Vandrehjem find
 - Skjern Ådal
 - Bundsbæk Mølle
 - Dejbjerg Jernalder
-
-## Links
-
-- [http://www.skjern-egvad-museum.dk/kort.html](http://www.skjern-egvad-museum.dk/kort.html)
-- [http://www.ribeamt.dk/graphics/NATUR_OG_MILJO/Ud_i_naturen/vandreruter/28698-Drivvejen_Folder-1.pdf](http://www.ribeamt.dk/graphics/NATUR_OG_MILJO/Ud_i_naturen/vandreruter/28698-Drivvejen_Folder-1.pdf)
 
 ## Kort over {{ page.title }}
 

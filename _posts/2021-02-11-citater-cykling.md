@@ -20,7 +20,7 @@ feature_quotes:
   - quote: "If you brake, you don’t win"
     cite: Mario Cipollini
   - quote: "As long as I breathe, I attack"
-    cite: Bernard Hinault 
+    cite: Bernard Hinault
   - quote: "Pain is temporary. Quitting lasts forever"
     cite: Lance Armstrong
   - quote: "Don’t buy upgrades, ride up grades"
@@ -46,7 +46,7 @@ feature_quotes:
   - quote: "Livingston vil gerne give den til Armstrong, men Armstrong vil hellere have den bagfra af Hamilton"
     cite: Jørgen Leth om overleveringen af en vanddunk
   - quote: "Kraftværket fra Rostock, en stor bastant trampende tysker, en torpedo, der skydes gennem luftrummet, en bombe af kraft, pløjer nærmest asfalten op, benene går som store stempler på den tyske maskine, en rullende bismarcksklump."
-    cite: "Jørgen Leth - om Jan Ullrich på enkeltstarten." 
+    cite: "Jørgen Leth - om Jan Ullrich på enkeltstarten."
 feature_quotes_tour:
   - quote: "Med ét ord kan man kalde det dårlig forberedelse."
     cite: "Jørgen Leth"
@@ -145,7 +145,7 @@ Når man snakker om træningsplanlægning, så synes jeg Jim Wendler fanger det 
 Jeg har lavet et board med citater om fitness på Pinterest. SKynd dig ind og følge det og foreslå gerne dine egne citater også.
 
 <a data-pin-do="embedBoard" data-pin-lang="da" data-pin-board-width="600" data-pin-scale-height="400" data-pin-scale-width="115" href="https://www.pinterest.dk/motionsplan/tr%25C3%25A6ningscitater-citater-om-tr%25C3%25A6ning-og-motivation/"></a>
-<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<script async defer src="https://assets.pinterest.com/js/pinit.js"></script>
 {% endcomment %}
 
 ## Konklusion om cykelcitater

@@ -35,7 +35,7 @@ puls:
 
 Her får du svaret på, hvor mange kalorier, du forbrænder ved at cykle? Læs mere om, hvordan du regner din kalorieforbrænding og energiforbrug ved cykling?
 
-Der står meget [vrøvl om forbrænding af kalorier på cykel](http://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) rundt omkring på nettet i forhold til, hvordan man udregner energiforbruget på en cykeltur. Vi har lavet en beregner, der kan hjælpe dig med at regne ud, hvor mange kalorier, man forbrænder ved at cykle.
+Der står meget [vrøvl om forbrænding af kalorier på cykel](https://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) rundt omkring på nettet i forhold til, hvordan man udregner energiforbruget på en cykeltur. Vi har lavet en beregner, der kan hjælpe dig med at regne ud, hvor mange kalorier, man forbrænder ved at cykle.
 
 For at udregne hvor mange [kalorier](https://www.motionsplan.dk/hvad-er-kalorier/) man bruger, så handler det også om, hvilken intensitet du cykler med.
 
@@ -114,7 +114,7 @@ Hvis du er interesseret i at vide mere om kroppens tilpasninger til fx kondition
 
 ## Hvor mange forbrænder man ved at cykle en kilometer?
 
-[Nogle](http://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) foreslår, at det giver mest mening at udregne kalorieforbruget pr. kilometer frem for pr. minut, men det passer ikke!
+[Nogle](https://www.cykelogi.dk/cykling/kalorieforbrug-ved-cykling) foreslår, at det giver mest mening at udregne kalorieforbruget pr. kilometer frem for pr. minut, men det passer ikke!
 
 Vi bliver nødt til at tage højde for intensiteten i aktiviteten, og den får vi hverken med, hvis vi bare opstiller en tommelfingerregel for kalorieforbruget pr. kilometer eller pr. minut.
 

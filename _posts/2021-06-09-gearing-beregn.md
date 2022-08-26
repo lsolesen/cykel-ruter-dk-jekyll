@@ -118,7 +118,7 @@ Hvis du foretrækker at slå din gearing op i en geartabel, så har jeg samlet e
 
 Her har du et eksempel på, hvordan en geartabel ser ud for en racercykel med 26,8"" hjul.
 
-{% include figure image_path="http://velopress.dk/wp-content/uploads/2010/02/racer_geartabel1.jpg" caption="Eksempel på geartabel for en racercykel. Kilde: [Velopress.dk](http://velopress.dk/artikler/geartabel-til-racercykel/)" alt="geartabel" %}
+{% include figure image_path="https://velopress.dk/wp-content/uploads/2010/02/racer_geartabel1.jpg" caption="Eksempel på geartabel for en racercykel. Kilde: [Velopress.dk](https://velopress.dk/artikler/geartabel-til-racercykel/)" alt="geartabel" %}
 
 ## Hvordan udregner jeg hvor mange meter jeg kører på en pedalomdrejning?
 
@@ -132,7 +132,7 @@ Du skal bruge følgende formel (tallet udregnes også i beregneren ovenfor):
 Meter pr. pedalomdrejning = PI * 2,54 * geartal / 100
 ***
 
-{% include figure image_path="http://velopress.dk/wp-content/uploads/2010/02/metertabel.jpg" caption="Eksempel på tabel med tilbagelagt distance pr. pedalomdrejning. Kilde: [Velopress.dk](http://velopress.dk/artikler/geartabel-til-racercykel/)" alt="geartabel" %}
+{% include figure image_path="https://velopress.dk/wp-content/uploads/2010/02/metertabel.jpg" caption="Eksempel på tabel med tilbagelagt distance pr. pedalomdrejning. Kilde: [Velopress.dk](https://velopress.dk/artikler/geartabel-til-racercykel/)" alt="geartabel" %}
 
 ## Hvad er min hastighed og fart ved en bestemt kadence og gearing?
 
