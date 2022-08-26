@@ -74,7 +74,7 @@ jobs:
             --ignore-status-codes "400,403,409,429"
             --allow-hash-href
             --ignore-empty-alt
-            --cache "{ \"timeframe\": { \"external\": \"7d\" } }"
+            --cache '{ "timeframe": { "external": "7d" } }'
           # The arguments to pass to HTMLProofer
       - name: ☁️ Cleaning up
         run: bundle exec jekyll clean
