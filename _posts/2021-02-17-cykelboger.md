@@ -22,7 +22,7 @@ feature_row:
     btn_class: btn--danger
     btn_label: Se prisen hos Saxo*
   - image_path: https://cdn6.tales.dk/00128/12226/cover.1612238412.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/sort-kaffe-hvide-sokker-takt-tone-og-traditioner-paa-landevejen_tonny-vorm_9788740041675
+    url: https://tales.dk/sort-kaffe-hvide-sokker-takt-tone-og-traditioner-paa-landevejen_tonny-vorm_9788740041675
     title: Sort kaffe & hvide sokker
     excerpt: "I cykelbogen _Sort Kaffe & Hvide Sokker_ samles interviews med 12 af Danmarks bedste cykelryttere gennem tiden. Bjarne Riis, Rolf Sørensen m.fl. deler sjove oplevelser, genistreger og taktiske brølere. Bogen er glimrende underholdning for de passionerede cykelfans og dedikerede cykelmotionister med tips og tricks om cyklen, tøjet og træningen fra de bedste."
     btn_class: btn--success
@@ -34,7 +34,7 @@ feature_row:
     btn_class: btn--danger
     btn_label: Se prisen hos Saxo*
   - image_path: https://cdn6.tales.dk/00019/15424/cover.1494853237.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/shut-up-legs-mit-vilde-ridt-med-og-uden-cyklen_jens-voigt_9788740616811
+    url: https://tales.dk/shut-up-legs-mit-vilde-ridt-med-og-uden-cyklen_jens-voigt_9788740616811
     title: Shutup Legs
     excerpt: "Fortællingen om Jens Voigts vej til professionel cykelsport er bemærkelsesværdig. Lige fra hans opvækst i Østtyskland, hvor Tour de France blot var noget, man hørte rygter om, til den sene professionelle debut i 1997 og de mange bedrifter, der fulgte på landevejene i de efterfølgende år."
     btn_class: btn--success
@@ -46,7 +46,7 @@ feature_row:
     btn_class: btn--success
     btn_label: Se prisen hos Gucca*
   - image_path: https://cdn6.tales.dk/00001/70375/cover.1497214104.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/tri_torbjoern-sindballe_9788702129410
+    url: https://tales.dk/tri_torbjoern-sindballe_9788702129410
     title: Tri – Den ultimative træningsbog
     excerpt: "Hvis du vil optimere dine præstationer, så tjek bogen _Tri – Den ultimative træningsbog_. Bogen henvender sig godt nok til triatlonudøvere, men er stadig meget brugbar for almindelige landevejscyklister. Bogens tips om teknik, træning, ernæring og psykologi sagtens kan videreføres over til landevejscyklister."
     btn_class: btn--success
@@ -64,7 +64,7 @@ feature_row:
     btn_class: btn--success
     btn_label: Se prisen hos Gucca*
   - image_path: https://cdn6.tales.dk/00001/83834/cover.20160910.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/de-skoenneste-cykelture-i-europa-oplev-hele-europa-paa-cykel_thorsten-bronner_9788778578204
+    url: https://tales.dk/de-skoenneste-cykelture-i-europa-oplev-hele-europa-paa-cykel_thorsten-bronner_9788778578204
     title: De skønneste cykelture i Europa
     excerpt: "Skal du på cykelferie i Europa, så er _De skønneste cykelture i Europa_ cykelbogen, du bør eje. Bogen er skrevet af Thorsten Brönner, som har rejst Europa tyndt for at finde de bedste steder til cykelferie i Europa. I alt 16 lande ligefra Skandinavien til Montenegro. Hvert land beskrives grundigt, og der er en hel del flotte billeder for hvert land."
     btn_class: btn--success
@@ -76,7 +76,7 @@ feature_row:
     btn_class: btn--danger
     btn_label: Se prisen hos Saxo*
   - image_path: https://cdn6.tales.dk/00003/07229/cover.1536040807.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/cykeltraening-optimer-dine-praestationer-med-effekttraening_claus-hechmann_9788702189179
+    url: https://tales.dk/cykeltraening-optimer-dine-praestationer-med-effekttraening_claus-hechmann_9788702189179
     title: Cykeltræning - Optimer dine præstationer med effekttræning
     excerpt: "Cykeltræning er en fokuseret og præcis guide til at forbedre dine præstationer på cyklen med effekttræning. Princippet er enkelt: Du skal træne i at kunne cykle så hurtigt som muligt i så lang tid som muligt. Det gør du ved at stimulere din fedtforbrændning, og det kræver, at du træner din udholdenhed med varieret intensitet, hovedsageligt i de lette til moderate træningszoner og over rigtig mange kilometer."
     btn_class: btn--success
@@ -84,7 +84,7 @@ feature_row:
 feature_row_partners:
   - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelb%C3%B8ger
     title: Find cykelbøger hos Saxo
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/soeg/?text=cykelb%C3%B8ger
+  - url: https://tales.dk/soeg/?text=cykelb%C3%B8ger
     title: Find cykelbøger hos Tales
   - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=9399&htmlurl=https://www.gucca.dk/soegning/cykelb%25C3%25B8ger
     title: Find cykelbøger hos Gucca
