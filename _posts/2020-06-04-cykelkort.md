@@ -13,14 +13,10 @@ tags:
   - featured
 last_modified_at: 2022-06-22T08:45:01Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   alt: "Photo by Annie Spratt on Unsplash"
   overlay_filter: 0.2
-toc: true
-author_profile: true
-author: lsolesen
 feature_row:
   - image_path: https://www.scanmaps.dk/media/catalog/product/c/y/cykelkort-500000-forside_03.jpg
     title: "Cykelkort Danmark og København (2021)"
@@ -164,9 +160,13 @@ Jeg har prøvet at samle alt, hvad du skal vide om cykelkort, der beskriver [cyk
 
 Jeg kommer også med nogle fif til, hvordan du finder vej, mens du er på cyklen uden at det er alt for bøvlet. Jeg har skrevet en anden guide til [online cykelkort](/cykelkort-online/).
 
+{% include figure image_path="https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60" caption="cykelkort over danmark" %}
+
 ## Hvad er et cykelkort?
 
-Et cykelkort er et speciallavet kort med høj detaljeringsgrad, hvor cykelruterne er indtegnet. I Danmark er der 11 nationale cykelruter og virkelig mange regionale ruter og veje med cykelsti. På et godt cykelkort, kan du også finde markeringer af vandrehjem, campingpladser, turistinformationer og måske handlemuligheder. Sørg for at købe et holdbart kort.
+Et cykelkort er et speciallavet kort med høj detaljeringsgrad, hvor cykelruterne er indtegnet. I Danmark er der 11 nationale cykelruter og virkelig mange regionale ruter og veje med cykelsti.
+
+På et godt cykelkort, kan du også finde markeringer af vandrehjem, campingpladser, turistinformationer og måske handlemuligheder. Sørg for at købe et holdbart kort.
 
 Der findes nogle forskellige cykelkort, der dækker Danmark. Der er et kort, der dækker hele Danmark, og så er der nogle regionale cykelkort, der dækker dele af Danmark.
 
@@ -238,7 +238,9 @@ På de regionale cykelkort fra Nordisk Korthandel kan du finde nationale, region
 
 Derudover kan du også på kortet finde nyttige oplysninger om badestrande, dagligvarebtikker, vejkirker, rastepladser. Det er virkelig fedt, at man fx på kortet har et overblik over, hvor man kan købe lidt ind undervejs i forhold til, hvor man evt. vil overnatte på cykelturen.
 
-Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man på kortet kan se, hvilket underlag ruterne følger. Det er rart at vide, om man skal cykle på asfalt eller grus. Selvom jeg anbefaler at tage en cykel på cykelturen, der kan håndtere begge dele, så kan komforten på grusveje betyde lidt både for tøjvalg og dækvalg.
+Den allerbedste feature ved kortet i planlægningsfasen er for mig, er at man på kortet kan se, hvilket underlag ruterne følger. Det er rart at vide, om man skal cykle på asfalt eller grus.
+
+Selvom jeg anbefaler at tage en cykel på cykelturen, der kan håndtere begge dele, så kan komforten på grusveje betyde lidt både for tøjvalg og dækvalg.
 
 Jeg synes prisen for kortene er rimelig, fordi de holder rigtig godt. Og det er helt sikkert rigtig fedt at have et godt kort, når man sidder og planlægger turen, men også for at sikre sig at man kører rigtigt undervejs.
 
