@@ -40,7 +40,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev minify
           sudo gem install bundler:${{ env.BUNDLER_VERSION }}
-      - uses: ruby/setup-ruby@v1
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
@@ -100,11 +101,11 @@ jobs:
           directory: "./_site"
           # The directory to scan
           arguments: |
-            --only-4xx
-            --assume-extension
+            --only-4xx true
+            --assume-extension ".html"
             --ignore-status-codes "400,403,409,429"
-            --allow-hash-href
-            --ignore-empty-alt
+            --allow-hash-href true
+            --ignore-empty-alt true
             --cache '{ "timeframe": { "external": "7d" } }'
           # The arguments to pass to HTMLProofer
   clean:
@@ -174,7 +175,7 @@ jobs:
           interval: 1000
       - name: Audit URLs using Lighthouse
         id: lighthouse_audit
-        uses: treosh/lighthouse-ci-action@v8
+        uses: treosh/lighthouse-ci-action@v9
         with:
           urls: |
             ${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}
