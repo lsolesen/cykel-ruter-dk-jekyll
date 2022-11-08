@@ -1,5 +1,8 @@
 ---
 title: Find den rigtige cykelstørrelse (Guide 2022)
+excerpt: Skriv en guide til, hvordan man finder den rigtige cykelstørrelse.
+  Guiden til stelstørrelse skal indeholde informationer om, hvordan man finder
+  den rigtige størrelse cykelstel til de forskellige typer cykler, der findes.
 header:
   overlay_image: x
   teaser: x
