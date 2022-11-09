@@ -55,6 +55,7 @@ Den nationale cykelrute 10 fører dig forbi nogle af Bornholms mest populære se
 - **Østermarie**: Østermarie er det højeste punkt på Bornholm og byder på panoramaudsigt over det omkringliggende landskab. Byen er også hjemsted for en række historiske seværdigheder, såsom Østerlars kirke fra det 13. århundrede.
 
 ## Konklusion
+
 Uanset om du vil udforske Bornholms historie og kultur eller bare nyde den naturlige skønhed, er National cykelrute 10 den perfekte måde at gøre det på.
 
 Du kan læse mere om Bornholm Rundt - national cykelrute 10 - på [Wikipedia](https://da.wikipedia.org/wiki/Bornholm_Rundt_(cykelrute)).
