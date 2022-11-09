@@ -9,6 +9,7 @@ created_at: 2006-07-03T09:48:02+02:00
 author: lsolesen
 permalink: /rute/gjernstien/
 title: "Gjernstien: Laurbjerg - Silkeborg"
+seo_title: "Gjernstien: 37,6 km fra Laurbjerg - Silkeborg"
 header:
   teaser: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   overlay_image: x
