@@ -257,7 +257,6 @@ collections:
           - {label: "URL", name: "url", widget: "string"}
           - {label: "ID", name: "id", widget: "string"}
           - {label: "Provider", name: "provider", widget: "select", options: ["", "outdooractive", "alltrails", "ridewithgps", "komoot"], default: "", required: false}
-
       - {label: "Distance", name: "distance", widget: "string"}
       - {label: "Asfalt", name: "asphalt", widget: "string"}
       - {label: "Grus", name: "rubble", widget: "string"}
