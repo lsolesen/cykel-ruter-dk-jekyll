@@ -29,9 +29,17 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : false # "custom" # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : disqus ## false # "custom" # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            : "cykelruter"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+signup:
+  enabled: true
+  provider: mailchimp # false
+  url: https://legestue.us1.list-manage.com/subscribe/post?u=0e768d72de9dc35f20ab9159e&amp;id=4bbfadf292&amp;f_id=00ce78e2f0
+  recaptcha: b_0e768d72de9dc35f20ab9159e_4bbfadf292
 
 after_footer_scripts:
   - /assets/js/bundle.js

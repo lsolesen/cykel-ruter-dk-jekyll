@@ -28,9 +28,33 @@ asphalt: 267
 rubble: 23
 ---
 
-**{{ page.excerpt }}**
+Nationalrute 9 er den danske del af den internationale langdistance-cykelrute fra Berlin til København. Ruten dækker 290 km af Danmarks baltiske kyst. Hvis du vil hele vejen til Berlin, så kan du tage en færge fra Gedser til Rostock i Tyskland.
+
+## Ruten går fra Helsingør til Gedser
+
+Ruten går fra Helsingør til Gedser via København. Det er en populær rute for turister, og der er mange interessante seværdigheder undervejs. Nogle af højdepunkterne er bl.a:
+
+- Den Lille Havfrue i København
+- Christiansborg Slot
+- Frederiksborg Slot
+- Kronborg Slot (Hamlet
+- Gedser Odde (det sydligste punkt i Danmark)
 
 {% include video provider="own-youtube" id="5j4gJVmkVFI" %}
+
+{% comment %}
+2. Rutens historie
+
+3. Hvad man kan se og gøre undervejs
+
+4. Hvordan man kommer dertil
+
+5. Tips til cyklister
+
+6. Hvor man kan bo og spise
+
+
+{% endcomment %}
 
 {% assign site_posts = site.routes | where: "tags", "National Cykelrute 9" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
 

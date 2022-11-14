@@ -18,7 +18,7 @@ tags:
   - hele ruten
   - National Cykelrute 8
   - featured
-excerpt: "National Cykelrute 8, Østersøruten, fører dig gennem Sydjylland og derfra over Sydøøerne på en varieret tur gennem landet og langs vandet. Det er en hyggelig rute, som følger Østersøen hele 840 kilometer, og du kan cykle forbi det sydfynske øhav og fortsætte til Falster, Bogø, Møn og Sjælland."
+excerpt: "National Cykelrute 8, Østersøruten, fører dig gennem Sydjylland og derfra over Sydøøerne på en varieret tur gennem landet og langs vandet. Det er en hyggelig rute, som følger Østersøen hele 840 kilometer, og du kan cykle forbi det sydfynske øhav og fortsætter til Falster, Bogø, Møn og Sjælland."
 gps:
   url: https://ridewithgps.com/routes/35648842
   id: 35648842
@@ -28,9 +28,25 @@ asphalt: 798
 rubble: 42
 ---
 
-**{{ page.excerpt }}**
+National Cykelrute 8, Østersøruten, fører dig gennem Sydjylland og derfra over Sydøøerne på en varieret tur gennem landet og langs vandet. Det er en hyggelig rute, som følger Østersøen hele 840 kilometer, og du kan cykle forbi det sydfynske øhav og fortsætte til Falster, Bogø, Møn og Sjælland.
+
+Østersruten på cykel er en naturskøn måde at udforske Østersøens kystlinje på. Ruten snor sig langs kysten med stop ved forskellige seværdigheder undervejs.
+
+Ruten er godt markeret og nem at følge, hvilket gør den til en god mulighed for dem, der er på udkig efter et eventyr.
 
 {% include video provider="own-youtube" id="0Q9bPwMluco" %}
+
+{% comment %}
+https://balticseacycleroute.com/wp-content/uploads/2020/06/Oestersoeruten_infobog_2020_web_ny.pdf
+
+
+
+https://balticseacycleroute.com/da/
+{% endcomment %}
+
+## Hvad er Østersøruten?
+
+Østersøruten er en omlægning og udvidelse af Sydhavsruten (360 km).
 
 En omlægning og udvidelse af Sydhavsruten (360 km).
 
