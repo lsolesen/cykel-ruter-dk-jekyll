@@ -7,7 +7,7 @@ number: N12
 created_at: 2021-06-12T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
-  overlay_image: &image https://files.guidedanmark.org/files/443/443_310122.jpg
+  overlay_image: /assets/images/routes/national-cykelrute-12-limfjordsruten.jpg
   teaser: *image
   caption: "Billede fra Visitmors"
 category:

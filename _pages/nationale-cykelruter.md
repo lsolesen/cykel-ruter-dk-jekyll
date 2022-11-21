@@ -22,7 +22,7 @@ feature_row:
     btn_label: "Besøg Vejdirektoratet"
     btn_class: "btn--success"
 gallery:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
+  - image_path: /assets/images/scanmaps/0251a67.jpg
     url: https://www.scanmaps.dk/0251a67?G=020
     alt: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
     title: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
@@ -30,7 +30,7 @@ gallery:
     btn_label: "Tjek prisen"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251b18.jpg
+  - image_path: /assets/images/scanmaps/0251b18.jpg
     url: https://www.scanmaps.dk/0251b18?G=020
     alt: "Kort over Hærvejen - Heerweg/Ochsenweg (von Viborg nach Hamburg)"
     title: "Nationalrute 3: Hærvejsruten. Heerweg/Ochsenweg (von Viborg nach Hamburg)"
@@ -38,7 +38,7 @@ gallery:
     btn_label: "Tjek prisen"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg
+  - image_path: /assets/images/scanmaps/0251g04_1.jpg
     url: https://www.scanmaps.dk/0251g04?G=020
     alt: "Kort over Nationalrute 8. Der Ostsee-Radweg - Dänemark"
     title: "Nationalrute 8: Østersøruten. Der Ostsee-Radweg - Dänemark"
@@ -46,7 +46,7 @@ gallery:
     btn_label: "Tjek prisen"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0222650_1.jpg
+  - image_path: /assets/images/scanmaps/0222650_1.jpg
     url: https://www.scanmaps.dk/0222650?G=020
     alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
     title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
