@@ -1,6 +1,6 @@
 ---
 title: &title "Hvad du skal vide om at tage cyklen med i toget?"
-seo_title: "Værd at vide om at tage cyklen med i toget?"
+seo_title: "Værd at vide om at tage cyklen med i toget? (Guide 2023)"
 description: "Skal du rejse med tog og skal du have din cykel med? Der er forskellige regler alt afhængigt af, hvilket selskab du rejser med, og hvilken type cykelbillet du køber."
 permalink: /cykel-med-toget/
 language: da

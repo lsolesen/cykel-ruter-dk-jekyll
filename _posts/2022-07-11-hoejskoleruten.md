@@ -1,6 +1,6 @@
 ---
 title: &title "Højskoleruten: Alt du skal vide"
-seo_title: "Højskoleruten: Alt du skal vide (opdateret 2022)"
+seo_title: "Højskoleruten: Alt du skal vide (opdateret 2023)"
 description: "Højskoleruten forbinder flere danske folkehøjskoler. Ruten er en vandre- og cykelrute, som skal inspirere til at komme ud og bevæge sig, og hvor man samtidig får lidt åndelig føde."
 excerpt: Højskoleruten forbinder flere danske folkehøjskoler. Ruten er en vandre- og cykelrute, som skal inspirere til at komme ud og bevæge sig, og hvor man samtidig får lidt åndelig føde.
 permalink: /hoejskoleruten/
