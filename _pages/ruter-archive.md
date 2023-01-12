@@ -9,8 +9,8 @@ redirect_from:
   - /cykelruter-oversigt/
 permalink: /cykelruter-danmark/
 header:
-  overlay_image: &image https://c.pxhere.com/photos/8e/b5/family_cycling_bike_landscape_summer_sky_north_sea_sylt-723487.jpg!d
-  teaser: *image
+  overlay_image: /assets/images/pxhere\family_cycling_bike_landscape_summer_sky_north_sea_sylt-723487.jpg!d
+  teaser: /assets/images/pxhere\family_cycling_bike_landscape_summer_sky_north_sea_sylt-723487.jpg
   overlay_filter: 0.2
   caption: "Cykelruter, cykelture og cykelstier i Danmark [Pxhere](https://pxhere.com/da/photo/723487)"
 comments: true

@@ -1,5 +1,5 @@
 ---
-title: &title "Cykelcitater: 16 citater om cykling og at cykle (2022)"
+title: &title "Cykelcitater: 16 citater om cykling og at cykle (2023)"
 permalink: /cykelcitater-citater-om-cykling/
 last_modified_at: 2021-01-29T09:41:09Z
 language: da

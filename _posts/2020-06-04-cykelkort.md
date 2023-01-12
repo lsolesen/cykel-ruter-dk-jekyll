@@ -1,7 +1,7 @@
 ---
 layout: single
-title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur (2022) 🗺"
-seo_title: "Vælg det rigtige cykelkort over Danmark til din cykeltur (2022)"
+title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur (2023) 🗺"
+seo_title: "Vælg det rigtige cykelkort over Danmark til din cykeltur (2023)"
 permalink: /cykelkort/
 description: "Jeg har samlet nogle rigtig gode cykelkort over Danmark, der er detaljerede nok til, at du kan finde vej - både når du planlægger din cykeltur og undervejs."
 category:
@@ -160,7 +160,7 @@ Jeg har prøvet at samle alt, hvad du skal vide om cykelkort, der beskriver [cyk
 
 Jeg kommer også med nogle fif til, hvordan du finder vej, mens du er på cyklen uden at det er alt for bøvlet. Jeg har skrevet en anden guide til [online cykelkort](/cykelkort-online/).
 
-{% include figure image_path="https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60" caption="cykelkort over danmark" %}
+{% include figure image_path="https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60" alt="cykelkort over danmark" %}
 
 ## Hvad er et cykelkort?
 

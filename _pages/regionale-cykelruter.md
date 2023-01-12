@@ -88,7 +88,7 @@ Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor 
 
 Hvilket cykelkort du skal bruge til de regionale cykelruter afhænger naturligvis af, hvilken rute du gerne vil cykle.
 
-Jeg har skrevet en guide til de [rigtige cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}), som du måske kan lade dig inspirere af.
+Jeg har skrevet en guide til de [bedste cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}), som du måske kan lade dig inspirere af.
 
 Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored nofollow noopener" }, [Tales](https://tales.dk/boeger/tag/cykelruter/){: rel="sponsored nofollow noopener" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }. Det er reklamelinks, og hvis du bruger dem, tjener jeg en lille smule kommision, som er med til at finansiere driften af dette site. **Din pris er den samme**.
 
