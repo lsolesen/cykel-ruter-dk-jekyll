@@ -16,6 +16,8 @@ faq:
     answer: "Du skal overholde hastighedsreglerne på den vej, du cykler på. Du må altså ikke køre hurtigere end bilerne. Det er vigtigt, at du cykler efter forholdene."
   - question: "Hvor lang tid tager det at cykle 10 kilometer?"
     answer: "Det kommer jo helt an på, hvor hurtigt du cykler. Hvis du fx kører 20 km/t, så tager det 30 minutter at cykle 10 kilometer. Du kan bruge den her beregner til at udregne, hvor lang tid det tager at cykle en bestemt distance."
+  - question: Hvad betyder hastigheden for energiforbruget på cykel?
+    answer: Din hastighed betyder meget for dit energiforbrug, når du cykler. Ved højere hastighed bruger du mere energi, fordi du træder hårdere i pedalerne og møder større vindmodstand. Læs mere om, [hvad du forbrænder ved cykling](/cykling-kalorier/).
 ---
 
 Her kan du læse mere om, hvor hurtigt man cykler? Jeg har lavet en beregner, så du kan udregne din gennemsnitshastighed på cykel, når du kender distancen.
@@ -51,7 +53,7 @@ I denne tabel har jeg givet et bud på, hvor hurtigt man cykler under forskellig
 
 Jeg vil gerne udvide tabellen med bedre data. Hvis du har nogle gode indsigter og tal fx fra videnskabelige studier, så skriv endelig til mig.
 
-## Hvor hurtigt cykler man x km?
+## Hvor hurtigt cykler du x km?
 
 Jeg har lavet en beregner, så du kan udregne hvor hurtigt, man cykler x antal kilometer. Det kan være godt at vide, hvor hurtigt man cykler fx 5 eller 10 km, når du skal et sted hen.
 

@@ -82,9 +82,9 @@ Hvis du hellere vil have et par screenshots af processen, så ser det sådan her
 
 {% include figure image_path="/assets/images/posts/3-nummerplade-bestil.png" caption="Her starter du med at gøre klar til at bestille den ekstra nummerplade." %}
 
-Når du er logget ind, så skal du lige igennem menuen for at finde det rigtige sted.
+Når du er logget ind, så skal du lige igennem menuen for at finde det rigtige sted at bestille nummerpladen.
 
-{% include figure image_path="/assets/images/posts/3-nummerplade-bestil-1.png" caption="Du finder muligheden for at bestille her." %}
+{% include figure image_path="/assets/images/posts/3-nummerplade-bestil-1.png" caption="Du finder muligheden for at bestille her." alt="bestilling af nummerplade til cykelholder" %}
 
 Nu er du klar til at lave selve bestillingen.
 
