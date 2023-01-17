@@ -74,7 +74,7 @@ jobs:
           key: ${{ runner.os }}-${{ github.sha }}
       - name: 🎉 Deploy to GitHub Pages 🎊
         if: success()
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: gh-pages
           build_dir: _site
@@ -91,7 +91,7 @@ jobs:
           key: ${{ runner.os }}-${{ github.sha }}
       - name: ⚡️ Cache HTMLProofer
         id: cache-htmlproofer
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: tmp/.htmlproofer
           key: ${{ runner.os }}-htmlproofer
@@ -153,7 +153,7 @@ jobs:
     if: github.event_name == 'pull_request' && github.event.action != 'closed'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Static Web App - get preview URL
         id: static_web_app_preview_url
         uses: azure/CLI@v1
