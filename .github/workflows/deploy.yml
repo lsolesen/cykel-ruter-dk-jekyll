@@ -105,7 +105,7 @@ jobs:
             --assume-extension ".html"
             --ignore-status-codes "400,403,409,429"
             --allow-hash-href
-            --ignore-empty-alt true
+            --ignore-empty-alt
             --cache '{ "timeframe": { "external": "7d" } }'
           # The arguments to pass to HTMLProofer
   clean:
