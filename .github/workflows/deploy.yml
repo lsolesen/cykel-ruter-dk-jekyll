@@ -32,7 +32,7 @@ jobs:
       # all the necessary files from our repo, including our custom actions
       # This action here is actually from a remote repo available from Githup itself
       - name: 🛎 Checkout master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 1
       - name: ⚡️ Install dependencies
