@@ -113,7 +113,7 @@ Du kan se i nedenstående virkelig velproducerede video, hvordan det er at vandr
 
 ## Folder over Bindeballestien
 
-Du kan downloade en [PDF-folder](http://www.okolariet.dk/media/345467/bindeballeinfotavle_juni_2016_1_lav.pdf) over Bindeballestien. Du kan også hente en folder fx på Økolariet i Vejle over banestien.
+Du kan downloade en [PDF-folder](https://www.okolariet.dk/media/345467/bindeballeinfotavle_juni_2016_1_lav.pdf) over Bindeballestien. Du kan også hente en folder fx på Økolariet i Vejle over banestien.
 
 ## Ofte stillede spørgsmål om Bindeballestien
 

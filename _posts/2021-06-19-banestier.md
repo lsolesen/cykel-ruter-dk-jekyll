@@ -79,19 +79,19 @@ Endelig så kan du på et godt cykelkort også finde ud af, hvad belægningen er
 
 ## Hvor finder jeg banestier i Danmark?
 
-På [railtrails.dk](http://www.railtrails.dk/banestier.html) og [lgbertelsen.dk](http://www.lgbertelsen.dk/Banestier.html) kan du finde meget mere information om de danske banestier.
+På [railtrails.dk](https://www.railtrails.dk/banestier.html) og [lgbertelsen.dk](https://www.lgbertelsen.dk/Banestier.html) kan du finde meget mere information om de danske banestier.
 
 På begge hjemmesider kan du finde en omfattende oversigt over forskellige jernbanestier. Du kan finde både rutebeskrivelser og fotos fra mange af jernbanestierne.
 
-Særligt [railtrails.dk](http://www.railtrails.dk/banestier.html) er opdateret, og du kan bruge mange timer på at dykke ned i hjemmesiden og blive klogere på oprindelsen og udviklingen af de enkelte banestier.
+Særligt [railtrails.dk](https://www.railtrails.dk/banestier.html) er opdateret, og du kan bruge mange timer på at dykke ned i hjemmesiden og blive klogere på oprindelsen og udviklingen af de enkelte banestier.
 
 Du kan på siden finde mere end 200 banestier, der er kortlagt, og langt de fleste er gode at cykle på.
 
-Du kan finde oversigten over banestier på et [kort her](http://www.railtrails.dk/kort.html). Ruterne er plottet ind i Google Maps. Derfor kan du let se, hvordan ruten nøjagtig forløber.
+Du kan finde oversigten over banestier på et [kort her](https://www.railtrails.dk/kort.html). Ruterne er plottet ind i Google Maps. Derfor kan du let se, hvordan ruten nøjagtig forløber.
 
 {% include figure image_path="/assets/images/posts/banestier-kort.png" caption="Kort med alle banestierne fra Østjylland. Der er et tilsvarende kort for alle andre dele af Danmark også." alt="kort over banestier i Østjylland" %}
 
-Hvis du vil se en oversigt over alle banestierne, så tjek denne [oversigt fra railtrails.dk](http://www.railtrails.dk/banestier.html).
+Hvis du vil se en oversigt over alle banestierne, så tjek denne [oversigt fra railtrails.dk](https://www.railtrails.dk/banestier.html).
 
 ## Hvad er de bedste banestier?
 

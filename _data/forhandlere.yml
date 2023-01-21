@@ -66,17 +66,17 @@
   rel: noopener
 - title: Bike Discount
   url: https://www.bike-discount.de/en?currency=9&delivery_country=227
-  image_path: http://www.cykelstart.dk/wp-content/uploads/bike-discount-logo.png
+  image_path: https://www.cykelstart.dk/wp-content/uploads/bike-discount-logo.png
   country: Tyskland
   rel: noopener
 - title: MHW Bike
   url: https://www.mhw-bike.com/
-  image_path: http://www.cykelstart.dk/wp-content/uploads/mhw-bike-logo.png
+  image_path: https://www.cykelstart.dk/wp-content/uploads/mhw-bike-logo.png
   country: Tyskland
   rel: noopener
 - title: Bike Components
   url: https://www.bike-components.de/en/
-  image_path: http://www.cykelstart.dk/wp-content/uploads/bike-components-logo-600x138.png
+  image_path: https://www.cykelstart.dk/wp-content/uploads/bike-components-logo-600x138.png
   rel: noopener
 - title: Wiggle
   url: https://www.wiggle.co.uk/

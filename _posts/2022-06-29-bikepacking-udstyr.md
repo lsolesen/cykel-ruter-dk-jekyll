@@ -32,14 +32,6 @@ feature_backloader_ortlieb:
     rel: sponsored nofollow noopener
     btn_label: Se prisen
     btn_class: btn--warning
-feature_toploader:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94343&htmlurl=https://www.mytrendyphone.dk/shop/west-biking-reflekterende-logo-cykeltaske-cykelholder-272403p.html
-    image_path: https://www.mytrendyphone.dk/images/West-Biking-Reflective-Logo-Bicycle-Case-Bike-Holder-Smartphone-6-9-Black-07072021-01.jpg
-    title: West Biking Cykelholder til toprør
-    excerpt: West Biking cykeltasken har et gennemsigtigt frontcover med solskærm, som beskytter telefonen. Samtidig er det berøringsfølsomt, så du kan bruge din smartphone. Tasken indeholder et stort rum med to mesh-lommer til småting.
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
 feature_toploader_deuter:
   - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/deuter-rammetaske---energy-bag---05-liter---sort
     image_path: https://resources.chainbox.io/cykelpartner/public/pim/9d901664-539e-4603-84e8-dd53fda12601/32672_7000_A_large.jpg
@@ -155,11 +147,7 @@ Der findes mange andre muligheder. Hvis du vil have næste niveau inden for sade
 
 Jeg bruger typisk mit Garmin Fenix 6 ur til at have min rute på. Undervejs på turen kan man imidlertid godt få brug for telefonen til fx at bruge nogle af de [gode online cykelkort](/cykelkort-online/) eller andre [cykel apps](/cykling-apps/). Derfor var jeg på udkig efter en taske, hvor telefonen kunne være tilgængelig.
 
-Jeg valgte at købe denne version. Den er meget rummelig, og det er let at bruge telefonen til simple kommandoer undervejs. Samtidig er den vandtæt. 
-
-{% include feature_row id="feature_toploader" type="left" %}
-
-Jeg har også fået anbefaldet denne vandtætte taske til overrøret. Hvis ikke du har brug for at have telefonen tilgængelig, så er den lidt mere tilgængelig, mens du kører.
+Jeg har også fået anbefaldet denne vandtætte taske til overrøret. Hvis ikke du har brug for at have telefonen tilgængelig, så er den lidt mere tilgængelig, mens du cykler.
 
 {% include feature_row id="feature_toploader_deuter" type="left" %}
 

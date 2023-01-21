@@ -59,7 +59,7 @@ _God tur!_
 
 ### Diverse udstyr
 
-- [ ] [Cykellygter](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=65273){: rel="sponsored nofollow noopener" } 
+- [ ] [Cykellygter](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43111){: rel="sponsored nofollow noopener" } 
 - [ ] Vandflaske på cyklen 
 - [ ] Cykelcomputer 
 - [ ] Siddeunderlag

@@ -127,7 +127,7 @@ En del af Nutcase cykelhjelme har et spænde der kan stilles i følgende større
 
 Det er forskelligt fra cykelhjelm til cykelhjelm, hvordan du får den til at sidde rigtigt efter, at du har valgt den rigtige størrelse.
 
-{% include figure image_path="https://www.cykelpartner.dk/media/77611/cykelhjelm-guide.png" caption="Hvis du kan indstille cykelhjelmen rigtigt, så ved du om cykelhjelmen passer i størrelsen til dit barn. Kilde: [cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=http://www.cykelpartner.dk){: rel='sponsored nofollow noopener' }" alt="størrelse og indstilling af cykelhjelm til børn" %}
+{% include figure image_path="https://www.cykelpartner.dk/media/77611/cykelhjelm-guide.png" caption="Hvis du kan indstille cykelhjelmen rigtigt, så ved du om cykelhjelmen passer i størrelsen til dit barn. Kilde: [cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk){: rel='sponsored nofollow noopener' }" alt="størrelse og indstilling af cykelhjelm til børn" %}
 
 Her har du tre tommelfingerregler for at få hjelmen til at sidde rigtigt:
 

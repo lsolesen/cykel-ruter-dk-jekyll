@@ -103,22 +103,6 @@ scanmaps:
     alt: "Cykelkort #8 Bornholm"
     title: "#8 Bornholm (2022)"
     rel: sponsored nofollow noopener
-cykelguide:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
-    url: https://www.scanmaps.dk/0251f94?G=020
-    alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
-    title: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkorth_fte_forside_nordlige_sj_lland.jpg
-    url: https://www.scanmaps.dk/0251d76?G=020
-    alt: "Nordlige Sjælland Cykelkort og guide"
-    title: "Nordlige Sjælland Cykelkort og guide"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_sydlige_sj_lland_forside.jpg
-    url: https://www.scanmaps.dk/0251d79?G=020
-    alt: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
-    title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
-    rel: sponsored nofollow noopener
 bikeline:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
     url: https://www.scanmaps.dk/0251a67?G=020
@@ -288,9 +272,7 @@ Vi har jo selv skrevet et par guidebøger, som desværre ikke længere udgives. 
 
 Nordisk Korthandel har udgivet tre cykelguidebøger i forbindelse med deres cykelkortserie. Cykelguiden er skrevet af Jens Erik Larsen, og de giver nogle forskellige turforslag til cykelture på Sjælland, Fyn og øerne.
 
-Du kan købe bøgerne sammen med cykelkortet og få lidt rabat, eller du kan købe guidebøgerne alene. Tjek prisen ud på [scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" } ved at klikke på den bog, du er interesseret i nedenunder.
-
-{% include gallery id="cykelguide" caption="Cykelguidebøgerne sælges fra [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }." %}
+Du kan desværre ikke længere købe bøgerne sammen med cykelkortet. Du kan tjekke om der er andre cykelguidebøger på [scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }.
 
 ## Hav cykelkortet let tilgængeligt på cykelturen
 

@@ -38,6 +38,7 @@
     "build": "browserify src/js/app.bundle.js -g uglifyify -o assets/js/bundle.js",
     "watch": "watchify src/js/app.bundle.js -o assets/js/bundle.js",
     "test": "mocha src/test/*.*",
+    "test:html": "bundle exec htmlproofer --enforce_https false --only-4xx --assume-extension \".html\" --ignore-status-codes \"400,403,409,429\" --allow-hash-href --ignore-empty-alt --cache '{ \"timeframe\": { \"external\": \"7d\" } }' _site/",
     "generate-image": "node _scripts/generate-image.js",
     "generate-image-route": "node _scripts/generate-image-route.js",
     "og-image": "npm run generate-image -- type:og",

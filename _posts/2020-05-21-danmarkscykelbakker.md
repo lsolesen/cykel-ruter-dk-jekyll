@@ -32,13 +32,13 @@ Jeg kan godt lide at udfordre mig selv lidt med lange, hårde bakker, når jeg c
 
 Jeg har fundet to rigtig gode sites, som du kan bruge som udgangspunkt for at planlægge din rute, hvis du går efter at få så mange højdemeter i benene som muligt i Danmark. Der er faktisk mange stejler bakker rundt omkring i Danmark - og mange af de stejleste bakker ligger omkring Vejle.
 
-## Danmarks største bakker på cykel - [climbs.dk](http://www.climbs.dk)
+## Danmarks største bakker på cykel - [climbs.dk](https://www.climbs.dk)
 
-[Climbs.dk](http://www.climbs.dk) har samlet de fleste asfalterede bakker i Danmark. Alle bakkerne er målt - og du kan finde de skarpeste stigninger. Forfatteren går især op i antallet af højdemeter fra bund til top.
+[Climbs.dk](https://www.climbs.dk) har samlet de fleste asfalterede bakker i Danmark. Alle bakkerne er målt - og du kan finde de skarpeste stigninger. Forfatteren går især op i antallet af højdemeter fra bund til top.
 
 > Ofte beskrives en bakke primært ved sin maksimale stigningsprocent. Jeg synes ikke, dette siger meget om bakken som helhed. Det vigtigste mål for mig er antallet af højdemeter fra bund til top. Dette mål kan alene klacificere bakken: Jo flere højdemeter, des større er bakken. Hverken længde eller stigningsprocent kan alene beskrive bakken. Kombineres længde og maksimal stigningsprocent kan dette give et helt forkert billede, hvis en lang bakke har et kort, men meget stejl stykke.
 
---- <cite>Jens, [climbs.dk](http://climbs.dk/om.htm)</cite>
+--- <cite>Jens, [climbs.dk](https://climbs.dk/om.htm)</cite>
 
 Du kan finde alle toppene som _Waypoints_, som du kan downloade til din cykelcomputer eller GPS, og der er også en række ruter på sitet.
 

@@ -22,15 +22,6 @@ feature_row:
     excerpt: "Bike Island ruten og Østersøruten er oplagte at navigere efter, når du vil opleve Fyn og Øhavets på to hjul. En cykelferie på Fyn og Øerne fører dig både rundt til små hyggelige byer, smukke landskaber, kystnære strækninger og lavvandede badestrande."
     btn_label: "Besøg VisitFyn"
     btn_class: "btn--success"
-cykelguide:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
-    url: https://www.scanmaps.dk/0251f94?G=020
-    alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
-    title: "Guidebog og cykelkort over Fyn, Ærø, Tåsinge og Langeland"
-    excerpt: "114 sider med 11 turforslag til en cykeltur på Fyn og de sydfynske øer. Forslagene til cykelturene kan bruges som dagsture eller du kan bruge dem til en cykelferie på Fyn."
-    rel: sponsored nofollow noopener
-    btn_label: "Tjek prisen kort og guide*"
-    btn_class: "btn--success"
 scanmaps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
     url: https://www.scanmaps.dk/0251f59?G=020
@@ -57,7 +48,7 @@ Lad os dykke ned i nogle af de fabelagtige cykelruter på Fyn, som du kan få et
 
 ## Cykelruten: Fyn rundt
 
-[Climbs](http://www.climbs.dk/officielle_cykelruter_fyn.htm) foreslår, at man skal opleve Fyn Rundt på cykel.
+[Climbs](https://www.climbs.dk/officielle_cykelruter_fyn.htm) foreslår, at man skal opleve Fyn Rundt på cykel.
 Der er to variationer af cykelruten. Du kan enten køre den klassiske eller du kan skære noget af turen af.
 
 - **Den klassiske tur Fyn Rundt på cykel (315 km)**. Start fx i Middelfart. Derfra kører du mod uret til Assens, Fåborg, Svendborg, Nyborg, Kerteminde, Odense, Hasmark Strand, Bogense og så slutter du igen turen i Middelfart. Du kan lave en afstikker til Hindsholm (Fyns Hoved), men så skal du køre nogen flere kilometer.
@@ -128,10 +119,6 @@ Kortet indeholder også alle mulige nyttige informationer for cyklisten. Du kan 
 Du kan fx købe et kort over Fyn her. Prisen er absolut overkommelig.
 
 {% include gallery id="scanmaps" caption="Cykelkort over Fyn med de regionale og nationale ruter på Fyn." alt="kort fyn" %}
-
-## Cykelguidebog over Fyn
-
-{% include feature_row id="cykelguide" type="left" %}
 
 ## Østersøruten på Fyn
 

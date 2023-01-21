@@ -163,7 +163,7 @@ Når I kører i landskabet, så hold øje med kirketårnene, som jeg ofte bruger
 
 Jeg tegner ofte min rute på Garmin Connect, men jeg har også tegnet en del ruter på Alltrails, som I kan se under ruterne. Der findes flere redskaber, hvor du kan tegne din rute.
 
-Det hjælper virkelig meget undervejs, at man let kan se, om man er på rette vej uden at skulle stå af cyklen for at kigge på kort. Jeg bruger bare mit Garmin Fenix ur, men man kan også købe deciderede cykelcomputere. Fri BikeShop har [forskellige muligheder for navigation på cyklen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=http://www.fribikeshop.dk/cykeludstyr/til-dig/cykelcomputer){: rel="sponsored nofollow noopener" }. Jeg ville helt sikkert vælge noget med GPS.
+Det hjælper virkelig meget undervejs, at man let kan se, om man er på rette vej uden at skulle stå af cyklen for at kigge på kort. Jeg bruger bare mit Garmin Fenix ur, men man kan også købe deciderede cykelcomputere. Fri BikeShop har [forskellige muligheder for navigation på cyklen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/cykeludstyr/til-dig/cykelcomputer){: rel="sponsored nofollow noopener" }. Jeg ville helt sikkert vælge noget med GPS.
 
 Men intet slår et godt cykelkort. Jeg har skrevet om, [hvilket cykelkort jeg vil vælge i et andet indlæg](/cykelkort/). Jeg er engang kommet afsted med et bilkort i stedet, hvilket kostede en del på energien, fordi det var vanskeligt rigtigt at se afstandene.
 

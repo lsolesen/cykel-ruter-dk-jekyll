@@ -74,22 +74,6 @@ gallery_maps:
     alt: "Cykelkort #8 Bornholm"
     title: "#8 Bornholm"
     rel: sponsored nofollow noopener
-cykelguide:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251f94.jpg
-    url: https://www.scanmaps.dk/0251f94?G=020
-    alt: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
-    title: "Fyn, Ærø, Tåsinge og Langeland Cykelkort og guide"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkorth_fte_forside_nordlige_sj_lland.jpg
-    url: https://www.scanmaps.dk/0251d76?G=020
-    alt: "Nordlige Sjælland Cykelkort og guide"
-    title: "Nordlige Sjælland Cykelkort og guide"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_cykelguide_og_kort_omslag_-_sydlige_sj_lland_forside.jpg
-    url: https://www.scanmaps.dk/0251d79?G=020
-    alt: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
-    title: "Sydlige Sjælland, Møn, Lolland og Falster Cyklekort og guide"
-    rel: sponsored nofollow noopener
 feature_row_gps:
   - image_path: https://resources.chainbox.io/cykelpartner/public/pim/40d2f2ad-f4c7-4aa9-b7c2-a6aa2b2b53a3/010-01787-01_A_default.jpg
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/pedaler-til-racercykler/garmin-vector-3s---pedaler-med-watt-maaling---enkelt-sensor
@@ -191,7 +175,7 @@ På [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banneri
 
 ## Cykelguidebøger
 
-{% include gallery id="cykelguide" caption="Du kan købe flere cykelguidebøger hos [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }" %}
+Du kan købe flere cykelguidebøger hos [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }".
 
 Jeg synes også rigtig godt om disse [cykelbøger](/cykelboeger-bedste-boeger-om-cykling/).
 
