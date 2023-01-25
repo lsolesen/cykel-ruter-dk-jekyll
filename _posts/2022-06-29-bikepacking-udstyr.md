@@ -57,10 +57,10 @@ feature_pumpepose:
     btn_label: Se prisen
     btn_class: btn--warning
 feature_powerbank:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94343&htmlurl=https://www.mytrendyphone.dk/shop/vandafvisende-solcelle-powerbank-tradlos-oplader-285882p.html
-    image_path: https://www.mytrendyphone.dk/images/Water-Resistant-Solar-Power-Bank-with-Wireless-Charger-USB-A-USB-C-Quick-Charge-Power-Delivery-Orange-28032022-01.jpg
-    title: Solcelleoplader med trådløs opladning
-    excerpt: Powerbank med 30.000 mah med integrert solpanel, som giver dig lidt ekstra strøm på vejen. Der er tre USB-porte er der en 15-watt trådløs opladningsplade til opladning af Qi-klare enheder.
+  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/elektronik/goal-zero---flip-36-powerbank---groen---kapacitet-10050-mah
+    image_path: https://resources.chainbox.io/3/cykelpartner/public/pim/b225a7ca-f46e-4ed0-abbc-f51680655958/RN21952_A_default.jpg
+    title: Powerbank med trådløs opladning
+    excerpt: Flip 36 powerbank fra Goal Zero har en kapacitet på hele 10.050 mAh. Det praktiske ved denne model er, at den kan oplades via Goal Zeros bærebare solpaneler (medfølger ikke).
     rel: sponsored nofollow noopener
     btn_label: Se prisen
     btn_class: btn--warning
