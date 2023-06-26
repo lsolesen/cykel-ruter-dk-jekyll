@@ -4,8 +4,9 @@ title: Cykel-ruter.dk er nu reklamefri
 permalink: /ads/off/
 author_profile: true
 sitemap: false
+toc: false
 intro:
-  - excerpt: 'Følg os på &nbsp; [<i class="fab fa-facebook-f"></i> Facebook](https://www.facebook.com/cykelruterdk){: .btn .btn--facebook } og [<i class="fab fa-twitter"></i> og [<i class="fab fa-pinterest"></i> Pinterest](https://www.pinterest.dk/cykelruter/){: .btn .btn--danger }'
+  - excerpt: 'Følg os på &nbsp; [<i class="fab fa-facebook-f"></i> Facebook](https://www.facebook.com/cykelruterdk){: .btn .btn--facebook } og [<i class="fab fa-pinterest"></i> Pinterest](https://www.pinterest.dk/cykelruter/){: .btn .btn--danger }'
 
 ---
 
