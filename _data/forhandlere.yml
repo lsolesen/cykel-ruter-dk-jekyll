@@ -15,11 +15,10 @@
   shop: Nej
   workshop: Nej
 - title: Cykler.dk
-  url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59790&htmlurl=https://www.cykler.dk/
+  url: https://www.cykler.dk/
   image_path: /assets/images/logo/cykler-dk.png
-  tags: featured
   country: Danmark
-  rel: sponsored nofollow noopener
+  rel: nofollow noopener
   shop: Cykel-Mads - Storegade 27, 7620 Lemvig
   workshop: Ja
 - title: Pedalatleten
@@ -29,60 +28,59 @@
   country: Danmark
   rel: sponsored nofollow noopener
 - title: Fri Bikeshop
-  url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560
+  url: https://www.fribikeshop.dk/
   image_path: /assets/images/logo/fribikeshop.png
-  tags: featured
   country: Danmark
-  rel: sponsored nofollow noopener
+  rel: nofollow noopener
 - title: Cykelgear
   shop: Industrivej 5, 9575 Terndrup
   url: https://www.cykelgear.dk/?utm_source=cpc&utm_medium=cykel-ruter.dk
   workshop: Ja
   country: Danmark
-  rel: noopener
+  rel: nofollow noopener
 - title: Buhl Cykler
   url: https://www.buhlcykler.dk/
   shop: Frydenslund Allé 1, 8210 Hasle
   workshop: Ja
   country: Danmark
-  rel: noopener
+  rel: nofollow noopener
 - title: Allbike.dk
   url: https://www.allbike.dk/
   shop: Messingvej 6, 8940 Randers
   workshop: Ja
   country: Danmark
-  rel: noopener
+  rel: nofollow noopener
 - title: Børkop Cykler
   url: https://boerkopcykler.dk/
   shop: Vestergade 17, 7080 Børkop
   workshop: Ja
   country: Danmark
-  rel: noopener
+  rel: nofollow noopener
 - title: Heino Cykler
   url: https://heino-cykler.dk/
   shop: København, Brøndby og Odense. [Se butikker](https://heino-cykler.dk/pages/kopi-af-kontakt-1).
   workshop: Ja
   country: Danmark
-  rel: noopener
+  rel: nofollow noopener
 - title: Bike Discount
   url: https://www.bike-discount.de/en?currency=9&delivery_country=227
   image_path: https://www.cykelstart.dk/wp-content/uploads/bike-discount-logo.png
   country: Tyskland
-  rel: noopener
+  rel: nofollow noopener
 - title: MHW Bike
   url: https://www.mhw-bike.com/
   image_path: https://www.cykelstart.dk/wp-content/uploads/mhw-bike-logo.png
   country: Tyskland
-  rel: noopener
+  rel: nofollow noopener
 - title: Bike Components
   url: https://www.bike-components.de/en/
   image_path: https://www.cykelstart.dk/wp-content/uploads/bike-components-logo-600x138.png
-  rel: noopener
+  rel: nofollow noopener
 - title: Wiggle
   url: https://www.wiggle.co.uk/
   country: England
-  rel: noopener
+  rel: nofollow noopener
 - title: Chain Reaction Cycles
   url: https://www.chainreactioncycles.com/
   country: England
-  rel: noopener
+  rel: nofollow noopener

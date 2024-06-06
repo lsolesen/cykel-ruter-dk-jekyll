@@ -15,8 +15,8 @@ category:
   - Regler & Sikkerhed
 last_modified_at: 2021-05-17T18:21:26Z
 feature_row_abus:
-  - image_path: https://fricdn.dk//Files/Images/FriBikeShop/ProductImages/blaa-abus-youn-l-hjelm.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/cykeludstyr/til-dig/cykelhjelme/blaa-abus-youn-l-hjelm
+  - image_path: https://cdn.cykelexperten.dk/media/0e/23/0f/1621238418/g1.abus.com_out_abus_images_Mobile20Sicherheit_Helme_Kids_Youn-I20ACE20MIPS_89163_Youn-I20ACE20MIPW_20metallic20blue_side_3.jpg?width=1920&height=
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/abus-youn-i-ace-mips-hjelm-m.-led-lys-blaa-m-52cm-57cm-/
     title: "ABUS Youn-I Cykelhjelm"
     excerpt: "Super smart hjelm i blåt design. Hjelmen er støbt med In-Mold teknologi, der giver den flotteste finish samtidig med, at det giver den bedste sikkerhed. Det gør denne hjelm optimal til både BMX, MTB, skateboard og rulleskøjter."
     btn_label: "Køb her"
@@ -135,7 +135,7 @@ Her har du tre tommelfingerregler for at få hjelmen til at sidde rigtigt:
 2. Hjelmen skal altid sidde helt vandret på hovedet
 3. De forreste stropper skal gå lodret ned og stropperne skal sidde godt til, når spændet omkring hagen lukkes
 
-Det er også derfor, at det er vigtigt, at din cykelhjelm har den rigtige størrelse. Du kan læse mere om, hvordan en cykelhjelm skal sidde hos [fribikeshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/inspiration/saadan-skal-din-cykelhjelm-sidde){: rel="sponsored nofollow noopener" }, hvor du også kan købe en masse lækre cykelhjelme.
+Det er også derfor, at det er vigtigt, at din cykelhjelm har den rigtige størrelse. Du kan læse mere om, hvordan en cykelhjelm skal sidde hos [fribikeshop.dk](https://www.fribikeshop.dk/inspiration/saadan-skal-din-cykelhjelm-sidde), hvor du også kan købe en masse lækre cykelhjelme.
 
 ## Hvordan vælger jeg en cykelhjelm til mit barn? 4 tips!
 
@@ -167,7 +167,7 @@ Fribikeshop.dk skriver, at
 
 > Undersøgelser viser, at mange børn er rigtig gode til at bruge hjelm, men fra 10-års alderen begynder det at gå ned ad bakke og færre børn bruger hjelm fra denne alder og opefter. Det vil vi hos Fri BikeShop selvfølgelig gerne være med til at ændre, da vi mener, at en cykelhjelm bør være allemandseje.
 
---- <cite>[Fribikeshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70560&htmlurl=https://www.fribikeshop.dk/udstyr/til-dig/cykelhjelme/til-boern){: rel="sponsored nofollow noopener" }</cite>
+--- <cite>[Fribikeshop.dk](https://www.fribikeshop.dk/udstyr/til-dig/cykelhjelme/til-boern)</cite>
 
 Du kan tjekke meget mere [cykeludstyr](/cykeludstyr/).
 
