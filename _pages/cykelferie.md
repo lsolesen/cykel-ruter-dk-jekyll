@@ -69,7 +69,7 @@ Der er i alt [11 nationale cykelruter](/nationale-cykelruter/) og et hav af [reg
 
 Du kan sagtens planlægge dine egne ruter, men fordelen ved at udnytte de skiltede ruter er, at de er anlagt til cyklister, så der er gode forhold - og de bringer dig forbi mange smukke steder i Danmark og forbi nogle af de interessante seværdigheder.
 
-Når du har valgt et sted i Danmark, du gerne vil tage cyklen på ferie, så kan du fx bruge [udinaturen.dk](https://udinaturen.dk/map-page?scIds=2438,1209&ffId=2464) eller [DenmarkByBike](https://www.naviki.org/da/denmarkbybike/planlaeg-og-find-din-cykeltur/#p=55.73819,10.50156&z=7) til at planlægge din cykeltur. Fordelen ved disse steder er, at du kan finde de nærmeste bålpladser og overnatningsmuligheder uanset hvor du er i Danmark.
+Når du har valgt et sted i Danmark, du gerne vil tage cyklen på ferie, så kan du fx bruge [udinaturen.dk](https://udinaturen.dk/map-page?scIds=2438,1209&ffId=2464) til at planlægge din cykeltur. Fordelen ved disse steder er, at du kan finde de nærmeste bålpladser og overnatningsmuligheder uanset hvor du er i Danmark.
 
 Det kan godt være lidt besværligt at planlægge turen på skærmen, så du kan også finde et [cykelkort over Danmark](/cykelkort/), som du kan bruge. Det er lidt lettere at lægge ud på bordet og få overblik over det hele.
 

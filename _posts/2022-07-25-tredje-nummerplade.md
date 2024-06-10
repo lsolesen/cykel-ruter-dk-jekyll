@@ -74,7 +74,7 @@ Længere nede kan du se, hvordan du bestiller nummerpladen, og hvad prisen for d
 
 For at bestille den 3. nummerplads, så skal du logge ind på Motorregistret. Her skal du have dit **NemID eller MitID** klar, og du skal bruge din **bils nummerplade og stelnummer**.
 
-Du finder [Motorregistreret her på Skats hjemmeside](https://skat.dk/data.aspx?oid=2237625&cid=ps-tredjenummerplade-go-gen--210322). Herfra skal du lige igennem menuerne, inden det giver sig selv.
+Du finder [Motorregistreret her](https://motorst.dk/borger/nummerplader/3-nummerplade). Herfra skal du lige igennem menuerne, inden det giver sig selv.
 
 Den korteste måde at forklare, hvordan du bestiller nummerpladen er følgende: Log på TastSelv med NemID. Vælg Motorregistret. Klik på Plader, Bestil specialplader og Bestil **3. nummerplade**.
 

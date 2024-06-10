@@ -70,7 +70,7 @@ Hvis du bruger dette link til at skrive dig op til Alltrials, så har de lovet a
 
 ## 5. Naviki
 
-Den første app jeg tjekkede ud til at finde kort online er [Naviki](https://www.naviki.org/da/naviki/). Oprindeligt var det også den [DenmarkByBike](https://www.naviki.org/da/denmarkbybike/) valgte til deres kort. Desværre ser det ud til, at Naviki ikke helt kan følge med i udviklingen med alle de andre konkurrenter.
+Den første app jeg tjekkede ud til at finde kort online er [Naviki](https://www.naviki.org/da/naviki/). Oprindeligt var det også den [DenmarkByBike](https://ruter.dk/) valgte til deres kort. Desværre ser det ud til, at Naviki ikke helt kan følge med i udviklingen med alle de andre konkurrenter.
 
 Naviki har fx ikke så gode egenskaber til at inkludere kortene online på din egen hjemmeside. Til gengæld kan du finde et hav af forskellige ruter, og mange af de forskellige GPS-tracks fungerer godt og kan downloades.
 

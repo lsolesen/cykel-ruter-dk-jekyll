@@ -138,7 +138,7 @@ For at beskytte cyklen, så kan det være rigtig klogt at skille den af og pakke
 
 Bagagen i lufthavnene får en relativ hård behandling. Derfor vil vi helt klart anbefale en god cykeltaske eller cykelkuffert, så din cykel er bedst beskyttet. Du kan bruge bobleplast eller stof til at pakke cyklen godt ind. Hvis du skiller cyklen af, så husk at medbringe det rigtige værktøj til at samle den igen.
 
-Du skal natuligvis også være opmærksom på fx CO<sub>2</sub>-patroner til at pumpe cyklen op med. I [København Lufthavn](https://www.cph.dk/praktisk/bagage/forbudte-genstande-i-bagagen) må man have fire patroner med, men der er helt sikkert forskel på, hvad de forskellige flyselskaber tillader. For at være helt sikker, så kontakt dit flyselskabs kundeservice på forhånd. Endnu lettere er det at nøjes med en almindelig luftpumpe.
+Du skal natuligvis også være opmærksom på fx CO<sub>2</sub>-patroner til at pumpe cyklen op med. I [København Lufthavn](https://www.cph.dk/praktisk/bagage/tilladt-og-ikke-tilladt-i-bagagen) må man have fire patroner med, men der er helt sikkert forskel på, hvad de forskellige flyselskaber tillader. For at være helt sikker, så kontakt dit flyselskabs kundeservice på forhånd. Endnu lettere er det at nøjes med en almindelig luftpumpe.
 
 ## Fragt og forsendelse af cykel
 

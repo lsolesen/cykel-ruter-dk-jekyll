@@ -21,7 +21,7 @@ scanmaps:
     title: "#8 Bornholm"
     rel: sponsored nofollow noopener
 feature_row:
-  - url: https://bornholm.info/mit-bornholm-paa-cykel/
+  - url: https://bornholm.info/6-cykelruter-magnus-cort/
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
     title: "Cykelruter og cykelferie på Bornholm"
     alt: "Cykelruter og cykelferie på Bornholm"
@@ -87,11 +87,11 @@ Her følger du kyststrækningen mellem Allinge, Gudhjem og Svaneke. Du kan cykle
 
 ## Cykelruter på Bornholm til cykelrutteren
 
-Hvis du gerne vil ud og træne på landevejsraceren på Bornholm, så kan jeg anbefale, at du kigger på [Magnus Corts ruteforslag](https://bornholm.info/mit-bornholm-paa-cykel/).
+Hvis du gerne vil ud og træne på landevejsraceren på Bornholm, så kan jeg anbefale, at du kigger på [Magnus Corts ruteforslag](https://bornholm.info/6-cykelruter-magnus-cort/).
 
 {% include video provider=youtube id=nf7hIUNeajI %}
 
-Magnus Cort kan godt lide en kuperet rute, og han har valgt følgende forslag, som du kan læse mere om på [bornholm.info](https://bornholm.info/mit-bornholm-paa-cykel/).
+Magnus Cort kan godt lide en kuperet rute, og han har valgt følgende forslag, som du kan læse mere om på [bornholm.info](https://bornholm.info/6-cykelruter-magnus-cort/).
 
 Du kan finde ruteinformationerne ved at klikke på rutenavnet.
 

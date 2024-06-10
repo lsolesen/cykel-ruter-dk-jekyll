@@ -116,9 +116,9 @@ I denne beregninger kan du lave en beregning af din gearing og dine gear.
 
 Hvis du foretrækker at slå din gearing op i en geartabel, så har jeg samlet en tabel her med forskellige gearinger. Tabellen tager udgangspunkt i, at du har et 28" hjul, men du kan selv ændre det.
 
-Her har du et eksempel på, hvordan en geartabel ser ud for en racercykel med 26,8"" hjul.
+Her har du et eksempel på, hvordan en geartabel ser ud for en racercykel med 26,8" hjul.
 
-{% include figure image_path="https://velopress.dk/wp-content/uploads/2010/02/racer_geartabel1.jpg" caption="Eksempel på geartabel for en racercykel. Kilde: [Velopress.dk](https://velopress.dk/artikler/geartabel-til-racercykel/)" alt="geartabel" %}
+{% include figure image_path="https://web.archive.org/web/20210924161530im_/http://velopress.dk/wp-content/uploads/2010/02/racer_geartabel1.jpg" caption="Eksempel på geartabel for en racercykel. Kilde: [Velopress.dk](https://web.archive.org/web/20211026091037/https://velopress.dk/artikler/geartabel-til-racercykel/){: rel='noopener nofollow' }" alt="geartabel" %}
 
 ## Hvordan udregner jeg hvor mange meter jeg kører på en pedalomdrejning?
 
