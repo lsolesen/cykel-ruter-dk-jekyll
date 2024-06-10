@@ -23,7 +23,7 @@ feature_row:
     btn_label: "Besøg VisitFyn"
     btn_class: "btn--success"
 scanmaps:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_v2_fyn_small.jpg
+  - image_path: https://www.scanmaps.dk/media/cykel/c_small_fyn.png
     url: https://www.scanmaps.dk/0251f59?G=020
     alt: "Cykelkort #3 Fyn, Ærø, Tåsinge og Langeland"
     title: "Fyn, Ærø, Tåsinge og Langeland"

@@ -14,12 +14,12 @@ sidebar:
   - title: "Populære sider"
     nav: blog
 gallery:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_vestlige_jylland.jpg
+  - image_path: https://www.scanmaps.dk/media/cykel/c_small_vestlige_jylland.png
     url: https://www.scanmaps.dk/0251d62?G=020
     alt: "Cykelkort #6 Vestlige Jylland"
     title: "#6 Vestlige Jylland"
     rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_sydlige_jylland.jpg
+  - image_path: https://www.scanmaps.dk/media/cykel/c_small_sydlige_jylland.png
     url: https://www.scanmaps.dk/0251d61?G=020
     alt: "Cykelkort #7 Sydlige Jylland"
     title: "#7 Sydlige Jylland (nyt kort maj 2021)"

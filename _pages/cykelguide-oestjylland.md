@@ -14,17 +14,17 @@ sidebar:
   - title: "Populære sider"
     nav: blog
 gallery:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/_/s/_stlige_jylland_forside.jpg
+  - image_path: https://www.scanmaps.dk/media/cykel/c_small_ostlige_jylland.png
     url: https://www.scanmaps.dk/0251d60?G=020
     alt: "Cykelkort #4 Østlige Jylland"
     title: "#4 Østlige Jylland (nyt kort 2020)"
     rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_nordlige_jylland.jpg
+  - image_path: https://www.scanmaps.dk/media/cykel/c_small_nordlige_jylland.png
     url: https://www.scanmaps.dk/0251d63?G=020
     alt: "Cykelkort #5 Nordlige Jylland"
     title: "#5 Nordlige Jylland"
     rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_vestlige_jylland.jpg
+  - image_path: https://www.scanmaps.dk/media/cykel/c_small_vestlige_jylland.png
     url: https://www.scanmaps.dk/0251d62?G=020
     alt: "Cykelkort #6 Vestlige Jylland"
     title: "#6 Vestlige Jylland"

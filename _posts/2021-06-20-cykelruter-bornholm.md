@@ -15,7 +15,7 @@ category:
   - Cykelruter
 last_modified_at: 2021-06-18T12:21:26Z
 scanmaps:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/c/y/cykelkort_forside_bornholm.jpg
+  - image_path: https://www.scanmaps.dk/media/cykel/c_small_bornholm.png
     url: https://www.scanmaps.dk/0251d64?G=020
     alt: "Cykelkort #8 Bornholm"
     title: "#8 Bornholm"
