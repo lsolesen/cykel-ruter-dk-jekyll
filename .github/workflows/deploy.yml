@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 env:
-  RUBY_VERSION: "3.1.2"
+  RUBY_VERSION: "3.3.1"
   BUNDLER_VERSION: "2.3.21"
 
 # Here is where we define our jobs.
@@ -106,5 +106,4 @@ jobs:
             --ignore-status-codes "400,403,409,429"
             --allow-hash-href
             --ignore-empty-alt
-            --cache '{ "timeframe": { "external": "7d" } }'
           # The arguments to pass to HTMLProofer
