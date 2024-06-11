@@ -132,7 +132,7 @@ Du skal bruge følgende formel (tallet udregnes også i beregneren ovenfor):
 Meter pr. pedalomdrejning = PI * 2,54 * geartal / 100
 ***
 
-{% include figure image_path="https://velopress.dk/wp-content/uploads/2010/02/metertabel.jpg" caption="Eksempel på tabel med tilbagelagt distance pr. pedalomdrejning. Kilde: [Velopress.dk](https://velopress.dk/artikler/geartabel-til-racercykel/)" alt="geartabel" %}
+{% include figure image_path="https://web.archive.org/web/20211026091037im_/https://velopress.dk/wp-content/uploads/2010/02/metertabel.jpg" caption="Eksempel på tabel med tilbagelagt distance pr. pedalomdrejning. Kilde: [Velopress.dk](https://web.archive.org/web/20211026091037/https://velopress.dk/artikler/geartabel-til-racercykel/)" alt="geartabel" %}
 
 ## Hvad er min hastighed og fart ved en bestemt kadence og gearing?
 

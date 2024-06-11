@@ -38,7 +38,7 @@ Ringe-Korinth-cykelruten er en populær cykelrute i Danmark. Den løber mellem b
 
 {% include video provider="own-youtube" id="2UNsoMtooF8" %}
 
-Ruten vedligeholdes af [Naturstyrelsen](https://naturstyrelsen.dk/naturbeskyttelse/naturprojekter/naturstien-ringe-korinth/).
+Ruten vedligeholdes af [Naturstyrelsen](https://naturstyrelsen.dk/ny-natur/friluftsliv-og-kulturhistorie/ringe-korinth-natursti).
 
 ## Hvad du kan se undervejs
 

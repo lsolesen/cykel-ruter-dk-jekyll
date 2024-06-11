@@ -46,7 +46,7 @@ Der er nogle generelle regler, som alle cyklister skal følge, når de tager der
 - Cyklister må ikke køre på deres cykler i toget
 - Cyklister må ikke læne deres cykler mod sæderne
 
-Her kigger vi på nogle af de [opdaterede regler](https://dinoffentligetransport.dk/kundeservice/raad-og-regler/cykler-dyr-og-bagage/) for at tage cykler og cykelanhængere med i det offentlige.
+Her kigger vi på nogle af de [opdaterede regler](https://dinoffentligetransport.dk/saadan-rejser-du/cykler-og-loebehjul) for at tage cykler og cykelanhængere med i det offentlige.
 
 ## DSB og cykelbillet til Intercity og Regionaltog
 
@@ -117,12 +117,12 @@ Husk at du ikke må have cyklen med i Metroen i hverdagene mellem kl. 7.00 og 9.
 
 Du kan købe cykelbillet til metroen her:
 
-- DSB’s - og Metroens [billetautomater](https://dinoffentligetransport.dk/find-og-koeb-billet/salgssteder/billetautomater/)
-- DSBs [betjente salgssteder](https://dinoffentligetransport.dk/find-og-koeb-billet/salgssteder/betjente-salgssteder/) og i 7-Eleven på DSB stationer
+- DSB’s - og Metroens [billetautomater](https://dinoffentligetransport.dk/find-billetter/find-billetautomat)
+- DSBs [betjente salgssteder](https://dinoffentligetransport.dk/find-billetter/personlig-betjening) og i 7-Eleven på DSB stationer
 - Rejsekort kundetype cykel
-- [DOT Billetter app](https://dinoffentligetransport.dk/find-og-koeb-billet/salgssteder/dot-billetter-app/)
+- [DOT Billetter app](https://dinoffentligetransport.dk/find-billetter/dot-billetter-app)
 
-Læs mere om reglerne for at tage din cykel med i metroen på [dinoffentligetransport.dk](https://dinoffentligetransport.dk/kundeservice/raad-og-regler/cykler-dyr-og-bagage/).
+Læs mere om reglerne for at tage din cykel med i metroen på [dinoffentligetransport.dk](https://dinoffentligetransport.dk/saadan-rejser-du/cykler-og-loebehjul).
 
 {% comment %}
 

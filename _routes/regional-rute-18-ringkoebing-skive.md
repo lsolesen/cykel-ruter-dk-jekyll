@@ -5,7 +5,7 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
 header:
-  overlay_image: &image https://www.feriehusudlejning.dk/media/1510/web-gjellerodde.jpg
+  overlay_image: &image https://cf.bstatic.com/xdata/images/hotel/max1024x768/402370066.jpg?k=7701c935b6c99f26dc7e1c4f90578e57f56ffb002edd49d1e1f2a34655d33435&o=&hp=1
   caption: *title
   credit: "Billede fra Holstebro"
   teaser: *image

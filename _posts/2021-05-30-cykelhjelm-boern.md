@@ -39,6 +39,8 @@ I denne guide går jeg i dybden med følgende spørgsmål:
 - Hvilken cykelhjelm størrelse passer til dit barn?
 - Hvordan får du cykelhjelmen til at sidde rigtigt?
 
+{% include video provider="youtube" id="jNWFpIdq5Xk" %}
+
 ## Hvordan finder jeg den rigtige størrelse på cykelhjelm til dit barn?
 
 Uanset om du skal bruge en cykelhjelm til cykling, rulleskøjter, løbehjul eller skateboarding, er cykelhjelmen vigtig. Men hvis cykelhjelmen skal virke, så skal den have den rigtige størrelse.
@@ -127,7 +129,7 @@ En del af Nutcase cykelhjelme har et spænde der kan stilles i følgende større
 
 Det er forskelligt fra cykelhjelm til cykelhjelm, hvordan du får den til at sidde rigtigt efter, at du har valgt den rigtige størrelse.
 
-{% include figure image_path="https://www.cykelpartner.dk/media/77611/cykelhjelm-guide.png" caption="Hvis du kan indstille cykelhjelmen rigtigt, så ved du om cykelhjelmen passer i størrelsen til dit barn. Kilde: [cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk){: rel='sponsored nofollow noopener' }" alt="størrelse og indstilling af cykelhjelm til børn" %}
+{% include figure image_path="https://images.nexusapp.co/assets/4d/a1/6d/109594322.jpg" caption="Hvis du kan indstille cykelhjelmen rigtigt, så ved du om cykelhjelmen passer i størrelsen til dit barn. Kilde: [grandado.com](https://dk.grandado.com/products/mountainbike-hjelm-med-solskaerm-ultralet-justerbar-mtb-cykel-cykel-hjelm-maend-kvinder-sports-udendors-sikkerhedshjelm?variant=UHJvZHVjdFZhcmlhbnQ6Mjg0OTE1OTAy){: rel='sponsored nofollow noopener' }" alt="størrelse og indstilling af cykelhjelm til børn" %}
 
 Her har du tre tommelfingerregler for at få hjelmen til at sidde rigtigt:
 
@@ -170,6 +172,14 @@ Fribikeshop.dk skriver, at
 --- <cite>[Fribikeshop.dk](https://www.fribikeshop.dk/udstyr/til-dig/cykelhjelme/til-boern)</cite>
 
 Du kan tjekke meget mere [cykeludstyr](/cykeludstyr/).
+
+## Hvornår skal hjelmen udskiftes?
+
+Hvis du er uheldig at få et kraftigt slag på hjelmen under et styrt, skal den udskiftes. Selvom det ikke ser ud til på overfladen, at der er sket noget, så kan skallen godt være gået i stykker, og så er den skrøbelig over for et nyt, meget lille slag. Og så hjælper den ikke, hvis du er impliceret i et nyt uheldt. 
+
+Hvis cykelhjelmen ikke har fået slag eller skrammer, så holder den typisk 5 til 10 år alt efter, hvor meget du bruger den.
+
+{% include video provider="youtube" id="j1ThRl8ahj4" %}
 
 ## Hvor kan jeg købe cykelhjelme til børn?
 

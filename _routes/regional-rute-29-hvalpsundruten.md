@@ -54,4 +54,4 @@ Nibe-Års-Haubro "Hvalpsundruten" tilbyder vandrere en smuk udsigt over skovene 
 
 ## Links
 
-- [Naturstyrelsens beskrivelse](https://naturstyrelsen.dk/publikationer/2008/dec/naturstien-nibe-hvalpsund/)
+- [Naturstyrelsens beskrivelse](https://udinaturen.dk/shelter/8941)
