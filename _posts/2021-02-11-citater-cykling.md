@@ -52,7 +52,7 @@ feature_quotes_tour:
     cite: "Jørgen Leth"
 feature_row_ads:
   - image_path: "https://citatplakat.dk/wp-content/uploads/2020/01/cykelrytteren-plakaten-til-ham-eller-hende-der-cykler-i-klassisk-design.png"
-    url: "https://www.partner-ads.com/dk/klikbanner.php?bannerid=71238&partnerid=28187&htmlurl=https://citatplakat.dk/gaveideer/gave-til-ham/cykelrytteren-plakat/"
+    url: "https://track.adtraction.com/t/t?a=1873806873&as=1892865368&t=2&tk=1&url=https://citatplakat.dk/gaveideer/gave-til-ham/cykelrytteren-plakat/"
     title: "Cykelrytteren plakat"
     vendor: "Citatplakat.dk"
     category: "Dialægt plakater > Gave til ham > Plakat"
@@ -61,7 +61,7 @@ feature_row_ads:
     discounted: false
     id: "74634"
   - image_path: "https://citatplakat.dk/wp-content/uploads/2020/11/Plakat-med-tegning-af-cykel-PA10098.png"
-    url: "https://www.partner-ads.com/dk/klikbanner.php?bannerid=71238&partnerid=28187&htmlurl=https://citatplakat.dk/plakater/vaeltepeter-cykel-patent-plakat/"
+    url: "https://track.adtraction.com/t/t?a=1873806873&as=1892865368&t=2&tk=1&url=https://citatplakat.dk/plakater/vaeltepeter-cykel-patent-plakat/"
     title: "Væltepeter cykel plakat - Original patent tegning"
     vendor: "Citatplakat.dk"
     category: "Patent plakater > Plakater"
@@ -70,7 +70,7 @@ feature_row_ads:
     discounted: false
     id: "58369"
   - image_path: "https://citatplakat.dk/wp-content/uploads/2020/11/Plakat-med-tegning-af-cykel-PA10072.png"
-    url: "https://www.partner-ads.com/dk/klikbanner.php?bannerid=71238&partnerid=28187&htmlurl=https://citatplakat.dk/plakater/cykel-patent-plakat/"
+    url: "https://track.adtraction.com/t/t?a=1873806873&as=1892865368&t=2&tk=1&url=https://citatplakat.dk/plakater/cykel-patent-plakat/"
     title: "Cykel plakat - Original patent tegning"
     vendor: "Citatplakat.dk"
     category: "Patent plakater > Plakater"
@@ -79,7 +79,7 @@ feature_row_ads:
     discounted: false
     id: "58145"
   - image_path: "https://citatplakat.dk/wp-content/uploads/2020/11/Ordspil-plakat-cykelstyr-HI00054GR.png"
-    url: "https://www.partner-ads.com/dk/klikbanner.php?bannerid=71238&partnerid=28187&htmlurl=https://citatplakat.dk/plakater/far-jokes/far-har-styr-paa-det/"
+    url: "https://track.adtraction.com/t/t?a=1873806873&as=1892865368&t=2&tk=1&url=https://citatplakat.dk/plakater/far-jokes/far-har-styr-paa-det/"
     title: "Far har styr på det"
     vendor: "Citatplakat.dk"
     category: "Black Friday 2020 limited editions > Far Jokes - Black Friday limited > Gave til far > Gavehit > Plakater > Plakater med far jokes"
