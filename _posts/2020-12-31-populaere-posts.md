@@ -12,7 +12,18 @@ tags:
   - website
 category:
   - Inspiration
-last_modified_at: 2022-12-31T18:21:26Z
+last_modified_at: 2024-07-31T18:21:26Z
+popular_posts_2023:
+  - /gennemsnitsfart-cykling/
+  - /cykelruter-danmark/
+  - /cykelkort/
+  - /cykelslanger-storrelse-tabel/
+  - /cykelruter-koebenhavn/
+  - /gearing-beregner-cykling/
+  - /cykling-apps/
+  - /stelnummer/
+  - /nationale-cykelruter/
+  - /garmin-connect-ruteplanlaegning-alltrails/
 popular_posts_2022:
   - /cykelkort/
   - /cykelruter-danmark/
@@ -76,7 +87,25 @@ popular_routes:
 
 Det har været et godt år på cykel-ruter.dk. Vi har skrevet en del artikler, og vores besøgstal er virkelig gået i vejret.
 
-Her samler vi op på de mest populære blog posts i løbet af i år. Der er nogle ældre blog posts, men en del af de nye artikler har også fundet vej til top {{ popular_posts_2022.size }} listen.
+Her samler vi op på de mest populære blog posts i løbet af i år. Der er nogle ældre blog posts, men en del af de nye artikler har også fundet vej til top {{ popular_posts_2023.size }} listen.
+
+## De {{ popular_posts_2023.size }} mest populære blog posts i løbet af 2023
+
+I 2023 har vi haft 180.779 sidevisninger fordelt på 71.370 brugere. Det er vi vældig godt tilfredse med.
+
+{% for permalink in page.popular_posts_2023 %}
+
+{% assign site_posts = site.posts | where: "permalink", permalink %}
+{% assign site_pages = site.pages | where: "permalink", permalink %}
+{% assign site_posts = site_posts | concat: site_pages %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+{% endfor %}
 
 ## De {{ popular_posts_2022.size }} mest populære blog posts i løbet af 2022
 
