@@ -1,0 +1,1 @@
+let motionsplan={};motionsplan.Gearing=function(b,c,d){function a(){return b*c/d}function e(){return Math.PI*2.54*a()/100}function f(b){return 60*b*Math.PI*2.54*a()/1e5}let g={getGearTal:a,getMeterPerRound:e,getVelocityAtCadence:f};return g},module.exports=motionsplan
