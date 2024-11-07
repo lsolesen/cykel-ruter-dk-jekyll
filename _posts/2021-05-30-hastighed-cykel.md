@@ -36,7 +36,7 @@ Men lad os dykke ned i det med det samme med en beregner:
 
 I denne beregner af hastighed på cykel kan du udregne, hvor hurtigt du cykler, når du kender distancen og tiden.
 
-{% include calculate-hastighed.html %}
+{% include calculator/calculate-hastighed.html %}
 
 Det mest præcise er naturligvis, hvis du har en cykelcomputer, som kan måle, hvor hurtigt du kører. Men hvis du ikke har en cykelcomputer, så kan du naturligvis selv måle op, hvor langt du har kørt fx på Garmin Connect ruteplanlægger eller andre ruteplanlæggere.
 
@@ -57,13 +57,13 @@ Jeg vil gerne udvide tabellen med bedre data. Hvis du har nogle gode indsigter o
 
 Jeg har lavet en beregner, så du kan udregne hvor hurtigt, man cykler x antal kilometer. Det kan være godt at vide, hvor hurtigt man cykler fx 5 eller 10 km, når du skal et sted hen.
 
-{% include calculate-hastighed-time.html %}
+{% include calculator/calculate-hastighed-time.html %}
 
 ## Hvor langt cykler man i et tidsrum?
 
 I denne beregner kan du udregne hvor mange km, man cykler i timen, når du kender din omtrentlige hastighed og tidsrummet.
 
-{% include calculate-hastighed-distance.html %}
+{% include calculator/calculate-hastighed-distance.html %}
 
 ## Hvor hurtigt cykler børn?
 

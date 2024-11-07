@@ -110,7 +110,7 @@ Jeg kan godt selv lide at køre med relativ høj kadence, altså træde rimelig 
 
 I denne beregninger kan du lave en beregning af din gearing og dine gear.
 
-{% include calculate-gearing.html %}
+{% include calculator/calculate-gearing.html %}
 
 ## Geartabel: Tabel over cykel gearing
 

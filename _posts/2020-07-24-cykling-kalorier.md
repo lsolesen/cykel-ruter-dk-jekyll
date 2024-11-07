@@ -159,7 +159,7 @@ Du indtaster din vægt, din cykelaktivitet og tidsforbruget på cyklen, og så f
 
 ## Beregner til kalorieforbrænding ved cykling
 
-{% include calculate-met.html %}
+{% include calculator/calculate-met.html %}
 
 ## Eksempel fra kalorieberegner til cykling
 
