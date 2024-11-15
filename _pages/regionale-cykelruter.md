@@ -64,7 +64,7 @@ En regional cykelrute forløber gennem flere kommuner. Typisk er ruten længere 
 
 De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet alle de regionale cykelruter, jeg har tilladelse til her på sitet. Hvis du vil bidrage med beskrivelser af nogle regionale cykelruter, så vil jeg blive rigtig glad.
 
-{% assign site_posts = site.routes | where: "category", "Regional Cykelrute" | sort: "title" %}
+{% assign site_posts = collections.routes | where: "category", "Regional Cykelrute" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -78,17 +78,17 @@ De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet 
 
 Nogle af mine favoritter af de regionale cykelruter er banestierne, som følger gamle nedlagte jernbaner. De fleste af disse stier er lavet, så der ikke må komme biler på ruterne - og typisk er ruterne også relativt flade.
 
-[Læs mere om banestier]({% link _posts/2021-06-19-banestier.md %})
+[Læs mere om banestier]({% link collections.posts, "_posts/2021-06-19-banestier.md" %})
 
 ## Kort over de regionalruterne
 
-Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de danske regionalruter.
+Det er rigtig godt at have et detaljeret [cykelkort]({% link collections.posts, "_posts/2020-06-04-cykelkort.md" %}), når du tager på cykeltur på de danske regionalruter.
 
 Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor man kan blive i tvivl.
 
 Hvilket cykelkort du skal bruge til de regionale cykelruter afhænger naturligvis af, hvilken rute du gerne vil cykle.
 
-Jeg har skrevet en guide til de [bedste cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}), som du måske kan lade dig inspirere af.
+Jeg har skrevet en guide til de [bedste cykelkort over Danmark]({% link collections.posts, "_posts/2020-06-04-cykelkort.md" %}), som du måske kan lade dig inspirere af.
 
 Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored nofollow noopener" }, [Tales](https://tales.dk/boeger/tag/cykelruter/){: rel="sponsored nofollow noopener" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }. Det er reklamelinks, og hvis du bruger dem, tjener jeg en lille smule kommision, som er med til at finansiere driften af dette site. **Din pris er den samme**.
 

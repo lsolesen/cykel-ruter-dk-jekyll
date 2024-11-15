@@ -60,6 +60,6 @@ På vejen til Ringkøbing Fjord krydser vi Skjern Å, hvis svingninger i 2003 en
 - Tændpibe Vindmøllepark
 - Ringkøbing
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

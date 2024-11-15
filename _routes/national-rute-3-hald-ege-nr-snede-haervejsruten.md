@@ -32,7 +32,7 @@ rubble: 2
 
 Dette er et delforløb af [National Cykelrute 3: Hærvejsruten](/rute/national-rute-3-haervejsruten/). Denne del af Hærvejsruten er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, cyklen blev opfundet.**
 
-Ruten går over Hald Ege og Dollerup, og den kører næsten parallelt med den [regionale rute 21 Alhedestien]({% link _routes/regional-rute-21-viborg-herning-alhedestien.md %}) til Skelhøje. Ruterne skilles midlertidigt omkring Hald Hovedgård, hvor du i laden kan se modeller af landskabet og få et indtryk af isens betydning for området og landskabet.
+Ruten går over Hald Ege og Dollerup, og den kører næsten parallelt med den [regionale rute 21 Alhedestien]({% link collections.routes, "_routes/regional-rute-21-viborg-herning-alhedestien.md" %}) til Skelhøje. Ruterne skilles midlertidigt omkring Hald Hovedgård, hvor du i laden kan se modeller af landskabet og få et indtryk af isens betydning for området og landskabet.
 
 Ikke så langt derfra på en odde ligger i Hald Sø ruinerne af en borg, der blev bygget af Viborgs sidste katolske biskop, Jørgen Friis. Dette område egner sig fortrinligt til at lege røvere og soldater eller bare nyde pausen i ro og mag. Herefter kan du nyde den fabelagtige udsigt langs Hald Sø op mod de lyngbeklædte hedearealer ved Dollerup Bakker. Heromkring er sveden måske begyndt at pible frem i det kuperede terræn. Hvis det bliver for varmt, kan du stille cyklen og følge en af vandreruterne i området.
 
@@ -72,7 +72,7 @@ Efter en længere tur på grusvej, er der igen sikker asfalt under hjulene, mens
 - Vrads Sande
 - Veteran Jernbane
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include video provider="own-youtube" id="O5Toh-e2BRI" %}
 

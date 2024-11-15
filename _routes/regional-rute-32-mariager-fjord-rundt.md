@@ -21,7 +21,7 @@ gps:
   provider: alltrails
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 I Mariager kan du gå en tur på de toppede brosten blandt bindingsværkshuse med roser og stokroser. Byens idylliske centrum er sjældent velbevaret. Her ligger også Danmarks Saltcenter, hvor du kan opleve saltminen, tage et saltbad, besøge sydehytten, prøve den interaktive multimedie-biograf, eller bare nyde udsigten over fjorden fra caféen eller Salthaven med salttålende planter.
 
@@ -39,8 +39,8 @@ Fra Hobro læner du dig ind over styret for at køre op af fjordskrænten mod Va
 
 Med den smukke udsigt over fjorden som tro følgesvend når du hurtigt tættere på Hadsund. På vejen passerer du bl.a. den mindre herregård, Ovegård, med tilhørende arealer og den flotte kirke i Vive, hvis granitkvadrer stammer helt tilbage fra ca midten af 1200-tallet. I Hadsund kan man på byens Egnsmuseum blive klog på områdets historie og de perioder, der har haft afgørende betydning for byens nuværende position som handelsby. Hvis man på nærmere og mere praktisk hold vil vide mere herom kan man gå en tur i gågadens handelsliv, hvor gadens café- og butiksliv og de flotte vand- og stenskulpturer skaber en hyggelig atmosfære. Enkelte lørdage bliver der afholdt gammeldags torvedag i gaden.
 
-Fra Hadsund til Mariager følger ruten først den nationale cykelrute 5 til Norup og derefter den [regional cykelrute 18 til Mariager]({% link _routes/regional-rute-18-aarhus-norup.md %}). Du kan læse mere om denne strækning under beskrivelsen af disse ruter.
+Fra Hadsund til Mariager følger ruten først den nationale cykelrute 5 til Norup og derefter den [regional cykelrute 18 til Mariager]({% link collections.routes, "_routes/regional-rute-18-aarhus-norup.md" %}). Du kan læse mere om denne strækning under beskrivelsen af disse ruter.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

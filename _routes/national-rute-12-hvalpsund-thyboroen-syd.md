@@ -80,6 +80,6 @@ Turen slutter i feriebyen, Thyborøn, som er omgivet af hav, fjord og et variere
 - Humlum Fiskerleje
 - Toftum Bjerge
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

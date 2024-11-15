@@ -1,0 +1,66 @@
+<form class="calculator" id="calculator_gearing">
+  <fieldset>
+    <legend>Udregn geartal og gearing på en cykel.</legend>
+    <div class="form-group">
+      <label>
+      <input
+        name="wheel_diameter"
+        id="wheel_diameter"
+        type="number"
+        min="10"
+        max="200"
+        placeholder="Tommer"
+        step="0.1"
+      />
+    </label>
+    </div>
+
+    <div class="form-group">
+      <label>Tænder på forreste klinge
+        <input
+        name="klinge"
+        id="klinge"
+        type="number"
+        min="10"
+        max="200"
+        placeholder="Tænder"
+        step="1"
+      />
+    </label>
+    </div>
+    <div class="form-group">
+        <label>Tænder på gearhjulet (bagerst)
+          <input
+          name="gearhjul"
+          id="gearhjul"
+          type="number"
+          min="10"
+          max="200"
+          placeholder="Tænder"
+          step="1"
+        />
+      </label>
+      </div>
+      <input type="submit" value="Beregn" />
+  </fieldset>
+  <fieldset class="results">
+    <div class="form-group">
+      <label>
+        Geartal
+        <input type="number" id="geartal" disabled="disabled" />
+      </label>
+    </div>
+    <div class="form-group">
+        <label>
+          Meter pr. omdrejning
+          <input type="number" id="meter_per_round" disabled="disabled" />
+        </label>
+      </div>
+      <div class="form-group">
+        <label>
+          Hastighed ved kadence
+          <input type="number" id="velocity_at_cadence" disabled="disabled" class="input-small" /> <input type="number" id="cadence" name="cadence" min="30" max="200" value="80" class="input-small" /> <span class="help-inline">RPM</span>
+        </label>
+      </div>
+    </fieldset>
+</form>

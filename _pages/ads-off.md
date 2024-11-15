@@ -5,9 +5,9 @@ permalink: /ads/off/
 author_profile: true
 sitemap: false
 toc: false
-intro:
-  - excerpt: 'Følg os på &nbsp; [<i class="fab fa-facebook-f"></i> Facebook](https://www.facebook.com/cykelruterdk){: .btn .btn--facebook } og [<i class="fab fa-pinterest"></i> Pinterest](https://www.pinterest.dk/cykelruter/){: .btn .btn--danger }'
-
+feature_rows:
+  intro:
+    - excerpt: 'Følg os på &nbsp; [<i class="fab fa-facebook-f"></i> Facebook](https://www.facebook.com/cykelruterdk){: .btn .btn--facebook } og [<i class="fab fa-pinterest"></i> Pinterest](https://www.pinterest.dk/cykelruter/){: .btn .btn--danger }'
 ---
 
 Tak fordi du følger med på Cykel-ruter.dk. Normalt vises der reklamer på Cykel-ruter.dk for at dække driften af sitet, men du har lige **aktiveret en reklamefri Cykel-ruter.dk**. Forhåbentlig giver det dig en endnu bedre oplevelse på sitet.

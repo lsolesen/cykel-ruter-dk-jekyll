@@ -20,9 +20,9 @@ Der findes mange online cykelhandlere. Jeg har her valgt cykelbutikker, der har 
 
 Jeg har udvalgt online cykelbutikker i Danmark, England og Tyskland som alle sender til Danmark. Jeg foretrækker selv at handle i Danmark, men du kan ofte finde nogle rigtig gode priser i England og Tyskland. Efter Brexit er det formentlig ikke helt så attraktivt længere at handle i England.
 
-Når du har lavet din [pakkeliste til cykelturen]({% link _posts/2019-07-01-pakkeliste.md %}), så har du måske opdaget et par ting, du mangler. Jeg har valgt nogle gode online cykelhandlere ud her, hvor du kan købe det meste cykeludstyr.
+Når du har lavet din [pakkeliste til cykelturen]({% link collections.posts, "_posts/2019-07-01-pakkeliste.md" %}), så har du måske opdaget et par ting, du mangler. Jeg har valgt nogle gode online cykelhandlere ud her, hvor du kan købe det meste cykeludstyr.
 
-Jeg har skrevet en anden guide til at [vælge kort over cykelruter i Danmark](/cykelkort/) eller finde [gode cykelbøger]({% link _posts/2021-02-17-cykelboger.md %}).
+Jeg har skrevet en anden guide til at [vælge kort over cykelruter i Danmark](/cykelkort/) eller finde [gode cykelbøger](/cykelboeger-bedste-boeger-om-cykling/).
 
 Men lad os dykke ned i listen over online cykelhandlere.
 
@@ -30,7 +30,7 @@ Men lad os dykke ned i listen over online cykelhandlere.
 
 Her kan du finde online cykelhandlere og webshops i Danmark. I disse online cykelbutikker kan du købe din cykel, udstyr til cyklen og reservedele.
 
-{% assign site_posts = site.data.forhandlere | where: "country", "Danmark" | sort: "title" %}
+{% assign site_posts = forhandlere | where: "country", "Danmark" | sort: "title" %}
 
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
@@ -42,7 +42,7 @@ Her kan du finde online cykelhandlere og webshops i Danmark. I disse online cyke
 
 Her kan du købe en cykel i Tyskland. I en tysk cykel webshop kan du ofte få nogle gode priser. Her er tyske forhandlere af cykler, cykeludstyr og reservedele til cykler. Alle disse onlineforhandlere leverer til Danmark.
 
-{% assign site_posts = site.data.forhandlere | where: "country", "Tyskland" | sort: "title" %}
+{% assign site_posts = forhandlere | where: "country", "Tyskland" | sort: "title" %}
 
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
@@ -54,7 +54,7 @@ Her kan du købe en cykel i Tyskland. I en tysk cykel webshop kan du ofte få no
 
 Inden Brexit kunne man ofte få gode tilbud, når du ville købe en cykel i England. I engelske onlineshops med cykler i listen her kan du finde cykler, cykeludstyr og reservedele. Alle cyklebutikker på listen leverer til Danmark.
 
-{% assign site_posts = site.data.forhandlere | where: "country", "England" | sort: "title" %}
+{% assign site_posts = forhandlere | where: "country", "England" | sort: "title" %}
 
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
@@ -76,6 +76,6 @@ Jeg har gode erfaringer med alle webshops her på listen, men når du handler on
 
 Hvis du vil støtte cykel-ruter.dk og udviklingen af sitet, så kan du handle ved vores samarbejdspartnere. Jeg får en lille kommision, hvis du handler hos dem, men prisen er den samme for dig.
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

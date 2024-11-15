@@ -80,7 +80,7 @@ Du kan se en oversigt over alle de nationale cykelruter i skemaet nedenunder.
 
 ## Oversigt over de danske nationalruter
 
-{% assign routes = site.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
+{% assign routes = collections.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
 
 | | Navn	| Længde | Asfalt | Note |
 |-|-|-|-|-|
@@ -95,7 +95,7 @@ Du kan se en oversigt over alle de nationale cykelruter i skemaet nedenunder.
 
 Vi har beskrevet nationalruterne her. Under de enkelte rutebeskrivelser kan du også finde beskrivelser af de forskellige delforløb og etaper på ruterne. Det kan være meget hjælpsomt, hvis du kun vil køre en kortere distance.
 
-{% assign site_posts = site.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -107,7 +107,7 @@ Vi har beskrevet nationalruterne her. Under de enkelte rutebeskrivelser kan du o
 
 ## Kort over de nationale cykelruter
 
-Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de nationale cykelruter. Du kan få et overblik over nationalruterne på [Vejdirektoratets side](https://www.vejdirektoratet.dk/faq-svar/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter).
+Det er rigtig godt at have et detaljeret [cykelkort]({% link collections.posts, "_posts/2020-06-04-cykelkort.md" %}), når du tager på cykeltur på de nationale cykelruter. Du kan få et overblik over nationalruterne på [Vejdirektoratets side](https://www.vejdirektoratet.dk/faq-svar/hvor-kan-jeg-finde-kort-over-de-nationale-cykelruter).
 
 Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor man kan blive i tvivl.
 
@@ -183,4 +183,4 @@ Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cyclin
 
 Jeg håber du fik et godt overblik over de nationale cykelruter. Husk at du kan vælge at køre delforløb eller etaper af de enkelte cykelruter.
 
-Husk også at få tjekket, hvilket [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), du skal have med på ruten. De nationale cykelruter er naturligvis kun et udsnit af [cykelruter i Danmark](/cykelruter-danmark/).
+Husk også at få tjekket, hvilket [cykelkort]({% link collections.posts, "_posts/2020-06-04-cykelkort.md" %}), du skal have med på ruten. De nationale cykelruter er naturligvis kun et udsnit af [cykelruter i Danmark](/cykelruter-danmark/).

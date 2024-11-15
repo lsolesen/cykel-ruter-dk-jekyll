@@ -60,11 +60,11 @@ En omlægning og udvidelse af Sydhavsruten (360 km).
 - Østersøruten - Etape 11 Assens - Middelfart
 - Østersøruten - Etape 11 Middelfart - Christiansfeld
 
-{% assign site_posts = site.routes | where: "tags", "National Cykelrute 8" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 8" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
-## Delforløb af {{ page.title }}
+## Delforløb af {{ title }}
 
 <div class="feature__wrapper">
   {% for post in site_posts %}
@@ -79,6 +79,6 @@ Hvis du har brug for en fuldstændigt cykelkort over Østersøruten, så kan du 
 
 {% include figure image_path="https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg" caption="Kortbogen over Nationalrute 8: Østersøruten dækker cykelture gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. Kortbogen er på tysk. [Tjek prisen på bogen](https://www.scanmaps.dk/0251g04?G=020){: rel='sponsored nofollow noopener' }" alt="Cykelkort over Nationalrute 8 på Fyn" %}
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

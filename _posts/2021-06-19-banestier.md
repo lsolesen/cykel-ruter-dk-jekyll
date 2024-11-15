@@ -201,7 +201,7 @@ Læs mere: [Fodsporet fra Slagelse til Næstved til Skælskør](/rute/fodsporet-
 
 Herunder kan du se nogle af de beskrivelser, vi har lavet af banestier.
 
-{% assign site_posts = site.routes | where: "tags", "banesti" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "tags", "banesti" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

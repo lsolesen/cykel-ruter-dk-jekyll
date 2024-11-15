@@ -25,7 +25,7 @@ asphalt: 27
 rubble: 16
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter i Hornslet, hvor man kan kigge ind i Hornslet kirke for at se et usædvanligt kalkmaleri helt tilbage fra omkring 1250.
 
@@ -55,6 +55,6 @@ Grenå er kendt for Kattegatcenteret, hvor man kan stå ansigt til ansigt med fr
 - Kattegatcentret
 - Grenå
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

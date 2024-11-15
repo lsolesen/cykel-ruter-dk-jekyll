@@ -25,7 +25,7 @@ asphalt: 24
 rubble: 4
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Vi starter i Stenvad, hvor der er mulighed for at besøge Stenvad Mosebrugscenter. Centeret viser tørvegravningens og mosebrugets historie. Om sommeren er forskellige aktivitetsværksteder åbne og man kan køre en tur med "Tørvegrisen" på det gamle 2,5 km lange tipvognsspor, der engang forbandt mosen med fabrikken. Midtvejs stopper "grisen" ved en rasteplads, så man kan nyde medbragt mad.
 
@@ -37,7 +37,7 @@ Efter disse mere eller mindre turistprægede oplevelser kommer vi forbi den lill
 
 Grusstien ender omkring Smouen, hvor vi forlader skovens dejlige natur og skyggeområde og igen mærker, hvor hurtigt asfalten sender os afsted. Og på det helt rigtige tidspunkt. På vejen fra Smouen og ind mod Rønde bliver landskabet trættende kuperet, idet vi kører op over den markante bakkebue, der ligger langs den nordlige del af Kalø Vig. Områdets mange gravhøje vidner om en lang historie. På vejen passerer vi et Teddy Museum, som på bestilling arrangerer fremvisninger og fortæller historier, som knytter sig til mussets mange nye og gamle bamser.
 
-Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der nærmere beskrives under [national cykelrute 5]({% link _routes/national-rute-5-ostkystruten.md %}).
+Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der nærmere beskrives under [national cykelrute 5]({% link collections.routes, "_routes/national-rute-5-ostkystruten.md" %}).
 
 ## Rettelser til skiltningen
 
@@ -50,6 +50,6 @@ Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der n
 - Skarresø
 - Kalø Slotsruin
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

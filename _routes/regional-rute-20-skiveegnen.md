@@ -24,7 +24,7 @@ asphalt: 240
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Denne rute er ikke helt som de andre ruter. Den går ikke fra et sted til et andet sted, men er mere et system af forbundne veje rundt på Skiveegnen. Så inden du sætter dig i sadlen, bør du planlægge, hvad du helst vil se. Denne beskrivelse er ikke udtømmende for alle de vejvalg, du kan tage, men er et forslag til at køre på den del af ruten, der ikke følger andre ruter. En del af den skiltede rute følger nationale cykelrute 2 og 12 nær kysten, så disse strækninger kan du læse mere om under de respektive ruter.
 
@@ -40,7 +40,7 @@ Efter Sevel kan du begynde at følge skiltene mod Hjerl Hede Frilandsmuseum, der
 
 Drej herefter mod Nr. Lem og op mod Rødding, hvor du kommer tæt forbi Spøttrup Borg. Borgen er fra middelalderen og er omgivet af grave og volde. I borgparken findes et anlæg med en af landets største samlinger af lægeurter. Ikke langt fra borgen ligger den genoprettede Spøttrup Sø, hvor der er et fugletårn, så alle med en kikkert kan nyde det rige fugleliv omkring søen. Fra Rødding kan du skyde genvej mod Krejbjerg, hvor ruten for en kort stund genforenes med national cykelrute 12. Du kan vælge at fortsætte østpå gennem Oddense og Jebjerg mod Grinderslev, hvor byens sognekirke har en lang historie. Oprindeligt var den en del af Grinderslev Kloster, der blev grundlagt i 1175 som Sallings eneste middelalderlige kloster.
 
-Efter Grindslev kører du tæt forbi den genoprettede natur omkring Brokholm Sø, inden ruten igen møder [national cykelrute 12]({% link _routes/national-rute-12-limfjordsruten.md %}) tæt på kysten ved Risgåde Bredning. Læs mere om mulighederne for at komme videre herfra under den nationale cykelrute 12. Det var et forslag til, hvordan du kan køre den regionale cykelrute 20, men med et kort i hånden kan du selv lave dine egne opdagelser på Skive-egnen.
+Efter Grindslev kører du tæt forbi den genoprettede natur omkring Brokholm Sø, inden ruten igen møder [national cykelrute 12]({% link collections.routes, "_routes/national-rute-12-limfjordsruten.md" %}) tæt på kysten ved Risgåde Bredning. Læs mere om mulighederne for at komme videre herfra under den nationale cykelrute 12. Det var et forslag til, hvordan du kan køre den regionale cykelrute 20, men med et kort i hånden kan du selv lave dine egne opdagelser på Skive-egnen.
 
 ## Seværdigheder
 
@@ -58,6 +58,6 @@ Efter Grindslev kører du tæt forbi den genoprettede natur omkring Brokholm Sø
 - Spøttrup Sø
 - Grinderslev Kirke
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

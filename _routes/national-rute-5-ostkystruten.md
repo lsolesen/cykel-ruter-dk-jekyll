@@ -29,15 +29,15 @@ asphalt: 585
 rubble: 65
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 {% include video provider="own-youtube" id="oh5U8PtXGC8" %}
 
-{% assign site_posts = site.routes | where: "tags", "National Cykelrute 5" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 5" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
-## Delforløb af {{ page.title }}
+## Delforløb af {{ title }}
 
 <div class="feature__wrapper">
   {% for post in site_posts %}
@@ -46,6 +46,6 @@ rubble: 65
 </div>
 {% endif %}
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

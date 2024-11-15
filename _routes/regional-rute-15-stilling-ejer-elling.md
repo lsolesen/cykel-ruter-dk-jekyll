@@ -24,7 +24,7 @@ asphalt: 19
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Start med en dyb indånding og nyd udsigten over Stilling Sø, inden du kører mod Skanderborg, hvor du kan besøge bymuseet i den gamle bydel og slotskirken, som er den eneste bevarede bygning fra det tidligere Skanderborg Slot. Kig også forbi Dyrehaven, hvor der i en tysk bunker fra 2. verdenskrig er opført et frihedsmuseum. På vej gennem byen kører du forbi Skanderborg Sø, hvor der bl.a. er bademuligheder og sejlads med rutebåde.
 
@@ -44,6 +44,6 @@ Syd for Ejer Baunehøj ved landsbyen, Elling, får ruten kontakt med den regiona
 - Mossø
 - Ejer Bavnehøj
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

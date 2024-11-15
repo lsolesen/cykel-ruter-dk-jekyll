@@ -48,7 +48,7 @@ Kig forbi den dejlige Jesperhus Blomster Park, eller tag en afstikker til eventy
 Rute 2 fører os ind i Nykøbing Mors, en hyggelig købstad og kendt for at det var her Janteloven (de 10 negative bud) blev skrevet. Et særligt interessant museum er bymuseet Dueholm Kloster som byder på en lærerig oplevelse af en typisk dansk købstads historie. Ud over dette er der støberi museet som viser jernstøberiets historie.
 
 
-## Seværdigheder på {{ page.title }}
+## Seværdigheder på {{ title }}
 
 - Jenle
 - Eskjær
@@ -60,6 +60,6 @@ Rute 2 fører os ind i Nykøbing Mors, en hyggelig købstad og kendt for at det 
 - Dueholm Kloster
 - Støberimuseet
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

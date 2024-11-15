@@ -85,7 +85,7 @@ Tænk over følgende når du vælger cykelrute:
 - Vælg en skiltet rute, så børnene også har mulighed for at følge med i, hvilken vej ruten går.
 - Vælg en rute hvor det er muligt at holde pauser - og hvor man måske kan lege lidt undervejs.
 
-{% assign site_posts = site.routes | where: "tags", "børnevenlig" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "tags", "børnevenlig" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## Gode børnevenlige cykelruter til børn

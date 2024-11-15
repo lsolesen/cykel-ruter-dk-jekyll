@@ -9,40 +9,41 @@ tags:
 last_modified_at: 2019-06-28T16:08:57Z
 toc: true
 excerpt: "På cykelferie og cykeltur kan du få brug for at reparere cyklen. Hvilket cykelværktøj er godt at have med på turen?"
-feature_row_bog:
-  - image_path: https://imgcdn.saxo.com/_9788717044654/0x500
-    alt: "Cykelreparation"
-    title: "Cykelreparation"
-    excerpt: "Cykelreparation dækker alt lige fra lapninger og daglig vedligeholdelse til avancerede teknikker til hjulopretning og justering af gear eller bremser på din mountainbike."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-feature_row_minimum:
-  - image_path: https://www.outmore.dk/img/shopid/7/varer/300/swiss-tech-rx20-760750350601-100012295.jpg
-    alt: "Swiss+ Multitool"
-    title: "Swiss+ Multitool"
-    excerpt: "Multitool så du kan klare de fleste opgaver på farten. Rx20 er meget høj kvalitet, lavet i rustfrit stål og kan klare næsten alle tænkelige opgaver."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/swiss-tech-rx20"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.outmore.dk/img/shopid/7/varer/300/topeak-survival-tool-wedge-ii-4712511829907-tc2276b.jpg
-    alt: "Topeak Survival Tool"
-    title: "Topeak Survival Tool"
-    excerpt: "Topeak Wedge pack har stor åbning, samt bred refleks, der giver god sikkerhed på vejene. Den indeholder alt hvad du har brug for til at fikse cyklen på farten."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/topeak-survival-tool-wedge-ii"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://cykelexperten.b-cdn.net/thumbnail/3f/af/77/1584348168/uploads_2017_01_getimage.ashx-104_1920x1920.jpeg
-    alt: "BBB WindWave cykelpumpe"
-    title: "BBB WindWave cykelpumpe"
-    excerpt: "Rigtig god basis pumpe fra BBB. Simpel og sikker minipumpe. Der kan fastlåses om ventilen. Pumper op til 7 bar / 100 psi og har metalstempel. Passer til racer-, auto- og dvventil og vejer 111 gram."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=35898&htmlurl=https://cykelexperten.dk/bbb-windwave-cykelpumpe-bmp-54/?source=partner-ads"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopeners
+feature_rows:
+  feature_row_bog:
+    - image_path: https://imgcdn.saxo.com/_9788717044654/0x500
+      alt: "Cykelreparation"
+      title: "Cykelreparation"
+      excerpt: "Cykelreparation dækker alt lige fra lapninger og daglig vedligeholdelse til avancerede teknikker til hjulopretning og justering af gear eller bremser på din mountainbike."
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
+      btn_label: "Læs mere"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+  feature_row_minimum:
+    - image_path: https://www.outmore.dk/img/shopid/7/varer/300/swiss-tech-rx20-760750350601-100012295.jpg
+      alt: "Swiss+ Multitool"
+      title: "Swiss+ Multitool"
+      excerpt: "Multitool så du kan klare de fleste opgaver på farten. Rx20 er meget høj kvalitet, lavet i rustfrit stål og kan klare næsten alle tænkelige opgaver."
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/swiss-tech-rx20"
+      btn_label: "Læs mere"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.outmore.dk/img/shopid/7/varer/300/topeak-survival-tool-wedge-ii-4712511829907-tc2276b.jpg
+      alt: "Topeak Survival Tool"
+      title: "Topeak Survival Tool"
+      excerpt: "Topeak Wedge pack har stor åbning, samt bred refleks, der giver god sikkerhed på vejene. Den indeholder alt hvad du har brug for til at fikse cyklen på farten."
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=44269&htmlurl=https://www.outmore.dk/topeak-survival-tool-wedge-ii"
+      btn_label: "Læs mere"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+    - image_path: https://cykelexperten.b-cdn.net/thumbnail/3f/af/77/1584348168/uploads_2017_01_getimage.ashx-104_1920x1920.jpeg
+      alt: "BBB WindWave cykelpumpe"
+      title: "BBB WindWave cykelpumpe"
+      excerpt: "Rigtig god basis pumpe fra BBB. Simpel og sikker minipumpe. Der kan fastlåses om ventilen. Pumper op til 7 bar / 100 psi og har metalstempel. Passer til racer-, auto- og dvventil og vejer 111 gram."
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=35898&htmlurl=https://cykelexperten.dk/bbb-windwave-cykelpumpe-bmp-54/?source=partner-ads"
+      btn_label: "Læs mere"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopeners
 sidebar:
   nav: bikes
 header:
@@ -64,7 +65,7 @@ Det er klart, at du kan få mekaniske problemer på en cykelferie. Men du skal i
 
 Hvis du ikke har mod på at sørge for disse ting, kan du få din cykelhandler til det. Han har stor erfaring med at vurdere cyklens tilstand og kan sørge for, at de rigtige ting bliver ordnet.
 
-{% include figure image_path=page.header.overlay_image alt=page.title %}
+{% include figure image_path=header.overlay_image alt=title %}
 
 ## Hvilket værktøj skal du have med?
 
@@ -113,6 +114,6 @@ Du kan tjekke meget mere [udstyr til cykelturen her](/cykeludstyr/).
 
 ## Samarbejdspartnere (reklamelinks)
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

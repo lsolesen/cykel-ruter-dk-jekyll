@@ -20,7 +20,7 @@ gps:
   provider: alltrails
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter i Odder, hvor du kan besøge Odder Museum i den gamle vand- og dampmølle eller slå turen omkring den økologiske have, der er en temapark om økologisk udvikling. Haven har også en legeplads og forskellige dyrehold; bl.a. æsler, får, grise og høns. Er vejret ikke med dig på dit besøg i Odder er en tur i svømmehallen et forslag til en god oplevelse indendøre. Der er særskilt legebassin med rutchebane, vipper, klatrevæg, løbebro og legetøj og desuden et varmtvandsbassin med massagedyser. 
 
@@ -32,6 +32,6 @@ Du kan dreje fra ruten mod Hundslund, hvor lokale hænder har bygget en naturleg
  
 Ruten slutter ikke langt herfra i Ålstrup, som er en fin, lille by med bindingsværkshuse. Her får ruten kontakt med den nationale cykelrute 5. Så hvis dit tråd stadig er let, og du har mod på flere oplevelser, kan du følge denne rute hele vejen langs den jyske østkyst.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

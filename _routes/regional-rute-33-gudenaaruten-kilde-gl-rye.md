@@ -21,10 +21,10 @@ gps:
   provider: alltrails
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Hvis du har brug for yderligere beskrivelse, så brug kommentarerne. Den er under udarbejdelse.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

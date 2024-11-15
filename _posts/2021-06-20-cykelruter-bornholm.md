@@ -104,7 +104,7 @@ Du kan finde ruteinformationerne ved at klikke på rutenavnet.
 
 ## Nationale cykelruter på Bornholm
 
-Bornholm har naturligvis også en af de nationale cykelruter. Du kan køre [Bornholm Rundt på national cykelrute 10]({% link _routes/national-rute-10-bornholm-rundt.md%}).
+Bornholm har naturligvis også en af de nationale cykelruter. Du kan køre [Bornholm Rundt på national cykelrute 10]({% link collections.routes, "_routes/national-rute-10-bornholm-rundt.md" %}).
 
 ## Banestier på Bornholm
 
@@ -120,7 +120,7 @@ Her er en liste over nogle af de gode banestier på Bornholm.
 
 - **Rønne – Rø** Her følger du regionalrute 21. Mellem Rønne og Nyker følger du banestien 7 km, mens du fra Nyker til Klemensker cykler 5 km langs landevejen på en cykelsti. Herefter kommer du igen ind på den nedlagte jernbanestrækning og følger den 7 km til Rø. Ruten er i alt 19 km.
 -**Rønne-Lobbæk**: Banestien er markeret regionalrute 21, og senere skal du følge skiltene med “Nordre Jernbanesti”. Stien er asfalteret og på 14 km.
-- **Hasle Teglværksbanesti** er en del af [Nationalrute 10]({% link _routes/national-rute-10-bornholm-rundt.md%}), hvor du kan følge 3 km banesti.
+- **Hasle Teglværksbanesti** er en del af [Nationalrute 10]({% link collections.routes, "_routes/national-rute-10-bornholm-rundt.md" %}), hvor du kan følge 3 km banesti.
 - **Almindingen Banesti** er i Danmarks femtestørste skov. Banestien på 3 km er en del af regionalrute 22 på Bornholm.
 
 De fleste af disse jernbanestier er relativt kort. Men prøv at få dem som en del af din tur på Bornholm. Det er virkelig dejligt og afslappende at køre på banestier på Bornholm.

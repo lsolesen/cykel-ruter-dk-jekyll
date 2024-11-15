@@ -24,7 +24,7 @@ asphalt: 25
 rubble: 10
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter i Silkeborg på den smukt beliggende landevej mod Resenbro. Umiddelbart efter Resenbro drejer du ind på det gamle, asfalterede jernbanespor.
 
@@ -47,6 +47,6 @@ I bunden af Lilleådalen slynger Lilleå sig gennem store mose- og engarealer, m
 - Bidstrup Gods
 - Langå Egeskov
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

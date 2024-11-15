@@ -48,19 +48,19 @@ I det hele taget er der mange muligheder, og du kan se endnu flere muligheder un
 
 Der er masser af cykelruter i Århus Kommune, og nogle af dem tager sit udgangspunkt i Århus.
 
-- [National cykelrute 4 går fra øst til vest fra Århus Bugt til Vesterhavet]({% link _routes/national-rute-4-aarhus-bryrup.md %})
-- [National cykelrute 5 går fra Horsens til Hadsund - fra Norsminde Fjord i syd til Vosnæs i nord i Aarhus Kommune]({% link _routes/national-rute-5-hadsund-horsens.md %})
+- [National cykelrute 4 går fra øst til vest fra Århus Bugt til Vesterhavet]({% link collections.routes, "_routes/national-rute-4-aarhus-bryrup.md" %})
+- [National cykelrute 5 går fra Horsens til Hadsund - fra Norsminde Fjord i syd til Vosnæs i nord i Aarhus Kommune]({% link collections.routes, "_routes/national-rute-5-hadsund-horsens.md" %})
 
 ## Regionale cykelruter i Århus-området
 
-- [Regional cykelrute 11 fra Aarhus til Silkeborg]({% link _routes/regional-rute-11-funder-silkeborg-aarhus.md %})
-- [Regional cykelrute 14 fra Odder til Skanderborg]({% link _routes/regional-rute-11-funder-silkeborg-aarhus.md %})
-- [Regional cykelrute 16 fra Aarhus til Favrskov, ad Viborgvej]({% link _routes/regional-rute-16-aarhus-viborg.md %})
-- [Regional cykelrute 18 fra Aarhus til Favrskov, ad Randersvej]({% link _routes/regional-rute-18-aarhus-norup.md %})
+- [Regional cykelrute 11 fra Aarhus til Silkeborg]({% link collections.routes, "_routes/regional-rute-11-funder-silkeborg-aarhus.md" %})
+- [Regional cykelrute 14 fra Odder til Skanderborg]({% link collections.routes, "_routes/regional-rute-11-funder-silkeborg-aarhus.md" %})
+- [Regional cykelrute 16 fra Aarhus til Favrskov, ad Viborgvej]({% link collections.routes, "_routes/regional-rute-16-aarhus-viborg.md" %})
+- [Regional cykelrute 18 fra Aarhus til Favrskov, ad Randersvej]({% link collections.routes, "_routes/regional-rute-18-aarhus-norup.md" %})
 
 ## Regionale cykelruter omkring Skanderborg
 
-- [Regional cykelrute 15 fra Stilling til Elling]({% link _routes/regional-rute-15-stilling-ejer-elling.md %})
+- [Regional cykelrute 15 fra Stilling til Elling]({% link collections.routes, "_routes/regional-rute-15-stilling-ejer-elling.md" %})
 
 ## Frem og tilbage eller rundtur?
 
@@ -87,11 +87,11 @@ Du kan også downloade ruterne som GPS eller GPX-track og have dem på din telef
 - **Glemmer noget at spise**. En stor del af en cykeltur er også at nyde turen. Det er en rigtig god ide at have snacks med - og du skal i hvert fald have noget at drikke med.
 - **Bukserne gnaver**. Du skal sidde mange timer i sadlen, så sørg for at dine bukser ikke kommer til at gnave. Den fejl har jeg lavet et par gange. Du behøver ikke cykelshorts, men hvis du vælger at køre i cykelshorts, så skal du _ikke_ have underbukser på nedenunder.
 - **Du glemmer ting til punkteringer**. Det er en risiko, at du punkterer. Man kan fx få selvklæbende lapper og en billig pumpe.
-- **Du har for meget tøj på**. Du skal forsøge at ramme en passende temperatur på hele cykelturen. Jeg har skrevet et indlæg om, hvordan du [undgår at svede på cyklen]({% link _posts/2020-05-31-undgaa-sved.md %}). I øvrigt er det bedste, hvis du kan have bagagen på cyklen og ikke på ryggen i en rygsæk.
+- **Du har for meget tøj på**. Du skal forsøge at ramme en passende temperatur på hele cykelturen. Jeg har skrevet et indlæg om, hvordan du [undgår at svede på cyklen]({% link collections.posts, "_posts/2020-05-31-undgaa-sved.md" %}). I øvrigt er det bedste, hvis du kan have bagagen på cyklen og ikke på ryggen i en rygsæk.
 
 ***
 
-{% assign site_posts = site.routes | where: "tags", "Århus" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "tags", "Århus" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## Cykelruter fra Århus
@@ -100,7 +100,7 @@ Du kan også downloade ruterne som GPS eller GPX-track og have dem på din telef
   {% endfor %}
 {% endif %}
 
-{% assign site_posts = site.routes | where: "tags", "Djursland" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "tags", "Djursland" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## Cykelruter på Djursland
@@ -115,7 +115,7 @@ Du kan også downloade ruterne som GPS eller GPX-track og have dem på din telef
 
 ## Tips og tricks til din cykeltur
 
-Hvis du er klar på at kaste dig ud i en cykeltur omkring Århus, Favrskov, Djursland og Skanderborg, så er det bare at kaste dig ud i det. Jeg har skrevet lidt [flere tips til at tage på cykeltur]({% link _posts/2020-06-06-raad-til-cykelturen.md %}).
+Hvis du er klar på at kaste dig ud i en cykeltur omkring Århus, Favrskov, Djursland og Skanderborg, så er det bare at kaste dig ud i det. Jeg har skrevet lidt [flere tips til at tage på cykeltur]({% link collections.posts, "_posts/2020-06-06-raad-til-cykelturen.md" %}).
 
 ## Andre cykelruter i Danmark
 

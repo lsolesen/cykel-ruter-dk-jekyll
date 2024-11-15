@@ -78,6 +78,6 @@ GPX https://hiking.waymarkedtrails.org/#route?id=12399656&map=3.0/34.6/-7.9
 
 {% endcomment %}
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

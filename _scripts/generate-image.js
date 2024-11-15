@@ -69,18 +69,18 @@ const urls = posts.map(post => objectToParams({
 async function takeScreenshot(url, file_path) {
   const browser = await puppeteer.launch()
   const page = await browser.newPage()
-  await page.setViewport({
+  await setViewport({
     height: sizes[args.type][0],
     width: sizes[args.type][1],
     deviceScaleFactor: 1,
   })
-  await page.goto(url)
-  await page.screenshot({
+  await goto(url)
+  await screenshot({
     path: file_path,
     type: "jpeg",
     fullPage: true
   })
-  await page.close()
+  await close()
   await browser.close()
 }
 

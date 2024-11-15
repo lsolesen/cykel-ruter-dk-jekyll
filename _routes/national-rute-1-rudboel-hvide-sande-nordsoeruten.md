@@ -4,10 +4,11 @@ seo_title: "National Rute 1: Nordsøruten fra Rudbøl - Hvide Sande"
 permalink: /rute/national-rute-1-rudboel-hvide-sande-nordsoeruten/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2020-06-03T09:48:02+02:00
-header:
-  overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
-  teaser: *image
-  caption: "Billede: [www.videnomfriluftsliv.dk](https://www.videnomfriluftsliv.dk)"
+# TODO
+#header:
+#  overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
+#  teaser: *image
+#  caption: "Billede: [www.videnomfriluftsliv.dk](https://www.videnomfriluftsliv.dk)"
 category:
   - National Cykelrute
 tags:
@@ -46,8 +47,8 @@ Med sine 6.000 km er Nordsøruten, der følger kysten gennem syv lande, Europas 
 
 Danmarks nationale cykelrute 1, Vestkystruten, går langs hav, skov og fjord, den danske Nordsøkyst og UNESCOS verdensnaturarv Vadehavet. Det er en af Danmarks længste skiltede cykelruter og går gennem noget af det skønneste og mest varierede natur i Danmark.
 
-Jeg har også lavet en samlet [rutebeskrivelse af Vestkystruten og Vestkyststien]({% link _routes/national-rute-1-vestkyststien.md %}).
+Jeg har også lavet en samlet [rutebeskrivelse af Vestkystruten og Vestkyststien]({% link collections.routes, "_routes/national-rute-1-vestkyststien.md" %}).
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

@@ -1,0 +1,12 @@
+{
+    "layout": "single",
+    "author_profile": true,
+    "author": "lsolesen",
+    "toc": true,
+    "read_time": true,
+    "comments": false,
+    "share": true,
+    "related": true,
+    "categories": [],
+    "permalink": "{% for cat in categories %}{{ cat | slugify }}/{% endfor %}{{ page.fileSlug | slugify }}/"
+}

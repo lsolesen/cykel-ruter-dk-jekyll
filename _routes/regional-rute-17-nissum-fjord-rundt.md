@@ -4,11 +4,12 @@ permalink: /rute/regional-rute-17-nissum-fjord-rundt/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 author: lsolesen
-header:
-  overlay_image: &image https://gdkfiles.visitdenmark.com/files/428/257744_Thorsminde_-_Fugleen_-_Havtorn_GD.jpg?width=1200
-  caption: *title
-  credit: "Billede fra Naturpark Nissum Fjord"
-  teaser: https://gdkfiles.visitdenmark.com/files/428/257744_Thorsminde_-_Fugleen_-_Havtorn_GD.jpg?width=400
+# TODO
+#header:
+#  overlay_image: &image https://gdkfiles.visitdenmark.com/files/428/257744_Thorsminde_-_Fugleen_-_Havtorn_GD.jpg?width=1200
+#  caption: *title
+#  credit: "Billede fra Naturpark Nissum Fjord"
+#  teaser: https://gdkfiles.visitdenmark.com/files/428/257744_Thorsminde_-_Fugleen_-_Havtorn_GD.jpg?width=400
 category:
   - Regional Cykelrute
 tags:
@@ -25,7 +26,7 @@ asphalt: 53/ 104
 rubble: 41
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Du kan starte ved Vedersø Klit og Vester Husby, hvor du finder mange smukt beliggende ferieboliger og kunsthåndværkssteder. Mange af stederne er indrettet i de gamle klitgårde. Herfra følger du den nationale cykelrute 1 og Klitvejen mod nord og kører først igennem Husby Klitplantage og Sønder Nissum. I dette område finder du et par skovlegepladser, og der er flere dejlige steder at holde en lille pause. Husby Klitplantage blev oprindeligt anlagt for at forhindre sandflugt, og vegetationen er meget varieret.
 
@@ -57,6 +58,6 @@ Ved Rejkær kører du ud på hovedvejen og fortsætter mod Madum og Vedersø. Ve
 - Stråsø Plantage
 - Vedersø Kirke og Egnsmuseum
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

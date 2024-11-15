@@ -24,7 +24,7 @@ asphalt: 25
 rubble: 10
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Bjergstien mellem Svenstrup og Nibe er en smuk 14,8 km lang regional cykelrute. Ruten fører dig gennem den fantastiske natur i det danske landskab med bølgende bakker, skove og marker.
 
@@ -58,6 +58,6 @@ Bjergstien er perfekt til en afslappet cykeltur eller gåtur. Hvis du har lyst t
 
 Svenstrup-Nibe jernbanen blev bygget i 1896 og fungerede som passager- og godstog indtil 1968. Jernbanen kørte gennem nogle af de smukkeste landskaber i Danmark og fik derfor tilnavnet "Skønhedsbanen". Efter at jernbanen blev nedlagt, blev sporene fjernet, og stien blev omdannet til en cykel- og vandresti.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

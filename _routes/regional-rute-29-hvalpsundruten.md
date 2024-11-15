@@ -22,7 +22,7 @@ asphalt: 25
 rubble: 10
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 På et delforløb af regional cykelrute 29 fra Aalborg-Hvalpsund kan man følge den gamle banesti fra Nibe-Års-Haubro.
 
@@ -48,7 +48,7 @@ Nibe-Års-Haubro "Hvalpsundruten" kan nås fra flere forskellige udgangspunkter.
 
 Nibe-Års-Haubro "Hvalpsundruten" tilbyder vandrere en smuk udsigt over skovene og landskabet i Nibe Kommune. Undervejs kommer du også forbi flere søer, bl.a. Hvalsøen, som er et populært sted at bade i sommermånederne.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}
 

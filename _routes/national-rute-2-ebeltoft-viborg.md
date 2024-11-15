@@ -71,6 +71,6 @@ Ikke langt herfra når vi Viborg. Vi ankommer fra byens bedste side med udsyn op
 - Bruunshaab Gl. Papfabrik
 - Viborg Domkirke
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

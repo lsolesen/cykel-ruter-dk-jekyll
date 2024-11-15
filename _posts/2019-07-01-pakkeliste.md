@@ -74,6 +74,6 @@ Du kan tjekke meget mere [cykeludstyr til cykelturen her](/cykeludstyr/).
 
 ## Samarbejdspartnere (reklamelinks)
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

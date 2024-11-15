@@ -163,7 +163,7 @@ Links markeret med (*) er reklamelinks, hvor jeg får en lille kommision, hvis d
 
 {% include gallery id="gallery_maps" %}
 
-Læs mere om, [hvordan du vælger det rigtige cykelkort til cykeltur og cykelferie i Danmark]({% link _posts/2020-06-04-cykelkort.md %}).
+Læs mere om, [hvordan du vælger det rigtige cykelkort til cykeltur og cykelferie i Danmark]({% link collections.posts, "_posts/2020-06-04-cykelkort.md" %}).
 
 [Køb cykelkort hos Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
@@ -205,7 +205,7 @@ Tjek også artiklen om [at lave mad på cykelturen](/flot-mad-til-cykelturen/).
 
 ## Cykeludstyr og udstyr til din cykel
 
-{% assign site_posts = site.posts | where: "category", "Udstyr" | sort: "title" %}
+{% assign site_posts = collections.posts | where: "category", "Udstyr" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -219,7 +219,7 @@ Du kan læse mere om [cykeludstyr](/cykeludstyr/) her.
 
 ## Flere artikler med inspiration
 
-{% assign site_posts = site.posts | where: "category", "Inspiration" | sort: "title" %}
+{% assign site_posts = collections.posts | where: "category", "Inspiration" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -233,6 +233,6 @@ Du kan læse mere om [cykeludstyr](/cykeludstyr/) her.
 
 Hvis du vil støtte cykel-ruter.dk og udviklingen af sitet, så kan du handle ved vores samarbejdspartnere. Jeg får en lille kommision, hvis du handler hos dem, men prisen er den samme for dig.
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

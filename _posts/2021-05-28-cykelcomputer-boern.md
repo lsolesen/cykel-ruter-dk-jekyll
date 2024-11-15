@@ -77,7 +77,7 @@ Atredo M10 er en trådløs cykelcomputer med 10 funktioner. Cykelcomputeren er l
 
 Jeg synes ikke displayet er så stort som fx Sigma Pure, så derfor egner det sig ikke så godt til børn.
 
-Cykelcomputeren har også [kalorieforbrænding på din cykeltur]({% link _posts/2020-07-24-cykling-kalorier.md %}), men da disse estimater ofte bliver lidt tilfældige, så er det ikke nødvendigt for mig eller mit barn. Der synes jeg det er sjovere med hastighed og distance. Derfor har jeg fravalgt denne computer.
+Cykelcomputeren har også [kalorieforbrænding på din cykeltur]({% link collections.posts, "_posts/2020-07-24-cykling-kalorier.md" %}), men da disse estimater ofte bliver lidt tilfældige, så er det ikke nødvendigt for mig eller mit barn. Der synes jeg det er sjovere med hastighed og distance. Derfor har jeg fravalgt denne computer.
 
 ## Konklusion
 
@@ -89,5 +89,5 @@ Du kan tjekke meget mere [cykeludstyr](/cykeludstyr/).
 
 Hvis du er på udkig efter en cykelcomputer til børn, så kan du støtte dette site ved at handle hos en af vores samarbejdspartnere, som har rigtig fine tilbud på udvalg af udstyr til cykling og cykler.
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 {% include gallery array=ads %}

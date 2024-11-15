@@ -25,7 +25,7 @@ faq:
     answer: "Du behøver ikke at skulle købe alt muligt nyt udstyr for at tage på cykelferie. Men der er nogle ting, der kan være rare at have med på turen. Tjek artiklen."
 ---
 
-{{ page.excerpt }}
+{{ excerpt }}
 
 Har du overvejet at tage på en cykelferie, men er lidt i tvivl om, hvordan du skal planlægge det? Så er denne guide lige netop skrevet til dig.
  
@@ -37,7 +37,7 @@ Det behøver ikke kræve de store investeringer i nyt udstyr for at komme ud på
  
 Hvilket udstyr du vælger afhænger naturligvis af, hvor du har tænkt dig at cykle hen, hvor langt du vil cykle og hvor komfortabelt din cykelferie skal være.
 
-{% include figure image_path=page.header.overlay_image caption=page.title alt=page.title %}
+{% include figure image_path=header.overlay_image caption=title alt=title %}
  
 Men lad os dykke direkte ned i det, så du kan få en god tur!
 
@@ -81,11 +81,11 @@ Det er oplagt at tage familien med på en cykelferie. Det er min oplevelse, at b
 
 Du får rørt dig sammen med børnene, men ikke mindst så er det også pauserne undervejs, som kan skabe lidt familiemagi. For selvom der kan være langt op ad bakkerne, så er det utroligt hvor meget energi børnene kan have i pauserne.
 
-Du skal selvfølgelig planlægge ruten, så den passer med dine børns alder. Du kan lade dig inspirere af, [hvor langt børn kan cykle]({% link _posts/2020-05-29-barn-cykle-langt.md %}) og [børnevenlige cykelruter]({% link _posts/2020-06-08-cykelrute-born.md %}).
+Du skal selvfølgelig planlægge ruten, så den passer med dine børns alder. Du kan lade dig inspirere af, [hvor langt børn kan cykle]({% link collections.posts "_posts/2020-05-29-barn-cykle-langt.md" %}) og [børnevenlige cykelruter]({% link collections.posts, "_posts/2020-06-08-cykelrute-born.md" %}).
 
 Der er også plads til mindre børn på cykelferien, men der kan de kræve lidt ekstra udstyr som fx en cykelanhænger eller et cykelsæde til børnene.
 
-Du kan sagtens have børn med på cykelferie. Det er fantastiske at være på cykelferie med familien, men måske skal det planlægges lidt mere i detaljer. [Børn på cykelferie]({% link _posts/2020-06-07-raad-til-cykelturen-med-boern.md %}).
+Du kan sagtens have børn med på cykelferie. Det er fantastiske at være på cykelferie med familien, men måske skal det planlægges lidt mere i detaljer. [Børn på cykelferie]({% link collections.posts, "_posts/2020-06-07-raad-til-cykelturen-med-boern.md" %}).
 
 ## Planlægning af cykelferien
 
@@ -269,7 +269,7 @@ https://www.smalldanishhotels.dk/inspiration/cykelferie/
 
 ## Artikler i kategorien cykelferie
 
-{% assign site_posts = site.posts | where: "category", "Cykelferie" | sort: "title" %}
+{% assign site_posts = collections.posts | where: "category", "Cykelferie" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -281,7 +281,7 @@ https://www.smalldanishhotels.dk/inspiration/cykelferie/
 
 ## Artikler med tagget cykelferie
 
-{% assign site_posts = site.posts | where: "tags", "cykelferie" | sort: "title" %}
+{% assign site_posts = collections.posts | where2: "tags", "cykelferie" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

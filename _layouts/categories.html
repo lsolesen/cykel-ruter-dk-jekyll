@@ -1,0 +1,8 @@
+---
+layout: archive
+---
+
+{{ content | safe }}
+
+{% assign categories = collections | getKeys | filterCategoriesList %}
+{% include posts-taxonomy.html taxonomies=categories %}

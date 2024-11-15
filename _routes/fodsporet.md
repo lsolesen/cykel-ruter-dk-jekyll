@@ -64,6 +64,6 @@ Belægningen er hovedsageligt asfalt, men der er også grus.
 
 Nej, stien er ikke belyst.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

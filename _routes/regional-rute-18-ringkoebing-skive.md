@@ -4,11 +4,12 @@ permalink: /rute/regional-rute-18-ringkoebing-skive/
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
-header:
-  overlay_image: &image https://cf.bstatic.com/xdata/images/hotel/max1024x768/402370066.jpg?k=7701c935b6c99f26dc7e1c4f90578e57f56ffb002edd49d1e1f2a34655d33435&o=&hp=1
-  caption: *title
-  credit: "Billede fra Holstebro"
-  teaser: *image
+# TODO
+#header:
+#  overlay_image: &image https://cf.bstatic.com/xdata/images/hotel/max1024x768/402370066.jpg?k=7701c935b6c99f26dc7e1c4f90578e57f56ffb002edd49d1e1f2a34655d33435&o=&hp=1
+#  caption: *title
+#  credit: "Billede fra Holstebro"
+#  teaser: *image
 category:
   - Regional Cykelrute
 tags:
@@ -25,7 +26,7 @@ asphalt: 74
 rubble: 24
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Vi fanger ruten i Ringkøbing nord og kører gennem Sanddal, Hoverdal og Stråsø plantager, som delvist er plantet på gamle indlandsklitter. Der er kun få huse og veje i området, så stilheden på de store vidder er slående. Gennem de trætætte områder og åbne hedelyngområder køres der på grusvej det meste af vejen fra Tørsted til Vind Kirke. Jordoverfladen er flere steder påvirket af tidligere tiders sandflugt, der har dannet klitter og blottet sten på vejen. De blotlagte sten virker som brolægning lige under jordoverfladen.
 
@@ -58,6 +59,6 @@ Efter Estvad mødes begge ruteforløb igen og går herfra videre til Skive, hvor
 - Frilandsmuseet Hjerl Hede
 - Flyndersø
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

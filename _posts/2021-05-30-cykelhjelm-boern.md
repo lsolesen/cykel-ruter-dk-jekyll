@@ -185,7 +185,7 @@ Hvis cykelhjelmen ikke har fået slag eller skrammer, så holder den typisk 5 ti
 
 Hvis du er på udkig efter cykelhjelme til børn, så kan du kigge hos nogle af vores samarbejdspartnere. Vi får en lille kommision, hvis du vælger at købe din cykelhjelm der. Vi har kun gode erfaringer med de virksomheder, vi samarbejder med.
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}
 

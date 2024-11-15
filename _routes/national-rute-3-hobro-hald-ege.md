@@ -31,7 +31,7 @@ rubble: 6
 
 Denne del af [Hærvejscykelruten](/rute/national-rute-3-haervejsruten/) er kendetegnet ved et afvekslende landskab gennem ådale, hede- og plantageområder. Hærvejen er en af de historisk meget interessante cykelruter, og ruten var en vigtig transportvej lang tid før, at cyklen blev opfundet.
 
-Turen starter i den hyggelige Hobro. Lige sydvest for byen kan du ønske dig tilbage i tiden ved Fyrkat, når du forestiller dig, hvordan livet var omkring en af de kendte vikingeborge. Du kan læse mere om Hobro og Vikingecenter Fyrkat under den [regionale cykelrute 32 rundt om Mariager Fjord]({% link _routes/regional-rute-32-mariager-fjord-rundt.md %}).
+Turen starter i den hyggelige Hobro. Lige sydvest for byen kan du ønske dig tilbage i tiden ved Fyrkat, når du forestiller dig, hvordan livet var omkring en af de kendte vikingeborge. Du kan læse mere om Hobro og Vikingecenter Fyrkat under den [regionale cykelrute 32 rundt om Mariager Fjord]({% link collections.routes, "_routes/regional-rute-32-mariager-fjord-rundt.md" %}).
 
 Herefter går det forbi Trinderup Krat og tæt på Klejtrup Sø. Lige syd for Klejtrup Sø kan du få ruten til at føles meget kortere, når du stopper ved Verdenskortet, som er en miniudgave af hele verden lavet med materialer fra naturen. Kortet er er næsten lige så stort som en fodboldbane og er stadig flot vedligeholdt, selvom det er lavet helt tilbage mellem 1944 og 1969 af dansk-amerikaneren Søren Poulsen.
 
@@ -49,7 +49,7 @@ Hærvejsruten fortsætter langt ned i landet. Du kan læse om fortsættelsen i C
 - Viborg Domkirke
 - Hærvejsstenen
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include video provider="own-youtube" id="O5Toh-e2BRI" %}
 

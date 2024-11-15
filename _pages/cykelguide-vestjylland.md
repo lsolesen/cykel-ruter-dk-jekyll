@@ -55,7 +55,7 @@ _Rigtig god fornøjelse – og god tur!_
 
 <iframe class="alltrails" src="https://www.alltrails.com/widget/list/vestjylland?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
-{% assign site_posts = site.routes | where: "tags", "Guidebog Vestjylland" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "tags", "Guidebog Vestjylland" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## {{ site_posts.size }} cykelruter i Vestjylland

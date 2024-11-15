@@ -89,7 +89,7 @@ feature_row_ads:
     id: "25009"
 ---
 
-Jeg falder ofte over sjove og tankevækkedne citater om cykling. Jeg har samlet {{ page.feature_quotes.size | plus: page.feature_quotes_tour.size }} cykelcitater her. Citaterne om at cykle kan være gode at have i baghovedet i regnvejr, op ad bakke og i modvind.
+Jeg falder ofte over sjove og tankevækkedne citater om cykling. Jeg har samlet {{ feature_quotes.size | plus: feature_quotes_tour.size }} cykelcitater her. Citaterne om at cykle kan være gode at have i baghovedet i regnvejr, op ad bakke og i modvind.
 
 {% comment %}
 Jeg har samlet en masse forskellige citater om fitness og bodybuilding her på siden, men jeg har også oprettet en [Pinterest Opslagstavle med citater](https://pin.it/6VHPDcC), så skynd dig ind og følge den.
@@ -97,11 +97,11 @@ Jeg har samlet en masse forskellige citater om fitness og bodybuilding her på s
 {% include gallery id="feature_row_schwarznegger_poster" caption="Citater om fitness og bodybuilding (reklamelinks)" %}
 {% endcomment %}
 
-## {{ page.feature_quotes_tour.size }} cykelcitater om cykelture
+## {{ feature_quotes_tour.size }} cykelcitater om cykelture
 
 Her har jeg samlet nogle cykelcitater til os, der bare godt kan lide at cykle en tur og tage på cykeltur.
 
-{% assign quotes = page.feature_quotes_tour | sort: "cite" %}
+{% assign quotes = feature_quotes_tour | sort: "cite" %}
 
 {% for quote in quotes %}
 > {{ quote.quote | markdownify }}
@@ -117,7 +117,7 @@ Når man snakker om træningsplanlægning, så synes jeg Jim Wendler fanger det 
 {% include pinterest image_path="/assets/images/pinterest/wendler-accessories.png" data-pin-media="/assets/images/pinterest/wendler-accessories.png" %}
 {% endcomment %}
 
-## {{ page.feature_quotes.size }} citater om cykling og landevejscykling
+## {{ feature_quotes.size }} citater om cykling og landevejscykling
 
 {% include video id="cFbhBjalpN8" provider="youtube" %}
 
@@ -125,7 +125,7 @@ Landevejsrytterne har naturligvis en række gyldne citater om cykling, cykelrute
 
 Her kan du se de bedste af cykelcitaterne fra [feltet.dk](https://www.feltet.dk/nyheder/top_15_over_de_bedste_cykelcitater/). Jeg har udeladt et, som ikke rigtig passer ind i den måde, man kan snakke om hinanden.
 
-{% assign quotes = page.feature_quotes | sort: "cite" %}
+{% assign quotes = feature_quotes | sort: "cite" %}
 
 {% for quote in quotes %}
 > {{ quote.quote | markdownify }}

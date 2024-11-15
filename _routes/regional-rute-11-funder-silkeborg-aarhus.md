@@ -25,7 +25,7 @@ asphalt: 57
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter på toppen af Funder Bakke nærmest som en sidevej til den nationale cykelrute 3. Her tjekker du bremserne og glæder dig til nedkørslen mod Silkeborg. Hold øje med cykelskiltene for det går hurtigt. Husk at stoppe nede i Silkeborg og nyd atmosfæren i midtbyen, hvor der er masser af hyggelige spisesteder og flotte steder omkring Gudenåen.
 
@@ -46,6 +46,6 @@ Brabrand Sø er en af de fuglerigeste søer i Østjylland, og her kan du bl.a. s
 - ARoS
 - Århus
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

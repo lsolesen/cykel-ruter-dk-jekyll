@@ -7,7 +7,7 @@ number: N12
 created_at: 2021-06-12T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
-  overlay_image: /assets/images/routes/national-cykelrute-12-limfjordsruten.jpg
+  overlay_image: &image /assets/images/routes/national-cykelrute-12-limfjordsruten.jpg
   teaser: *image
   caption: "Billede fra Visitmors"
 category:
@@ -27,7 +27,7 @@ asphalt: 549
 rubble: 61
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 {% include video provider="own-youtube" id="-02XRLSgBuY" %}
 
@@ -41,11 +41,11 @@ Hvis du vil besøge de små øer i Limfjorden, så kan du sagtens tage en afstik
 
 {% include video provider="own-youtube" id="86ivxIt-JbY" %}
 
-{% assign site_posts = site.routes | where: "tags", "National Cykelrute 12" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 12" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
-## Delforløb af {{ page.title }}
+## Delforløb af {{ title }}
 
 <div class="feature__wrapper">
   {% for post in site_posts %}
@@ -54,6 +54,6 @@ Hvis du vil besøge de små øer i Limfjorden, så kan du sagtens tage en afstik
 </div>
 {% endif %}
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

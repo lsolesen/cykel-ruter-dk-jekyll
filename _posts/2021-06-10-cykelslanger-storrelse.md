@@ -20,7 +20,7 @@ Det er vigtigt, at man vælger cykelslanger, der passer til dine cykeldæk og di
 
 Cykelslanger har mange forskellige størrelser, og faktisk også lidt forskellige egenskaber. Det vigtigste er, at cykelslangen har den rigtige størrelse i forhold til dit cykelhjul. Her skal du særligt kigge på diameteren af dækket, og hvor tyk slangen er. Men ventilens udformning har også betydning for dit valg af slange.
 
-Jeg har skrevet en anden [guide til at finde cykeldæk størrelse]({% link _posts/2021-06-10-cykeldaek-storrelse.md %}).
+Jeg har skrevet en anden [guide til at finde cykeldæk størrelse]({% link collections.posts, "_posts/2021-06-10-cykeldaek-storrelse.md" %}).
 
 ## Tabel med cykelslanger størrelse
 
@@ -112,7 +112,7 @@ Din cykelslange skal passe til din dækstørrelse. Størrelsen på dine dæk kan
 - **franske mål**. I franske mål er skrivemåden lidt som i tommer, men med et C bagefter. Fx 700 x 23C. Her skal du også bruge det første mål.
 - **tyske mål**. Tyske mål angives som de franske mål, men der er ingen C bagefter.
 
-Jeg har skrevet mere om de [forskellige mål for dækstørrelser her]({% link _posts/2021-06-10-cykeldaek-storrelse.md %}).
+Jeg har skrevet mere om de [forskellige mål for dækstørrelser her]({% link collections.posts, "_posts/2021-06-10-cykeldaek-storrelse.md" %}).
 
 ## Hvordan finder jeg størrelsen på min cykelslange?
 

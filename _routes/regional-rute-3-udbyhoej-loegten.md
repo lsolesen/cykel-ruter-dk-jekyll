@@ -26,7 +26,7 @@ asphalt: 37
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter i Udby på det nordligste Djursland, hvor der er forbindelse til den nationale cykelrute 5. Vi føres gennem den gamle landsby, Kare, der næsten kun består af gårde. To-, tre- eller firelængede gårde ligger tæt op af hinanden og danner en speciel atmosfære. I modsætning til mange andre østjyske landsbyer er der ikke i Kare sket udflytning af gårde til byens omkringliggende marker. De mange gamle gårde på den snævre plads giver byen et særligt hyggeligt miljø.
 
@@ -36,7 +36,7 @@ Omend alle rutens herregårde er interessante, fremhæves her dog kun de to, som
 
 Store dele af ruten er tilnærmelsesvist flade, men der er dog enkelte bakkede områder. Inden nedkørslen til en af rutens mange hyggelige byer, Øster Alling, skal man huske at stoppe på toppen for at nyde udsigten ind over den lille by med det traditionelle, hvide kirketårn, inden man afslappet kan trille ned gennem markområdet over Allingå forbi de græssende køer.
 
-I Hornslet er herregården Rosenholm bestemt et besøg værd. Læs evt mere herom under beskrivelsen af den [regionale cykelrute 20]({% link _routes/regional-rute-20-hornslet-grenaa.md %}), om der er forbindelse til herfra.
+I Hornslet er herregården Rosenholm bestemt et besøg værd. Læs evt mere herom under beskrivelsen af den [regionale cykelrute 20]({% link collections.routes, "_routes/regional-rute-20-hornslet-grenaa.md" %}), om der er forbindelse til herfra.
 
 Fra Hornslet passerer vi en stigning over den markante bakke nord for Kalø Vig, hvorfra der er fin udsigt over såvel land som vand, før det igen går nedad mod rutens slutning ved herregården Vosnæsgård.
 
@@ -49,6 +49,6 @@ Fra Hornslet passerer vi en stigning over den markante bakke nord for Kalø Vig,
 - Gl. Estrup
 - Rosenholm Slot
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

@@ -18,7 +18,7 @@ gps:
   provider: alltrails
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter i Ry, som er en forholdsvis ny by opstået omkring stationen på jernbanen mellem Skanderborg og Silkeborg. Et stop anbefales ved den hyggelige søpromenade, hvor man kan købe forfriskninger og kigge på de mange kanoroeres afslappede færd på søen. Her afgår også rutebåd til Himmelbjerget, som tilbyder en bemærkelsesværdig udsigt til dem, der går turen til toppen. Nær bådehavnen ligger et ferskvandsmuseum, hvor man bl.a. kan lære om bådtyper, fiskemetoder og forurening i de omgivende søer. Der kan desuden lejes kanoer til en tur på Gudenåen eller man kan selv springe i vandet i Knudsø, som flere steder indbyder til en dukkert eller et hvil på søbredden. Ruten følger søen de første kilometer mod nord og herfra er der storslået udsigt ud over søens nære omgivelser med Himmelbjergets profil i det fjerne.
  

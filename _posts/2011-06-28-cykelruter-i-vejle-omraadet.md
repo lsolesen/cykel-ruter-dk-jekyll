@@ -47,7 +47,7 @@ Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
 
 {% include gallery caption="Du kan få mere inspiration til rigtig [gode cykelkort](/cykelkort/) over Danmark i vores guide. Ovenfor kan du se nogle gode cykelkort over Vejle-området." %}
 
-{% assign site_posts = site.routes | where: "tags", "VisitVejle Cykelguide" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "tags", "VisitVejle Cykelguide" | sort: "title" %}
 
 ## Se alle {{ site_posts.size }} cykelruter i og omkring Vejle området
 

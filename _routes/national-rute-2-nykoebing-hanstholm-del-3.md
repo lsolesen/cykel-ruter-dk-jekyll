@@ -43,7 +43,7 @@ Tilbage på ruten fortsætter vi ad stier til Sårup. Her må man ikke snyde sig
 
 Fra Sårup er ruten igen på asfalt helt til Hanstholm. Hanstholm er en af Danmarks driftigste fiskeri- og tansporthavne. Der afgår adskillige færgeruter både til Norge og andre destinationer. Hvis man er interesseret i Anden Verdenskrig er Museumscenter Hanstholm absolut et besøg værd. Museet er beliggende i Nordeuropas største bunkeranlæg bygget af Tysklands Wehrmacht. Anlægget rummede fire stk. 38 cm kanoner, der kunne skyde 55 km.
 
-## Seværdigheder {{ page.title }}
+## Seværdigheder {{ title }}
 
 - Hanklit
 - Salgerhøj
@@ -52,6 +52,6 @@ Fra Sårup er ruten igen på asfalt helt til Hanstholm. Hanstholm er en af Danma
 - Blegsø
 - Museumscenter Hanstholm
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

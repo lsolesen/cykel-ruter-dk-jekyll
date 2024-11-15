@@ -70,9 +70,9 @@ Der er to variationer af cykelruten. Du kan enten køre den klassiske eller du k
 
 ## Nationale cykelruter på Fyn
 
-På Fyn er Østersøruten den mest imponerende nationale cykelrute. Jeg har skrevet mere om [Østersøruten, som er national cykelrute 8 her]({% link _routes/national-rute-8-ostersoruten.md%}).
+På Fyn er Østersøruten den mest imponerende nationale cykelrute. Jeg har skrevet mere om [Østersøruten, som er national cykelrute 8 her]({% link collections.routes, "_routes/national-rute-8-ostersoruten.md" %}).
 
-Udover Østersøruten, så går [national cykelrute 6 fra Esbjerg til København]({% link _routes/national-rute-6-esbjerg-kobenhavn.md %}) også hen over Fyn.
+Udover Østersøruten, så går [national cykelrute 6 fra Esbjerg til København]({% link collections.routes, "_routes/national-rute-6-esbjerg-kobenhavn.md" %}) også hen over Fyn.
 
 ## Regionale cykelruter på Fyn
 

@@ -9,7 +9,7 @@ sitemap: false
 
 Formålet med cykel-ruter.dk er at samle en oversigt over [nationale cykelruter](/nationale-cykelruter/) og [regionale danske cykelruter](/regionale-cykelruter/) et overskueligt sted.
 
-Cykel-ruter.dk er skrevet af cykelbogforfatterne, Lars Olesen og Dina Knudsen, som tidligere har skrevet to cykelbøger, [Østjylland - guidebog til cykeloplevelser]({% link _pages/cykelguide-oestjylland.md %}) og [Vestjylland - guidebog til cykeloplevelser]({% link _pages/cykelguide-vestjylland.md %}) og lavet 9 cykelruter til VisitVejle.
+Cykel-ruter.dk er skrevet af cykelbogforfatterne, Lars Olesen og Dina Knudsen, som tidligere har skrevet to cykelbøger, [Østjylland - guidebog til cykeloplevelser]({% link collections.pages, "_pages/cykelguide-oestjylland.md" %}) og [Vestjylland - guidebog til cykeloplevelser]({% link collections.pages, "_pages/cykelguide-vestjylland.md" %}) og lavet 9 cykelruter til VisitVejle.
 
 ## Om sitet
 
@@ -38,11 +38,11 @@ Vi bruger billeder fra [Unsplash](https://unsplash.com) og [Pxhere](https://pxhe
 
 ## Tal
 
-- Blogindlæg: {{ site.posts.size }}
-- Ruter: {{ site.routes.size }}
+- Blogindlæg: {{ collections.posts.size }}
+- Ruter: {{ collections.routes.size }}
 
 ## Samarbejdspartnere
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

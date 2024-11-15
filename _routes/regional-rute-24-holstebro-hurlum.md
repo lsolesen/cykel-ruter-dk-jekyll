@@ -24,7 +24,7 @@ asphalt: 101
 rubble: 4
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter ved den flotte Holsterbro Banegård fra 1904. Banegården er tegnet af DSB's overarkitekt, Heinrich Wenck, der også har bygget Københavns Hovedbanegård. Herfra følger ruten byens cykelstier gennem de nordvestlige parcelhusområder ud af byen.
 
@@ -38,7 +38,7 @@ Lidt længere fremme kommer man forbi den høj, hvor den sidste offentlige henre
 
 Efter Kjærgaardsmølle kører du videre ad ruten. Ikke langt fra Bremdal støder ruten på den nationale cykelrute 12. Ved samlingspunktet kan du tage en afstikker fra ruten og køre til Kleppen, hvor du kan tage færgen til Venø, eller du kan fortsætte op mod Hurlum. Ved Hurlum bør du køre mod øst for at opleve det tilbagelænede og idylliske Hurlum Fiskerleje med de små fiskerhuse.
 
-Fra Hurlum er der ikke langt til Oddesundbroen fra 1938, som kan føre dig videre på ruten mod Thisted. Fra Draget mellem Lyngs og Udby kan du følge [national cykelrute 12]({% link _routes/national-rute-12-limfjordsruten.md %}).
+Fra Hurlum er der ikke langt til Oddesundbroen fra 1938, som kan føre dig videre på ruten mod Thisted. Fra Draget mellem Lyngs og Udby kan du følge [national cykelrute 12]({% link collections.routes, "_routes/national-rute-12-limfjordsruten.md" %}).
 
 ## Seværdigheder
 
@@ -55,6 +55,6 @@ Fra Hurlum er der ikke langt til Oddesundbroen fra 1938, som kan føre dig vider
 - Doveodde Købmandsgård
 - Skyum Bjerge
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

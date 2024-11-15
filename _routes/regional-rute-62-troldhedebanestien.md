@@ -45,6 +45,6 @@ Troldhedestien er 29 kilometer lang.
 
 Nogle af højdepunkterne på Troldhedestien er den smukke udsigt over det danske landskab, de små landsbyer langs ruten og Bindeballe Købmandsgård for enden af ruten.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

@@ -64,6 +64,6 @@ VisitDenmark har samlet mulighederne fra A-Z. Flere overnatningssteder lever op 
 
 ## Samarbejdspartnere
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

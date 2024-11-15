@@ -43,7 +43,7 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 
 <del>Du kan købe bøgerne på [Dansk Cyklistforbunds hjemmeside](https://www.cyklistforbundet.dk//).</del>
 
-{% assign site_posts = site.routes | where: "tags", "Guidebog Østjylland" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "tags", "Guidebog Østjylland" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## {{ site_posts.size }} cykelruter i Østjylland
@@ -54,7 +54,7 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 
 [Lån Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603){: .btn .btn--large .btn--danger }
 
-{% assign site_posts = site.routes | where: "tags", "Guidebog Vestjylland" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "tags", "Guidebog Vestjylland" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## {{ site_posts.size }} cykelruter i Vestjylland

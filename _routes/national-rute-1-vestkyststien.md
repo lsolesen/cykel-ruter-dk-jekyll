@@ -6,10 +6,11 @@ number: N1
 comment: Følger Jyllands Vestkyst i nord-sydgående retning
 created_at: 2006-06-01T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
-header:
-  overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
-  teaser: *image
-  caption: "National cykelrute 1: Vestkystruten. Billede: [www.videnomfriluftsliv.dk](https://www.videnomfriluftsliv.dk)"
+# TODO
+#header:
+#  overlay_image: &image https://www.videnomfriluftsliv.dk/sites/default/files/styles/content_pic/public/field/image/vestkyststien_1.jpg?itok=gpYyG2kV
+#  teaser: *image
+#  caption: "National cykelrute 1: Vestkystruten. Billede: [www.videnomfriluftsliv.dk](https://www.videnomfriluftsliv.dk)"
 category:
   - National Cykelrute
 tags:
@@ -51,7 +52,7 @@ Næsten en tredjedel af ruten på 560 km følger grusstier, så du skal helst ha
 
 {% include video provider="own-youtube" id="F01p9oCJU78" %}
 
-{% assign site_posts = site.routes | where: "tags", "National Cykelrute 1" | where_exp: "post", "post.url != page.url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 1" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
@@ -84,6 +85,6 @@ Tjek også vores artikel om [cykelkort over Danmark](/cykelkort/).
 
 - [Vestkystruten](https://vestkystruten.dk/)
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

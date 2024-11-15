@@ -24,7 +24,7 @@ asphalt: 19
 rubble: 6
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter i Randers på landevejen til Dronningborg, hvor vi drejer nord ad en lille sti anlagt på en nedlagt jernbane. Stien slutter nær landsbyen Lem. Tidligere lå der 13-15 solide 4-længede gårde side om side langs landsbygaden, Lemvej. Gårdene ligger der endnu, men mange af længerne er brudt ned. Det kan derfor anbefales at tage en kort afstikker til byens gamle del for at se det hyggelige miljø blandt de gamle gårde og stråtækte huse. Foran den gamle slagters hus kan man endnu se en brønd med hejseværk.
 
@@ -34,7 +34,7 @@ Fra Spentrup fortsætter vi ud forbi kornmarker og plantageområder, indtil land
 
 Er du nærmere interesseret i fortidens grave foreslås en afstikker til jernaldergraven ved Hem. I Kærbybro drejes fra ruten mod Hem, til venstre i følgende t-kryds og til højre ad første markvej. I modsætning til sten- og bronzealderens iøjnefaldende gravhøje syner graven umiddelbart ikke af så meget i landskabet, da den er anlagt under flad mark trods dens beliggenhed nær en bakke. Der er mulighed for at kigge ned i gravens stenkiste og infoskilte på stedet uddyber fundet nærmere. Anderledes storladent ligger bronzealdergraven, Hohøj, på toppen af en 110 m høj bakke og er Danmarks største gravhøj. Nord for Hem Skov fører ruten os lige forbi højen og efter vores anstrengelser mod toppen er den storslåede udsigt fra toppen velfortjent.
 
-Herfra kan vi trille resten ad vejen ind mod rutens slutning i Mariagers smukke bykerne. Du kan læse mere om Mariager under beskrivelsen af [regional cykelrute 32]({% link _routes/regional-rute-32-mariager-fjord-rundt.md %}).
+Herfra kan vi trille resten ad vejen ind mod rutens slutning i Mariagers smukke bykerne. Du kan læse mere om Mariager under beskrivelsen af [regional cykelrute 32]({% link collections.routes, "_routes/regional-rute-32-mariager-fjord-rundt.md" %}).
 
 ## Seværdigheder
 
@@ -49,6 +49,6 @@ Herfra kan vi trille resten ad vejen ind mod rutens slutning i Mariagers smukke 
 - Jernaldergrav
 - Mariager
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

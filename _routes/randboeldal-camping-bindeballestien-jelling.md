@@ -26,7 +26,7 @@ related: "Randbøldal Camping"
 
 Vi starter i Randbøl, hvor der er en fin kirke. Herfra fortsætter vi mod Frederikshåb Plantage og Randbøl Hede. Hvis tiden tillader det kan gåture begge steder anbefales. Vi kører gennem den østlige del af Frederikshåb Plantage og drejer mod øst for at cykle nogle kilometer inden vi rammer den helt unikke Bindeballesti, som I følger tilbage til Skibet.
 
-[Bindeballestien]({% link _routes/regional-rute-36-bindeballestien.md %}) kører langs det gamle jernbanespor fra 1897 mellem Bindeballe og Vejle. Det betyder, at ruten gennem den ellers noget bakkede Vejle Ådal er nogenlunde jævn og kan nydes uden egentlige stigninger. Det eneste, man derfor rigtigt kan blive forpustet over undervejs, er de naturskønne udsigter over de omgivende dalbakker og bølgende marker med forskellige afgrøder og kreaturer eller de mange små dambrug. Særligt på stiens første del mellem Bindeballe og Skibet.
+[Bindeballestien]({% link collections.routes, "_routes/regional-rute-36-bindeballestien.md" %}) kører langs det gamle jernbanespor fra 1897 mellem Bindeballe og Vejle. Det betyder, at ruten gennem den ellers noget bakkede Vejle Ådal er nogenlunde jævn og kan nydes uden egentlige stigninger. Det eneste, man derfor rigtigt kan blive forpustet over undervejs, er de naturskønne udsigter over de omgivende dalbakker og bølgende marker med forskellige afgrøder og kreaturer eller de mange små dambrug. Særligt på stiens første del mellem Bindeballe og Skibet.
 
 Ruten er behageligt rolig - kun for gående og cyklister. Det første stykke fra Bindeballe kan man bare høre lyden af dækkene, der kører over stiens grusbelægning, men efter Ravning kører vi igen på asfalt. Undervejs på stien er der opstillet borde og bænke flere steder til en medbragt madpakke, og vi finder mange forskellige kulturhistoriske lokaliteter, som indbyder til et stop.
 
@@ -50,7 +50,7 @@ Fårup Sø indbyder til en dejlig lang pause, og øst for søen der er mulighed 
 
 I Jelling passerer vi tæt forbi Jelling Kirke og monumenterne fra vikingetiden, og så er museet med den permanente udstilling om Kongernes Jelling absolut et besøg værd. Vi følger cykelruten ud af Mølvangsvej, hvor vi passerer forbi friluftsbadet og Jelling Camping, hvor der er mulighed for at spille minigolf. Lige overfor passerer vi området, hvor det om sommeren summer af liv under den årligt tilbagevendende Jelling Musikfestival. Vi fortsætter gennem marklandskabet mod den lille by Mølvang.
 
-Efter Mølvang skal vi sørge for at fange [national cykelrute 3 (Hærvejen)]({% link _routes/national-rute-3-haervejsruten.md %}), som ad små veje leder os videre mod Randbøl. I den noget faldefærdige Trollerup drejer vi mod vest og kører gennem marklandskaber og tæt på vindmøller, som nyder at vinden ikke møder alt for mange forbindringer.
+Efter Mølvang skal vi sørge for at fange [national cykelrute 3 (Hærvejen)]({% link collections.routes, "_routes/national-rute-3-haervejsruten.md" %}), som ad små veje leder os videre mod Randbøl. I den noget faldefærdige Trollerup drejer vi mod vest og kører gennem marklandskaber og tæt på vindmøller, som nyder at vinden ikke møder alt for mange forbindringer.
 
 Kort efter vi har passeret Bredsten Landevej, kan du holde pause ved Naturstedet Gårdbutik, hvor vi kan sidde ved de opstillede bænke eller søge ly i lysthuset og nyde sit medbragte mad eller kigge ind i den meget blandede landhandel, hvor der altid bydes på gratis kaffe og en hyggelig snak med stedets indehaver eller de andre gæster.
 

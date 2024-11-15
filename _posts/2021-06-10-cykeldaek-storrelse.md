@@ -27,7 +27,7 @@ I guiden finder du oplysninger om følgende:
 
 Lad os dykke ned i guiden med dækstørrelser, så du kan tage en kvalificeret beslutning i din jagt på gode dæk.
 
-Jeg har skrevet en anden [guide til at finde cykelslange størrelse]({% link _posts/2021-06-10-cykelslanger-storrelse.md %}).
+Jeg har skrevet en anden [guide til at finde cykelslange størrelse]({% link collections.posts, "_posts/2021-06-10-cykelslanger-storrelse.md" %}).
 
 ## Tabel over cykeldæk størrelser
 

@@ -26,7 +26,7 @@ asphalt: 60
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter i Silkeborg. Fra havnen kan du tage en tur til Himmelbjerget eller Laven med verdens ældste hjuldamper, Hjejlen, inden cykelturen starter. Ruten går på en flot sti syd om de mange søer og gennem et kuperet område med masser af skov. Før Gl. Rye passerer ruten tæt forbi Himmelbjerget, som er et af Danmarks mest berømte udsigtspunkter. Himmelbjerget er med sine 127 meter måske ikke verdens højeste bjerg, men udsigten over det midtjyske Søhøjland og Julsø er mindeværdig.
 
@@ -53,6 +53,6 @@ Ved Hov får ruten kontakt med den nationale cykelrute 5. Der er også færgefor
 - Rævsådal
 - Hov
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

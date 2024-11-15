@@ -22,8 +22,8 @@ asphalt: 25
 rubble: 10
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

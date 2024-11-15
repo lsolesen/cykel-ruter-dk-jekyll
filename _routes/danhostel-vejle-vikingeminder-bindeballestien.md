@@ -31,13 +31,13 @@ Fårup Sø indbyder til en dejlig lang pause, og øst for søen der er mulighed 
 
 I Jelling passerer vi tæt forbi Jelling Kirke og monumenterne fra vikingetiden, og så er museet med den permanente udstilling om Kongernes Jelling absolut et besøg værd. Vi følger cykelruten ud af Mølvangsvej, hvor vi passerer forbi friluftsbadet og Jelling Camping, hvor der er mulighed for at spille minigolf. Lige overfor passerer vi området, hvor det om sommeren summer af liv under den årligt tilbagevendende Jelling Musikfestival. Vi fortsætter gennem marklandskabet mod den lille by Mølvang.
 
-Efter Mølvang skal vi sørge for at fange [national cykelrute 3 (Hærvejen)]({% link _routes/national-rute-3-haervejsruten.md %}), som ad små veje leder os videre mod Randbøl. I den noget faldefærdige Trollerup drejer vi mod vest og kører gennem marklandskaber og tæt på vindmøller, som nyder at vinden ikke møder alt for mange forbindringer. 
+Efter Mølvang skal vi sørge for at fange [national cykelrute 3 (Hærvejen)]({% link collections.routes, "_routes/national-rute-3-haervejsruten.md" %}), som ad små veje leder os videre mod Randbøl. I den noget faldefærdige Trollerup drejer vi mod vest og kører gennem marklandskaber og tæt på vindmøller, som nyder at vinden ikke møder alt for mange forbindringer. 
 
 Kort efter vi har passeret Bredsten Landevej, kan du holde pause ved Naturstedet Gårdbutik, hvor vi kan sidde ved de opstillede bænke eller søge ly i lysthuset og nyde sit medbragte mad eller kigge ind i den meget blandede landhandel, hvor der altid bydes på gratis kaffe og en hyggelig snak med stedets indehaver eller de andre gæster.
 
 Efter naturstedet fortsætter ruten relativt fladt gennem et skiftende landskab. Vi passerer Rolighedsvej, og på en blæsende dag glæder vi os over at der efterhånden kommer mere og mere bevoksning omkring vejen, som vi nærmer os Gødding Skov, hvor træerne begynder at række ud over vejen og danne et naturligt halvtag. 
 
-_**Smutvej**: Lige før Gødding Skov krydser ruten regional cykelrute 34, hvor du kan afkorte ruten ved at køre ind forbi Engelsholm Slot, som i dag huser en højskole. Derefter fortsætter du på regional cykelrute 35 gennem Ravning, indtil du kommer til [Bindeballestien]({% link _routes/regional-rute-36-bindeballestien.md %})._
+_**Smutvej**: Lige før Gødding Skov krydser ruten regional cykelrute 34, hvor du kan afkorte ruten ved at køre ind forbi Engelsholm Slot, som i dag huser en højskole. Derefter fortsætter du på regional cykelrute 35 gennem Ravning, indtil du kommer til [Bindeballestien]({% link collections.routes, "_routes/regional-rute-36-bindeballestien.md" %})._
 
 Efter at have kørt i skygge i Gødding Skov, triller vi igennem Randbøl, hvor der er en fin kirke. Herefter bliver ruten lidt kuperet på vej mod Frederikshåb Plantage og Randbøl Hede. Vi kører gennem den østlige del af Frederikshåb Plantage og drejer mod øst for at cykle nogle kilometer inden vi rammer den helt unikke Bindeballesti, som I følger tilbage til Skibet.
 

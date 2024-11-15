@@ -22,7 +22,7 @@ asphalt: 25
 rubble: 10
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Himmerlandsstien er en 79,9 km lang regional cykelrute mellem Viborg og Løgstør i det danske Nordjylland.
 
@@ -36,7 +36,7 @@ Der er flere steder langs ruten, hvor du kan holde pause, bl.a. på en række ca
 
 {% include video provider="youtube" id="LVv6zqWHO9g" %}
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}
 

@@ -93,92 +93,90 @@ Her samler vi op på de mest populære blog posts i løbet af i år. Der er nogl
 
 I 2023 har vi haft 180.779 sidevisninger fordelt på 71.370 brugere. Det er vi vældig godt tilfredse med.
 
-{% for permalink in page.popular_posts_2023 %}
+{% for permalink in popular_posts_2023 %}
+  {% assign site_posts = collections.posts | where: "permalink", permalink %}
+  {% assign site_pages = collections.pages | where: "permalink", permalink %}
+  {% assign site_posts = site_posts | concat: site_pages %}
 
-{% assign site_posts = site.posts | where: "permalink", permalink %}
-{% assign site_pages = site.pages | where: "permalink", permalink %}
-{% assign site_posts = site_posts | concat: site_pages %}
-
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+  {% if site_posts.size > 0 %}
+    {% for post in site_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
 
 ## De {{ popular_posts_2022.size }} mest populære blog posts i løbet af 2022
 
-{% for permalink in page.popular_posts_2022 %}
+{% for permalink in popular_posts_2022 %}
 
-{% assign site_posts = site.posts | where: "permalink", permalink %}
-{% assign site_pages = site.pages | where: "permalink", permalink %}
-{% assign site_posts = site_posts | concat: site_pages %}
+  {% assign site_posts = collections.posts | where: "permalink", permalink %}
+  {% assign site_pages = collections.pages | where: "permalink", permalink %}
+  {% assign site_posts = site_posts | concat: site_pages %}
 
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% if site_posts.size > 0 %}
+    {% for post in site_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 
 {% endfor %}
 
 ## De {{ popular_routes_2022.size }} mest populære cykelruter i løbet af 2022
 
-{% for permalink in page.popular_routes %}
+{% for permalink in popular_routes %}
 
-{% assign site_routes = site.routes | where: "permalink", permalink %}
-{% assign site_pages = site.pages | where: "permalink", permalink %}
-{% assign site_posts = site_routes | concat: site_pages %}
+  {% assign site_routes = collections.routes | where: "permalink", permalink %}
+  {% assign site_pages = collections.pages | where: "permalink", permalink %}
+  {% assign site_posts = site_routes | concat: site_pages %}
 
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% if site_posts.size > 0 %}
+    {% for post in site_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 
 {% endfor %}
 
 ## De {{ popular_posts_2021.size }} mest populære blog posts i løbet af 2021
 
-{% for permalink in page.popular_posts_2021 %}
+{% for permalink in popular_posts_2021 %}
 
-{% assign site_posts = site.posts | where: "permalink", permalink %}
+  {% assign site_posts = collections.posts | where: "permalink", permalink %}
 
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% if site_posts.size > 0 %}
+    {% for post in site_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 
 {% endfor %}
 
 ## De {{ popular_routes.size }} mest populære cykelruter i løbet af 2021
 
-{% for permalink in page.popular_routes %}
+{% for permalink in popular_routes %}
 
-{% assign site_routes = site.routes | where: "permalink", permalink %}
-{% assign site_pages = site.pages | where: "permalink", permalink %}
-{% assign site_posts = site_routes | concat: site_pages %}
+  {% assign site_routes = collections.routes | where: "permalink", permalink %}
+  {% assign site_pages = collections.pages | where: "permalink", permalink %}
+  {% assign site_posts = site_routes | concat: site_pages %}
 
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% if site_posts.size > 0 %}
+    {% for post in site_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 
 {% endfor %}
 
 ## De {{ popular_posts_2020.size }} mest populære blog posts i løbet af 2020
 
-{% for permalink in page.popular_posts_2020 %}
+{% for permalink in popular_posts_2020 %}
 
-{% assign site_posts = site.posts | where: "permalink", permalink %}
+  {% assign site_posts = collections.posts | where: "permalink", permalink %}
 
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% if site_posts.size > 0 %}
+    {% for post in site_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 
 {% endfor %}

@@ -205,7 +205,7 @@ Hvis det er første gang, du skal køre med meget bagage, så kan det også vær
 
 Husk at justeringen af cyklen også gælder børnenes cykel. Jeg er kommet afsted en gang, hvor jeg ikke havde tjekket dækkene ordentligt på min piges cykel lige efter, at hun var blevet glad for at lave bremsespor. Det var en meget nervøs far, der bekymret kiggede efter, hvornår hun punkterede på det ret tyndslidte dæk.
 
-Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport af dit barn undervejs på cykelturen]({% link _posts/2019-07-01-boern-cykel-paa-cykelferie.md %}).
+Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport af dit barn undervejs på cykelturen]({% link collections.posts, "_posts/2019-07-01-boern-cykel-paa-cykelferie.md" %}).
 
 ## Klar til cykelferie eller cykeltur med børn
 

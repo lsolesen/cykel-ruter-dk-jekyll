@@ -25,7 +25,7 @@ asphalt: 115
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Da Vorherre skabte Jylland, lavede han først en model, som senere anbragtes i Limfjorden, fordi den var for smuk til at smide væk! Sådan blev Mors til – siger sag net - og sandt er det, at man øen rundt kan opleve mange af Jyllands landskaber.
 
@@ -55,6 +55,6 @@ Ved Fegge Klint kan man også beundre naturens skabelser, mens man tænker på, 
 - Molérmuseet
 - Fegge Klint
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

@@ -25,7 +25,7 @@ asphalt: 30
 rubble: 4
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Vi forlader Randers by og kører i tilnærmelsesvist fladt terræn et stykke langs den tidligere kyststrækning til Albæk. Lige før Albæk kirke drejer vi til venstre mod en stejl stigning op over et ca. 60 meter højt bakkeparti til en storslået udsigt ud over fjordlandskabets vidder. Kan man vente med den tiltrængte drikkepause, kan det være interessant at stoppe ved Skovkirkegården på vejen mod det tidligere Støvringgård Kloster. Her har  klosterets konventualinder og priorinder ligget begravet siden 1806, da Kong Christian d. 7 underskrev en lov, der påbød, at begravelser skulle foregå på en kirkegård. Indtil da blev de begravet i murede gravkamre under koret i Støvring Kirke.
 
@@ -50,6 +50,6 @@ Ruten slutter i Udbyhøj ved det lille færgeleje. Her er desuden mulighed for a
 - Mellerup-Voer Færge
 - Udbybøj Kabelfærge
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

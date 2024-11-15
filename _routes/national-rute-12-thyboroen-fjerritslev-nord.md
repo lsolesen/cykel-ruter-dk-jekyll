@@ -53,6 +53,6 @@ Ruten slutter i den lille by, Fjerritslev, som kan være en god base for at ople
 - Skyumbjerge
 - Vejlerne
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

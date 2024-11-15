@@ -47,13 +47,13 @@ National cykelrute 2 fortsætter [videre mod Hanstholm](/rute/national-rute-2-ny
 
 {% include video provider="own-youtube" id="HFFbNYMYlYQ" %}
 
-## Seværdigheder {{ page.title }}
+## Seværdigheder {{ title }}
 
 - Hjarbæk Fjord
 - Taarupgaard
 - Stårup Hovedgård
 - Skive Museum
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

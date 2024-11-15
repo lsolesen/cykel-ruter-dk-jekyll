@@ -33,6 +33,6 @@ Regionalrute 55 munder ud i [nationalrute 5](/rute/national-rute-5-ostkystruten/
 
 Fra Nørre Bjert kan du også tage en afstikker mod øst ud på Drejens-halvøen eller lægge vejen forbi museet Trapholt.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

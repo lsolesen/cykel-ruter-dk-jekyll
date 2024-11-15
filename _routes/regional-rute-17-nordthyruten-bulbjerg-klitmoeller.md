@@ -25,7 +25,7 @@ asphalt: 47
 rubble: 187
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Undervejs passerer den udkanten af det store fuglebeskyttelsesområde Vejlerne. Det kan kraftigt anbefales at tage en afstikker ad regional cykelrute 55 over dæmningen ved Lund Fjord. (Ruten er beskrevet i Cykelguidebog Nordjylland). Belægningen er ikke den bedste, men hvis man interesserer sig blot lidt for natur og fugle bør man give sig tid til turen. Der er to fugleobservationsposter på vejen. Det første er et fugletårn, mens det andet med en gulvhøjde på omkring en halv meter er et spændende skjul placeret i sivene.
 
@@ -39,7 +39,7 @@ Så går turen ind gennem Østerild Plantage, stadig på den nedlagte jernbane. 
 
 Ruten er skiltet gennem Thisted og efter et dyk under Omfartsvejen passerer den tæt (1 km) forbi Thisted Vandrerhjem.
 
-Herefter går det vestpå gennem Vandet Klitplantage, hvor [national cykelrute 2]({% link _routes/national-rute-2-hanstholm-kobenhavn.md %}) krydses og videre ud til Nystrup Klitplantage, hvor man støder til [national cykelrute 1]({% link _routes/national-rute-1-vestkyststien.md %}). Turen kan fortsættes ud til surferparadiset, Klitmøller, helt ude ved Vesterhavet.
+Herefter går det vestpå gennem Vandet Klitplantage, hvor [national cykelrute 2]({% link collections.routes, "_routes/national-rute-2-hanstholm-kobenhavn.md" %}) krydses og videre ud til Nystrup Klitplantage, hvor man støder til [national cykelrute 1]({% link collections.routes, "_routes/national-rute-1-vestkyststien.md" %}). Turen kan fortsættes ud til surferparadiset, Klitmøller, helt ude ved Vesterhavet.
 
 ## Seværdigheder
 
@@ -51,6 +51,6 @@ Herefter går det vestpå gennem Vandet Klitplantage, hvor [national cykelrute 2
 - Vandet Klitplantage
 - Nystrup Klitplantage
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

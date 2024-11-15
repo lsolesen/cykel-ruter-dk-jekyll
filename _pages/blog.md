@@ -13,7 +13,7 @@ Læs med på vores blog om cykling, [cykelruter](/cykelruter-danmark/) og [cykel
 
 <div class="feature__wrapper">
 
-{% assign site_posts = site.posts | sort: "last_modified_at" | reverse %}
+{% assign site_posts = collections.posts | sort: "last_modified_at" | reverse %}
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts limit:16 %}

@@ -69,7 +69,7 @@ I denne beregner kan du udregne hvor mange km, man cykler i timen, når du kende
 
 Børn kan cykle ret hurtigt alt efter hvor modige de er og hvilken cykel de har. Jeg tror det er umuligt at sige noget generelt om, hvor hurtigt børn cykler.
 
-Jeg kan huske, at jeg selv elskede at køre så hurtigt jeg kunne og kigge på min [cykelcomputer til børn]({% link _posts/2021-05-28-cykelcomputer-boern.md %}), hvor høj fart, jeg kunne få på ned ad bakkerne.
+Jeg kan huske, at jeg selv elskede at køre så hurtigt jeg kunne og kigge på min [cykelcomputer til børn]({% link collections.posts, "_posts/2021-05-28-cykelcomputer-boern.md" %}), hvor høj fart, jeg kunne få på ned ad bakkerne.
 
 ## Hvor hurtigt kan man køre på en cykel?
 
@@ -114,4 +114,4 @@ Det er også vanskeligt at sammenligne gennemsnitshastigheder og vurdere om det 
 
 ## Konklusion
 
-Hvis du kender din gennemsnitshastighed, så ved du altså, hvor langt man kan cykle på en dag. Jeg har i et andet indlæg skrevet lidt om, [hvor langt kan børn cykle]({% link _posts/2020-05-29-barn-cykle-langt.md %}).
+Hvis du kender din gennemsnitshastighed, så ved du altså, hvor langt man kan cykle på en dag. Jeg har i et andet indlæg skrevet lidt om, [hvor langt kan børn cykle]({% link collections.posts, "_posts/2020-05-29-barn-cykle-langt.md" %}).

@@ -23,9 +23,9 @@ gps:
   provider: alltrails
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
-Ruten starter i den store Mossø fredning umiddelbart syd for Gl. Rye, hvor vejen passerer Salten Å. Lige øst for vejen ligger det lille Gudenåmuseum, der fortæller om områdets mange fund fra stenalderen. Se desuden [national cykelrute 4]({% link _routes/national-rute-4-sondervig-kobenhavn.md %}) og de [regionale cykelruter 8]({% link _routes/regional-rute-8-ry-randers.md %}), [33]({% link _routes/regional-rute-33-gudenaaruten-kilde-gl-rye.md %}) og [51]({% link _routes/regional-rute-51-horsens-vissing-kloster.md %}) for flere oplysninger om området for rutens start.
+Ruten starter i den store Mossø fredning umiddelbart syd for Gl. Rye, hvor vejen passerer Salten Å. Lige øst for vejen ligger det lille Gudenåmuseum, der fortæller om områdets mange fund fra stenalderen. Se desuden [national cykelrute 4]({% link collections.routes, "_routes/national-rute-4-sondervig-kobenhavn.md" %}) og de [regionale cykelruter 8]({% link collections.routes, "_routes/regional-rute-8-ry-randers.md" %}), [33]({% link collections.routes, "_routes/regional-rute-33-gudenaaruten-kilde-gl-rye.md" %}) og [51]({% link collections.routes, "_routes/regional-rute-51-horsens-vissing-kloster.md" %}) for flere oplysninger om området for rutens start.
  
 Inden længe kommer vi forbi Øm Kloster Museum, som er placeret ved ruinerne af Danmarks mest kendte middelalderkloster. Her kan du gå en tur blandt ruinerne, se museets skeletsamling eller bryghaven med planter til ølbrygning brugt i middelalderen. Vi fortsætter over resterne af den gamle kanal mellem Gudensø og Mossø, som klosterets munke har gravet for at drive en vandmølle.
  

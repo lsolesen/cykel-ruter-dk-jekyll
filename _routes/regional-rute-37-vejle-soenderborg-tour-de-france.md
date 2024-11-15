@@ -77,6 +77,6 @@ Du kører igennem byerne Haderslev og Aabenraa. Herimellem ligger en stigning. E
 
 {% include faq.html %}
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

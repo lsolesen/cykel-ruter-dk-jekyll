@@ -26,116 +26,117 @@ feature_row:
     btn_label: "Se cykelkortet"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-legind:
-  - image_path: https://imgcdn.saxo.com/_9788771552980/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980
-    alt: "Cykelkort #1 Nordjylland"
-    title: "#1 Nordjylland"
-    rel: sponsored nofollow noopener
-  - image_path: https://imgcdn.saxo.com/_9788771552997/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
-    alt: "Cykelkort #2 Vestjylland og Limfjordslandet"
-    title: "#2 Vestjylland og Limfjordslandet"
-    rel: sponsored nofollow noopener
-  - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
-    alt: "Cykelkort #3 Sydjylland"
-    title: "#3 Sydjylland"
-    rel: sponsored nofollow noopener
-  - image_path: https://imgcdn.saxo.com/_9788771553017/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
-    alt: "Cykelkort #4 Østjylland"
-    title: "#4 Østjylland"
-    rel: sponsored nofollow noopener
-  - image_path: https://imgcdn.saxo.com/_9788771553024/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-5-fyn_ukendt_9788771553024
-    alt: "Cykelkort #5 Fyn"
-    title: "#5 Fyn"
-    rel: sponsored nofollow noopener
-  - image_path: https://imgcdn.saxo.com/_9788771553048/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-7-sydsjaelland-moen-og-lolland-falster_ukendt_9788771553048
-    alt: "Cykelkort #7 Sydsjælland, Møn og Lolland-Falster"
-    title: "#7 Sydsjælland, Møn og Lolland-Falster"
-    rel: sponsored nofollow noopener
-  - image_path: https://imgcdn.saxo.com/_9788771553055/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-8-bornholm_ukendt_9788771553055
-    alt: "Cykelkort #8 Bornholm"
-    title: "#8 Bornholm"
-    rel: sponsored nofollow noopener
-scanmaps:
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_nordlige_sjaelland.png
-    url: https://www.scanmaps.dk/0251d57?G=020
-    alt: "Cykelkort #1 Nordlige Sjælland"
-    title: "#1 Nordlige Sjælland (2021)"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_sydlige_sjaelland.png
-    url: https://www.scanmaps.dk/0251d58?G=020
-    alt: "Cykelkort #2 Sydlige Sjælland, Møn, Lolland og Falster"
-    title: "#2 Sydsjælland, Møn, Lolland og Falster (2021)"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_fyn.png
-    url: https://www.scanmaps.dk/0251f59?G=020
-    alt: "Cykelkort #3 Fyn, Ærø, Tåsinge og Langeland"
-    title: "#3 Fyn, Ærø, Tåsinge og Langeland (2022)"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_ostlige_jylland.png
-    url: https://www.scanmaps.dk/0251d60?G=020
-    alt: "Cykelkort #4 Østlige Jylland"
-    title: "#4 Østlige Jylland (2019)"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_nordlige_jylland.png
-    url: https://www.scanmaps.dk/0251d63?G=020
-    alt: "Cykelkort #5 Nordlige Jylland"
-    title: "#5 Nordlige Jylland (2022)"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_vestlige_jylland.png
-    url: https://www.scanmaps.dk/0251d62?G=020
-    alt: "Cykelkort #6 Vestlige Jylland"
-    title: "#6 Vestlige Jylland (2022)"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_sydlige_jylland.png
-    url: https://www.scanmaps.dk/0251d61?G=020
-    alt: "Cykelkort #7 Sydlige Jylland"
-    title: "#7 Sydlige Jylland (2021)"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_bornholm.png
-    url: https://www.scanmaps.dk/0251d64?G=020
-    alt: "Cykelkort #8 Bornholm"
-    title: "#8 Bornholm (2022)"
-    rel: sponsored nofollow noopener
-bikeline:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
-    url: https://www.scanmaps.dk/0251a67?G=020
-    alt: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
-    title: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
-    excerpt: "Vestkystruten er en del af den internationale cykelrute Eurovelo 12 Nordsøcykelruten. Vestkystruten er i alt 560 km langs Vestkysten, men er altså en del ef en international cykelrute på i alt 5.942 km."
-    btn_label: "Tjek cykelkortet"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251b18.jpg
-    url: https://www.scanmaps.dk/0251b18?G=020
-    alt: "Kort over Hærvejen - Heerweg/Ochsenweg (von Viborg nach Hamburg)"
-    title: "Nationalrute 3: Hærvejsruten. Heerweg/Ochsenweg (von Viborg nach Hamburg)"
-    excerpt: "Hærvejen er flere hundrede kilometer vandre- og cykelrute, der løber på langs ned gennem Jylland. Dette cykelkort er virkelig godt og detaljeret, selvom det er på tysk."
-    btn_label: "Se kortet"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg
-    url: https://www.scanmaps.dk/0251g04?G=020
-    alt: "Kort over Nationalrute 8. Der Ostsee-Radweg - Dänemark"
-    title: "Nationalrute 8: Østersøruten. Der Ostsee-Radweg - Dänemark"
-    excerpt: "Kortbogen dækker Nationalrute 8 - Østersøruten. En cykeltur gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. En ting er sikkert, den smukke og varierede natur og det rige kulturlandskab vil gøre din cykelferie langs den danske Østersørute til en uforglemmelig oplevelse."
-    btn_label: "Tjek prisen på kortet"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0222650_1.jpg
-    url: https://www.scanmaps.dk/0222650?G=020
-    alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
-    title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
-    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort](https://www.scanmaps.dk/0251d57?G=020){: rel='sponsored nofollow noopener' }."
-    btn_label: "Se mere om kortet"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
+galleries:
+  legind:
+    - image_path: https://imgcdn.saxo.com/_9788771552980/0x500
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-1-nordjylland_ukendt_9788771552980
+      alt: "Cykelkort #1 Nordjylland"
+      title: "#1 Nordjylland"
+      rel: sponsored nofollow noopener
+    - image_path: https://imgcdn.saxo.com/_9788771552997/0x500
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-2-vestjylland-og-limfjordslandet_ukendt_9788771552997
+      alt: "Cykelkort #2 Vestjylland og Limfjordslandet"
+      title: "#2 Vestjylland og Limfjordslandet"
+      rel: sponsored nofollow noopener
+    - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
+      alt: "Cykelkort #3 Sydjylland"
+      title: "#3 Sydjylland"
+      rel: sponsored nofollow noopener
+    - image_path: https://imgcdn.saxo.com/_9788771553017/0x500
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-4-oestjylland_ukendt_9788771553017
+      alt: "Cykelkort #4 Østjylland"
+      title: "#4 Østjylland"
+      rel: sponsored nofollow noopener
+    - image_path: https://imgcdn.saxo.com/_9788771553024/0x500
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-5-fyn_ukendt_9788771553024
+      alt: "Cykelkort #5 Fyn"
+      title: "#5 Fyn"
+      rel: sponsored nofollow noopener
+    - image_path: https://imgcdn.saxo.com/_9788771553048/0x500
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-7-sydsjaelland-moen-og-lolland-falster_ukendt_9788771553048
+      alt: "Cykelkort #7 Sydsjælland, Møn og Lolland-Falster"
+      title: "#7 Sydsjælland, Møn og Lolland-Falster"
+      rel: sponsored nofollow noopener
+    - image_path: https://imgcdn.saxo.com/_9788771553055/0x500
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-8-bornholm_ukendt_9788771553055
+      alt: "Cykelkort #8 Bornholm"
+      title: "#8 Bornholm"
+      rel: sponsored nofollow noopener
+  scanmaps:
+    - image_path: https://www.scanmaps.dk/media/cykel/c_small_nordlige_sjaelland.png
+      url: https://www.scanmaps.dk/0251d57?G=020
+      alt: "Cykelkort #1 Nordlige Sjælland"
+      title: "#1 Nordlige Sjælland (2021)"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/cykel/c_small_sydlige_sjaelland.png
+      url: https://www.scanmaps.dk/0251d58?G=020
+      alt: "Cykelkort #2 Sydlige Sjælland, Møn, Lolland og Falster"
+      title: "#2 Sydsjælland, Møn, Lolland og Falster (2021)"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/cykel/c_small_fyn.png
+      url: https://www.scanmaps.dk/0251f59?G=020
+      alt: "Cykelkort #3 Fyn, Ærø, Tåsinge og Langeland"
+      title: "#3 Fyn, Ærø, Tåsinge og Langeland (2022)"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/cykel/c_small_ostlige_jylland.png
+      url: https://www.scanmaps.dk/0251d60?G=020
+      alt: "Cykelkort #4 Østlige Jylland"
+      title: "#4 Østlige Jylland (2019)"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/cykel/c_small_nordlige_jylland.png
+      url: https://www.scanmaps.dk/0251d63?G=020
+      alt: "Cykelkort #5 Nordlige Jylland"
+      title: "#5 Nordlige Jylland (2022)"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/cykel/c_small_vestlige_jylland.png
+      url: https://www.scanmaps.dk/0251d62?G=020
+      alt: "Cykelkort #6 Vestlige Jylland"
+      title: "#6 Vestlige Jylland (2022)"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/cykel/c_small_sydlige_jylland.png
+      url: https://www.scanmaps.dk/0251d61?G=020
+      alt: "Cykelkort #7 Sydlige Jylland"
+      title: "#7 Sydlige Jylland (2021)"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/cykel/c_small_bornholm.png
+      url: https://www.scanmaps.dk/0251d64?G=020
+      alt: "Cykelkort #8 Bornholm"
+      title: "#8 Bornholm (2022)"
+      rel: sponsored nofollow noopener
+  bikeline:
+    - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
+      url: https://www.scanmaps.dk/0251a67?G=020
+      alt: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
+      title: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
+      excerpt: "Vestkystruten er en del af den internationale cykelrute Eurovelo 12 Nordsøcykelruten. Vestkystruten er i alt 560 km langs Vestkysten, men er altså en del ef en international cykelrute på i alt 5.942 km."
+      btn_label: "Tjek cykelkortet"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251b18.jpg
+      url: https://www.scanmaps.dk/0251b18?G=020
+      alt: "Kort over Hærvejen - Heerweg/Ochsenweg (von Viborg nach Hamburg)"
+      title: "Nationalrute 3: Hærvejsruten. Heerweg/Ochsenweg (von Viborg nach Hamburg)"
+      excerpt: "Hærvejen er flere hundrede kilometer vandre- og cykelrute, der løber på langs ned gennem Jylland. Dette cykelkort er virkelig godt og detaljeret, selvom det er på tysk."
+      btn_label: "Se kortet"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg
+      url: https://www.scanmaps.dk/0251g04?G=020
+      alt: "Kort over Nationalrute 8. Der Ostsee-Radweg - Dänemark"
+      title: "Nationalrute 8: Østersøruten. Der Ostsee-Radweg - Dänemark"
+      excerpt: "Kortbogen dækker Nationalrute 8 - Østersøruten. En cykeltur gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. En ting er sikkert, den smukke og varierede natur og det rige kulturlandskab vil gøre din cykelferie langs den danske Østersørute til en uforglemmelig oplevelse."
+      btn_label: "Tjek prisen på kortet"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+    - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0222650_1.jpg
+      url: https://www.scanmaps.dk/0222650?G=020
+      alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
+      title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
+      excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort](https://www.scanmaps.dk/0251d57?G=020){: rel='sponsored nofollow noopener' }."
+      btn_label: "Se mere om kortet"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
 ---
 
 Når du skal på cykeltur i Danmark, er det rigtig godt at kunne finde vej. Jeg har flere gange lavet den fejl ikke at medbringe et cykelkort, der er detaljeret nok. Der findes nogle rigtig gode cykelkort, som du kan bruge, når du planlægger din cykeltur.
@@ -176,7 +177,7 @@ Nordisk Korthandel skriver selv om kortet:
 
 --- <cite>[Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }</cite>
 
-Ud over Danmarks-kortet, så er der også et [kort over cykelruterne i København og Storkøbenhavn]({% link _posts/2020-07-11-cykelruter-kobenhavn.md %}). Dette mere detaljerede korte er lavet i målestok 1:35.000.
+Ud over Danmarks-kortet, så er der også et [kort over cykelruterne i København og Storkøbenhavn]({% link collections.posts, "_posts/2020-07-11-cykelruter-kobenhavn.md" %}). Dette mere detaljerede korte er lavet i målestok 1:35.000.
 
 Cykelkort Danmark og København er udgivet i **4. udgave udgivet i maj 2021**, så derfor er de nyeste omlægninger af de danske cykelruter med.
 
@@ -210,7 +211,7 @@ Cykelkortet fra Nordisk Korthandel kommer ikke i et hylster, men det har jeg ikk
 
 Her kan du se de forskellige kort i cykelkortserien. Jeg har angivet på listen, hvornår kortet senest er opdateret.
 
-{% for card in page.scanmaps -%}
+{% for card in scanmaps -%}
 - [{{ card.title }}]({{ card.url }}){% if card.rel %}{: rel="{{ card.rel }}" }{% endif %}
 {% endfor %}
 

@@ -31,7 +31,7 @@ Vi kører forbi Haraldskær og fortsætter mod Nr. Vilstrup. Herfra fanger vi cy
 
 Efter Kongens Kær drejer vi ned mod Vejle, hvor der er flere muligheder. Hvis man fortsætter ligeover krydset, kommer man tæt forbi biblioteket og DGI-huset, hvor svømmehallen har offentligt åbent. Herfra er der ikke langt til centrum, hvor vi kan få en forfriskning på en af de hyggelige cafeer, nyde noget sødt og lækkert fra iskioskerne eller i det hele taget bare nyde livet. Hvis vi cykler forbi banegården, kan VisitVejle give masser af gode råd til, hvad man kan foretage sig i Vejle.
 
-_**Smutvej**: Vi kan skyde genvej til Skibet ved at køre langs [Bindeballestien]({% link _routes/regional-rute-36-bindeballestien.md %}), som kører direkte til Skibet._
+_**Smutvej**: Vi kan skyde genvej til Skibet ved at køre langs [Bindeballestien]({% link collections.routes, "_routes/regional-rute-36-bindeballestien.md" %}), som kører direkte til Skibet._
 
 Vi har stadig krudt i benene og fortsætter langs ruten, som fortsætter op ad Gl. Jellingvej, hvor vi rammer en lille cykelsti, der ligger langs den nye Jellingvej.
 

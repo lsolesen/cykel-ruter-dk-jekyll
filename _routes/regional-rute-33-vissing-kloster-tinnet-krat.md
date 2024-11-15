@@ -21,9 +21,9 @@ gps:
   provider: alltrails
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
-Ruten starter i forlængelse af [national cykelrute 4]({% link _routes/national-rute-4-sondervig-kobenhavn.md %}) ved Vissing kloster i et område, som rummer meget interessant historie. Ikke langt fra Vissing Kloster i Gl. Rye ligger bl.a. Sankt Jørgens Kirke, som er kendt for at huse et møde, hvor politiske beslutninger blev foretaget, som ledte til reformationen i 1536. Øst for rutens startsted ved Mossø ligger Kloster Mølle, hvor der er rester af det tidligere Voer Kloster, som før reformationen beboedes af benediktinermunkene og siden er blevet brugt til papfremstilling. Fra Kloster Mølle er der afmærket en ca 3 km lang vandrerute til udsigtspunktet Sukkertoppen, hvorfra man bedst kan overskue landskabet omkring bl.a. Kloster Mølle.
+Ruten starter i forlængelse af [national cykelrute 4]({% link collections.routes, "_routes/national-rute-4-sondervig-kobenhavn.md" %}) ved Vissing kloster i et område, som rummer meget interessant historie. Ikke langt fra Vissing Kloster i Gl. Rye ligger bl.a. Sankt Jørgens Kirke, som er kendt for at huse et møde, hvor politiske beslutninger blev foretaget, som ledte til reformationen i 1536. Øst for rutens startsted ved Mossø ligger Kloster Mølle, hvor der er rester af det tidligere Voer Kloster, som før reformationen beboedes af benediktinermunkene og siden er blevet brugt til papfremstilling. Fra Kloster Mølle er der afmærket en ca 3 km lang vandrerute til udsigtspunktet Sukkertoppen, hvorfra man bedst kan overskue landskabet omkring bl.a. Kloster Mølle.
  
 Vest for rutens videre forløb i Sønder Vissing kan man desuden se to runesten med indskrifter fra vikingetiden, hvoraf den ene er rejst for Harald Blåtands kone, Tove. Ikke langt herefter kører vi igennem den lille Vissinggård Funkis by, som er bygget op i 1930'ernes karakteristiske funkisstil. Idet vi nærmer os landsbyerne Tønning og Træden, begynder rutens topografi kort at bære præg af beliggenheden i det jyske højdeland. I både Tønning og Træden er der flere hyggelige, gamle bindingsværkshuse. Byerne har en skæg fælles historie, der bl.a. involverer deres to kirker. Den underfundige historie må du læse på informationsskilte langs vejen.
 
@@ -33,6 +33,6 @@ Mod rutens slutning støder vi på den nationale cykelrute 3, som kører langs h
  
 Ruten slutter ved Tinnet krat, der tilsammen med de omliggende krat udgør Danmarks største egekrat, der har overlevet kreaturernes nedbidning. Her kan man også se Gudenåens udspring fra en lille kilde ca. 100 m nord for Tinnetgård.
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}

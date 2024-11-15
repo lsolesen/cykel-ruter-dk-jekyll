@@ -91,6 +91,6 @@ Jeg har også skrevet et indlæg med en masse gode tips til at tage [med børn p
 
 Du kan besøge vores samarbejdspartnere for at finde udstyr til børnenes cykeltur.
 
-{% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

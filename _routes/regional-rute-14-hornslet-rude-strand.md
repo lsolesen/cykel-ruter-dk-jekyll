@@ -24,7 +24,7 @@ asphalt: 69
 rubble: 0
 ---
 
-**{{ page.excerpt }}**
+**{{ excerpt }}**
 
 Ruten starter så snart du har gået en tur i parken ved herregården Rosenholm, der er en af Danmarks smukkeste renæssancegårde, og kigget lidt nærmere på Hornslet Kirke, der bl.a. indeholder et usædvanligt kalkmaleri fra midten af 1200-tallet.
 
@@ -54,6 +54,6 @@ Efter Odder fortsætter ruten ud til kysten, hvor den får kontakt med den natio
 - Den Økologiske Have
 - Herregården Rathlousdal
 
-## Kort over {{ page.title }}
+## Kort over {{ title }}
 
 {% include maps-ad.md %}
