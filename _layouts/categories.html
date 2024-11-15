@@ -2,7 +2,7 @@
 layout: archive
 ---
 
-{{ content | safe }}
+{{ content }}
 
 {% assign categories = collections | getKeys | filterCategoriesList %}
 {% include posts-taxonomy.html taxonomies=categories %}

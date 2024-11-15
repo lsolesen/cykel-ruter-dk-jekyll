@@ -2,6 +2,6 @@
 layout: archive
 ---
 
-{{ content | safe }}
+{{ content }}
 {% assign tags = collections | getKeys | filterTagList %}
 {% include posts-taxonomy.html taxonomies=tags %}

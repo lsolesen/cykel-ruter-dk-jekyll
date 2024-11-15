@@ -68,7 +68,6 @@ eleventyImport:
 
 <h2>Mest populære sider</h2>
 
-
 <div class="feature__wrapper">
 
 {% assign site_posts = collections.posts | where2: "tags", "featured" | sort: "last_modified_at" | reverse %}
