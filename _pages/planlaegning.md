@@ -24,7 +24,7 @@ Planlægning er vigtig uanset om du har fundet en [cykelrute](/cykelruter-danmar
 
 ## Forberedelse af din cykeltur
 
-{% assign site_posts = collections.posts | where: "category", "Planlægning" | where2: "tags", "forberedelse" | sort: "title" %}
+{% assign site_posts = collections.posts | where2: "category", "Planlægning" | where2: "tags", "forberedelse" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -36,7 +36,7 @@ Planlægning er vigtig uanset om du har fundet en [cykelrute](/cykelruter-danmar
 
 ## Cykeludstyr og udstyr til din cykel
 
-{% assign site_posts = collections.posts | where: "category", "Udstyr" | sort: "title" %}
+{% assign site_posts = collections.posts | where2: "category", "Udstyr" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -50,7 +50,7 @@ Du kan læse mere om [cykeludstyr og udstyr til cyklen her](/cykeludstyr/) her.
 
 ## Regler og sikkerhed på cyklen
 
-{% assign site_posts = collections.posts | where: "category", "Regler & Sikkerhed" | sort: "title" %}
+{% assign site_posts = collections.posts | where2: "category", "Regler & Sikkerhed" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

@@ -269,7 +269,7 @@ https://www.smalldanishhotels.dk/inspiration/cykelferie/
 
 ## Artikler i kategorien cykelferie
 
-{% assign site_posts = collections.posts | where: "category", "Cykelferie" | sort: "title" %}
+{% assign site_posts = collections.posts | where2: "category", "Cykelferie" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

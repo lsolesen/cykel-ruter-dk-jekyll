@@ -64,7 +64,7 @@ En regional cykelrute forløber gennem flere kommuner. Typisk er ruten længere 
 
 De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet alle de regionale cykelruter, jeg har tilladelse til her på sitet. Hvis du vil bidrage med beskrivelser af nogle regionale cykelruter, så vil jeg blive rigtig glad.
 
-{% assign site_posts = collections.routes | where: "category", "Regional Cykelrute" | sort: "title" %}
+{% assign site_posts = collections.routes | where2: "category", "Regional Cykelrute" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

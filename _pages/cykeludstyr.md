@@ -205,7 +205,7 @@ Tjek også artiklen om [at lave mad på cykelturen](/flot-mad-til-cykelturen/).
 
 ## Cykeludstyr og udstyr til din cykel
 
-{% assign site_posts = collections.posts | where: "category", "Udstyr" | sort: "title" %}
+{% assign site_posts = collections.posts | where2: "category", "Udstyr" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -219,7 +219,7 @@ Du kan læse mere om [cykeludstyr](/cykeludstyr/) her.
 
 ## Flere artikler med inspiration
 
-{% assign site_posts = collections.posts | where: "category", "Inspiration" | sort: "title" %}
+{% assign site_posts = collections.posts | where2: "category", "Inspiration" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

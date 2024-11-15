@@ -80,7 +80,7 @@ Du kan se en oversigt over alle de nationale cykelruter i skemaet nedenunder.
 
 ## Oversigt over de danske nationalruter
 
-{% assign routes = collections.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
+{% assign routes = collections.routes | where2: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
 
 | | Navn	| Længde | Asfalt | Note |
 |-|-|-|-|-|
@@ -95,7 +95,7 @@ Du kan se en oversigt over alle de nationale cykelruter i skemaet nedenunder.
 
 Vi har beskrevet nationalruterne her. Under de enkelte rutebeskrivelser kan du også finde beskrivelser af de forskellige delforløb og etaper på ruterne. Det kan være meget hjælpsomt, hvis du kun vil køre en kortere distance.
 
-{% assign site_posts = collections.routes | where: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where2: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
