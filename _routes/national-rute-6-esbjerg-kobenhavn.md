@@ -17,8 +17,9 @@ tags:
   - national
   - hele ruten
   - National Cykelrute 6
+  - Nordsjælland
 related: National Cykelrute 6
-excerpt: "Nationalrute 6 er en ret direkte rute mellem Esbjergg og København. Den går direkte over Jylland, Fyn og Sjælland til København. Du kan opleve danske landskaber med sorte og hvide køer i Jylland, bølgende kornmarker på Fyn og Sjælland. Næsten hele ruten på 330 km er asfalteret. Kun på Sjælland vil du opleve at ruten er ujævn og bakket."
+excerpt: "Nationalrute 6 er en ret direkte rute mellem Esbjerg og København. Den går direkte over Jylland, Fyn og Sjælland til København. Du kan opleve danske landskaber med sorte og hvide køer i Jylland, bølgende kornmarker på Fyn og Sjælland. Næsten hele ruten på 330 km er asfalteret. Kun på Sjælland vil du opleve at ruten er ujævn og bakket."
 gps:
   url: https://www.outdooractive.com/en/route/bicycle-touring/nationalrute-6-esbjerg-til-kobenhavn/245189669/
   id: 245189669
