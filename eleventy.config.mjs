@@ -48,6 +48,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets/css");
   eleventyConfig.addPassthroughCopy("assets/js");
   eleventyConfig.addPassthroughCopy("assets/images/");
+  eleventyConfig.addPassthroughCopy("_redirects");
 
   // USE if you want to override one of the layouts and use your own version
   // eleventyConfig.addLayoutAlias("single", "../_layouts/splash.html");
