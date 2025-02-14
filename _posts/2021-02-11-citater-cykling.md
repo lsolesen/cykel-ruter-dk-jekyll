@@ -1,5 +1,6 @@
 ---
-title: &title "Cykelcitater: 16 citater om cykling og at cykle (2024)"
+title: &title "Cykelcitater: 16 citater om cykling og at cykle"
+seo_title: "Cykelcitater: 16 citater om cykling og at cykle (2025)"
 permalink: /cykelcitater-citater-om-cykling/
 last_modified_at: 2021-01-29T09:41:09Z
 language: da
@@ -89,7 +90,7 @@ feature_row_ads:
     id: "25009"
 ---
 
-Jeg falder ofte over sjove og tankevækkedne citater om cykling. Jeg har samlet {{ feature_quotes.size | plus: feature_quotes_tour.size }} cykelcitater her. Citaterne om at cykle kan være gode at have i baghovedet i regnvejr, op ad bakke og i modvind.
+Jeg falder ofte over sjove og tankevækkende citater om cykling. Jeg har samlet {{ feature_quotes.size | plus: feature_quotes_tour.size }} cykelcitater her. Citaterne om at cykle kan være gode at have i baghovedet i regnvejr, op ad bakke og i modvind.
 
 {% comment %}
 Jeg har samlet en masse forskellige citater om fitness og bodybuilding her på siden, men jeg har også oprettet en [Pinterest Opslagstavle med citater](https://pin.it/6VHPDcC), så skynd dig ind og følge den.

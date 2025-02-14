@@ -1,5 +1,6 @@
 ---
-title: &title "Cykeldæk størrelser: Komplet tabel (2024)"
+title: &title "Cykeldæk størrelser: Komplet tabel"
+seo_title: "Cykeldæk størrelser: Komplet tabel (2025)"
 description: Skal du skifte cykeldæk, så tjek vores guide og tabel over cykeldæk størrelser, hvor du let kan finde dækstørrelser der passer til dit cykelhjul.
 permalink: /cykeldaek-storrelse-tabel/
 language: da
