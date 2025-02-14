@@ -118,7 +118,7 @@ Hvis du foretrækker at slå din gearing op i en geartabel, så har jeg samlet e
 
 Her har du et eksempel på, hvordan en geartabel ser ud for en racercykel med 26,8" hjul.
 
-{% include figure image_path="https://web.archive.org/web/20210924161530im_/http://velopress.dk/wp-content/uploads/2010/02/racer_geartabel1.jpg" caption="Eksempel på geartabel for en racercykel. Kilde: [Velopress.dk](https://web.archive.org/web/20211026091037/https://velopress.dk/artikler/geartabel-til-racercykel/){: rel='noopener nofollow' }" alt="geartabel" %}
+{% include figure image_path="/assets/images/blog/racer_geartabel1.jpg" caption="Eksempel på geartabel for en racercykel. Kilde: [Velopress.dk](https://web.archive.org/web/20211026091037/https://velopress.dk/artikler/geartabel-til-racercykel/){: rel='noopener nofollow' }" alt="geartabel" %}
 
 ## Hvordan udregner jeg hvor mange meter jeg kører på en pedalomdrejning?
 
