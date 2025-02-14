@@ -72,4 +72,4 @@ Jeg har også lavet en samlet beskrivelse af [Vestkyststien]({% link collections
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

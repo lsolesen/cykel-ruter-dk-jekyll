@@ -1,7 +1,7 @@
 ---
 layout: single
-title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur (2023) 🗺"
-seo_title: "Vælg det rigtige cykelkort over Danmark til din cykeltur (2023)"
+title: &title "Vælg det rigtige cykelkort over Danmark til din cykeltur (2024) 🗺"
+seo_title: "Vælg det rigtige cykelkort over Danmark til din cykeltur (2024)"
 permalink: /cykelkort/
 description: "Jeg har samlet nogle rigtig gode cykelkort over Danmark, der er detaljerede nok til, at du kan finde vej - både når du planlægger din cykeltur og undervejs."
 category:
@@ -11,9 +11,9 @@ tags:
   - cykelkort
   - cykelguide
   - featured
-last_modified_at: 2022-06-22T08:45:01Z
+last_modified_at: 2024-06-22T08:45:01Z
 header:
-  teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1504697570352-47c3bbc09af9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
   alt: "Photo by Annie Spratt on Unsplash"
   overlay_filter: 0.2

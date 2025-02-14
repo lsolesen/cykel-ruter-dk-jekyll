@@ -5,8 +5,8 @@ description: "Skal du rejse med tog og skal du have din cykel med? Der er forske
 permalink: /cykel-med-toget/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1529148598219-967881aed3c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1529148598219-967881aed3c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1529148598219-967881aed3c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1529148598219-967881aed3c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - planlægning
@@ -231,4 +231,4 @@ Derfor er det dejligt, at man kan tage cyklen med toget. I dette blogindlæg har
 
 ## Ofte stillede spørgsmål
 
-{% include faq.html %}
+{% include cykelruter/faq.html %}

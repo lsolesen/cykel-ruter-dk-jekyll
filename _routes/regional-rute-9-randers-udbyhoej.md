@@ -52,4 +52,4 @@ Ruten slutter i Udbyhøj ved det lille færgeleje. Her er desuden mulighed for a
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

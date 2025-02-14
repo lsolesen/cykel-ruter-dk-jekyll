@@ -1,5 +1,5 @@
 ---
-title: &title "Danmarks højeste bjerge: Top 10 (2023)"
+title: &title "Danmarks højeste bjerge: Top 10 (2024)"
 permalink: /danmarks-hojeste-bjerge/
 language: da
 header:

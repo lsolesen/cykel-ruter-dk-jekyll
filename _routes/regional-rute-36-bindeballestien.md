@@ -117,8 +117,8 @@ Du kan downloade en [PDF-folder](https://www.okolariet.dk/media/345467/bindeball
 
 ## Ofte stillede spørgsmål om Bindeballestien
 
-{% include faq.html %}
+{% include cykelruter/faq.html %}
 
 ## Kort over Bindeballestien
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

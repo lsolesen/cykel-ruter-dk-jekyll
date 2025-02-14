@@ -3,7 +3,7 @@ title: &title "Hvor hurtigt cykler man? Udregn gennemsnitsfart ved cykling 🚴�
 permalink: /gennemsnitsfart-cykling/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1476631840528-13bdc7f18072?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGJpa2UlMjBmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  overlay_image: https://images.unsplash.com/photo-1476631840528-13bdc7f18072?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGJpa2UlMjBmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
   teaser: https://images.unsplash.com/photo-1476631840528-13bdc7f18072?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGJpa2UlMjBmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60
   caption: *title
 tags:
@@ -110,7 +110,7 @@ Det er også vanskeligt at sammenligne gennemsnitshastigheder og vurdere om det 
 
 ## Ofte stillede spørgsmål
 
-{% include faq.html %}
+{% include cykelruter/faq.html %}
 
 ## Konklusion
 

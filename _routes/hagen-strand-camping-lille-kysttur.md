@@ -40,4 +40,4 @@ _**Anbefalet omvej:** I Egeskov er der igen mulighed for indkøb, inden turen ka
 
 På turen hjemad trilles igen ned ad den 875 meter lange, lette bakke på Trelde Næsvej mod cykelrute 5, som igen fører jer nordpå til Høll og Hvidbjerg på vejen hjem. 
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

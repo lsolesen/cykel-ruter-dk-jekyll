@@ -57,4 +57,4 @@ Grenå er kendt for Kattegatcenteret, hvor man kan stå ansigt til ansigt med fr
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

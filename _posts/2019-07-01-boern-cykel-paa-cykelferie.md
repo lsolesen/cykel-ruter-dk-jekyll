@@ -29,8 +29,8 @@ feature_row_bee:
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1494382111960-c530e53a3a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1494382111960-c530e53a3a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1494382111960-c530e53a3a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1494382111960-c530e53a3a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   caption: "Photo by 童 彤 on Unsplash"
   overlay_filter: 0.2
 ---
@@ -91,6 +91,6 @@ Jeg har også skrevet et indlæg med en masse gode tips til at tage [med børn p
 
 Du kan besøge vores samarbejdspartnere for at finde udstyr til børnenes cykeltur.
 
-{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where: "data.tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

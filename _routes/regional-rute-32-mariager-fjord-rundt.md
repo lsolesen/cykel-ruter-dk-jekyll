@@ -6,7 +6,7 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
 header:
-  teaser: https://images.unsplash.com/photo-1470920456752-d50214d7ed59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1470920456752-d50214d7ed59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=60
 category:
   - Regional Cykelrute
 tags:
@@ -43,4 +43,4 @@ Fra Hadsund til Mariager følger ruten først den nationale cykelrute 5 til Noru
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

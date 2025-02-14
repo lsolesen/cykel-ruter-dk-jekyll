@@ -1,11 +1,11 @@
 ---
-title: &title "Cykelcitater: 16 citater om cykling og at cykle (2023)"
+title: &title "Cykelcitater: 16 citater om cykling og at cykle (2024)"
 permalink: /cykelcitater-citater-om-cykling/
 last_modified_at: 2021-01-29T09:41:09Z
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
   overlay_filter: 0.8
 category:
@@ -114,7 +114,7 @@ Her har jeg samlet nogle cykelcitater til os, der bare godt kan lide at cykle en
 {% comment %}
 Når man snakker om træningsplanlægning, så synes jeg Jim Wendler fanger det meget godt med dette citat.
 
-{% include pinterest image_path="/assets/images/pinterest/wendler-accessories.png" data-pin-media="/assets/images/pinterest/wendler-accessories.png" %}
+{% include cykelruter/pinterest image_path="/assets/images/pinterest/wendler-accessories.png" data-pin-media="/assets/images/pinterest/wendler-accessories.png" %}
 {% endcomment %}
 
 ## {{ feature_quotes.size }} citater om cykling og landevejscykling
@@ -138,7 +138,7 @@ Her kan du se de bedste af cykelcitaterne fra [feltet.dk](https://www.feltet.dk/
 {% comment %}
 Når man snakker om træningsplanlægning, så synes jeg Jim Wendler fanger det meget godt med dette citat.
 
-{% include pinterest image_path="/assets/images/pinterest/wendler-accessories.png" data-pin-media="/assets/images/pinterest/wendler-accessories.png" %}
+{% include cykelruter/pinterest image_path="/assets/images/pinterest/wendler-accessories.png" data-pin-media="/assets/images/pinterest/wendler-accessories.png" %}
 
 ## Citater om cykling på Pinterest
 

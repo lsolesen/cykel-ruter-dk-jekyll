@@ -57,4 +57,4 @@ Ved Fegge Klint kan man også beundre naturens skabelser, mens man tænker på, 
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

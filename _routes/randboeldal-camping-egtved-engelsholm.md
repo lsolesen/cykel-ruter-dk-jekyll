@@ -4,7 +4,7 @@ permalink: /rute/randboeldal-camping-egtved-engelsholm/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1566877231000-25ad3805abe0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1566877231000-25ad3805abe0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
 category:
   - VisitVejle Cykelguide
 tags:
@@ -42,4 +42,4 @@ Her krydser vi også [Bindeballestien]({% link collections.routes, "_routes/regi
 
 Slottet og glasgalleriet ligger lige ud til Engelsholm Sø, som vi via Sødover kører nordom. I Engelsholm holder vi tungen lige i munden for at følge cykelruten som igen fører os ud til national cykelrute 3, som vi følger gennem Gødding Skov tilbage til Randbøl.
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

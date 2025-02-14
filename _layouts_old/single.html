@@ -52,7 +52,7 @@ layout: default
         {% assign file_exists = site.static_files | where: "path", path %}
 
         {% if file_exists.size != 0 %}
-          {% include pinterest image_path=path hidden="true" %}
+          {% include cykelruter/pinterest image_path=path hidden="true" %}
         {% endif %}
       </section>
 
@@ -60,7 +60,7 @@ layout: default
         {% if ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ ui-text[site.locale].meta_label }}</h4>
         {% endif %}
-        {% include page__taxonomy.html %}
+        {% include cykelruter/page__taxonomy.html %}
         {% include page__date.html %}
       </footer>
 

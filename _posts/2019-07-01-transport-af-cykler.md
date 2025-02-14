@@ -27,28 +27,29 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-feature_row_cykelkuffert:
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/c39da31d-efe2-41f5-bc73-bbcf4b6ef1ff/PRBA0045_A_large.jpg
-    alt: "PRO - Cykeltaske soft"
-    title: "PRO - Cykeltaske soft"
-    excerpt: "Denne cykel-transporttaske fra PRO er i skumforet nylon, der beskytter din cykel. Cykeltasken kan indeholde en komplet cykel. Indvendigt er der separate lommer til begge hjul. "
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/pro---cykeltaske-soft-"
-    btn_label: "Tjek prisen"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/c39da31d-efe2-41f5-bc73-bbcf4b6ef1ff/PRBA0045_A_large.jpg
-    alt: "Topeak PAKGO X"
-    title: "Topeak PAKGO X"
-    excerpt: "En racercykel kan være en ret stor investering og derfor ønsker man ofte at passe lidt ekstra godt på den under transporten -specielt hvis der er tale om en cykel i carbon, som ikke tåler ret meget."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/topeak-pakgo-x---letvaegts-cykelkuffert-med-komplet-beskyttelses-kit---haard-skal"
-    btn_label: "Tjek prisen"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
+feature_rows:
+  feature_row_cykelkuffert:
+    - image_path: https://resources.chainbox.io/cykelpartner/public/pim/c39da31d-efe2-41f5-bc73-bbcf4b6ef1ff/PRBA0045_A_large.jpg
+      alt: "PRO - Cykeltaske soft"
+      title: "PRO - Cykeltaske soft"
+      excerpt: "Denne cykel-transporttaske fra PRO er i skumforet nylon, der beskytter din cykel. Cykeltasken kan indeholde en komplet cykel. Indvendigt er der separate lommer til begge hjul. "
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/pro---cykeltaske-soft-"
+      btn_label: "Tjek prisen"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+    - image_path: https://resources.chainbox.io/cykelpartner/public/pim/c39da31d-efe2-41f5-bc73-bbcf4b6ef1ff/PRBA0045_A_large.jpg
+      alt: "Topeak PAKGO X"
+      title: "Topeak PAKGO X"
+      excerpt: "En racercykel kan være en ret stor investering og derfor ønsker man ofte at passe lidt ekstra godt på den under transporten -specielt hvis der er tale om en cykel i carbon, som ikke tåler ret meget."
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/topeak-pakgo-x---letvaegts-cykelkuffert-med-komplet-beskyttelses-kit---haard-skal"
+      btn_label: "Tjek prisen"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1590064661015-b9e0835ba552?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1590064661015-b9e0835ba552?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1590064661015-b9e0835ba552?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1590064661015-b9e0835ba552?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   title: *title
   alt: "Photo by Florian Schmaezz on Unsplash"
   overlay_filter: 0.2
@@ -163,6 +164,6 @@ Du kan tjekke meget mere om alt det nyttige [udstyr til cykelturen her](/cykelud
 
 ## Samarbejdspartnere
 
-{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where: "data.tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

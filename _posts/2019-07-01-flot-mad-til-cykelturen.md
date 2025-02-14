@@ -48,8 +48,8 @@ feature_row:
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1484519018027-b0d71526f074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   caption: "Photo by Alex Kotomanov on Unsplash"
 ---
 
@@ -75,7 +75,7 @@ De friske krydderurter, der hører hjemme i alt slags mad, kan du ofte købe lan
 
 Jeg bruger de følgende produkter på mine cykelture, hvor jeg skal overnatte.
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row type="left" %}
 
 ## Hvilken mad kan du lave på cykelturen?
 

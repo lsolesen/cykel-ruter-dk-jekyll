@@ -43,6 +43,6 @@ Vi bruger billeder fra [Unsplash](https://unsplash.com) og [Pxhere](https://pxhe
 
 ## Samarbejdspartnere
 
-{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where: "data.tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

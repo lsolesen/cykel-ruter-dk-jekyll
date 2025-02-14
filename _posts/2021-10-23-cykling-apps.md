@@ -11,33 +11,34 @@ permalink: /cykling-apps/
 title: "Cykling apps: De bedste cykelapps i 2023"
 seo_title: "Cykling apps: De bedste cykelapps i 2023"
 header:
-  overlay_image: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=60
   caption: "Cykling apps: De bedste cykelapps i 2023"
 language: da
 tags:
   - apps
-garmin:
-  - image_path: /assets/images/apps/garmin-1.jpg
-    url: /assets/images/apps/garmin-1.jpg
-  - image_path: /assets/images/apps/garmin-2.jpg
-    url: /assets/images/apps/garmin-2.jpg
-  - image_path: /assets/images/apps/garmin-3.jpg
-    url: /assets/images/apps/garmin-3.jpg
-zwift:
-  - image_path: /assets/images/apps/zwift-1.jpg
-    url: /assets/images/apps/zwift-1.jpg
-  - image_path: /assets/images/apps/zwift-2.jpg
-    url: /assets/images/apps/zwift-2.jpg
-  - image_path: /assets/images/apps/zwift-3.jpg
-    url: /assets/images/apps/zwift-3.jpg
-strava:
-  - image_path: /assets/images/apps/strava-1.jpg
-    url: /assets/images/apps/strava-1.jpg
-  - image_path: /assets/images/apps/strava-2.jpg
-    url: /assets/images/apps/strava-2.jpg
-  - image_path: /assets/images/apps/strava-3.jpg
-    url: /assets/images/apps/strava-3.jpg
+galleries:
+  garmin:
+    - image_path: /assets/images/apps/garmin-1.jpg
+      url: /assets/images/apps/garmin-1.jpg
+    - image_path: /assets/images/apps/garmin-2.jpg
+      url: /assets/images/apps/garmin-2.jpg
+    - image_path: /assets/images/apps/garmin-3.jpg
+      url: /assets/images/apps/garmin-3.jpg
+  zwift:
+    - image_path: /assets/images/apps/zwift-1.jpg
+      url: /assets/images/apps/zwift-1.jpg
+    - image_path: /assets/images/apps/zwift-2.jpg
+      url: /assets/images/apps/zwift-2.jpg
+    - image_path: /assets/images/apps/zwift-3.jpg
+      url: /assets/images/apps/zwift-3.jpg
+  strava:
+    - image_path: /assets/images/apps/strava-1.jpg
+      url: /assets/images/apps/strava-1.jpg
+    - image_path: /assets/images/apps/strava-2.jpg
+      url: /assets/images/apps/strava-2.jpg
+    - image_path: /assets/images/apps/strava-3.jpg
+      url: /assets/images/apps/strava-3.jpg
 category:
   - Udstyr
 ---
@@ -55,9 +56,9 @@ Lad os dykke ned i de bedste cykel apps i øjeblikket.
 
 ## 1. Relive.cc
 
-{% include figure image_path="/assets/images/apps/relive-cykel-app.jpg" %}
-
 [Relive](https://www.relive.cc/invite?u=v935zk8mk1ej3m&s=post-share){: rel="nofollow noopener" } er en af de bedste apps til cyklister, der ønsker at spore deres ture og genopleve dem senere. Hvis du bruger appen på telefonen til at optage din tur og tage billeder undervejs, så kan du få en ret unik video bagefter af turen.
+
+{% include figure image_path="/assets/images/apps/relive-cykel-app.jpg" %}
 
 Relive.cc er virkelig nem at bruge. Hvis ikke du vil have din telefon med på turen, så kan du også importere dine ture efterfølgende og lægge billeder op sammen med GPS-tracket.
 

@@ -8,6 +8,7 @@ category:
 redirect_from:
   - /cykelguide-visitvejle/
 author_profile: true
+eleventyExcludeFromCollections: false
 classes: wide
 gallery:
   - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
@@ -30,7 +31,7 @@ Jeg har lavet og beskrevet nogle cykelruter omkring Vejle. Cykelruterne tager si
 
 Jeg har lavet tre cykelruter ud fra hver campingplads. Cykelruterne er af tre forskellige længder og virkelig smukke.
 
-{% assign site_posts = collections.routes | where2: "tags", "VisitVejle Cykelguide" | sort: "title" %}
+{% assign site_posts = collections.routes | where: "data.tags", "VisitVejle Cykelguide" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <h2>{{ site_posts.size }} cykelruter omkring Vejle</h2>

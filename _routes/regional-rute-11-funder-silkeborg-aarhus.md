@@ -48,4 +48,4 @@ Brabrand Sø er en af de fuglerigeste søer i Østjylland, og her kan du bl.a. s
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

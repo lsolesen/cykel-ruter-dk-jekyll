@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cykelruter, supercykelstier og cykelkort København (2023)"
+title: "Cykelruter, supercykelstier og cykelkort København (2024)"
 permalink: /cykelruter-koebenhavn/
 category:
   - Cykelruter
@@ -15,7 +15,6 @@ header:
   teaser: *image
   overlay_filter: 0.2
   caption: "Cykelruter, supercykelstier og cykelkort København. [Pxhere](https://pxhere.com/da/photo/241425)."
-toc: true
 author_profile: true
 author: lsolesen
 bikemaps:
@@ -29,7 +28,7 @@ bikemaps:
     rel: sponsored nofollow noopener
 feature_row:
   - url: https://www.kk.dk/artikel/cykelruter-og-cykelkort
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
     title: "Cykelruter i København"
     alt: "Cykelruter i København"
     excerpt: "Find de bedste cykelruter i København med cykelkort. Download et gratis cykelkort, hvor du se alle de etablerede grønne cykelruter, nationale cykelruter og grønne cykelmuligheder. Kortet er spækket med praktiske informationer til cyklister i København og kan foldes, så det kan være i lommen på cykelturen."
@@ -108,7 +107,7 @@ De Grønne Cykelruter kobler mange cykelruter sammen, og du kan se dem på samme
 
 ## Læs mere om cykelruter i København
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row type="left" %}
 
 ## Gratis cykelkort over København
 

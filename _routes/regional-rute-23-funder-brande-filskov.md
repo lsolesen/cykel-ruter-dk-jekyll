@@ -57,4 +57,4 @@ Udhvilet går det sidste stykke af ruten over Hallundbæk, hvor du forlader stie
 
 ## Kort over Den Skæve Bane og Regional Cykelrute 23
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

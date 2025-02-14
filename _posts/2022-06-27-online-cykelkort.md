@@ -5,7 +5,7 @@ description: "Har du brug for et online cykelkort? Her guider vi dig til gode gr
 permalink: /cykelkort-online/
 language: da
 header:
-  teaser: https://images.unsplash.com/photo-1483895868547-90ebabe4819f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - cykeludstyr
@@ -40,7 +40,7 @@ Den indeholder også nogle gode funktioner til ruteplanlægning, f.eks. mulighed
 
 Tjek fx hvordan RideWithGPS virker med [Hærvejsruten](/rute/national-rute-3-haervejsruten/):
 
-{% include gps provider="ridewithgps" id="35120789" %}
+{% include cykelruter/gps.liquid provider="ridewithgps" id="35120789" %}
 
 ## 3. Outdoor Active
 
@@ -62,7 +62,7 @@ Hvis du betaler for Alltrails, så kan du printe kortene ud i rigtig fin kvalite
 
 Det ser ret fedt ud, når du inkluderer de online cykelkort fra Alltrails på en hjemmeside. Du kan fx se dette kort fra [Solruten på Mors](/rute/regional-rute-19-solruten-mors-rundt/):
 
-{% include gps provider="alltrails" id="https://www.alltrails.com/explore/map/map-5b658d2--10" %}
+{% include cykelruter/gps.liquid provider="alltrails" id="https://www.alltrails.com/explore/map/map-5b658d2--10" %}
 
 Hvis du bruger dette link til at skrive dig op til Alltrials, så har de lovet at **plante et træ** hver gang.
 

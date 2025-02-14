@@ -36,4 +36,4 @@ Efter Børkop kører vi via de små hyggelige byer Andkær og Sellerup til Brejn
 
 Efter Brejning fortsætter vi sydpå og kører nordom Gårslev, hvor man kan lave en afstikker til Gårslev Kirke, som har en rigt udsmykket altertavle og en prædikestol med en lydhimmel fra 1600-tallet, inden vi er tilbage ved udgangspunktet for en dejlig cykeltur.
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

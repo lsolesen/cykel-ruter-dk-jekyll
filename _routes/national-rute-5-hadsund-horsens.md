@@ -88,4 +88,4 @@ Ti km herfra kører vi ind på strækningen langs Horsens Fjord. Nær de fredede
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

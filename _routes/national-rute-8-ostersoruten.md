@@ -8,8 +8,8 @@ created_at:  2021-06-08T09:48:02+02:00
 last_modified_at: 2021-06-07T09:48:02+02:00
 author: lsolesen
 header:
-  overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
 category:
   - National Cykelrute
 tags:
@@ -60,7 +60,7 @@ En omlægning og udvidelse af Sydhavsruten (360 km).
 - Østersøruten - Etape 11 Assens - Middelfart
 - Østersøruten - Etape 11 Middelfart - Christiansfeld
 
-{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 8" | where_exp: "post", "post.url != url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where: "data.tags", "National Cykelrute 8" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
@@ -81,4 +81,4 @@ Hvis du har brug for en fuldstændigt cykelkort over Østersøruten, så kan du 
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

@@ -3,8 +3,8 @@ title: &title "Cykelcomputer til børn: Hvor hurtigt kører du? 🚴🚴‍♀�
 permalink: /cykelcomputer-til-boern/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1610280899387-3678ad926b57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1610280899387-3678ad926b57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1610280899387-3678ad926b57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1610280899387-3678ad926b57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - cykelcomputer
@@ -13,20 +13,21 @@ tags:
 category:
   - Udstyr
 last_modified_at: 2021-05-17T18:21:26Z
-feature_row_sigma:
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/5ac503b8-83ee-42d2-89eb-feb8acbab276/4903102_B_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/sigma-pure-1-ats---traadloes-cykelcomputer---trendline
-    title: "Sigma Pure 1 Topline"
-    excerpt: "Sigma Pure 1 Topline 2016 ATS er en trådløs cykelcomputer med 6 funktioner, som kan give dig forskellige informationer om dine cykelture. Hvis du interesserer dig for, hvor hurtigt du kører, eller hvor langt du har kørt en given dag, eller hvor langt du kører på en hel uge eller et år, er denne enhed skræddersyet til dig."
-    btn_label: "Køb her"
-    btn_class: "btn--warning"
-feature_row_atredo:
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/3c41e067-55d1-4181-8b1b-9d135c39b094/AT7518110_B_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/atredo---m10--cykelcomputer-med-10-funktioner---traadloes---sort
-    title: "Atredo M10 cykelcomputer"
-    excerpt: "Denne Atredo M10 cykelcomputer er nem at betjene og hurtig at tage i brug. Den giver dig mulighed for at skifte imellem lille display med mange informationer eller stort display med færre oplysninger."
-    btn_label: "Køb cykelcomputer"
-    btn_class: "btn--warning"
+feature_rows:
+  feature_row_sigma:
+    - image_path: https://resources.chainbox.io/cykelpartner/public/pim/5ac503b8-83ee-42d2-89eb-feb8acbab276/4903102_B_default.jpg
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/sigma-pure-1-ats---traadloes-cykelcomputer---trendline
+      title: "Sigma Pure 1 Topline"
+      excerpt: "Sigma Pure 1 Topline 2016 ATS er en trådløs cykelcomputer med 6 funktioner, som kan give dig forskellige informationer om dine cykelture. Hvis du interesserer dig for, hvor hurtigt du kører, eller hvor langt du har kørt en given dag, eller hvor langt du kører på en hel uge eller et år, er denne enhed skræddersyet til dig."
+      btn_label: "Køb her"
+      btn_class: "btn--warning"
+  feature_row_atredo:
+    - image_path: https://resources.chainbox.io/cykelpartner/public/pim/3c41e067-55d1-4181-8b1b-9d135c39b094/AT7518110_B_default.jpg
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/atredo---m10--cykelcomputer-med-10-funktioner---traadloes---sort
+      title: "Atredo M10 cykelcomputer"
+      excerpt: "Denne Atredo M10 cykelcomputer er nem at betjene og hurtig at tage i brug. Den giver dig mulighed for at skifte imellem lille display med mange informationer eller stort display med færre oplysninger."
+      btn_label: "Køb cykelcomputer"
+      btn_class: "btn--warning"
 ---
 
 Min datter ønsker sig en cykelcomputer til børn, så jeg har researchet på, hvilke cykelcomputere der egner sig godt til at sætte på en børnecykel.
@@ -89,5 +90,5 @@ Du kan tjekke meget mere [cykeludstyr](/cykeludstyr/).
 
 Hvis du er på udkig efter en cykelcomputer til børn, så kan du støtte dette site ved at handle hos en af vores samarbejdspartnere, som har rigtig fine tilbud på udvalg af udstyr til cykling og cykler.
 
-{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where: "data.tags", "featured" | sort: "image_path" %}
 {% include gallery array=ads %}

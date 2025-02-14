@@ -6,11 +6,12 @@ permalink: /nationale-cykelruter/
 excerpt: "Danmark har 11 nationale cykelruter på hele 4.233 km cykelvenlige ruter. De nationale cykelstier forbinder alle dele af landet fra syd til nord og fra øst til vest og cykelrundture. Læs mere om de danske nationalruter, og hvordan du finder kort til cykelruterne."
 description: "Læs om Danmarks 11 nationalruter. De nationale cykelstier forbinder alle dele af landet, og her finder du de bedste kort til de 4.233 kilometer nationale cykelruter."
 author_profile: true
+eleventyExcludeFromCollections: false
 category:
   - Cykelruter
 header:
-  overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
   overlay_filter: 0.2
 feature_row:
@@ -80,7 +81,7 @@ Du kan se en oversigt over alle de nationale cykelruter i skemaet nedenunder.
 
 ## Oversigt over de danske nationalruter
 
-{% assign routes = collections.routes | where2: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
+{% assign routes = collections.routes | where: "data.category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
 
 | | Navn	| Længde | Asfalt | Note |
 |-|-|-|-|-|
@@ -95,7 +96,7 @@ Du kan se en oversigt over alle de nationale cykelruter i skemaet nedenunder.
 
 Vi har beskrevet nationalruterne her. Under de enkelte rutebeskrivelser kan du også finde beskrivelser af de forskellige delforløb og etaper på ruterne. Det kan være meget hjælpsomt, hvis du kun vil køre en kortere distance.
 
-{% assign site_posts = collections.routes | where2: "category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where: "data.category", "National Cykelrute" | where_exp: "item", "item.tags contains 'hele ruten'" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

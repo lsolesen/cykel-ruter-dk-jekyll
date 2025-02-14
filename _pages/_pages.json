@@ -8,5 +8,6 @@
     "share": true,
     "related": true,
     "categories": [],
-    "permalink": "{% for cat in categories %}{{ cat | slugify }}/{% endfor %}{{ page.fileSlug | slugify }}/"
+    "permalink": "{% for cat in categories %}{{ cat | slugify }}/{% endfor %}{{ page.fileSlug | slugify }}/",
+    "eleventyExcludeFromCollections": true
 }

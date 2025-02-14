@@ -6,7 +6,7 @@ excerpt: Det er lovpligtigt, at have en 3. nummerplade på, hvis du bruger en cy
 permalink: /tredje-nummerplade-cykelholder/
 language: da
 header:
-  teaser: https://images.unsplash.com/photo-1562263140-df43b8a4d01c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1562263140-df43b8a4d01c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - bil
@@ -32,32 +32,33 @@ faq:
     answer: I Danmark er det lovpligtigt at køre med en lygtebom, hvis du har et cykelstativ bag på bilen, som dækker for nummerpladen eller bilens lygter. Kravene til lygtebom er, at bommen og reflekser maksimalt må være 40 cm. fra bilens yderste kant. Derudover skal lygtebommen være 35-90 cm over vejbanen. Hvis dette ikke overholdes, risikerer du en bøde på 1.000 kroner.  
   - question: Hvad koster en lygtebom? 
     answer: "En lygtebom koster 200-500 kroner. Prisen kommer an på mærket og kvaliteten. Hvis du skal bruge lygtebommen meget og gerne vil have den i lang tid, så kan det betale sig at købe den i rimelig god kvalitet. [Denne lygtebom](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/autotilbehoer--cykelholder--cykelstativ/buzzrack---lygtebom-med-remme---sort){: rel='sponsored nofollow noopener' } koster fx kun 299 kroner og er lavet af det anerkendte mærke BuzzRack."
-feature_row_cykelholder:
-  - image_path: https://sw14769.smartweb-static.com/upload_dir/shop/53-926001_A.jpg
-    alt: "Thule Velocompact 3"
-    title: "Thule Velocompact 3"
-    excerpt: "Genial cykelholder Velocompact 3 fra Thule er til transport af 3 cykler. (Kan udvides til 4 cykler). Holderen er til montering på anhængertræk og passer til alle cykler."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=68828&htmlurl=https://www.danskautoudstyr.dk/shop/18-transportudstyr/832-thule-velocompact---cykelholder-til-3-cykler---13-polet/"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://resources.chainbox.io/0/cykelpartner/public/pim/cf0203b4-3a77-4b05-b7fd-651710661c77/54EAZZY4_A_default.jpg
-    alt: "Buzzrack Eazzy-4 - Cykelholder til 4 cykler"
-    title: "Buzzrack Eazzy-4 - Cykelholder til 4 cykler"
-    excerpt: "Denne Eassy-4 cykelholder fra Buzzrack er super praktisk, da den er sammenklappelig og har vippefunktion. Førstnævnte gør, at den fylder minimalt og derfor sagtens kan opbevares i bilens bagagerum når den ikke er i brug."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/autotilbehoer--cykelholder--cykelstativ/buzzrack-eazzy-4---cykelholder-til-4-cykler---13-pol---sammenklappelig"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-feature_row_cykelstativ:
-  - image_path: https://resources.chainbox.io/0/cykelpartner/public/pim/cf0203b4-3a77-4b05-b7fd-651710661c77/54EAZZY4_A_default.jpg
-    alt: "Avant - Cykelholder Saksemodel - 3 cykler"
-    title: "Avant - Cykelholder Saksemodel - 3 cykler"
-    excerpt: "Denne cykelholder fra Avant er en klassisk saksecykelholder, som kan bære op til 3 cykler ad gangen. Cykelholderen kan monteres på alle anhængertræk med 50 mm. kugle."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/autotilbehoer--cykelholder--cykelstativ/buzzrack-eazzy-4---cykelholder-til-4-cykler---13-pol---sammenklappelig"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
+feature_rows:
+  feature_row_cykelholder:
+    - image_path: https://sw14769.smartweb-static.com/upload_dir/shop/53-926001_A.jpg
+      alt: "Thule Velocompact 3"
+      title: "Thule Velocompact 3"
+      excerpt: "Genial cykelholder Velocompact 3 fra Thule er til transport af 3 cykler. (Kan udvides til 4 cykler). Holderen er til montering på anhængertræk og passer til alle cykler."
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=68828&htmlurl=https://www.danskautoudstyr.dk/shop/18-transportudstyr/832-thule-velocompact---cykelholder-til-3-cykler---13-polet/"
+      btn_label: "Læs mere"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+    - image_path: https://resources.chainbox.io/0/cykelpartner/public/pim/cf0203b4-3a77-4b05-b7fd-651710661c77/54EAZZY4_A_default.jpg
+      alt: "Buzzrack Eazzy-4 - Cykelholder til 4 cykler"
+      title: "Buzzrack Eazzy-4 - Cykelholder til 4 cykler"
+      excerpt: "Denne Eassy-4 cykelholder fra Buzzrack er super praktisk, da den er sammenklappelig og har vippefunktion. Førstnævnte gør, at den fylder minimalt og derfor sagtens kan opbevares i bilens bagagerum når den ikke er i brug."
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/autotilbehoer--cykelholder--cykelstativ/buzzrack-eazzy-4---cykelholder-til-4-cykler---13-pol---sammenklappelig"
+      btn_label: "Læs mere"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
+  feature_row_cykelstativ:
+    - image_path: https://resources.chainbox.io/0/cykelpartner/public/pim/cf0203b4-3a77-4b05-b7fd-651710661c77/54EAZZY4_A_default.jpg
+      alt: "Avant - Cykelholder Saksemodel - 3 cykler"
+      title: "Avant - Cykelholder Saksemodel - 3 cykler"
+      excerpt: "Denne cykelholder fra Avant er en klassisk saksecykelholder, som kan bære op til 3 cykler ad gangen. Cykelholderen kan monteres på alle anhængertræk med 50 mm. kugle."
+      url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/autotilbehoer--cykelholder--cykelstativ/buzzrack-eazzy-4---cykelholder-til-4-cykler---13-pol---sammenklappelig"
+      btn_label: "Læs mere"
+      btn_class: "btn--success"
+      rel: sponsored nofollow noopener
 ---
 
 Skal du bruge en 3. nummerplade til din bil? Hvilke regler er der for den ekstra nummerplade, hvordan bestiller du den, og hvad er prisen egentlig?
@@ -136,4 +137,4 @@ Du kan bestille den 3. nummerplade til dit cykelstativ online på Skats hjemmesi
 
 ## Ofte stillede spørgsmål om ekstra nummerplade til cykelholder
 
-{% include faq.html %}
+{% include cykelruter/faq.html %}

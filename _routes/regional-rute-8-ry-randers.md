@@ -34,4 +34,4 @@ På det sidste stykke inden Randers' mere travle byliv er der mulighed for et ki
 
 ## Kort over regional cykelrute 8
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

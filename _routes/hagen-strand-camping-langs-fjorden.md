@@ -48,4 +48,4 @@ Godt mætte og efterhånden godt brugte af det kuperede terræn forsætter turen
 
 Efter Brejning følges fortsat den nationale cykelrute 5 tæt forbi Gårslev, hvor vi kan tage en afstikker til Gårslev Kirke, der kan byde på en rigt udsmykket altertavle. Langs den sidste del af ruten kan der flere steder langs vejen om sommeren købes fx hjemmeavlede jordbær, ærter og kartofler.
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

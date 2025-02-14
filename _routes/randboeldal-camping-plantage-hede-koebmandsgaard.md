@@ -4,7 +4,7 @@ permalink: /rute/randboeldal-camping-plantage-hede-koebmandsgaard/
 created_at: 2011-10-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1580978611222-9898f853e74d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1580978611222-9898f853e74d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=60
 category:
   - VisitVejle Cykelguide
 tags:
@@ -40,4 +40,4 @@ Herfra kører vi videre mod Bindeballe og Randbøldal ad asfaltvejen. Her passer
 
 Tilbage i Randbøldal er det måske tid til at stille cyklen for i dag og i stedet besøge Randbøldal-museet, som fortæller om Randbøldals storhedstid i 1700-tallet i forbindelse med anlæggelsen af papirfabrikken, som indledte den jyske industrielle revolution baseret på vandkraft. Når det er gjort, kan vi slutte dagen på kroen.
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

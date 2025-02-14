@@ -6,6 +6,7 @@ excerpt: "Det er muligt at annoncere på Cykel-ruter.dk for at støtte sitet."
 author_profile: true
 sitemap: false
 toc: true
+eleventyExcludeFromCollections: true
 ---
 
 Cykel-ruter.dk er finansieret af iværksætterkraft og interesse for emnet. Derudover er der reklamer, annoncer og affiliate links på sitet.

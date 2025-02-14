@@ -48,4 +48,4 @@ Efter Hadsten fortsætter ruten gennem Hadbjerg, indtil den møder den [regional
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

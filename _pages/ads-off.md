@@ -8,6 +8,7 @@ toc: false
 feature_rows:
   intro:
     - excerpt: 'Følg os på &nbsp; [<i class="fab fa-facebook-f"></i> Facebook](https://www.facebook.com/cykelruterdk){: .btn .btn--facebook } og [<i class="fab fa-pinterest"></i> Pinterest](https://www.pinterest.dk/cykelruter/){: .btn .btn--danger }'
+eleventyExcludeFromCollections: true
 ---
 
 Tak fordi du følger med på Cykel-ruter.dk. Normalt vises der reklamer på Cykel-ruter.dk for at dække driften af sitet, men du har lige **aktiveret en reklamefri Cykel-ruter.dk**. Forhåbentlig giver det dig en endnu bedre oplevelse på sitet.
@@ -18,10 +19,10 @@ Normalt ville Cykel-ruter.dk tjene omkring 100 kroner om dagen på reklameindtæ
 
 Hvis du synes, at du får værdi af indlæggene, så kan du overveje at **[købe mig en kaffe](https://www.buymeacoffee.com/lsolesen)** for mine anstrengelser, men det er absolut ikke et krav :)
 
-{% include buymeacoffee.html %}
+{% include cykelruter/buymeacoffee.html %}
 
 Det betyder også meget for mig, hvis du følger Cykel-ruter.dk.dk på de sociale medier - og husk endelig også at du kan få [gratis opdateringer direkte i indbakken](/nyhedsbrev/).
 
 {% include feature_row id="intro" type="center" %}
 
-{% include ads-toggle.html toggle="0" %}
+{% include cykelruter/ads-toggle.html toggle="0" %}

@@ -3,14 +3,8 @@ _layouts_old
 admin
 _pages/generate-image/*
 _pages/generate-image-route/*
-_drafts
 _redirects
 
-# Error on these pages
-_posts/2022-06-27-online-cykelkort.md
-_posts/2020-12-31-populaere-posts.md
-
-# 
 "*.sublime-project"
 "*.sublime-workspace"
 vendor
@@ -36,4 +30,3 @@ Rakefile
 README
 tmp
 /docs # ignore Minimal Mistakes /docs
-/test # ignore Minimal Mistakes /test

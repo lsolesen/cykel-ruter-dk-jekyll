@@ -59,4 +59,4 @@ Dette område egner sig godt til mindre ophold på ruten, inden man kan vælge a
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

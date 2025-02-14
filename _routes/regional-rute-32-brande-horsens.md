@@ -44,4 +44,4 @@ Indkørslen til Horsens kan næsten ikke gøres bedre, da du kører ned ad bakke
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

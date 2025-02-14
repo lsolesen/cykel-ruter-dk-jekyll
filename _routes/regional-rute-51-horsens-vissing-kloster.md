@@ -50,4 +50,4 @@ Det indbydende område har også tiltrukket cykelruterne 4, [8]({% link collecti
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

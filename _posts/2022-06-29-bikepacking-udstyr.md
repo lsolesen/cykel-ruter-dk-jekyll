@@ -5,7 +5,7 @@ description: "Vil du gerne pakke let til en cykeltur? Jeg skal på bikepacking t
 permalink: /bikepacking-udstyr/
 language: da
 header:
-  teaser: https://images.unsplash.com/photo-1618859437398-d6cc6dd30aea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1618859437398-d6cc6dd30aea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - planlægning
@@ -16,94 +16,95 @@ category:
   - Cykeludstyr
 last_modified_at: 2022-06-27T12:21:26Z
 author: lsolesen
-feature_backloader:
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/18b3fbb8-72f7-466c-a900-d41c939deb67/TBPBL3B_A_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/topeak-backloader---sadeltake---15-liter
-    title: Topeak Backloader 15 L
-    excerpt: Topeak har lavet en sadeltaske med en vandtæt membran indvendigt og elastiksnor på toppen til ekstra udstyr. Tasken har justerbare remme, så det er let at sætte den på cyklen og tilpasse den til indholdet. Tasken har en air-release knap, så du kan presse overskydende luft ud.
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_backloader_ortlieb:
-  - image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/9e3a9dbf-2859-4a79-acbe-0e7a6672028c/OF9902_A_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/ortlieb-seat-pack---bike-packing-sadeltaske---165-liter
-    title: Ortlieb Seat-Pack sadeltaske 16,5 L
-    excerpt: Ortlieb Seat-Pack sadeltaske. Robust og slidstærk sadeltaske fra tyske Ortlieb, der kan tilfredsstille selv de mest hårdføre touring-cyklister, ligesom Gravel- og Adventure-rytterne også vil nyde godt af dens mange funktioner.IP64 certificeret, hvilket betyder at den er både vand- og støvtæt.
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_toploader_deuter:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/deuter-rammetaske---energy-bag---05-liter---sort
-    image_path: https://resources.chainbox.io/cykelpartner/public/pim/9d901664-539e-4603-84e8-dd53fda12601/32672_7000_A_large.jpg
-    title: Deuter Rammetaske - Energy bag
-    excerpt: EEn lille taske fra Deuter med lynlås ovenpå, hvis du kun skal have få ting med. Den lille taske skal monteres på rammen ved styret, og dermed kan du altid komme til den let og enkelt. Tasken har en lynlås på langs, som nemt kan åbnes med én hånd.
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_liggeunderlag:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=53461&htmlurl=https://www.grejfreak.dk/shop/301-underlag-luft/7178-jr-gear-mummy-liggeunderlag/
-    image_path: https://shop61012.sfstatic.io/upload_dir/shop/jr_gear_traverse_core_mummy_liggeunderlag-01.jpg
-    title: JR Gear - Traverse Core Mummy liggeunderlag
-    excerpt: Traverse Core Mummy liggeunderlaget fra JR Gear er designet til at give en rigtig god liggekomfort på grund af 8,9 cm. tykke tværgående tuber. Der er indbygget Infrared Reflective Technology (IRR) belægning på indersiden, hvilket forbedrer isoleringen ved at reflektere kropsvarmen.
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_pumpepose:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=53461&htmlurl=https://www.grejfreak.dk/shop/303-underlag-tilbehoer/45159-jr-gear-pumpepose/
-    image_path: https://shop61012.sfstatic.io/upload_dir/shop/produktbilleder/liggeunderlag/jr_gear/_thumbs/jr_gear_67-071_dry_pump_mk_ii_01.w610.h610.fill.jpg
-    title: JR Gear Pumpepose og Dry Bag
-    excerpt: Multi-funktionel håndpumpe til liggeunderlag. Du behøver blot at sætte ventilen i hullet og pumpe 5-6 gange, hvorefter liggerunderlaget et pustet op. Kan også bruges som vandafvisende opbevaringspose og hovedpude.
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_powerbank:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/elektronik/goal-zero---flip-36-powerbank---groen---kapacitet-10050-mah
-    image_path: https://resources.chainbox.io/3/cykelpartner/public/pim/b225a7ca-f46e-4ed0-abbc-f51680655958/RN21952_A_default.jpg
-    title: Powerbank med trådløs opladning
-    excerpt: Flip 36 powerbank fra Goal Zero har en kapacitet på hele 10.050 mAh. Det praktiske ved denne model er, at den kan oplades via Goal Zeros bærebare solpaneler (medfølger ikke).
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_framebag:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/topeak-midloader-taske
-    image_path: https://resources.chainbox.io/cykelpartner/public/pim/4b12c90c-2fdc-427f-a2cf-0c5b875d12f0/TBPML6B_A_default.jpg
-    title: Topeak Midloader Taske
-    excerpt: Midloader steltaske fra Topeak i lækkert design. Tasken indeholder ét stort rum, som du har adgang til fra begge sider, da tasken er produceret med to lynlåse - praktisk og smart.
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_framebag_ortlieb:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/ortlieb-frame-pack-toptube---bike-packing-steltaske---4-liter
-    image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/30a4114b-f66c-4c3d-9f8c-b096a083d726/OF9942_A_default.jpg
-    title: Ortlieb Frame-Pack Toptube
-    excerpt: "Steltasken fra Ortlieb er udviklet til brug på cyklens overrør og giver dig mulighed for at medbringe lidt ekstra oppakning på turen. Modellen har vundet prisen for bedste steltaske i den tyske udgave af 'World Of MTB' i 2018."
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_cykeltrailer:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/anhaengere-og-trailere/topeak-trailer-journey-med-drybag---cykeltrailer---qr
-    image_path: https://resources.chainbox.io/cykelpartner/public/pim/e852fca7-c0fd-4724-9c5b-4e9bd741a542/TTR01_A_default.jpg
-    title: Topeak Trailer Journey med Drybag
-    excerpt: Super moderne cykelanhænger, som er perfekt til både lange cykelrejser eller en smuttur til supermarkedet. Cykelanhængeren har en let aluminiumsramme, hvor den vandtætte pose passer perfekt i og kan nemt kobles til og fra.
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_frontloader:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/topeak-frontloader---styrtaske---sort---8-liter-tbpfl2b
-    image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/e6eb84e5-f301-45aa-86c9-00d661394ece/TBP-FL2B_A_default.jpg
-    title: Topeak Frontloader - Styrtaske
-    excerpt: "Frontloaderen fra Topeak består af 2 dele: en bærepose i 100% vandtæt tekstil, samt et omslag som monteres på cyklens styr, som bæreposen monteres i. Selve bæreposen lukkes via rullelukning og har en air release knap, som gør det muligt at fjerne alt overflødigt luft i oppakningen, for at minimere fylden så meget som muligt."
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--warning
-feature_sovepose:
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=65842&htmlurl=https://backpackerlife.dk/produkt/sovepose-treklife-compact
-    image_path: https://backpackerlife.dk/wp-content/uploads/2021/11/Treklife-Compact-sovepose-5.jpg
-    title: Sovepose – Treklife Compact
-    excerpt: "Treklife Compact er en letvægtig og kompakt sovepose, perfekt til at tage med på tur og spare plads i rygsækken. Soveposen måler kun 18 x 15 x 15 cm når soveposen er nedpakket i den medfølgende kompressionspose. Soveposen er en 1 sæsons sovepose, som har en komforttemperatur på 12-25 grader."
-    rel: sponsored nofollow noopener
-    btn_label: Se prisen
-    btn_class: btn--danger
+feature_rows:
+  feature_backloader:
+    - image_path: https://resources.chainbox.io/cykelpartner/public/pim/18b3fbb8-72f7-466c-a900-d41c939deb67/TBPBL3B_A_default.jpg
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/topeak-backloader---sadeltake---15-liter
+      title: Topeak Backloader 15 L
+      excerpt: Topeak har lavet en sadeltaske med en vandtæt membran indvendigt og elastiksnor på toppen til ekstra udstyr. Tasken har justerbare remme, så det er let at sætte den på cyklen og tilpasse den til indholdet. Tasken har en air-release knap, så du kan presse overskydende luft ud.
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_backloader_ortlieb:
+    - image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/9e3a9dbf-2859-4a79-acbe-0e7a6672028c/OF9902_A_default.jpg
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/ortlieb-seat-pack---bike-packing-sadeltaske---165-liter
+      title: Ortlieb Seat-Pack sadeltaske 16,5 L
+      excerpt: Ortlieb Seat-Pack sadeltaske. Robust og slidstærk sadeltaske fra tyske Ortlieb, der kan tilfredsstille selv de mest hårdføre touring-cyklister, ligesom Gravel- og Adventure-rytterne også vil nyde godt af dens mange funktioner.IP64 certificeret, hvilket betyder at den er både vand- og støvtæt.
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_toploader_deuter:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/deuter-rammetaske---energy-bag---05-liter---sort
+      image_path: https://resources.chainbox.io/cykelpartner/public/pim/9d901664-539e-4603-84e8-dd53fda12601/32672_7000_A_large.jpg
+      title: Deuter Rammetaske - Energy bag
+      excerpt: EEn lille taske fra Deuter med lynlås ovenpå, hvis du kun skal have få ting med. Den lille taske skal monteres på rammen ved styret, og dermed kan du altid komme til den let og enkelt. Tasken har en lynlås på langs, som nemt kan åbnes med én hånd.
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_liggeunderlag:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=53461&htmlurl=https://www.grejfreak.dk/shop/301-underlag-luft/7178-jr-gear-mummy-liggeunderlag/
+      image_path: https://shop61012.sfstatic.io/upload_dir/shop/jr_gear_traverse_core_mummy_liggeunderlag-01.jpg
+      title: JR Gear - Traverse Core Mummy liggeunderlag
+      excerpt: Traverse Core Mummy liggeunderlaget fra JR Gear er designet til at give en rigtig god liggekomfort på grund af 8,9 cm. tykke tværgående tuber. Der er indbygget Infrared Reflective Technology (IRR) belægning på indersiden, hvilket forbedrer isoleringen ved at reflektere kropsvarmen.
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_pumpepose:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=53461&htmlurl=https://www.grejfreak.dk/shop/303-underlag-tilbehoer/45159-jr-gear-pumpepose/
+      image_path: https://shop61012.sfstatic.io/upload_dir/shop/produktbilleder/liggeunderlag/jr_gear/_thumbs/jr_gear_67-071_dry_pump_mk_ii_01.w610.h610.fill.jpg
+      title: JR Gear Pumpepose og Dry Bag
+      excerpt: Multi-funktionel håndpumpe til liggeunderlag. Du behøver blot at sætte ventilen i hullet og pumpe 5-6 gange, hvorefter liggerunderlaget et pustet op. Kan også bruges som vandafvisende opbevaringspose og hovedpude.
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_powerbank:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/elektronik/goal-zero---flip-36-powerbank---groen---kapacitet-10050-mah
+      image_path: https://resources.chainbox.io/3/cykelpartner/public/pim/b225a7ca-f46e-4ed0-abbc-f51680655958/RN21952_A_default.jpg
+      title: Powerbank med trådløs opladning
+      excerpt: Flip 36 powerbank fra Goal Zero har en kapacitet på hele 10.050 mAh. Det praktiske ved denne model er, at den kan oplades via Goal Zeros bærebare solpaneler (medfølger ikke).
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_framebag:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/topeak-midloader-taske
+      image_path: https://resources.chainbox.io/cykelpartner/public/pim/4b12c90c-2fdc-427f-a2cf-0c5b875d12f0/TBPML6B_A_default.jpg
+      title: Topeak Midloader Taske
+      excerpt: Midloader steltaske fra Topeak i lækkert design. Tasken indeholder ét stort rum, som du har adgang til fra begge sider, da tasken er produceret med to lynlåse - praktisk og smart.
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_framebag_ortlieb:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/ortlieb-frame-pack-toptube---bike-packing-steltaske---4-liter
+      image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/30a4114b-f66c-4c3d-9f8c-b096a083d726/OF9942_A_default.jpg
+      title: Ortlieb Frame-Pack Toptube
+      excerpt: "Steltasken fra Ortlieb er udviklet til brug på cyklens overrør og giver dig mulighed for at medbringe lidt ekstra oppakning på turen. Modellen har vundet prisen for bedste steltaske i den tyske udgave af 'World Of MTB' i 2018."
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_cykeltrailer:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/anhaengere-og-trailere/topeak-trailer-journey-med-drybag---cykeltrailer---qr
+      image_path: https://resources.chainbox.io/cykelpartner/public/pim/e852fca7-c0fd-4724-9c5b-4e9bd741a542/TTR01_A_default.jpg
+      title: Topeak Trailer Journey med Drybag
+      excerpt: Super moderne cykelanhænger, som er perfekt til både lange cykelrejser eller en smuttur til supermarkedet. Cykelanhængeren har en let aluminiumsramme, hvor den vandtætte pose passer perfekt i og kan nemt kobles til og fra.
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_frontloader:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/topeak-frontloader---styrtaske---sort---8-liter-tbpfl2b
+      image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/e6eb84e5-f301-45aa-86c9-00d661394ece/TBP-FL2B_A_default.jpg
+      title: Topeak Frontloader - Styrtaske
+      excerpt: "Frontloaderen fra Topeak består af 2 dele: en bærepose i 100% vandtæt tekstil, samt et omslag som monteres på cyklens styr, som bæreposen monteres i. Selve bæreposen lukkes via rullelukning og har en air release knap, som gør det muligt at fjerne alt overflødigt luft i oppakningen, for at minimere fylden så meget som muligt."
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--warning
+  feature_sovepose:
+    - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=65842&htmlurl=https://backpackerlife.dk/produkt/sovepose-treklife-compact
+      image_path: https://backpackerlife.dk/wp-content/uploads/2021/11/Treklife-Compact-sovepose-5.jpg
+      title: Sovepose – Treklife Compact
+      excerpt: "Treklife Compact er en letvægtig og kompakt sovepose, perfekt til at tage med på tur og spare plads i rygsækken. Soveposen måler kun 18 x 15 x 15 cm når soveposen er nedpakket i den medfølgende kompressionspose. Soveposen er en 1 sæsons sovepose, som har en komforttemperatur på 12-25 grader."
+      rel: sponsored nofollow noopener
+      btn_label: Se prisen
+      btn_class: btn--danger
 ---
 
 Vil du gerne pakke let til en cykeltur? Jeg skal på bikepacking tur, og derfor har jeg researchet på, hvad jeg skal have med og pakke let.

@@ -95,4 +95,4 @@ Herefter fortsætter du gennem Ilskov og Sunds til Herning. Der er skrevet en go
 
 ## Kort over Alhedestien
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

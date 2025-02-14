@@ -55,4 +55,4 @@ Ruten slutter i den lille by, Fjerritslev, som kan være en god base for at ople
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

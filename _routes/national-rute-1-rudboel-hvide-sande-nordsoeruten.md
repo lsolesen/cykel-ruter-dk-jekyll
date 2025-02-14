@@ -51,4 +51,4 @@ Jeg har også lavet en samlet [rutebeskrivelse af Vestkystruten og Vestkyststien
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

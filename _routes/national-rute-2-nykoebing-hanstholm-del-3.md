@@ -54,4 +54,4 @@ Fra Sårup er ruten igen på asfalt helt til Hanstholm. Hanstholm er en af Danma
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

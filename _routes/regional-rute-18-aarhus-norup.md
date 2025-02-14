@@ -57,4 +57,4 @@ Efter Tåstrup mangler et skilt, når man skal dreje nordøst mod Ødum
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

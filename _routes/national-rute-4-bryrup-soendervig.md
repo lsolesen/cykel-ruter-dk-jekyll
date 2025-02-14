@@ -62,4 +62,4 @@ På vejen til Ringkøbing Fjord krydser vi Skjern Å, hvis svingninger i 2003 en
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

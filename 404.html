@@ -4,6 +4,7 @@ sitemap: false
 permalink: /404.html
 title: 404 Siden kunne ikke findes
 excerpt: "Siden blev ikke fundet. Vi håber, at du kan finde din cykel og nyde nogle af de andre sider her på sitet."
+eleventyExcludeFromCollections: true
 header:
   overlay_image: https://images.unsplash.com/photo-1523210299746-f23a7af1a413?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
   actions:
@@ -11,9 +12,12 @@ header:
       url: "/cykelkort/"
     - label: "Se alle cykelruterne 🧭"
       url: "/cykelruter-danmark/"
-feature_row_intro:
-  - title: "404 Vi kunne ikke finde siden"
-    excerpt: "Siden blev ikke fundet. Vi håber, at du kan finde din cykel og nyde nogle af de andre sider her på sitet."
+feature_rows:
+  feature_row_intro:
+    - title: "404 Vi kunne ikke finde siden"
+      excerpt: "Siden blev ikke fundet. Vi håber, at du kan finde din cykel og nyde nogle af de andre sider her på sitet."
+  blog:
+    - excerpt: '[Se alle blogindlæg](/blog/){: .btn .btn--large .btn--success }'
 feature_row:
   - image_path: https://c.pxhere.com/photos/8e/b5/family_cycling_bike_landscape_summer_sky_north_sea_sylt-723487.jpg!d
     url: /cykelruter-danmark/
@@ -51,9 +55,6 @@ feature_row:
     excerpt: I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. Læs alt om regionalruterne og find regionale cykelkort.
     btn_label: Find regionale cykelruter
     btn_class: btn--success
-
-blog:
-  - excerpt: '[Se alle blogindlæg](/blog/){: .btn .btn--large .btn--success }'
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
@@ -62,7 +63,7 @@ blog:
 
 <div class="feature__wrapper">
 
-{% assign site_posts = collections.posts | where2: "tags", "featured" | sort: "last_modified_at" | reverse %}
+{% assign site_posts = collections.posts | where: "data.tags", "featured" | sort: "last_modified_at" | reverse %}
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts limit:8 %}

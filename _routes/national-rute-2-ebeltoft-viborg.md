@@ -73,4 +73,4 @@ Ikke langt herfra når vi Viborg. Vi ankommer fra byens bedste side med udsyn op
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

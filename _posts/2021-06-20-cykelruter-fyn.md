@@ -5,8 +5,8 @@ description: "Jeg har samlet de bedste cykelruter på Fyn. Ruterne er relativt f
 permalink: /cykelruter-fyn/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1612270237088-d1262c013709?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - cykelruter
@@ -16,7 +16,7 @@ category:
 last_modified_at: 2021-06-18T12:21:26Z
 feature_row:
   - url: https://www.visitfyn.dk/fyn/outdoor-og-bike/oestersoeruten-paa-fyn
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
     title: "Cykelruter på Fyn"
     alt: "Cykelruter på Fyn"
     excerpt: "Bike Island ruten og Østersøruten er oplagte at navigere efter, når du vil opleve Fyn og Øhavets på to hjul. En cykelferie på Fyn og Øerne fører dig både rundt til små hyggelige byer, smukke landskaber, kystnære strækninger og lavvandede badestrande."

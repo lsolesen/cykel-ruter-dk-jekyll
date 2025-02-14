@@ -56,4 +56,4 @@ Efter Odder fortsætter ruten ud til kysten, hvor den får kontakt med den natio
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

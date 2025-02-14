@@ -11,8 +11,8 @@ excerpt: "Feriecyklen kan både være en decideret turcykel, men du kan også br
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   caption: "Photo by David Marcu on Unsplash"
   overlay_filter: 0.2
 ---
@@ -56,6 +56,6 @@ Du kan tjekke meget mere [udstyr til cykelturen her](/cykeludstyr/).
 
 ## Samarbejdspartnere
 
-{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where: "data.tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

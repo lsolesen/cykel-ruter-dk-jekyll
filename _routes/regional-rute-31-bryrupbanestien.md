@@ -122,4 +122,4 @@ Langs Bryrupbanestien er der etableret primitive overnatningspladser og rastepla
 
 ## Kort over Bryupbanestien
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

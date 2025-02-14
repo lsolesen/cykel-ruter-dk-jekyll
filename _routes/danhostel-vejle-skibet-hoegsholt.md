@@ -43,4 +43,4 @@ Fårup Sø er et oplagt sted til en lille pause. Der er en lille iskiosk, muligh
 
 Efter Fårup Sø gør vi klar til at vende forhjulet hjemad. Vi kører igennem et dejligt, kuperet landskab af små snoede veje og igennem Jennum, hvor der er mulighed for at købe lidt i den lokale brugs. Efter Jennum belønnes anstrengelserne af en meget hjælpsom bakke på vej ned mod Skibet, hvor den sidste lille del af ruten kan tages på Bindeballestien.
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

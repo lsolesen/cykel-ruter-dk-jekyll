@@ -61,4 +61,4 @@ Efter Estvad mødes begge ruteforløb igen og går herfra videre til Skive, hvor
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

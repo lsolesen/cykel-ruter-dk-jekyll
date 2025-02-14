@@ -6,8 +6,8 @@ author: lsolesen
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2020-06-03T09:48:02+02:00
 header:
-  overlay_image: &image https://images.unsplash.com/photo-1452573992436-6d508f200b30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1452573992436-6d508f200b30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: &image https://images.unsplash.com/photo-1452573992436-6d508f200b30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1452573992436-6d508f200b30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   caption: "National Rute 03: Hald Ege - Nr. Snede (delrute af Hærvejsruten)"
   alt: "Photo by Maico Amorim on Unsplash"
 category:
@@ -76,4 +76,4 @@ Efter en længere tur på grusvej, er der igen sikker asfalt under hjulene, mens
 
 {% include video provider="own-youtube" id="O5Toh-e2BRI" %}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

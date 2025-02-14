@@ -65,4 +65,4 @@ Vejen forbi Alling Sø er flot, og på den anden side af søen ligger ensomt på
 
 ## Kort over Grathe Hede-cykelruten
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

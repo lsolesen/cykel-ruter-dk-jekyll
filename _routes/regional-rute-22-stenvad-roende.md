@@ -52,4 +52,4 @@ Ruten ender neden for bakken i Rønde med god udsigt over Kalø Slotsruin, der n
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

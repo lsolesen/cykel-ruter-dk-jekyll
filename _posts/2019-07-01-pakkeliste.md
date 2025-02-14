@@ -12,8 +12,8 @@ excerpt: "Hvad skal du have med på cykelferien og cykelturen?"
 sidebar:
   nav: bikes
 header:
-  overlay_image: https://images.unsplash.com/photo-1535674691863-e7511582b10c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1535674691863-e7511582b10c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1535674691863-e7511582b10c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1535674691863-e7511582b10c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   caption: "Photo by Patrick Hendry on Unsplash"
 ---
 
@@ -74,6 +74,6 @@ Du kan tjekke meget mere [cykeludstyr til cykelturen her](/cykeludstyr/).
 
 ## Samarbejdspartnere (reklamelinks)
 
-{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where: "data.tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

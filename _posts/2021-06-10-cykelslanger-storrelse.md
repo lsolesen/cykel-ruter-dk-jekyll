@@ -1,11 +1,11 @@
 ---
-title: &title "Cykelslanger størrelser: Komplet tabel (2023)"
+title: &title "Cykelslanger størrelser: Komplet tabel (2024)"
 description: Skal du skifte cykelslange, så tjek vores guide og tabel over størrelser på cykelslanger, hvor du let kan finde ud af, hvilke cykelslange størrelser der passer til dit cykelhjul.
 permalink: /cykelslanger-storrelse-tabel/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1572805303228-ade6c711059a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1572805303228-ade6c711059a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1572805303228-ade6c711059a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1572805303228-ade6c711059a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - cykelslanger
@@ -122,6 +122,8 @@ Hvis du er i tvivl om, hvilken størrelse cykelslange du skal bruge, så skal du
 
 ## Hvilken type ventil skal jeg vælge?
 
+Her kan du se forskellige typer ventiler:
+
 {% include figure image_path="https://ecykelhjelm.dk/img/cms/ventil.gif" caption="De forskellige ventiler. Racerventil, Dunlop-ventil og Schrader auto ventil. Kilde: [E-cykelhjelm.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=74224){: rel='sponsored nofollow noopener' }" alt="ventil cykelslange" %}
 
 Der findes overordnet tre forskellige typer ventiler på cykelslanger. De hedder racerventil, dunlop (som tidligere var den mest almindelige) og auto (bilventil). Dunlop-ventiler og auto-ventiler er 8,5 mm tykke, mens racerventiler er 6,5 mm.
@@ -161,7 +163,6 @@ Du kan heldigvis finde en relativt let guide på Youtube til, hvordan du skifter
 
 Du finder altså en cykelslange ved at finde ud af, hvor stort dit cykeldæk er. Når du har fundet størrelsen, så er det relativt let at skifte cykelslangen, hvis du har købt cykelslangen i den rigtige størrelse.
 
-Du kan købe et nyt [cykelslange hos Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/slanger){: rel="sponsored nofollow noopener" } eller [cykeldæk\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek){: rel="sponsored nofollow noopener" }.
+Du kan købe et nyt [cykelslange hos Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/slanger){: rel="sponsored nofollow noopener" } eller [cykeldæk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykeldaek){: rel="sponsored nofollow noopener" }.
 
 [Find cykelslanger hos Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/slanger){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
-s

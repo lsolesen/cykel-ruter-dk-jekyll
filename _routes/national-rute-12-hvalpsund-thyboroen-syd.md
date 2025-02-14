@@ -82,4 +82,4 @@ Turen slutter i feriebyen, Thyborøn, som er omgivet af hav, fjord og et variere
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

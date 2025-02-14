@@ -48,4 +48,4 @@ Hvis du gerne vil se alt i området, kan du fra Bundsbæk Mølle Vandrehjem find
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

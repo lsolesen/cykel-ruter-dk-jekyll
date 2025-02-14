@@ -7,8 +7,8 @@ description: "Det er noget helt særligt at være på cykelferie. Du oplever nat
 excerpt: "Det er noget helt særligt at være på cykelferie. Du oplever naturen på en helt anden måde end hvis du kører i bil."
 author_profile: true
 header:
-  overlay_image: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1603536764976-e2d8a6d805fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
   overlay_filter: 0.2
 toc: true
@@ -174,7 +174,7 @@ Det er vigtigt at have vand nok med. På mange cykler sidder der en lille drikke
 
 Du kan altid fylde dunken op undervejs, fx hvis du kommer forbi kirker, så er der ofte adgang til drikkevand.
 
-{% include faq.html heading="h2" %}
+{% include cykelruter/faq.html heading="h2" %}
 
 ## Tips til cykelferien
 
@@ -269,7 +269,7 @@ https://www.smalldanishhotels.dk/inspiration/cykelferie/
 
 ## Artikler i kategorien cykelferie
 
-{% assign site_posts = collections.posts | where2: "category", "Cykelferie" | sort: "title" %}
+{% assign site_posts = collections.posts | where: "data.category", "Cykelferie" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -281,7 +281,7 @@ https://www.smalldanishhotels.dk/inspiration/cykelferie/
 
 ## Artikler med tagget cykelferie
 
-{% assign site_posts = collections.posts | where2: "tags", "cykelferie" | sort: "title" %}
+{% assign site_posts = collections.posts | where: "data.tags", "cykelferie" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

@@ -8,6 +8,7 @@ redirect_from:
 category:
   - Cykelruter
 author_profile: true
+eleventyExcludeFromCollections: false
 sidebar:
   - title: "Om Cykelguide til cykeloplevelser i Vestjylland"
     text: "Guiden til cykelruter i Vestjylland blev udgivet af Dansk Cyklist Forbund i samarbejde med Fonden Fyntour og VisitDenmark, støttet af Arbejdsmarkedets Feriefond og Tips & Lottomidler til Friluftslivet. 1. udgave fra 30. maj 2007. Oplag 5000 i tre sprog."
@@ -55,7 +56,7 @@ _Rigtig god fornøjelse – og god tur!_
 
 <iframe class="alltrails" src="https://www.alltrails.com/widget/list/vestjylland?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
-{% assign site_posts = collections.routes | where2: "tags", "Guidebog Vestjylland" | sort: "title" %}
+{% assign site_posts = collections.routes | where: "data.tags", "Guidebog Vestjylland" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## {{ site_posts.size }} cykelruter i Vestjylland

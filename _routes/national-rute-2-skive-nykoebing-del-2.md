@@ -62,4 +62,4 @@ Rute 2 fører os ind i Nykøbing Mors, en hyggelig købstad og kendt for at det 
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

@@ -1,0 +1,126 @@
+---
+pagination:
+  data: "collections.posts"
+  size: 1
+  alias: "post"
+layout: og-image
+permalink: "/opengraph{{ post.url }}"
+image_type: "og"
+eleventyExcludeFromCollections: true
+---
+
+<style>
+  #author {
+    position: absolute;
+    bottom: 1em;
+    left: 1em;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      font-size: 2rem;
+    }
+
+    #author #author-image:not([src='']) {
+      padding: 5px;
+      border: 2px solid #f2f3f3;
+      width: 160px;
+      border-radius: 50%;
+      margin-right: 1rem;
+    }
+
+    #author #author-name {
+      font-size: 25pt;
+      font-weight: bold;
+      align-self: flex-end;
+      background: black;
+      color: white;
+      padding: 0.3em 0.3em;
+      margin-bottom: 0.3em;
+    }
+
+    .main-right {
+      display: inline;
+      font-size: 1.1em;
+      position: absolute;
+      bottom: 1em;
+      right: 1em;
+      margin-left: 1em;
+      font-weight: bold;
+      color: white;
+    }
+
+    .main-right span {
+      padding: 0.3em 0.3em;
+
+      background: black;
+      margin-left: 1em;
+    }
+
+    h1.padded-multiline { 
+  line-height: 1.3; 
+  padding: 2px 0; 
+  margin: 20px auto;
+  overflow:hidden;
+  text-overflow: ellipsis;
+  font-size: 55pt !important;
+}
+.padded-multiline span { 
+  background-color: black;
+  color: #fff; 
+  display: inline;
+  padding: 0.45rem;
+  text-transform: uppercase;
+  
+  /* Needs prefixing */
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+
+  </style>
+
+{% if post.data.header.overlay_filter contains "gradient" %}
+  {% capture overlay_filter %}{{ post.data.header.overlay_filter }}{% endcapture %}
+{% elsif post.data.header.overlay_filter contains "rgba" %}
+  {% capture overlay_filter %}{{ post.data.header.overlay_filter }}{% endcapture %}
+  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
+{% elsif post.data.header.overlay_filter %}
+  {% capture overlay_filter %}rgba(0, 0, 0, {{ post.data.header.overlay_filter }}){% endcapture %}
+  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
+{% endif %}
+
+{% if post.data.header.image_description %}
+  {% assign image_description = post.data.header.image_description %}
+{% else %}
+  {% assign image_description = post.data.title | default: "" %}
+{% endif %}
+
+{% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
+
+{% assign post_date = post.data.last_modified_at | default: post.date | default: false %}
+
+<div class="page__hero--overlay"
+  style="background: #ccc; height: 100% !important; width: 100% !important; background-size: 100% auto !important;position: absolute !important;{% if post.data.header.overlay_color %}background-color: {{ post.header.overlay_color | default: 'transparent' }};{% endif %}">
+    <div style="padding: 0 2em; position: relative; z-index: 1;">
+      <h1 id="page-title" class="page__title padded-multiline" itemprop="headline">
+        <span>{{ post.data.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+      </h1>
+    </div>
+    {% assign background_image = post.og_image | default: post.data.header.image | default: post.data.header.overlay_image | default: site.og_large_image %}
+    {% if background_image %}
+    <img src="{{ background_image }}" alt="" loading="eager" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0;">
+    {% endif %}
+    {% assign author = authors[post.data.author] | default: site.author %}
+    <section id='author'>
+      <img id='author-image' alt='' src='{{ author.avatar }}' width="120" height="120"  data-proofer-ignore>
+      <p id='author-name'>{{ author.name }}</p>
+    </section>
+ 
+    <p class="main-right">
+      <span><i class="fa-solid fa-globe" aria-hidden="true"></i> {{ site.hostname }}{{ site.baseurl }}</span>
+      {% if post_date %}
+      <span><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> <time class="dt-published" datetime="{{ post_date | date: "%Y-%m-%d" }}">{{ post_date | date: '%d-%m-%Y' }}</time></span>
+      {% endif %}
+    </p>
+</div>
+

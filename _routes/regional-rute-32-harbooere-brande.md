@@ -57,4 +57,4 @@ Hvis du vil videre fra Brande mod Horsens, så kan du fortsætte på næste del 
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

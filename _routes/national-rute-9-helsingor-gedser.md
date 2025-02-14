@@ -8,8 +8,8 @@ comment: Cykelrute ned gennem Sjælland
 author: lsolesen
 number: N9
 header:
-  overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1595749615311-da60cf2cd86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 category:
   - National Cykelrute
@@ -56,7 +56,7 @@ Ruten går fra Helsingør til Gedser via København. Det er en populær rute for
 
 {% endcomment %}
 
-{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 9" | where_exp: "post", "post.url != url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where: "data.tags", "National Cykelrute 9" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
@@ -71,4 +71,4 @@ Ruten går fra Helsingør til Gedser via København. Det er en populær rute for
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

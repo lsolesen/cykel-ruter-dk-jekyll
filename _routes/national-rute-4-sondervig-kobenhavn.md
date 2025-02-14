@@ -32,7 +32,7 @@ rubble: 20
 
 {% include video provider="own-youtube" id="65XxvRAV0gk" %}
 
-{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 4" | where_exp: "post", "post.url != url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where: "data.tags", "National Cykelrute 4" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
@@ -47,4 +47,4 @@ rubble: 20
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

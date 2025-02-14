@@ -56,4 +56,4 @@ National cykelrute 2 fortsætter [videre mod Hanstholm](/rute/national-rute-2-ny
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

@@ -4,8 +4,8 @@ permalink: /rute/regional-rute-20-skiveegnen/
 created_at:  2006-06-07T09:48:02+02:00
 last_modified_at: 2019-04-17T09:48:02+02:00
 header:
-  overlay_image: https://images.unsplash.com/photo-1563051225-3c91b9bbc65f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1563051225-3c91b9bbc65f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1563051225-3c91b9bbc65f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1563051225-3c91b9bbc65f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   credit: "Photo by Matt Gross on Unsplash"
   caption: *title
 category:
@@ -60,4 +60,4 @@ Efter Grindslev kører du tæt forbi den genoprettede natur omkring Brokholm Sø
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

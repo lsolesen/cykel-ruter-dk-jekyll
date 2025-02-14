@@ -46,4 +46,4 @@ Syd for Ejer Baunehøj ved landsbyen, Elling, får ruten kontakt med den regiona
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

@@ -7,10 +7,11 @@ permalink: /regionale-cykelruter/
 category:
   - Cykelruter
 author_profile: true
+eleventyExcludeFromCollections: false
 classes: wide
 header:
-  overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
   overlay_filter: 0.2
 gallery:
@@ -64,7 +65,7 @@ En regional cykelrute forløber gennem flere kommuner. Typisk er ruten længere 
 
 De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet alle de regionale cykelruter, jeg har tilladelse til her på sitet. Hvis du vil bidrage med beskrivelser af nogle regionale cykelruter, så vil jeg blive rigtig glad.
 
-{% assign site_posts = collections.routes | where2: "category", "Regional Cykelrute" | sort: "title" %}
+{% assign site_posts = collections.routes | where: "data.category", "Regional Cykelrute" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">

@@ -5,8 +5,8 @@ description: "Bornholm har mange gode cykelruter. Jeg har samlet de bedste ruter
 permalink: /cykelruter-bornholm/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1556883803-7492e7505170?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1556883803-7492e7505170?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1556883803-7492e7505170?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1556883803-7492e7505170?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - banestier
@@ -22,7 +22,7 @@ scanmaps:
     rel: sponsored nofollow noopener
 feature_row:
   - url: https://bornholm.info/6-cykelruter-magnus-cort/
-    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+    image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
     title: "Cykelruter og cykelferie på Bornholm"
     alt: "Cykelruter og cykelferie på Bornholm"
     excerpt: "Bornholm har rigtig mange gode cykelruter. Og hvis du vil opleve lidt Tour de France fornemmelse, så er der et godt net af cykelveje for familien på cykelferie. Rundt omkring på øen findes en række ekstraordinært gode steder at køre MTB, Bornholm er det bedste MTB i Danmark, vil jeg mene."

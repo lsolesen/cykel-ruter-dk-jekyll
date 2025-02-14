@@ -4,7 +4,8 @@ permalink: /blog/
 title: Blog for cykel-ruter.dk
 excerpt: "Læs med i vores blog med masser af gode råd om cykelruter, cykelferie og cykelture."
 classes: wide
-author_profile: true
+author_profile: 
+eleventyExcludeFromCollections: true
 ---
 
 Læs med på vores blog om cykling, [cykelruter](/cykelruter-danmark/) og [cykelferie](/cykelferie/). Vores cykelblog indeholder forskellige råd om og tips om [planlægning af cykelturen](/planlaegning-af-turen/), og hvordan du kommer af sted, men også indlæg om [cykeludstyr](/cykeludstyr/).

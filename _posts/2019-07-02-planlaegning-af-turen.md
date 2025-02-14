@@ -8,8 +8,8 @@ description: Hvad skal man huske inden man tager afsted på en cykeltur? Vi har
 excerpt: Grundig planlægning af cykelturen og cykelferien kan gøre tingene
   lettere, men planlæg også muligheden for at være spontan.
 header:
-  overlay_image: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1541474019392-1298d5c71a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   caption: Photo by Mohit Tomar on Unsplash
   overlay_filter: 0.2
 last_modified_at: 2021-04-09T03:36:13+02:00

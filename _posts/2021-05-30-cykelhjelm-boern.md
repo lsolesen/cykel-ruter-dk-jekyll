@@ -5,8 +5,8 @@ excerpt: "Det er vigtigt at vælge den rigtige cykelhjelm og størrelse til dit 
 permalink: /cykelhjelm-boern/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1595182747080-3b43712dd27d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1595182747080-3b43712dd27d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1595182747080-3b43712dd27d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1595182747080-3b43712dd27d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - cykelhjelm
@@ -14,20 +14,21 @@ tags:
 category:
   - Regler & Sikkerhed
 last_modified_at: 2021-05-17T18:21:26Z
-feature_row_abus:
-  - image_path: https://cdn.cykelexperten.dk/media/0e/23/0f/1621238418/g1.abus.com_out_abus_images_Mobile20Sicherheit_Helme_Kids_Youn-I20ACE20MIPS_89163_Youn-I20ACE20MIPW_20metallic20blue_side_3.jpg?width=1920&height=
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/abus-youn-i-ace-mips-hjelm-m.-led-lys-blaa-m-52cm-57cm-/
-    title: "ABUS Youn-I Cykelhjelm"
-    excerpt: "Super smart hjelm i blåt design. Hjelmen er støbt med In-Mold teknologi, der giver den flotteste finish samtidig med, at det giver den bedste sikkerhed. Det gør denne hjelm optimal til både BMX, MTB, skateboard og rulleskøjter."
-    btn_label: "Køb her"
-    btn_class: "btn--success"
-feature_row_nutcase:
-  - image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/abe84039-4c42-4018-995a-7c2d3d2bee00/1962-07_A_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelhjelme-boernjunior/nutcase---street-mips---check-me
-    title: "Nutcase - Street MIPS"
-    excerpt: "Denne 'Street MIPS' cykelhjelm fra Nutcase beskytter dit hoved ekstra i tilfælde af styrt på cyklen. Hjelmen er udstyret med MIPS-teknologi, som er en ekstra fleksibel skal inden i hjelmen, som minimerer risikoen for at pådrage sig en hjernerystelse. "
-    btn_label: "Køb cykelhjelm"
-    btn_class: "btn--success"
+feature_rows:
+  feature_row_abus:
+    - image_path: https://cdn.cykelexperten.dk/media/0e/23/0f/1621238418/g1.abus.com_out_abus_images_Mobile20Sicherheit_Helme_Kids_Youn-I20ACE20MIPS_89163_Youn-I20ACE20MIPW_20metallic20blue_side_3.jpg?width=1920&height=
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/abus-youn-i-ace-mips-hjelm-m.-led-lys-blaa-m-52cm-57cm-/
+      title: "ABUS Youn-I Cykelhjelm"
+      excerpt: "Super smart hjelm i blåt design. Hjelmen er støbt med In-Mold teknologi, der giver den flotteste finish samtidig med, at det giver den bedste sikkerhed. Det gør denne hjelm optimal til både BMX, MTB, skateboard og rulleskøjter."
+      btn_label: "Køb her"
+      btn_class: "btn--success"
+  feature_row_nutcase:
+    - image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/abe84039-4c42-4018-995a-7c2d3d2bee00/1962-07_A_default.jpg
+      url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelhjelme-boernjunior/nutcase---street-mips---check-me
+      title: "Nutcase - Street MIPS"
+      excerpt: "Denne 'Street MIPS' cykelhjelm fra Nutcase beskytter dit hoved ekstra i tilfælde af styrt på cyklen. Hjelmen er udstyret med MIPS-teknologi, som er en ekstra fleksibel skal inden i hjelmen, som minimerer risikoen for at pådrage sig en hjernerystelse. "
+      btn_label: "Køb cykelhjelm"
+      btn_class: "btn--success"
 toc: true
 ---
 
@@ -185,7 +186,7 @@ Hvis cykelhjelmen ikke har fået slag eller skrammer, så holder den typisk 5 ti
 
 Hvis du er på udkig efter cykelhjelme til børn, så kan du kigge hos nogle af vores samarbejdspartnere. Vi får en lille kommision, hvis du vælger at købe din cykelhjelm der. Vi har kun gode erfaringer med de virksomheder, vi samarbejder med.
 
-{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where: "data.tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}
 

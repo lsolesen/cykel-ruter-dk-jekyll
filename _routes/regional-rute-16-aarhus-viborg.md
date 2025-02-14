@@ -53,4 +53,4 @@ Det sidste stykke på vej mod Viborg går gennem Bruunshåb, hvor ruten drejer a
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

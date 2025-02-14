@@ -60,4 +60,4 @@ Ved Rejkær kører du ud på hovedvejen og fortsætter mod Madum og Vedersø. Ve
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

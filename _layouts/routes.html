@@ -53,7 +53,7 @@ layout: default
 
         <div class="feature__wrapper">
           {% if gps.provider %}
-            {% include gps provider=gps.provider id=gps.id %}
+            {% include cykelruter/gps provider=gps.provider id=gps.id %}
             {% if gps.url %}
             <div><a href="{{ gps.url }}" class="btn btn--large btn--success"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ ui-text[site.locale].get_gps_track | default: "Se GPS track" }}</a></div>
             {% endif %}
@@ -67,10 +67,10 @@ layout: default
         {% assign file_exists = site.static_files | where: "path", path %}
 
         {% if file_exists.size != 0 %}
-          {% include pinterest image_path=path hidden="true" %}
+          {% include cykelruter/pinterest image_path=path hidden="true" %}
         {% endif %}
 
-        {% assign routes = collections.routes | where2: "tags", related | where_exp: "post", "post.url != url" %}
+        {% assign routes = collections.routes | where: "data.tags", related | where_exp: "post", "post.url != url" %}
         {% if routes.size > 0 %}
         <div class="feature__wrapper">
           <h2>Relaterede cykelruter og cykelture</h2>
@@ -88,7 +88,7 @@ layout: default
         {% if ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ ui-text[site.locale].meta_label }}</h4>
         {% endif %}
-        {% include page__taxonomy.html %}
+        {% include cykelruter/page__taxonomy.html %}
         {% if last_modified_at %}
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ last_modified_at | date: "%Y-%m-%d" }}">{{ last_modified_at | date: "%B %d, %Y" }}</time></p>
         {% elsif date %}

@@ -41,7 +41,7 @@ Hvis du vil besøge de små øer i Limfjorden, så kan du sagtens tage en afstik
 
 {% include video provider="own-youtube" id="86ivxIt-JbY" %}
 
-{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 12" | where_exp: "post", "post.url != url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where: "data.tags", "National Cykelrute 12" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
@@ -56,4 +56,4 @@ Hvis du vil besøge de små øer i Limfjorden, så kan du sagtens tage en afstik
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

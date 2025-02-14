@@ -52,7 +52,7 @@ Næsten en tredjedel af ruten på 560 km følger grusstier, så du skal helst ha
 
 {% include video provider="own-youtube" id="F01p9oCJU78" %}
 
-{% assign site_posts = collections.routes | where2: "tags", "National Cykelrute 1" | where_exp: "post", "post.url != url" | sort: "created_at" %}
+{% assign site_posts = collections.routes | where: "data.tags", "National Cykelrute 1" | where_exp: "post", "post.url != url" | sort: "created_at" %}
 
 {% if site_posts.size > 0 %}
 
@@ -87,4 +87,4 @@ Tjek også vores artikel om [cykelkort over Danmark](/cykelkort/).
 
 ## Kort over {{ title }}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

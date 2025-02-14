@@ -5,8 +5,8 @@ description: "10+ gode online cykelbutikker og cykelhandlere, hvor du let kan k�
 permalink: /cykelhandlere-og-cykelbutikker/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1508028339507-ff30e5b2d025?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1508028339507-ff30e5b2d025?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1508028339507-ff30e5b2d025?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1508028339507-ff30e5b2d025?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
 tags:
   - cykeludstyr
@@ -34,9 +34,9 @@ Her kan du finde online cykelhandlere og webshops i Danmark. I disse online cyke
 
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
-{% for post in site_posts -%}
-| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }}
-{% endfor %}
+{% for post in site_posts %}
+| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }} |
+{% endfor -%}
 
 ## Cykelbutik i Tyskland
 
@@ -46,9 +46,9 @@ Her kan du købe en cykel i Tyskland. I en tysk cykel webshop kan du ofte få no
 
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
-{% for post in site_posts -%}
-| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }}
-{% endfor %}
+{% for post in site_posts %}
+| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }} |
+{% endfor -%}
 
 ## Online cykelbutik og cykeludstyr i England
 
@@ -58,9 +58,9 @@ Inden Brexit kunne man ofte få gode tilbud, når du ville købe en cykel i Engl
 
 | Webshop | Fysisk butik | Værksted |
 |-|-|-|
-{% for post in site_posts -%}
-| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }}
-{% endfor %}
+{% for post in site_posts %}
+| [{{ post.title }}]({{ post.url }}){: rel="{{ post.rel }}" } | {{ post.shop }} | {{ post.workshop }} |
+{% endfor -%}
 
 ## Sikkerhed og online cykelsalg
 
@@ -76,6 +76,6 @@ Jeg har gode erfaringer med alle webshops her på listen, men når du handler on
 
 Hvis du vil støtte cykel-ruter.dk og udviklingen af sitet, så kan du handle ved vores samarbejdspartnere. Jeg får en lille kommision, hvis du handler hos dem, men prisen er den samme for dig.
 
-{% assign ads = advertisers | where2: "tags", "featured" | sort: "image_path" %}
+{% assign ads = advertisers | where: "data.tags", "featured" | sort: "image_path" %}
 
 {% include gallery array=ads %}

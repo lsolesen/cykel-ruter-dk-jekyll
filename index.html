@@ -4,6 +4,7 @@ title: Cykelferie og cykelruter i Danmark
 excerpt: "Vi beskriver cykelruter i Danmark (særligt i Østjylland, Vestjylland og Sydjylland). Skal du på cykeltur, cykelferie eller bare på dagstur, så læs med."
 classes: wide
 author_profile: true
+eleventyExcludeFromCollections: true
 header:
   overlay_image: &image /assets/images/routes/national-rute-5-roende-aarhus.jpg
   caption: "Fra national rute 4 ruten mellem Rønde og Århus."
@@ -68,7 +69,7 @@ feature_row:
 
 <div class="feature__wrapper">
 
-{% assign site_posts = collections.posts | sort: "last_modified_at" | reverse %}
+{% assign site_posts = collections.posts | where: "data.tags", "featured" | sort: "last_modified_at" | reverse %}
 {% if site_posts.size > 0 %}
   {% for post in site_posts limit:8 %}
     {% include archive-single.html type="grid" %}
@@ -103,7 +104,7 @@ feature_row:
 
 <div class="feature__wrapper">
 
-{% assign site_posts = collections.routes | sort: "last_modified_at" | reverse %}
+{% assign site_posts = collections.routes | where: "data.tags", "featured" | sort: "last_modified_at" | reverse %}
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts limit:8 %}

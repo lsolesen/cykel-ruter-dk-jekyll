@@ -60,4 +60,4 @@ Fra Fårup sø fortsættes videre langs vejen fra Jelling, indtil et skilt viser
  
 Resten af vejen mod Skibet nyder vi den lange bakke nedad.
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

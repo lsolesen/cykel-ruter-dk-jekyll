@@ -7,6 +7,7 @@ excerpt: "Vi har samlet en række cykelruter, cykelture og cykelstier i Danmark 
 redirect_from:
   - /ruter/
   - /cykelruter-oversigt/
+eleventyExcludeFromCollections: false
 permalink: /cykelruter-danmark/
 header:
   overlay_image: /assets/images/pxhere/family_cycling_bike_landscape_summer_sky_north_sea_sylt-723487.jpg
@@ -27,105 +28,105 @@ feature_rows:
       btn_class: "btn--success"
   feature_row_routes:
     - url: https://ruter.dk/
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+      image_path: https://v1.screenshot.11ty.dev/https%3A%2F%2Fruter.dk%2F/large/1:1/
       title: "Denmark by Bike"
       alt: "Denmark by Bike - Cykelruter i Danmark"
       excerpt: "På DenmarkByBike finder du nogle af de bedste cykelture Danmark har at byde på. Du kan både finde afmærkede ruter og turforslag. De afmærkede cykelruter er nemme at kende på de blå rutetavler, som du også finder ude på ruten. Kortene kan downloades via den gratis app Naviki."
       btn_label: "Besøg DenmarkByBike"
       btn_class: "btn--success"
     - url: https://www.udinaturen.dk/?searchid=8bbd8407-568b-4440-ab95-2d5b5f370b31#{%22x%22:671157,%22y%22:6240022,%22zoom%22:2}
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+      image_path: https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.udinaturen.dk%2F%3Fsearchid%3D8bbd8407-568b-4440-ab95-2d5b5f370b31%23%7B%2522x%2522%3A671157%2C%2522y%2522%3A6240022%2C%2522zoom%2522%3A2%7D/large/1:1/
       title: "Naturstyrelsens cykelruter"
       alt: "Naturstyrelsens cykelruter"
       excerpt: "Her kan du finde inspiration til ture ud i naturen i hele Danmark - hvad enten du leder efter cykelruter, shelters eller legepladser."
       btn_label: "Besøg Naturstyrelsen"
       btn_class: "btn--success"
-    - url: https://horsens.dk/Fritid/Natur-og-Friluftsliv/Cykelruter
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-      title: "Cykelruter i Horsens"
-      alt: "Cykelruter i Horsens"
-      excerpt: "Find information og inspiration til din næste cykeltur eller cykelferie. Du kan låne en gratis cykel hos VisitHorsens, hvis du viser gyldig legitimation."
-      btn_label: "Besøg VisitHorsens"
-      btn_class: "btn--success"
+#    - url: https://horsens.dk/Fritid/Natur-og-Friluftsliv/Cykelruter
+#      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
+#      title: "Cykelruter i Horsens"
+#      alt: "Cykelruter i Horsens"
+#      excerpt: "Find information og inspiration til din næste cykeltur eller cykelferie. Du kan låne en gratis cykel hos VisitHorsens, hvis du viser gyldig legitimation."
+#      btn_label: "Besøg VisitHorsens"
+#      btn_class: "btn--success"
     - url: https://www.danhostel-ribe.dk/cykeltur-i-nationalparken
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+      image_path: https://v1.screenshot.11ty.dev/https%3A%2F%2Fdanhostel-ribe.dk%2Fcykeltur-i-nationalparken/large/1:1/
       title: "Cykeltur i Nationalpark Vadehavet"
       alt: "Cykeltur i Nationalpark Vadehavet"
       excerpt: "Cykeltur i Nationalpark Vadehavet. Du kan finde et forslag til cykelture igennem Nationalparken med udgangspunkt fra Danhostel Ribe med flere alternative ruter."
       btn_label: "Besøg Danhostel Ribe"
       btn_class: "btn--success"
-    - url: https://www.visitnordjylland.dk/nordjylland/oplevelser/cykelruter-i-nordjylland
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-      title: "Cykelruter i Nordjylland"
-      alt: "Cykelruter i Nordjylland"
-      excerpt: "Nordjylland er ideel til en cykelferie eller en dagsudflugt med den tohjulede. Her findes både ruter til en hyggetur, men også til de mere rutinerede kører, der vægter mere udfordrende ruter på strand eller i skoven."
-      btn_label: "Besøg VisitNordjylland"
-      btn_class: "btn--success"
-    - url: https://www.visitranders.dk/randers/se-og-oplev/aktiviteter/cykelruter-i-randers-og-omegn
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-      title: "Cykelruter i Randers"
-      alt: "Cykelruter i Randers"
-      excerpt: "Randers byder på helt unikke naturoplevelser lige ved gadedøren. Gudenåen, Randers Fjord, å og fjordlandskaber omgiver Randers fra Ålum i vest til Kattegat i øst og Mariager Fjord i Nord til Langå i syd. Tag cyklen og drag på tur!"
-      btn_label: "Besøg VisitRanders cykelguide"
-      btn_class: "btn--success"
-    - url: https://www.visitsilkeborg.dk/silkeborg/se-og-oplev/cykelruter
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-      title: "Cykelruter i Silkeborg og Omegn"
-      alt: "Cykelruter i Silkeborg og Omegn"
-      excerpt: "Cykelruter i Silkeborg og omegn. Oplev storslåede skove, hedelandskaber, bakker og dale fra istiden helt tæt på."
-      btn_label: "Besøg Silkeborgs cykelguide"
-      btn_class: "btn--success"
-    - url: https://www.visitskanderborg.dk/skanderborg/ud-i-naturen/forslag-til-cykelture
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-      title: "Cykelruter i Søhøjlandet"
-      alt: "Cykelruter i Søhøjlandet"
-      excerpt: "Er du til aktiv ferie og smuk natur - velkommen til det smilende Søhøjland, som med sine mange cykelruter indbyder til lange cykelture med imponerende natur og fantastiske oplevelser - for både børn og voksne."
-      btn_label: "Besøg VisitSkanderborg"
-      btn_class: "btn--success"
-    - url: https://viborg.dk/oplevelser-og-fritid/ud-i-naturen/aktiviteter-i-naturen/cykelruter/
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-      title: "Cykelruter i Viborg"
-      alt: "Cykelruter i Viborg"
-      excerpt: "Stjerneruterne er planlagt af VisitViborg. Disse ruter er forslag til forskellige cykelture i kommunen med start og slut i samme punkt."
-      btn_label: "Besøg Viborg Kommune"
-      btn_class: "btn--success"
+#    - url: https://www.visitnordjylland.dk/nordjylland/oplevelser/cykelruter-i-nordjylland
+#      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
+#      title: "Cykelruter i Nordjylland"
+#      alt: "Cykelruter i Nordjylland"
+#      excerpt: "Nordjylland er ideel til en cykelferie eller en dagsudflugt med den tohjulede. Her findes både ruter til en hyggetur, men også til de mere rutinerede kører, der vægter mere udfordrende ruter på strand eller i skoven."
+#      btn_label: "Besøg VisitNordjylland"
+#      btn_class: "btn--success"
+#    - url: https://www.visitranders.dk/randers/se-og-oplev/aktiviteter/cykelruter-i-randers-og-omegn
+#      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
+#      title: "Cykelruter i Randers"
+#      alt: "Cykelruter i Randers"
+#      excerpt: "Randers byder på helt unikke naturoplevelser lige ved gadedøren. Gudenåen, Randers Fjord, å og fjordlandskaber omgiver Randers fra Ålum i vest til Kattegat i øst og Mariager Fjord i Nord til Langå i syd. Tag cyklen og drag på tur!"
+#      btn_label: "Besøg VisitRanders cykelguide"
+#      btn_class: "btn--success"
+#    - url: https://www.visitsilkeborg.dk/silkeborg/se-og-oplev/cykelruter
+#      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
+#      title: "Cykelruter i Silkeborg og Omegn"
+#      alt: "Cykelruter i Silkeborg og Omegn"
+#      excerpt: "Cykelruter i Silkeborg og omegn. Oplev storslåede skove, hedelandskaber, bakker og dale fra istiden helt tæt på."
+#      btn_label: "Besøg Silkeborgs cykelguide"
+#      btn_class: "btn--success"
+#    - url: https://www.visitskanderborg.dk/skanderborg/ud-i-naturen/forslag-til-cykelture
+#      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
+#      title: "Cykelruter i Søhøjlandet"
+#      alt: "Cykelruter i Søhøjlandet"
+#      excerpt: "Er du til aktiv ferie og smuk natur - velkommen til det smilende Søhøjland, som med sine mange cykelruter indbyder til lange cykelture med imponerende natur og fantastiske oplevelser - for både børn og voksne."
+#      btn_label: "Besøg VisitSkanderborg"
+#      btn_class: "btn--success"
+#    - url: https://viborg.dk/oplevelser-og-fritid/ud-i-naturen/aktiviteter-i-naturen/cykelruter/
+#      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
+#      title: "Cykelruter i Viborg"
+#      alt: "Cykelruter i Viborg"
+#      excerpt: "Stjerneruterne er planlagt af VisitViborg. Disse ruter er forslag til forskellige cykelture i kommunen med start og slut i samme punkt."
+#      btn_label: "Besøg Viborg Kommune"
+#      btn_class: "btn--success"
     - url: https://www.visitmors.dk/mors/pakketure-ferieophold/cykelferie
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+      image_path: https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.visitmors.dk%2Fmors%2Fpakketure-ferieophold%2Fcykelferie/large/1:1/
       title: "Cykelferier på Mors"
       alt: "Cykelferier på Mors"
       excerpt: "Mors har alle elementer, der giver hele familien en udbytterig ferie på to hjul. Morsø Turistbureau arrangerer færdigpakkede cykelture i Nordjylland, Limfjordsområdet og på øen Mors."
       btn_label: "Besøg VisitMors"
       btn_class: "btn--success"
-    - url: https://www.ferievedlimfjorden.dk/limfjorden/oplevelser/cykeltur
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-      title: "Fjordruten - cykelferie ved Limfjorden"
-      alt: "Fjordruten - cykelferie ved Limfjorden"
-      excerpt: "Masser af frisk luft og tid til at nyde landskabets former og farver, dét er cykelferie, og det er for alle aldre! Ved Limfjorden har vi kilometervis af gode cykelstier og afmærkede ruter, så hop op på cyklen og kør ud i det blå - for alting opleves bedre fra en cykelsaddel!"
-      btn_label: "Besøg Ferie Ved Limfjorden"
-      btn_class: "btn--success"
-    - url: https://www.haervej.dk/haervejen/cykelferie/cykelferie
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+#    - url: https://www.ferievedlimfjorden.dk/limfjorden/oplevelser/cykeltur
+#      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
+#      title: "Fjordruten - cykelferie ved Limfjorden"
+#      alt: "Fjordruten - cykelferie ved Limfjorden"
+#      excerpt: "Masser af frisk luft og tid til at nyde landskabets former og farver, dét er cykelferie, og det er for alle aldre! Ved Limfjorden har vi kilometervis af gode cykelstier og afmærkede ruter, så hop op på cyklen og kør ud i det blå - for alting opleves bedre fra en cykelsaddel!"
+#      btn_label: "Besøg Ferie Ved Limfjorden"
+#      btn_class: "btn--success"
+    - url: https://www.haervej.dk/da/etaper?type=biking
+      image_path: https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.haervej.dk%2Fda%2Fetaper%3Ftype%3Dbiking/large/1:1/
       title: "Hærvejen på cykel"
       alt: "Hærvejen på cykel"
       excerpt: "Hærvejen har flere hundrede kilometer cykelrute, der løber som en rygrad gennem Jylland. Du får med andre ord mulighed for at opleve hele paletten af de danske landskaber og natur fra nord til syd. Med så mange dejlige kilometer er det svært at bestemme sig!"
       btn_label: "Besøg Hærvejen"
       btn_class: "btn--success"
-    - url: https://nationalparkthy.dk/oplev-nationalparken/aktiviteter/cykeltur/
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+    - url: https://nationalparkthy.dk/oplev-nationalparken/aktiv-i-naturen/cykle
+      image_path: https://v1.screenshot.11ty.dev/https%3A%2F%2Fnationalparkthy.dk%2Foplev-nationalparken%2Faktiv-i-naturen%2Fcykle/large/1:1/
       title: "Cykelrute Nationalpark Thy"
       alt: "Cykelrute Nationalpark Thy"
       excerpt: "Der et udbredt netværk er cykelstier og småveje, som fører gennem nationalparkens varierede landskab. Fra cyklen kan du både opleve stille skove, åbne heder og hyggelige landsbyer"
       btn_label: "Besøg Nationalpark Thy"
       btn_class: "btn--success"
     - url: https://www.visitdenmark.dk/danmark/oplevelser/cykelferie
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+      image_path: https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.visitdenmark.dk%2Fdanmark%2Foplevelser%2Fcykelferie/large/1:1/
       title: "Panorama Cykelruter"
       alt: "Panorama Cykelruter"
       excerpt: "Der er mange muligheder for en cykelferie - eller blot en mindre udflugt med cykel - i Danmark. Der er langtursruter for dem, der går seriøst til værks, et hav af kortere  _oplevelsesruter_ velegnet til familier og andre, hvor en cykeltur er en hyggelig aktivitet blandt flere på ferien."
       btn_label: "Besøg Visit Denmark"
       btn_class: "btn--success"
     - url: https://www.feriepartner.dk/samsoe/sommerhusferie/paa-cykel/
-      image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+      image_path: https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.feriepartner.dk%2Fomraader%2Foestjylland%2Fsamsoe%2F/large/1:1/
       title: "Cykelruter og cykelferie på Samsø"
       alt: "Cykelruter og cykelferie på Samsø"
       excerpt: "Den bedste måde at opleve den fantastiske, varierede natur på Samsø er på cykel. Samsø har flere cykelruter, som viser den unikke kombination af smuk natur, korte afstande og små, charmerende landsbyer gør Samsø til den ideelle destination for familiens cykelferie."
@@ -239,7 +240,7 @@ Her har jeg samlet alle beskrivelserne af cykelruter her på cykel-ruter.dk. Hvi
 
 Jeg har skrevet et indlæg om, hvordan man [vælger et godt cykelkort](/cykelkort/) til de forskellige danske cykelruter.
 
-## {{ feature_row_routes.size }} andre oversigter cykelruter og cykelture i Danmark
+## {{ feature_rows.feature_row_routes.size }} andre oversigter cykelruter og cykelture i Danmark
 
 Her har jeg samlet links til forskellige beskrivelser af cykelture andre hjemmesider. Hvis du synes, der mangler et link på oversigten, så brug endelig kommentarerne.
 
@@ -247,7 +248,7 @@ Inden du klikker dig væk, så husk dog at læse alle rutebeskrivelserne og arti
 
 {% include feature_row id="feature_row_routes" type="left" %}
 
-{% assign site_posts = collections.posts | where2: "category", "Cykelruter" | sort: "last_modified_at" %}
+{% assign site_posts = collections.posts | where: "data.category", "Cykelruter" | sort: "last_modified_at" %}
 
 ## {{ site_posts.size }} artikler om cykelruter, cykelture og cykelstier i Danmark
 

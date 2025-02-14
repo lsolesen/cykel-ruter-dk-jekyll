@@ -6,8 +6,8 @@ author: lsolesen
 created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 header:
-  overlay_image: https://images.unsplash.com/photo-1551895738-6d0216165381?ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1551895738-6d0216165381?ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1551895738-6d0216165381?ixlib=rb-1.2.1&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1551895738-6d0216165381?ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=60
   caption: "Photo by Solé Bicycles on Unsplash"
 category:
   - National Cykelrute
@@ -53,4 +53,4 @@ Hærvejsruten fortsætter langt ned i landet. Du kan læse om fortsættelsen i C
 
 {% include video provider="own-youtube" id="O5Toh-e2BRI" %}
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}

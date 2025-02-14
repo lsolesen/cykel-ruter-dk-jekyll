@@ -2,8 +2,8 @@
 title: &title "Cykelruter i Vejle-området"
 permalink: /cykelruter-i-vejle-omraadet/
 header:
-  overlay_image: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
+  teaser: https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
   caption: *title
   credit: "Photo by Everton Vila on Unsplash"
   overlay_filter: 0.2
@@ -47,7 +47,7 @@ Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
 
 {% include gallery caption="Du kan få mere inspiration til rigtig [gode cykelkort](/cykelkort/) over Danmark i vores guide. Ovenfor kan du se nogle gode cykelkort over Vejle-området." %}
 
-{% assign site_posts = collections.routes | where2: "tags", "VisitVejle Cykelguide" | sort: "title" %}
+{% assign site_posts = collections.routes | where: "data.tags", "VisitVejle Cykelguide" | sort: "title" %}
 
 ## Se alle {{ site_posts.size }} cykelruter i og omkring Vejle området
 

@@ -91,7 +91,7 @@ Du kan også downloade ruterne som GPS eller GPX-track og have dem på din telef
 
 ***
 
-{% assign site_posts = collections.routes | where2: "tags", "Århus" | sort: "title" %}
+{% assign site_posts = collections.routes | where: "data.tags", "Århus" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## Cykelruter fra Århus
@@ -100,7 +100,7 @@ Du kan også downloade ruterne som GPS eller GPX-track og have dem på din telef
   {% endfor %}
 {% endif %}
 
-{% assign site_posts = collections.routes | where2: "tags", "Djursland" | sort: "title" %}
+{% assign site_posts = collections.routes | where: "data.tags", "Djursland" | sort: "title" %}
 
 {% if site_posts.size > 0 %}
 ## Cykelruter på Djursland

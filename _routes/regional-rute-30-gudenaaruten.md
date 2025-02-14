@@ -6,10 +6,10 @@ created_at: 2006-07-03T09:48:02+02:00
 last_modified_at: 2021-06-03T09:48:02+02:00
 author: dina
 header:
-  overlay_image: https://images.unsplash.com/photo-1555671264-19bbb3d58321?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  overlay_image: https://images.unsplash.com/photo-1555671264-19bbb3d58321?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=630&w=1200&q=80
   caption: *title
   credit: "Photo by James Toose on Unsplash"
-  teaser: https://images.unsplash.com/photo-1555671264-19bbb3d58321?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1555671264-19bbb3d58321?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=60
 category:
   - Regional Cykelrute
 tags:
@@ -45,4 +45,4 @@ Inden længe når vi Randers, hvor Gudenåen efterhånden er begyndt at brede si
 
 ## Kort over Gudenåstien
 
-{% include maps-ad.md %}
+{% include cykelruter/maps-ad.md %}
