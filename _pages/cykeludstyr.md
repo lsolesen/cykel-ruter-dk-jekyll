@@ -86,7 +86,7 @@ feature_rows:
       btn_class: "btn--info"
       btn_label: "Tjek prisen"
       rel: sponsored nofollow noopener
-    - image_path: https://www.proshop.dk/Images/600x800/2800146_4b59fc4eda4b.jpg
+    - image_path: https://www.loebeshop.dk/media/catalog/product/cache/e1bfa30f5f000aa573b2ee969a7a0fde/f/e/fenix_6x_pro_solar_010-02157-21_04.jpg
       url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146
       alt: "Garmin fenix 6X Pro Solar"
       title: "Garmin fenix 6X Pro Solar"
