@@ -1,2 +1,9 @@
 User-agent: *
 Sitemap: https://www.cykel-ruter.dk/sitemap.xml
+Disallow: /detroitchicago/
+Disallow: /porpoiseant/
+Disallow: /beardeddragon/
+Disallow: /tardisrocinante/
+Disallow: /parsonsmaize/
+Disallow: /edomontonalberta/
+Disallow: /ezais/
