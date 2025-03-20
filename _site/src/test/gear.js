@@ -1,0 +1,1 @@
+const motionsplan=require("../js/gear.js");let assert=require("assert");describe("BMI",function(){describe("getBMI()",function(){it("should return the correct number",function(){let e=motionsplan.Gearing(28,50,11);assert.equal(e.getGearTal(),127.27272727272727),assert.equal(e.getMeterPerRound(),10.155912251059368),assert.equal(e.getVelocityAtCadence(80),48.748378805084954)})})})

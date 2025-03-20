@@ -1,0 +1,17 @@
+<!doctype html><html>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>Cykel-ruter.dk: Content Manager v. 1.0.1</title>
+<meta name=robots content="noindex, nofollow">
+<link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png>
+<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
+<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
+<meta name=msapplication-TileColor content="#da532c">
+<meta name=theme-color content="#ffffff">
+</head>
+<body>
+<script src=https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js></script>
+<script>CMS.registerEditorComponent({id:"video",label:"Video",fields:[{name:"provider",label:"Video Provider",widget:"select",multiple:!1,options:["youtube","vimeo","facebook"],default:"youtube"},{name:"id",label:"Video ID",widget:"string"}],pattern:/^\{% include video provider="(\S+)" id="(\S+)" %\}$/,fromBlock:function(e){return{provider:e[1],id:e[2]}},toBlock:function(e){return'{% include video provider="'+e.provider+'" id="'+e.id+'" %}'},toPreview:function(e){return'<img src="https://img.youtube.com/vi/'+e.id+'/maxresdefault.jpg" alt="Youtube Video"/>'}}),CMS.registerEditorComponent({id:"feature_row",label:"Feature Row",fields:[{name:"type",label:"Type",widget:"select",multiple:!1,options:["left","center","right"],default:"left"}],pattern:/^\{% include feature_row type="(\S+)" %\}$/,fromBlock:function(e){return{type:e[1]}},toBlock:function(e){return'{% include feature_row type="'+e.type+'" %}'},toPreview:function(){return"<p>Feature Row</p>"}}),CMS.registerEditorComponent({id:"gallery",label:"Gallery",fields:[{name:"caption",label:"Caption",widget:"text"},{name:"layout",label:"Layout",widget:"select",multiple:!1,options:["half","third","quarter"],default:"third"}],pattern:/^\{% include gallery caption="(\S+)" layout="(\S+)" %\}$/,fromBlock:function(e){return{caption:e[1],layout:e[2]}},toBlock:function(e){return'{% include gallery caption="'+e.caption+'" layout="'+e.layout+'" %}'},toPreview:function(){return"<p>Gallery</p>"}}),CMS.registerEditorComponent({id:"figure",label:"Figure",fields:[{name:"image_path",label:"Image Path",widget:"string"},{name:"caption",label:"Caption",widget:"string"},{name:"alt",label:"Alt",widget:"string"}],pattern:/^\{% include figure image_path="(\S*)" caption="(.*)" alt="(.*)" %\}$/,fromBlock:function(e){return{image_path:e[1],caption:e[2],alt:e[3]}},toBlock:function(e){return'{% include figure image_path="'+e.image_path+'" caption="'+e.caption+'" alt="'+e.alt+'" %}'},toPreview:function(e){return'<figure><img src="'+e.image_path+'" alt="'+e.alt+'"><caption>'+e.caption+"</caption></figure>"}})</script>
+</body>
+</html>
