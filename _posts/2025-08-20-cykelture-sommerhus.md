@@ -66,7 +66,7 @@ perler langs vejen giver en intens og nærværende ferieoplevelse. Det er især 
 landskab, hvor man finder udfordrende bakker, flade strækninger og den smukkeste natur.
 
 En cykelferie behøver dog ikke kun handle om at skifte overnatningssted hver nat og bære det hele med
-sig i tasker og på cykelanhænger. Tværtimod er det en mulighed at leje et sommerhus som et fast
+sig i tasker og på cykelanhænger. Tværtimod er det en mulighed at [leje et sommerhus](https://villavilla.dk/sommerhusudlejning/) som et fast
 udgangspunkt for den aktive ferie. Og det giver rigtig god mening, når sommerhuset har både pool, spa
 og masser af plads til hele familie og venner.
 
@@ -84,7 +84,7 @@ Med en base i et luksussommerhus slipper I for at pakke sammen hver dag og kan i
 trygheden ved at vende hjem til den samme komfortable bolig efter dagens oplevelser. Og bare fordi I
 bor det samme sted, kan I sagtens opleve nye cykelruter hver eneste dag.
 
-Der findes mange sommerhuse til leje i Jylland, som ligger helt perfekt som base for gode oplevelser og
+Der findes mange [sommerhuse til leje i Jylland](https://villavilla.dk/sommerhusudlejning/jylland/), som ligger helt perfekt som base for gode oplevelser og
 ture på cykel. Hvad end I ønsker at udforske flotte strækninger langs Vesterhavet, rolige fjordlandskaber
 i Østjylland eller idylliske byer i Sydjylland er der altid spændende cykelruter i nærheden. Det handler
 blot om godt overblik over cykelruter og en god tilgang til de mange muligheder, der findes nær
