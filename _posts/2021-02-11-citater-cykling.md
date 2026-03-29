@@ -1,7 +1,8 @@
 ---
-title: &title "Cykelcitater: 16 citater om cykling og at cykle (2023)"
+title: &title "Cykelcitater: 16 citater om cykling og at cykle"
+seo_title: "Cykelcitater: 16 citater om cykling og at cykle (2026)"
 permalink: /cykelcitater-citater-om-cykling/
-last_modified_at: 2021-01-29T09:41:09Z
+last_modified_at: 2026-01-29T09:41:09Z
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10

@@ -1,8 +1,8 @@
 ---
 layout: single
-title: &title "Danmarks regionale cykelruter"
-seo_title: "Danmarks regionale cykelruter: Hvor finder jeg kort (2022)?"
-excerpt: "I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. Læs alt om regionalruterne og find regionale cykelkort."
+title: &title "Regionale cykelruter i Danmark"
+seo_title: "Regionale cykelruter i Danmark: Ruter, kort og GPX-tracks (2026)"
+excerpt: "I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. Læs alt om regionalruterne og find regionale cykelkort og GPX-tracks."
 permalink: /regionale-cykelruter/
 category:
   - Cykelruter
@@ -32,27 +32,27 @@ gallery:
     url: https://www.scanmaps.dk/0251g04?G=020
     alt: "Kort over Nationalrute 8. Der Ostsee-Radweg - Dänemark"
     title: "Nationalrute 8: Østersøruten. Der Ostsee-Radweg - Dänemark"
-    excerpt: "Kortbogen dækker den nationale cykelrute 8 - Østersøruten. En cykeltur gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn. En ting er sikkert, den smukke og varierede natur og det rige kulturlandskab vil gøre din cykelferie langs den danske Østersørute til en uforglemmelig oplevelse."
+    excerpt: "Kortbogen dækker den nationale cykelrute 8 - Østersøruten. En cykeltur gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn."
     btn_label: "Tjek prisen"
     btn_class: "btn--success"
   - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0222650_1.jpg
     url: https://www.scanmaps.dk/0222650?G=020
     alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
     title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
-    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute ‘København-Berlin’ på det meste af strækningen mellem København og Gedser. Hvis du også vil cykle fra Helsingør til København, kan du supplere med dette [cykelkort*](https://www.scanmaps.dk/0251d57?G=020)."
+    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute 'København-Berlin' på det meste af strækningen mellem København og Gedser."
     btn_label: "Tjek prisen"
     btn_class: "btn--success"
 toc: true
 created_at: 2019-10-03T09:48:02+02:00
-last_modified_at: 2021-04-03T07:18:02+02:00
+last_modified_at: 2026-03-29T07:18:02+02:00
 sidebar:
   title: "Populære sider"
   nav: blog
 ---
 
-I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. De regionale cykelstier forbinder alle dele af en region - og det kan både være ud-og-hjem-ture eller cykelrundture.
+I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. De regionale cykelstier forbinder alle dele af en region — og det kan både være ud-og-hjem-ture eller cykelrundture.
 
-Vi beskriver her en del af de danske regionalruter, og hvordan du finder kort til cykelruterne.
+Vi beskriver her en del af de danske regionalruter, og hvordan du finder kort og GPX-tracks til ruterne.
 
 ## Hvad er en regional cykelrute?
 
@@ -76,32 +76,30 @@ De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet 
 
 ## Regionale banestier
 
-Nogle af mine favoritter af de regionale cykelruter er banestierne, som følger gamle nedlagte jernbaner. De fleste af disse stier er lavet, så der ikke må komme biler på ruterne - og typisk er ruterne også relativt flade.
+Nogle af mine favoritter blandt de regionale cykelruter er banestierne, som følger gamle nedlagte jernbaner. De fleste af disse stier er lavet, så der ikke må komme biler på ruterne — og typisk er ruterne også relativt flade, hvilket gør dem perfekte til børnefamilier eller dem der ikke er så erfarne cykelturister.
 
-[Læs mere om banestier]({% link _posts/2021-06-19-banestier.md %})
+[Læs mere om banestier](/banestier-i-danmark/)
 
-## Kort over de regionalruterne
+## Kort over regionalruterne
 
-Det er rigtig godt at have et detaljeret [cykelkort]({% link _posts/2020-06-04-cykelkort.md %}), når du tager på cykeltur på de danske regionalruter.
+Det er rigtig godt at have et detaljeret [cykelkort](/cykelkort/), når du tager på cykeltur på de danske regionalruter. Selvom ruterne er godt skiltede, vil man alligevel cykle ind i steder, hvor man kan blive i tvivl.
 
-Selvom ruterne er godt skiltede, så vil man alligevel cykle ind i steder, hvor man kan blive i tvivl.
+Hvilket cykelkort du skal bruge til de regionale cykelruter afhænger naturligvis af, hvilken rute du gerne vil cykle. Jeg har skrevet en guide til de [bedste cykelkort over Danmark](/cykelkort/), som du måske kan lade dig inspirere af. Foretrækker du at navigere digitalt, så har jeg også en guide til [gratis online cykelkort og apps](/cykelkort-online/).
 
-Hvilket cykelkort du skal bruge til de regionale cykelruter afhænger naturligvis af, hvilken rute du gerne vil cykle.
-
-Jeg har skrevet en guide til de [bedste cykelkort over Danmark]({% link _posts/2020-06-04-cykelkort.md %}), som du måske kan lade dig inspirere af.
-
-Hvis du leder efter en guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored nofollow noopener" }, [Tales](https://tales.dk/boeger/tag/cykelruter/){: rel="sponsored nofollow noopener" } og på [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }. Det er reklamelinks, og hvis du bruger dem, tjener jeg en lille smule kommision, som er med til at finansiere driften af dette site. **Din pris er den samme**.
+Hvis du leder efter guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored nofollow noopener" }, [Tales](https://tales.dk/boeger/tag/cykelruter/){: rel="sponsored nofollow noopener" } og [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }. Det er reklamelinks, og hvis du bruger dem, tjener jeg en lille smule kommission, som er med til at finansiere driften af dette site. **Din pris er den samme**.
 
 ## Download GPS og GPX-track af de regionale cykelruter
 
-Det er faktisk ikke så let at finde nogle steder, hvor du kan downloade de regionale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
+Det er ikke altid let at finde steder, hvor du kan downloade de regionale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
 
-Du kan finde nogle af de regionale cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem.
+Du kan finde nogle af de regionale cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem direkte.
 
-Efter en del søgning så fandt jeg endelig [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade nogle af regionalruterne fra. De bruger OpenStreetMap som baggrundskort, så ruterne bør være opdaterede og præcise.
+Den bedste løsning jeg har fundet er [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade mange af regionalruterne som GPX. De bruger OpenStreetMap som baggrundskort, så ruterne er løbende opdaterede.
 
-{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.jpg" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter. Her kan du søge nogle af de regionale cykelruter frem." alt="waymarkedtrails gpx regionale cykelruter" %}
+{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.jpg" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter og downloade GPX-tracks til de regionale cykelruter." alt="waymarkedtrails gpx regionale cykelruter" %}
+
+Vil du planlægge din rute digitalt inden du tager afsted, så kan du med fordel kombinere GPX-tracket med en app som Komoot eller Garmin Connect — jeg har skrevet mere om det i min guide til [ruteplanlægning med Garmin Connect](/garmin-connect-ruteplanlaegning-alltrails/).
 
 ## Konklusion
 
-Jeg håber, at du fik et godt overblik over de regionale cykelruter, og hvordan du kan finde cykelkort til ruterne. De regionale cykelruter udgør en stor del af [cykelruterne i Danmark](/cykelruter-danmark/), men du kan også tjekke de [nationale cykelruter](/nationale-cykelruter/).
+Jeg håber, du fik et godt overblik over de regionale cykelruter i Danmark, og hvordan du finder cykelkort og GPX-tracks til ruterne. De regionale cykelruter udgør en stor del af [cykelruterne i Danmark](/cykelruter-danmark/), men du kan også tjekke de [nationale cykelruter](/nationale-cykelruter/) hvis du drømmer om en længere cykelferie.

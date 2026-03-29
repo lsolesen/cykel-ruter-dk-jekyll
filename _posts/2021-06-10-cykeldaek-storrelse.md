@@ -1,5 +1,5 @@
 ---
-title: &title "Cykeldæk størrelser: Komplet tabel (2023)"
+title: &title "Cykeldæk størrelser: Komplet tabel"
 description: Skal du skifte cykeldæk, så tjek vores guide og tabel over cykeldæk størrelser, hvor du let kan finde dækstørrelser der passer til dit cykelhjul.
 permalink: /cykeldaek-storrelse-tabel/
 language: da
@@ -11,7 +11,7 @@ tags:
   - cykeldæk
 category:
   - Udstyr
-last_modified_at: 2021-05-17T18:21:26Z
+last_modified_at: 2025-05-17T18:21:26Z
 ---
 
 Inden du skal på cykeltur eller cykelferie, så bør du tjekke om dine dæk er i orden. Hvis du har brug for at skifte dit dæk, så har jeg lavet en guide til at vælge dæk i den rigtige størrelse til din cykel.

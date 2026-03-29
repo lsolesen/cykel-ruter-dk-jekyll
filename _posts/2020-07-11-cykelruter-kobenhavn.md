@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Cykelruter, supercykelstier og cykelkort København (2023)"
+title: "Cykelruter, supercykelstier og cykelkort København"
+seo_title: "Cykelruter, supercykelstier og cykelkort København (2026)"
 permalink: /cykelruter-koebenhavn/
 category:
   - Cykelruter
@@ -9,7 +10,7 @@ tags:
   - cykelguide
   - København
   - cykelruter
-last_modified_at: 2021-04-24T08:59:01Z
+last_modified_at: 2026-03-29T08:59:01Z
 header:
   overlay_image: &image https://c.pxhere.com/photos/8b/a5/world_street_camera_city_woman_house_portugal_souls-241425.jpg!d
   teaser: *image
@@ -22,18 +23,18 @@ bikemaps:
   - image_path: https://www.scanmaps.dk/media/catalog/product/c/y/cykelkort-500000-forside_03.jpg
     title: "Cykelkort Danmark og København"
     alt: "Cykelkort Danmark og København"
-    excerpt: "Danmarkskortet i 3. udgave er nu med cykelkort på begge sider af kortet. Udover Danmarkskortet i målestok 1:500.000 får man også et cykelkort over Storkøbenhavn i målestok 1:35.000."
+    excerpt: "Danmarkskortet i 5. udgave er nu med cykelkort på begge sider af kortet. Udover Danmarkskortet i målestok 1:500.000 får man også et cykelkort over Storkøbenhavn i målestok 1:35.000."
     url: "https://www.scanmaps.dk/0251c83?G=020"
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 feature_row:
-  - url: https://www.kk.dk/artikel/cykelruter-og-cykelkort
+  - url: https://www.kk.dk/borger/parkering-trafik-og-veje/cyklist-i-koebenhavn/find-vej-paa-cykel
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-    title: "Cykelruter i København"
+    title: "Find vej på cykel i København"
     alt: "Cykelruter i København"
-    excerpt: "Find de bedste cykelruter i København med cykelkort. Download et gratis cykelkort, hvor du se alle de etablerede grønne cykelruter, nationale cykelruter og grønne cykelmuligheder. Kortet er spækket med praktiske informationer til cyklister i København og kan foldes, så det kan være i lommen på cykelturen."
-    btn_label: "Besøg Københavns Kommunes Cykelruter"
+    excerpt: "Københavns Kommune har samlet alle cykelstier, grønne cykelruter og supercykelstier på ét sted. Her kan du finde vej rundt i byen og downloade cykelkort."
+    btn_label: "Besøg Københavns Kommunes cykelside"
     btn_class: "btn--success"
 ---
 
@@ -41,7 +42,7 @@ Der er mange gode cykelruter i København. Jeg har samlet de bedste cykelture og
 
 ## København er en cykelby
 
-København vil gerne være en by med bedre plads, mindre larm, renere luft og sundere borgere. Cyklister er et middel til at opnå dette [mål](https://byudvikling.kk.dk/cyklernesby). Og for at få cyklister kræver det at cykelruterne i byen får et løft, og København har rigtig mange fine cykelstier.
+København vil gerne være en by med bedre plads, mindre larm, renere luft og sundere borgere. Cyklister er et middel til at opnå dette [mål](https://byudvikling.kk.dk/mobilitet/verdens-bedste-cykelby). Og for at få cyklister kræver det at cykelruterne i byen får et løft, og København har rigtig mange fine cykelstier.
 
 {% include figure image_path="https://c.pxhere.com/photos/9d/48/denmark_copenhagen_denmark_symbol_tourists_switch_bicycles_city_bike-695538.jpg!s" caption="De mange gode cykelruter, supercykelstier og grønne cykelruter i København gør også at cykling er meget populært. [Pxhere](https://pxhere.com/da/photo/695538)." alt="Cykler klar til cykelruter, supercykelstier og grønne cykelruter og cykelkort over København" %}
 
@@ -57,8 +58,7 @@ Formålet med supercykelstierne er at forbinde arbejdspladser, studier og boligo
 
 {% include video provider="vimeo" id="299386120" %}
 
-Visionen er, at supercykelstinettet i hovedstadsregionen
-skal bestå af 45 ruter, hvilket svarer til 746 km supercykelsti.
+Visionen er, at supercykelstinettet i hovedstadsregionen skal bestå af 45 ruter, hvilket svarer til 746 km supercykelsti.
 
 Du kan downloade et cykelkort over supercykelstierne her:
 
@@ -72,55 +72,43 @@ De Grønne Cykelruter, Havneringen og Langelinieruten er gennem Svanemølleruten
 
 Du kan på cykel opleve hele København.
 
-Fx forløber **Svanemølleruten** fra Langeliniebroen ad Østbanegade langs jernbanen og de tætte kvarterer
-til Nordhavn Station. Derfra passeres B93's boldbaner, hvortil mange kommer på cykel.
+Fx forløber **Svanemølleruten** fra Langeliniebroen ad Østbanegade langs jernbanen og de tætte kvarterer til Nordhavn Station. Derfra passeres B93's boldbaner, hvortil mange kommer på cykel.
 
-Fra Østerbrogade fortsætter ruten ad Sibeliusgade og
-langs Kildevældparken og via Borgervænget og det nye
-stiforløb mellem Omsorgscentret og DMI til Ryparken
-Station.
+Fra Østerbrogade fortsætter ruten ad Sibeliusgade og langs Kildevældparken og via Borgervænget og det nye stiforløb mellem Omsorgscentret og DMI til Ryparken Station.
 
-Fra Ryparken Station kan man cykle videre ad andre
-Grønne Cykelruter i den ene retning til Ryvangen Naturpark eller i den anden retning (over broen over Lyngbyvej) ad Nørrebroruten helt til Frederiksberg.
+Fra Ryparken Station kan man cykle videre ad andre Grønne Cykelruter i den ene retning til Ryvangen Naturpark eller i den anden retning (over broen over Lyngbyvej) ad Nørrebroruten helt til Frederiksberg.
 
-Man kan kombinere Svanemølleruten med en tur med
-S-toget og stå af ved Nordhavn Station eller Ryparken
-Station.
+Man kan kombinere Svanemølleruten med en tur med S-toget og stå af ved Nordhavn Station eller Ryparken Station.
 
-**Cyklen kan medbringes gratis i S-toget, også i
-myldretiden.**
+**Cyklen kan medbringes gratis i S-toget, også i myldretiden.**
 
-Læs: [Alt om at med bringe cyklen i toget](/cykel-med-toget/)
+Læs: [Alt om at medbringe cyklen i toget](/cykel-med-toget/)
 
 ## Grønne cykelruter
 
 De **[Grønne Cykelruter](https://www.kk.dk/groennecykelruter)** i København er et sammenhængende net af cykelstier, som løber gennem de rekreative områder i København og uden om den travle trafik.
 
-Hvis du vælger de Grønne Cykelruter, så kan du samtidig få en historie om bydelen og byens udvikling.
+Hvis du vælger de Grønne Cykelruter, kan du samtidig få en historie om bydelen og byens udvikling.
 
 Du kommer forbi parker, søer, nedlagte jernbaner, havnen, boldbaner og byens mange forskelligartede kvarterer. Sænk tempoet og husk at lægge mærke til omgivelserne.
 
-Cykelruterne er fredelige, og det er et godt sted cykle i København. Undervejs på ruterne er der masser af grønne åndehuller.
+Cykelruterne er fredelige, og det er et godt sted at cykle i København. Undervejs på ruterne er der masser af grønne åndehuller.
 
-De Grønne Cykelruter kobler mange cykelruter sammen, og du kan se dem på samme kort som supercykelstierne.
+De Grønne Cykelruter kobler mange cykelruter sammen. Du kan se dem samlet på Københavns Kommunes side:
 
-[Kort over Grønne Cykelruter](https://kk.sites.itera.dk/apps/kk_pub2/pdf/1846_d6f1da8e8514.pdf){: .btn .btn--large .btn--danger }
+[Find vej på cykel i København](https://www.kk.dk/borger/parkering-trafik-og-veje/cyklist-i-koebenhavn/find-vej-paa-cykel){: .btn .btn--large .btn--danger }
 
 ## Læs mere om cykelruter i København
 
 {% include feature_row id="feature_row" type="left" %}
 
-## Gratis cykelkort over København
+## Cykelkort over København
 
 Jeg har skrevet et indlæg om, hvordan man [vælger et godt cykelkort](/cykelkort/) til de forskellige danske cykelruter.
 
-Jeg synes det her [cykelkort som PDF fra Københavns Kommune](https://kk.sites.itera.dk/apps/kk_pub2/pdf/1846_d6f1da8e8514.pdf) er ret godt.
+Foretrækker du at navigere digitalt, så har jeg også en guide til [gratis online cykelkort og apps](/cykelkort-online/), hvor jeg gennemgår muligheder som Komoot og Outdoor Active — begge fungerer rigtig godt i København.
 
-På cykelkortet kan du se alle de etablerede grønne cykelruter, nationale cykelruter og grønne cykelruter. På kortet får du de fleste informationer, du har brug for, når du skal på cykeltur i København.
-
-[Download Gratis Cykelkort](https://kk.sites.itera.dk/apps/kk_pub2/pdf/1846_d6f1da8e8514.pdf){: .btn .btn--large .btn--danger }
-
-Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af Cykelkort Danmark og København fra [Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Det bliver jævnligt opdateret, så det kommer til at indeholde de nyest forbedringer til cykelstierne i København.
+Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af Cykelkort Danmark og København fra [Nordisk Korthandel](https://www.scanmaps.dk/0251c83?G=020){: rel="sponsored nofollow noopener" }. Det er nu i **5. udgave** og indeholder de nyeste forbedringer til cykelstierne i København.
 
 **Cykelkortet over Storkøbenhavn** er i 1:35.000. Hvis du skal på cykeltur i hovedstadsområdet, er det altså rigtig fint at navigere efter.
 
@@ -128,4 +116,4 @@ Hvis du har brug for et trykt kort, så kan jeg godt lide kvaliteten af Cykelkor
 
 ## Andre cykelruter i Danmark
 
-Jeg har skrevet om en lang række [andre cykelruter](/cykelruter-danmark/), som du kan lade dig inspirere af også.
+Jeg har skrevet om en lang række [andre cykelruter i Danmark](/cykelruter-danmark/), som du kan lade dig inspirere af. Du kan også tjekke de [nationale cykelruter](/nationale-cykelruter/) og [regionale cykelruter](/regionale-cykelruter/) hvis du vil ud af byen og opleve mere af landet på cyklen.
