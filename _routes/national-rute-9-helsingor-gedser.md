@@ -18,6 +18,7 @@ tags:
   - national
   - hele ruten
   - National Cykelrute 9
+  - Nordsjælland
 excerpt: "Nationalrute 9 er den danske del af den internationale langdistance-cykelrute fra Berlin - København. Ruten dækker 290 km af Danmarks baltiske kyst. Hvis du vil hele vejen til Berlin, så kan du tage en færge fra Gedser til Rostock i Tyskland."
 gps:
   url: https://www.outdooractive.com/en/route/bicycle-touring/national-cykelrute-9-helsingor-gedser/245189880/
