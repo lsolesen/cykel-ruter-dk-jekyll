@@ -1,7 +1,8 @@
 ---
-title: &title "Hvad du skal vide om at tage cyklen med i toget?"
-seo_title: "Værd at vide om at tage cyklen med i toget? (Guide 2023)"
-description: "Skal du rejse med tog og skal du have din cykel med? Der er forskellige regler alt afhængigt af, hvilket selskab du rejser med, og hvilken type cykelbillet du køber."
+title: &title "Cykel i toget: Regler, priser og myldretid for S-tog, DSB & Metro (2026)"
+seo_title: "Cykel i toget: Regler, pris & myldretid for S-tog, DSB og Metro"
+description: "Skal du have cyklen med i toget? Se regler for S-tog, Metro og DSB, undgå myldretid på Nørreport Station, og find prisen på cykelbillet her."
+excerpt: "Komplet guide til at tage cyklen med i toget. Se hvornår der er myldretid på Nørreport, priser for cykelbillet i DSB InterCity og regler for Metroen."
 permalink: /cykel-med-toget/
 language: da
 header:
@@ -12,223 +13,119 @@ tags:
   - planlægning
 category:
   - Planlægning
-last_modified_at: 2022-06-27T12:21:26Z
+last_modified_at: 2026-08-04T18:10:00Z
 author: lsolesen
 faq:
-  - question: Hvornår er der myldretid for cykel i s-tog?
-    answer: Det er kun Nørreport Station, at du skal være opmærksom på, hvornår der er myldretid. På Nørreport station må du ikke stå af eller på med din cykel på hverdage (mandag-fredag) i tidsrummet kl. 7-9 og kl. 15.30-17.30, fordi pladsen er trang på Nørreport Station i myldretiderne.
+  - question: "Er det gratis at tage cyklen med i S-toget?"
+    answer: "Ja, det er helt gratis at tage din cykel med i S-toget. Du skal ikke købe cykelbillet, men du må ikke stige af eller på på Nørreport Station i myldretiden (kl. 7.00-9.00 og kl. 15.30-17.30 på hverdage)."
+  - question: "Hvad koster en cykelbillet til DSB InterCity og Regionaltog?"
+    answer: "En DSB Cykelpladsbillet koster 20 kr. Billetten reserverer en fast plads og gælder som cykelbillet på strækningen i InterCity, InterCityLyn, Lyn+ og Regionaltog."
+  - question: "Må man have cykel med i Metroen?"
+    answer: "Ja, men du skal købe en cykelbillet (14 kr. eller via Rejsekort). Bemærk at cykler IKKE må medbringes i Metroen i myldretiden på hverdage mellem kl. 7.00-9.00 og kl. 15.30-17.30."
+  - question: "Hvilke regler gælder for cykler på Nørreport Station?"
+    answer: "På Nørreport Station må du af sikkerheds- og pladshensyn IKKE stige af eller på S-toget med cykel på hverdage i tidsrummene kl. 7.00-9.00 og kl. 15.30-17.30."
 ---
 
-Har du ikke lyst til at cykle hele vejen? Så kan du tage cyklen med i i toget, men hvad er skal du være opmærksom på, når du gerne vil have din cykel med i et tog?
+Vil du kombinere togrejsen med en fantastisk cykeltur? At tage cyklen med i toget i Danmark er utroligt nemt – så længe du kender de specifikke regler for billetkøb, togselskaber og myldretid.
 
-Skal du rejse med tog og skal du have din cykel med? Der er forskellige regler alt afhængigt af, hvilket selskab du rejser med, og hvilken type cykelbillet du køber.
+Uanset om du skal køre tværs over landet med DSB InterCity, pendle med S-toget eller køre med Metroen i København, gælder der forskellige regler for din cykel.
 
-Du skal dog altid have billet til din cykel.
-
-Her kigger vi på de forskellige regler og begrænsninger, som cyklister skal være opmærksomme på, når de gerne vil have cyklen med i et af de forskellige udbydere af togdrift i Danmark.
-
-- Hvad er reglerne hos de forskellige togfirmaer?
-- Hvad koster det at have cyklen med i toget?
-- Hvornår er det bedste tidspunkt?
-
-I dette blogindlæg vil vi skitsere reglerne for at tage din cykel med i toget, og hvad prisen er for at gøre det. Vi har skrevet mere om, hvordan du ellers kan [rejse med din cykel](/transport-af-cykler/).
-
-Du bør altid holde dig opdateret på de enkelte selskabers hjemmesider. Jeg har gjort det let at finde de relevante links til, hvor du finder reglerne, priserne og hvordan du køber cykelbilleter.
-
-## Hvad er reglerne for at have cyklen med i toget?
-
-Reglerne for at tage din cykel med i toget varierer fra selskab til selskab, så det er vigtigt at tjekke med det pågældende selskab, før du rejser. Her kan du finde retningslinjerne for de danske togselskaber.
-
-Der er nogle generelle regler, som alle cyklister skal følge, når de tager deres cykel med i toget:
-
-- Cykler skal opbevares i de dertil indrettede områder i toget
-- Cykler må ikke blokere døråbninger, gange eller udgange
-- Cyklister må ikke køre på deres cykler i toget
-- Cyklister må ikke læne deres cykler mod sæderne
-
-Her kigger vi på nogle af de [opdaterede regler](https://dinoffentligetransport.dk/saadan-rejser-du/cykler-og-loebehjul) for at tage cykler og cykelanhængere med i det offentlige.
-
-## DSB og cykelbillet til Intercity og Regionaltog
-
-DSB har skrevet en fin side om deres [regler og priser](https://www.dsb.dk/find-produkter-og-services/cykelbillet/). DSB har gjort deres billet til cykel meget mere enkel.
-
-Når du skal have din cykel med InterCity, InterCityLyn, +Lyn og Regionaltog skal du med DSB købe en cykelpladsbillet til din cykel. **Cykelpladsbilletten dækker både rejsen for din cykel og sikrer plads til cyklen** i følgende togtyper: InterCity, InterCityLyn, +Lyn og Regionaltog.
-
-Tidligere skulle man købe en cykelbillet hos DSB, men hvis man også ville sikre sig plads til sin cykel skulle man også have en cykelpladsbillet. Det er fra 1. juli 2022 lavet om, så man kun skal købe en cykelpladsbillet.
 {: .notice .notice--info }
+* **Skal du have cyklen med i bil, fly eller bus?** Se vores guide til **[transport af cykler](/transport-af-cykler/)**.
+* **Vil du cykle langs nedlagte jernbaner?** Udforsk de historiske **[banestier i Danmark](/banestier-i-danmark/)**.
 
-Cykelpladsbilletten koster 20 kroner, og den kan købes i DSB app og på stationerne. Prisen for cykelbilletten er den samme uanset om du skal rejse langt, eller kort.
+---
 
- Reglerne for at tage cyklen med i toget er grundlæggende hos DSB følgende:
+## Cykel i S-tog: Regler & Myldretid på Nørreport Station
 
-- Det er gratis at tage cyklen med i S-toget, med havnebusserne og i nogle lokalbanetog. Du kan ikke reservere plads til cyklen, så du risikerer, at du ikke kan komme med toget.
-- I andre tog skal du have en cykelbillet til cyklen. Cykelpladsbilletten dækker både rejsen og sikrer plads til cyklen.
-- Du skal huske billet til cyklen, større løbehjul og foldecykler (større end 115x60x30 cm), når du skal med Regionaltog, Øresundstog, InterCity, InterCityLyn eller Lyn+.
+Det er **100 % gratis** at tage din cykel med i S-toget i Storkøbenhavn, og du behøver ikke at købe nogen cykelbillet.
 
-## Cykel med i Regionaltog
+S-togene har særlige cykelvogne markeret med store cykelsymboler på dørene og perronen. Du triller blot cyklen ind i flexrummet.
 
-Vi har to togudbydere af regionaltog i Danmark: DSB og Arriva. Her gennemgår vi reglerne for de to firmaer.
+{: .notice .notice--warning }
+### ⚠️ VIGTIGT: Myldretid på Nørreport Station
+Af hensyn til passagersikkerheden på de smalle perroner gælder der særregler for **Nørreport Station**:
+* **Hvornår:** Hverdage (mandag–fredag) fra **kl. 7.00–9.00** og **kl. 15.30–17.30**.
+* **Regel:** Du må **IKKE stige af eller på S-toget med din cykel** på Nørreport Station i disse tidsrum.
+* *Løsning:* Benyt i stedet nabostationerne Østerport, Vesterport eller København H i myldretiden.
 
-### DSB og cykler
+---
 
-Som skrevet ovenfor i afsnittet om DSB, så skal du købe en **cykelpladsbillet**, hvis du gerne vil med regionaltog. Billetten betaler både for rejsen, men sikrer også plads til cyklen.
+## Cykel i Metroen: Regler, pris og myldretid
 
-### Arriva og cykelbillet
+Må man have sin cykel med i Metroen? **Ja, det må du godt**, men der gælder to klare krav:
 
-Arriva har togdrift på nogle af de regionale togruter. Du kan se på deres [strækningsoversigt](https://arriva.dk/koreplaner-og-trafikinfo/straekningsoversigt), hvor det er Arriva der opererer togene.
+1. **Du skal købe cykelbillet:** En cykelbillet til Metroen koster **14 kr.** (kan købes i DOT Billetter appen, i billetautomaten eller tjekkes ind via Rejsekort som 'Cykel').
+2. **Kørsel i myldretid er forbudt:** Du må **IKKE** have cyklen med i Metroen på hverdage mellem:
+   * **Kl. 07.00 – 09.00**
+   * **Kl. 15.30 – 17.30**
 
-Arrivas [prispolitik og regler](https://arriva.dk/kundeservice/cykel) for en cykelbillet er lidt mere indviklede end DSBs cykelbilletter. Her skitserer vi de mest gængse regler.
+Placer altid cyklen i Metroens dertil indrettede flexområder (hvor der er et cykelsymbol på væggen) og hold fast i den under kørslen.
 
-Der findes forskellige typer billetter til din cykel:
+---
 
-- **Enkeltbillet til cykel**. Hos Arriva kan du købe en enkeltbillet til din cykel. Prisen afhænger af de zoner du rejser i. Billetten koster som DSBs billet 20 kroner. Læs mere om cykelbilletten på [Arrivas hjemmeside](https://arriva.dk/kundeservice/cykel/arriva-cykelbillet).
-- **Arriva Cykel Dagsbillet**. Med en cykeldagsbillet kan du ubegrænset tage din cykel med en hel dag i Arrivas tog. Billetten koster en fast pris på 25 kroner. Se mere om [dagsbilletten](https://arriva.dk/kort-og-billetter/arriva-cykel-dagsbillet).
-- **Arriva Cykelbillet Fri**. Hvis du er Arriva+ Premium medlem, så kan du tage din cykel med i 30 dage i Arrivas Tog. Læs mere på [Arrivas hjemmeside](https://arriva.dk/kundeservice/plus).
+## DSB InterCity, Regionaltog og Øresundstog
 
-## Hvordan køber jeg en cykelbillet?
+Skal du rejse længere strækninger med DSB's Fjern- og Regionaltog (InterCity, InterCityLyn, Lyn+ og Regionaltog), skal du bestille en **Cykelpladsbillet**.
 
-Du skal huske billet til cyklen, når du skal med Regionaltog, Øresundstog, InterCity, InterCityLyn eller Lyn+.
+* **Pris:** **20 kr.** uanset hvor langt du skal rejse i Danmark.
+* **Pladsgaranti:** Cykelpladsbilletten dækker både betalingen for din cykel og **garanterer dig en reserveret plads** i togets cykelvogn.
+* **Hvor køber man billetten?** Nemmest i **DSB appen**, i billetautomaterne på stationen eller i 7-Eleven på DSB-stationerne.
 
-Du kan købe cykelpladsbilletten i DSB app eller købe den på stationerne.
+> **Tip:** I sommerperioden (juni-august) bliver cykelpladserne i DSB InterCity-togene hurtigt udsolgt. Bestil derfor din Cykelpladsbillet i god tid før afgang!
 
-Køb en cykelpladsbillet i 7-Eleven på stationen (DSB Salg & Service på Københavns Hovedbanegård), eller bestil den på DSBs billetsalg 70 13 14 15, og hent din Cykelpladsbillet i en billetautomat på stationen.
+---
 
-## Cykler i S-tog
+## Regionaltog med GoCollective (tidligere Arriva)
 
-Det er [gratis](https://politiken.dk/forbrugogliv/livsstil/familieliv/art4834090/Nu-kommer-cyklen-gratis-med-i-S-toget) at tage cyklen med på S-toget. Hvis du gerne vil have cyklen med rundt i København via S-toget, så koster det altså ikke noget.
+På regionalstrækninger i Jylland (fx i Vest- og Midtjylland), som drives af GoCollective (tidligere Arriva), gælder følgende cykelbilletter:
 
-Der er særlige vogne i S-togene, hvor der er gjort plads til cyklerne. Du kan kigge på dørene til S-toget, hvor det er meget tydeligt markeret, at det er cykel-togvognen.
+* **Enkeltbillet til cykel:** 20 kr. (gælder til én enkeltrejse).
+* **Cykel Dagsbillet:** 25 kr. (ubegrænset kørsel med cykel i GoCollectives tog en hel dag).
 
-{% include video provider="youtube" id="dNWDDwtNPWA" %}
+Hos GoCollective kan du ikke reservere en fast plads til cyklen – medtagelse sker efter "først-til-mølle"-princippet, og togpersonalet vurderer af sikkerhedsmæssige årsager, om der er plads i toget.
 
-Du kan ikke reservere plads til din cykel i S-toget, men står du ved cykelsymbolet på perronen, så stopper cykelvognen ud for dig. Selv i myldretiden er der som regel plads til cykler.
+---
 
-Det er togpersonalet, som vurderer, om der er plads til din cykel.
+## Prisoversigt: Hvad koster en cykelbillet i toget?
 
-DSB besvarer selv [ofte stillede spørgsmål](https://www.dsb.dk/kundeservice/kundeservice-filtre/cykler-og-barnevogne/cykler/cykler-i-s-toget/) på deres hjemmeside, hvor du kan blive klogere.
+| Togselskab / Togtype | Cykelbillet Pris | Reservering påkrævet? |
+|---|:---:|:---:|
+| **S-tog** | **Gratis** | Nej (Ikke muligt) |
+| **DSB InterCity / Regionaltog** | **20 kr.** | Ja (Cykelpladsbillet) |
+| **Metro** | **14 kr.** | Nej |
+| **GoCollective (Arriva) Enkelt** | **20 kr.** | Nej |
+| **GoCollective Dagsbillet** | **25 kr.** | Nej |
 
-Det er kun på Nørreport Station, at du skal være opmærksom på myldretid i s-tog.
+---
 
-## Cykel i Metro
+## Generelle regler for alle togkamre
 
-Du skal købe en cykelbillet til Metroen. Cykelbilletten koster 14 kr., og kan købes i DOT Billetter app, i billetautomaterne på metrostationen, som SMS-billet eller på dit rejsekort.
+Når du medbringer cykel i offentlig transport, skal du overholde de helt basale regler:
 
-Husk at du ikke må have cyklen med i Metroen i hverdagene mellem kl. 7.00 og 9.00 og kl. 15.30 og 17.30.
+* Cyklen skal altid anbringes i de dertil indrettede cykelrum/flexrum.
+* Cyklen må aldrig blokere døråbninger, midtergange eller flugtveje.
+* Det er strengt forbudt at cykle på perronen eller inde i toget.
+* Foldecykler og mindre løbehjul, der kan klappes helt sammen (under 115x60x30 cm), kan tages med gratis som almindelig håndbagage på hylder eller under sæder.
 
-Du kan købe cykelbillet til metroen her:
+---
 
-- DSB’s - og Metroens [billetautomater](https://dinoffentligetransport.dk/find-billetter/find-billetautomat)
-- DSBs [betjente salgssteder](https://dinoffentligetransport.dk/find-billetter/personlig-betjening) og i 7-Eleven på DSB stationer
-- Rejsekort kundetype cykel
-- [DOT Billetter app](https://dinoffentligetransport.dk/find-billetter/dot-billetter-app)
+## Aflåst cykelparkering på stationerne
 
-Læs mere om reglerne for at tage din cykel med i metroen på [dinoffentligetransport.dk](https://dinoffentligetransport.dk/saadan-rejser-du/cykler-og-loebehjul).
+Vil du lade cyklen stå på stationen, mens du tager toget? DSB tilbyder over hele landet **aflåste cykelparkeringer** på en lang række stationer. 
 
-{% comment %}
+Gennem *DSB Plus* kan du få gratis adgang med dit togkort eller app, så din cykel står godt beskyttet mod både vind, vejr og tyveri.
 
-cykelbillet dsb
+---
 
-cykelbillet
+## Ofte stillede spørgsmål om cykel i toget
 
-cykler i tog
+{% include faq.html %}
 
-cykler s-tog
-
-{% endcomment %}
-
-## Hvornår må man have cykel med i toget?
-
-Du må på de fleste tidspunkter have cykler med i toget. Der er dog lidt forskellige regler.
-
-- Metroen skal du være opmærksom på, at du ikke må have cyklen med i myldretiden, som er i hverdagene mellem kl. 7.00 og 9.00 og kl. 15.30 og 17.30.
-- S-tog er det kun på Nørreport station, at du ikke må stå af eller på med din cykel på i myldretiden på hverdage (mandag-fredag) i tidsrummet kl. 7-9 og kl. 15.30-17.30.
-- Når der er plads i toget, så kan du have din cykel med. Hos DSB køber man en cykelpladsbillet, men hos Arriva kan du ikke være sikker på, at der er plads. Det er togkonduktøren, der vurderer om der er plads til din cykel.
-
-{% comment %}
-
-***
-
-## Hvordan køber man cykelbillet til DSB?
-
-
-
-## Hvad koster en cykelbillet DSB?
-
-
-
-- Det bedste tidspunkt at tage cyklen med i toget
-
-- Sådan tager du din cykel med i toget
-
-Hvordan pakker du din cykel ned til toget?
-
-Når du skal tage din cykel med i toget, er der to hovedmuligheder:
-
-- du kan tage din cykel med i toget som almindelig bagage eller bruge en cykeltaske. Hvis du bruger en cykeltaske, skal du købe en billet til din cykel. Prisen på denne billet afhænger af togselskabet, men ligger normalt på omkring 60-80 DKK.
-
-
-
-cykel med i toget rejsekort
-
-
-
-cykel billet dsb
-
-dsb cykelbillet regionaltog
-
-cykelbillet dsb app
-
-køb cykelbillet
-
-cykelbillet kystbanen
-
-
-
->write a blog outline
-
-1. Hvad er reglerne for at tage din cykel med i toget?
-
-2. Hvor meget koster det at tage cyklen med i toget?
-
-3. Hvilke fordele er der ved at tage cyklen med i toget?
-
-4. Sådan pakker du din cykel til transport i toget
-
-5. Tips til at rejse med din cykel i toget
-
-***
-
-{% endcomment %}
-
-## Cykel og rejsekort
-
-Du kan læse mere om reglerne for at tjekke din cykel ind på rejsekort hos [Arriva](https://arriva.dk/kundeservice/cykel/rejsekort-cykel).
-
-Du kan bruge rejsekortet sammen med cykel i Metroen og i Arrivas tog. Med DSB's nye cykelpladsbillettype fra juli 2022, så kan du så vidt jeg kan gennemskue ikke tjekke din cykel ind til DSB's afgange.
-
-## Hvad koster det at have en cykel med i toget?
-
-Det er forskelligt, hvad en cykelbillet koster hos de forskellige togselskaber. I denne tabel har vi samlet nogle af de mest gængse priser.
-
-| Togselskab | Pris |
-|-|-|
-| DSB Cykelbillet | 20 kr |
-| Arriva Cykelbillet | 20 kr |
-| Arriva Cykel Dagsbillet | 25 kr |
-| Metro | 14 kr |
-
-## Hvor kan jeg parkere cyklen, når jeg skal med toget?
-
-DSB har opdaget, at cykler ofte kan risikere at blive stjålet, hvis man lader dem stå på stationerne.
-
-Derfor har de lavet aflåste cykelskure. Du kan læse mere om, hvordan du får [adgang til DSBs aflåste cykelskure](https://www.dsb.dk/dsb-plus/aflast-cykelparkering/), så du ubekymret kan begive dig ud på din togrejse.
+---
 
 ## Konklusion
 
-Jeg kan godt lide at cykle på nogle af de [gamle nedlagte jernbanestier](/banestier-i-danmark/), men nogle gange vil jeg også gerne længere omkring.
+Det er både nemt og klimavenligt at tage cyklen med i toget. Husk blot at købe din **Cykelpladsbillet til 20 kr.** hos DSB, tjekke uret for **myldretid på Nørreport og i Metroen**, og nyd turen videre ud på cykelstierne!
 
-Derfor er det dejligt, at man kan tage cyklen med toget. I dette blogindlæg har jeg skitseret reglerne for, hvordan du kan gøre det.
-
-## Ofte stillede spørgsmål
-
-{% include faq.html %}
+Læs også vores guide til [planlægning af cykelferien](/planlaegning-cykeltur/).

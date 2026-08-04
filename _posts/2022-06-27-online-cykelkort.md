@@ -1,7 +1,8 @@
 ---
-title: &title "Online cykelkort: 5 gratis muligheder"
-seo_title: "Online cykelkort: 5 gratis muligheder"
-description: "Har du brug for et online cykelkort? Her guider vi dig til gode gratis muligheder for at finde et kort til din cykeltur, som har onlineforbindelse."
+title: &title "Online cykelkort: 5 gratis apps og ruteplanlæggere (2026)"
+seo_title: "Online cykelkort: 5 gratis apps & ruteplanlæggere (2026)"
+description: "Leder du efter et gratis online cykelkort? Se de 5 bedste cykel-apps og digitale ruteplanlæggere (Komoot, Outdooractive, Ride With GPS m.fl.)."
+excerpt: "Guide til de 5 bedste gratis online cykelkort og apps. Planlæg din cykelrute digitalt, se underlag og højdeprofiler, og download GPX-tracks."
 permalink: /cykelkort-online/
 language: da
 header:
@@ -12,68 +13,120 @@ tags:
   - cykeltøj
 category:
   - Udstyr
-last_modified_at: 2022-06-23T12:21:26Z
+last_modified_at: 2026-08-04T18:30:00Z
 author: lsolesen
+faq:
+  - question: "Hvad er den bedste gratis app til cykelruter?"
+    answer: "Komoot og Outdooractive er to af de mest populære og brugervenlige apps til cykelruter. Begge tilbyder gratis ruteplanlægning, underlagsvisning og GPS-navigation."
+  - question: "Kan man bruge online cykelkort offline?"
+    answer: "Ja, de fleste digitale cykelkort-apps (f.eks. Komoot Pro, Outdooractive eller Ride With GPS) giver mulighed for at downloade kort og ruter til offline brug, så du kan navigere uden mobildækning."
+  - question: "Hvilket online cykelkort viser underlag og asfalt?"
+    answer: "Både Komoot og Ride With GPS er fremragende til at vise præcise overfladetyper (asfalt, grus, skovsti) samt stigningsprocenter for din planlagte cykelrute."
 ---
 
-At cykle er en fantastisk måde at komme rundt på, og med de mange online cykelkort er det nemmere end nogensinde før at finde de ruter, der passer dig.
+At planlægge sin cykeltur digitalt gør det nemmere end nogensinde før at opdage nye veje, undgå travl biltrafik og holde øje med højdemeterne.
 
-Her dykker vi ned fem af de bedste gratis online cykelkort, som vi selv flittigt benytter, når vi skal finde [gode cykelruter](/cykelruter-danmark/).
+Med et **online cykelkort** på din smartphone eller cykelcomputer har du altid et opdateret GPS-kort lige ved hånden.
 
-Vi har skrevet en grundig guide til [fysiske danske cykelkort](/cykelkort/), hvis du ikke vil risikere at løbe tør for strøm.
+{: .notice .notice--info }
+* **Vil du have et fysisk papirkort med i baglommen?** Se vores guide til **[fysiske cykelkort over Danmark](/cykelkort/)**.
+* **Leder du efter færdige ruter?** Udforsk vores hovedoversigt over **[cykelruter i Danmark](/cykelruter-danmark/)**.
+* **Vil du optage din cykeltræning?** Læs vores guide til **[cykel-apps som Strava og Garmin Connect](/cykling-apps/)**.
 
-Jeg tager for det meste en powerbank med, når jeg tager på cyklen, så jeg har strøm og kan bruge min telefon og de online cykelkort til at navigere efter. GPS'en gør det alt andet lige lidt lettere at finde ud af, hvor man er.
+---
 
-## 1. Komoot
+## Sammenligning af de 5 bedste online cykelkort
 
-[Komoot](https://www.komoot.com/) er en rigtig god app til at planlægge cykelruter. Den findes både som app og på nettet, og den har fantastiske funktioner som f.eks. mulighed for at se højdeprofiler, overfladetyper og meget mere for hver rute.
+| Platform / App | Bedst til | Underlag & Højdeprofil | Gratis GPX-download | Pris |
+|---|---|:---:|:---:|---|
+| **Komoot** | Ruteplanlægning & Navigation | **Ja** (Meget detaljeret) | **Ja** (1 region gratis) | Gratis / Pro |
+| **Outdooractive** | Topografiske kort & 3D | **Ja** | **Ja** | Gratis / Pro |
+| **Ride With GPS** | Højdeprofiler & Detaljer | **Ja** | **Ja** | Gratis / Premium |
+| **AllTrails** | Tur-inspiration & Print | **Ja** | Ja (Med abonnement) | Gratis / Plus |
+| **Waymarked Trails** | Direkte GPX fra OpenStreetMap | **Nej** | **Ja** (100 % gratis) | Gratis / Open Source |
 
-Den har også et stort fællesskab af brugere, der deler deres ruter, hvilket betyder, at du kan finde nogle virkelig gode cykelruter som du ellers ikke ville have kendt til.
+---
 
-Komoot et fantastisk værktøj til at finde nye ruter, og det er bestemt værd at tjekke ud. Jeg foretrækker selv i øjeblikket Outdoor Active.
+## 1. Komoot – Den bedste digitale ruteplanlægger
 
-## 2. Ride With GPS
+[Komoot](https://www.komoot.com/) er i dag en af de mest gennemførte apps til cykelruter og ruteplanlægning. Den findes både i din webbrowser og som app til iOS, Android, Garmin og Wahoo.
 
-[Ride With GPS](https://www.ridewithgps.com) er en anden god mulighed for at finde cykelruter. Den har et lignende funktionssæt som Komoot, med mulighed for at se højdeprofiler og overfladetyper for hver rute.
+### Hvorfor vælge Komoot?
+* **Overfladetyper:** Se præcist hvor mange kilometer af ruten der er asfalt, grus eller skovsti.
+* **Turn-by-turn navigation:** Stemmestyret navigation direkte fra din telefon eller cykelcomputer.
+* **Stort community:** Find ruter og højdepunkter anbefalet af andre cyklister i dit nærområde.
 
-Den indeholder også nogle gode funktioner til ruteplanlægning, f.eks. muligheden for at undgå bakker eller veje med tæt trafik.
+---
 
-Tjek fx hvordan RideWithGPS virker med [Hærvejsruten](/rute/national-rute-3-haervejsruten/):
+## 2. Outdooractive – Fantastiske topografiske kort
 
-{% include gps provider="ridewithgps" id="35120789" %}
+[Outdooractive](https://www.outdooractive.com/) er en stærk allround-platform til både cykling, gravel og vandring. Den har et særligt flot kortinterface med dybe topografiske detaljer.
 
-## 3. Outdoor Active
+### Hvorfor vælge Outdooractive?
+* **3D-visualisering:** Generer flotte 3D-videoer af din planlagte cykelrute.
+* **Officielle ruter:** Stort bibliotek af officielt godkendte turist- og cykelruter i hele Europa.
 
-[Outdoor Active](https://www.outdooractive.com/) er lidt anderledes end de andre muligheder på denne liste. Den rummer alle udendørs aktiviteter som vandring og cykling.
-
-Det er dog stadig en god mulighed for at finde cykelruter. Den har en stor database med ruter, og du kan filtrere dem efter sværhedsgrad, længde og meget mere.
-
-Jeg bruger i øjeblikket selv Outdoor Active, fordi jeg synes den er ret genial. Den kan bl.a. lave 3D-modeller af dine ruter.
-
-Se fx denne video fra [Vestkystien](/rute/national-rute-1-vestkyststien/):
+Se et eksempel på en visualiseret rute fra [Vestkystruten](/rute/national-rute-1-vestkyststien/):
 
 {% include video provider="own-youtube" id="F01p9oCJU78" %}
 
-## 4. Alltrails
+---
 
-Tidligere brugte jeg [Alltrails](https://www.alltrails.com/invite/7ILZUE) til at kortlægge alle mine cykelruter. Det er en rigtig fin app til at lave kort online. Den mangler lidt de allersmarteste funktioner fra Outdoor Active.
+## 3. Ride With GPS – Detaljeret rutebygger til nørden
 
-Hvis du betaler for Alltrails, så kan du printe kortene ud i rigtig fin kvalitet. Det betyder, at du kan lave meget målrettede kort til dine aktiviteter.
+[Ride With GPS](https://www.ridewithgps.com) er en af de foretrukne platforme blandt langdistancecyklister og cykelturister. 
 
-Det ser ret fedt ud, når du inkluderer de online cykelkort fra Alltrails på en hjemmeside. Du kan fx se dette kort fra [Solruten på Mors](/rute/regional-rute-19-solruten-mors-rundt/):
+### Hvorfor vælge Ride With GPS?
+* **Undgå stigninger og trafik:** Rutebyggeren lader dig nemt omdirigere ruten udenom stejle bakker eller stærkt trafikerede veje.
+* **Kvalitetstestede ruter:** Mange af Danmarks nationale cykelruter ligger som færdige samlinger på Ride With GPS.
+
+Se et eksempel på [Hærvejsruten](/rute/national-rute-3-haervejsruten/) indlejret via Ride With GPS:
+
+{% include gps provider="ridewithgps" id="35120789" %}
+
+---
+
+## 4. AllTrails – Gode printbare kort og stikort
+
+[AllTrails](https://www.alltrails.com/invite/7ILZUE) er kendt for sit enorme katalog af naturskønne ruter.
+
+### Hvorfor vælge AllTrails?
+* **Flotte printudskrifter:** Hvis du vil printe dit eget målinrettede kort ud som sikkerhed, leverer AllTrails udskrifter i høj kvalitet.
+* **Brugermeninger:** Se friske billeder og anmeldelser fra andre brugere, der nyligt har kørt ruten.
+
+Se et eksempel på [Solruten på Mors](/rute/regional-rute-19-solruten-mors-rundt/):
 
 {% include gps provider="alltrails" id="https://www.alltrails.com/explore/map/map-5b658d2--10" %}
 
-Hvis du bruger dette link til at skrive dig op til Alltrials, så har de lovet at **plante et træ** hver gang.
+> **💡 Tip:** Opretter du en konto via AllTrails, planter platformen et træ for hver ny bruger.  
+> 👉 **[Plant et træ med AllTrails](https://www.alltrails.com/invite/7ILZUE){: .btn .btn--success rel="sponsored nofollow noopener" }**
 
-[Plant et træ med Alltrails](https://www.alltrails.com/invite/7ILZUE){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }
+---
 
-## 5. Naviki
+## 5. Waymarked Trails – 100 % gratis GPX-downloads
 
-Den første app jeg tjekkede ud til at finde kort online er [Naviki](https://www.naviki.org/da/naviki/). Oprindeligt var det også den [DenmarkByBike](https://ruter.dk/) valgte til deres kort. Desværre ser det ud til, at Naviki ikke helt kan følge med i udviklingen med alle de andre konkurrenter.
+Hvis du blot vil hente et hurtigt GPX-track af en mærket cykelrute uden at oprette en brugerkonto, er [Waymarked Trails](https://cycling.waymarkedtrails.org/) det ideelle værktøj.
 
-Naviki har fx ikke så gode egenskaber til at inkludere kortene online på din egen hjemmeside. Til gengæld kan du finde et hav af forskellige ruter, og mange af de forskellige GPS-tracks fungerer godt og kan downloades.
+### Hvorfor vælge Waymarked Trails?
+* **OpenStreetMap-data:** Bygger på det åbne cykelkort-lag fra OpenStreetMap.
+* **Direkte download:** Hent GPX- og KML-filer med ét klik direkte ned på din enhed.
+
+---
+
+## Husk en Powerbank til cykelturen!
+
+Når du navigerer efter **online cykelkort** på din smartphone, bruger GPS-chippen og den tændte skærm en del strøm. 
+
+Vi anbefaler altid at medbringe en kompakt **powerbank** i styrtasken eller sidetasken, så du ikke risikerer at løbe tør for strøm midt i et område uden mobildækning.
+
+---
+
+## Ofte stillede spørgsmål om online cykelkort
+
+{% include faq.html %}
+
+---
 
 ## Konklusion
 
-Det var en opsummering på de forskellige online cykelkort, som du kan bruge til at finde vej. Du kan supplere disse apps med det de forskellige [apps til cykling](/cykling-apps/), som kan bruges til at optage dine aktiviteter og holde styr på dem.
+Digitale cykelkort gør det utroligt fleksibelt at udforske Danmark på to hjul. Kombiner din yndlings-app med vores guides til [ruteplanlægning med Garmin Connect](/garmin-connect-ruteplanlaegning-alltrails/) eller suppler med et fysisk [cykelkort](/cykelkort/).

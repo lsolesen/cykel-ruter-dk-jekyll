@@ -1,109 +1,121 @@
 ---
-title: &title "Danmarks højeste bjerge: Top 10"
-seo_title: "Danmarks højeste bjerge: Top 10"
+layout: single
+title: &title "Danmarks højeste bjerge og punkter: Top 20 liste (2026)"
+seo_title: "Danmarks højeste bjerge & punkter: Se hele Top 20 listen"
+description: "Hvad er Danmarks højeste punkt? Se den komplette Top 20 liste over Danmarks højeste bjerge (Møllehøj, Yding Skovhøj, Ejer Bavnehøj) og læs om målingerne."
+excerpt: "Komplet Top 20 oversigt over Danmarks højeste bjerge og naturpunkter. Læs om Møllehøj, Yding Skovhøj og Ejer Bavnehøj, og hvorfor højdemålingerne skaber debat."
 permalink: /danmarks-hojeste-bjerge/
 language: da
 header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/7/76/Ejer-bavneh%C3%B8j-2004.jpg
   caption: *title
+  overlay_filter: 0.2
 tags:
   - bjerge
 category:
   - Inspiration
-last_modified_at: 2021-05-17T18:21:26Z
+last_modified_at: 2026-08-04T18:25:00Z
+author_profile: true
+author: lsolesen
+faq:
+  - question: "Hvad er Danmarks højeste punkt?"
+    answer: "Møllehøj i Ejer Bjerge i Østjylland er Danmarks højeste naturlige terrænpunkt med en højde på 170,86 meter over havets overflade (moh)."
+  - question: "Hvad er forskellen på Møllehøj og Yding Skovhøj?"
+    answer: "Møllehøj er Danmarks højeste naturlige punkt (170,86 moh). Yding Skovhøj måler 172,54 moh inklusiv sin bronzealdergravhøj, men trækker man gravhøjen fra, er det naturlige terræn 170,77 moh – altså 9 cm lavere end Møllehøj."
+  - question: "Hvorfor troede man tidligere, at Himmelbjerget var Danmarks højeste bjerg?"
+    answer: "Himmelbjerget har med sin stejle skrænt ned mod Julsø et meget dramatisk udseende. Tårnet knejser 157 meter over havets overflade, men terrænet bagved i Søhøjlandet er væsentligt højere."
 ---
 
-Jeg har samlet en liste over de højeste bjerge i Danmark. Her kan du få helt styr på Danmarks toppe og finde ud af, hvor de ligger i landet.
+Hvad er egentlig **Danmarks højeste punkt**, og hvor ligger de største danske bjerge og bakker?
 
-Men selvom det handler om tal og videnskab, når man skal finde de højeste punkter i Danmark, så skal du være opmærksom på kriterierne for listen.
+Selvom Danmark er et udpræget fladt land uden alpine tinder, har vi adskillige markante højspunkter, der hæver sig flot over det omkringliggende landskab – især i Det Midt- og Østjyske Søhøjland.
 
-Men lad os først gå direkte til listen over de højeste toppe i Danmark.
+{: .notice .notice--info }
+### ⛰️ Kort svar: Hvad er Danmarks højeste bjerg?
+* **Danmarks højeste naturlige punkt:** **Møllehøj** (170,86 moh.)
+* **Danmarks højeste punkt inkl. gravhøj:** **Yding Skovhøj** (172,54 moh. – naturligt terræn 170,77 moh.)
+* **Det mest berømte udsigtspunkt:** **Ejer Bavnehøj** (170,35 moh.)
 
-Du vil sikkert også gerne vide, hvad det højeste bjerg i Danmark er?
+---
 
-{% include figure image_path="https://upload.wikimedia.org/wikipedia/commons/7/76/Ejer-bavneh%C3%B8j-2004.jpg" caption="Ejer Bavnehøj er en del af Ejer Bjerge sammen med bl.a. Møllehøj, som er Danmarks højeste punkt, og derfor det højeste bjerg i Danmark med 170,86 moh. Billede fra [Wikipedia](https://da.wikipedia.org/wiki/Ejer_Bavneh%C3%B8j)." alt="ejer bavnehøj og ejer bjerge" %}
+## Top 20: Danmarks højeste bjerge og punkter
 
-## Danmarks 20 højeste bjerge
+Listen herunder er baseret på målinger af **naturlige terrænpunkter** (hvor menneskeskabte gravhøje er fratrukket udmålingen). 
 
-[Danmarksbjerge.dk](https://danskebjerge.dk/dansktop.htm) har samlet de 20 højeste toppe i Danmark.
+Oversigten er sammensat i samarbejde med data fra *Danmarksbjerge.dk* og forfatter Roger Pihls kortlægning i bogen *Danmarks Bjerge*:
 
-Listen er lavet med udgangspunkt i naturlige terrænpunkter. Menneskeskabte høje er altså fratrukket højdeangivelserne. Fx er der på Yding Skovhøj og Ottehøj gravhøje.
+| Placering | Navn | Område / Landsdel | Højde (moh.) | Bemærkning |
+|:---:|---|---|:---:|---|
+| **1** | **Møllehøj** | Ejer Bjerge, Jylland | **170,86 m** | Danmarks højeste naturlige punkt. |
+| **2** | **Yding Skovhøj** | Yding, Jylland | **170,77 m** | 172,54 m inkl. bronzealdergravhøj. |
+| **3** | **Rye Sønderskov** | Gl. Rye, Jylland | **162,50 m** | Højeste punkt i Søhøjlandet. |
+| **4** | **Rytterknægten** | Vestermarie, Bornholm | **162,00 m** | Bornholms højeste punkt (Kongemindet). |
+| **5** | **Himmelbjerget** | Gl. Rye, Jylland | **157,00 m** | Danmarks mest berømte udsigtstop. |
+| **6** | **Them Bavnehøj** | Them, Jylland | **153,00 m** | Beliggende syd for Silkeborg. |
+| **7** | **Sorring Loddenhøj** | Sorring, Jylland | **148,00 m** | Jyllands største stigning mod nordøst. |
+| **8** | **Aborrebjerg** | Møns Klint, Møn | **143,00 m** | Danmarks højeste punkt uden for Jylland/Bornholm. |
+| **9** | **Ravnebakke** | Vestermarie, Bornholm | **142,00 m** | Højdedrag i Almindingen. |
+| **10** | **Brande Krat** | Them, Jylland | **141,00 m** | Tæt ved Them i Midtjylland. |
+| **11** | **Ottehøje** | Bryrup, Jylland | **140,50 m** | Naturskønt område ved Vrads/Bryrup. |
+| **12** | **Tranebjerg** | Kollemorten, Jylland | **138,00 m** | Beliggende på den jyske højderyg. |
+| **13** | **Bavnen** | Kollemorten, Jylland | **138,00 m** | Nabotop til Tranebjerg. |
+| **14** | **Agri Bavnehøj** | Mols Bjerge, Jylland | **137,00 m** | Højeste punkt i Nationalpark Mols Bjerge. |
+| **15** | **Møgelbjerg** | Addit, Jylland | **137,00 m** | Ligger nær Gudenåens udspring. |
+| **16** | **Møllebjerg** | Lindeballe, Jylland | **137,00 m** | Vest for Vejle. |
+| **17** | **Knøsen** | Dronninglund, Jylland | **136,00 m** | Vendsyssels og Nordjyllands højeste punkt. |
+| **18** | **Kongsbjerg** | Møns Klint, Møn | **135,00 m** | Flot udsigt over Østersøen. |
+| **19** | **Lindeballe Skov** | Lindeballe, Jylland | **133,00 m** | Tæt ved Billund/Vejle. |
+| **20** | **Bavnehøj** | Brædstrup, Jylland | **133,00 m** | Højdedrag ved Horsens/Brædstrup. |
 
-Listen over de højeste bjerge er næsten identisk med den Roger Pihl har lavet i bogen Danmarks Bjerge.
+---
 
-Møllehøj har fået en førsteplads på listen. Møllehøj er en del af Ejer Bjerge, som også tæller Ejer Bavnehøj.
+## Kampen om Danmarks højeste punkt: Møllehøj vs. Yding Skovhøj
 
-1.  Møllehøj - Ejer, Jylland : 170,86 moh
-2.  Yding Skovhøj - Yding, Jylland : 170,77 moh
-3.  Rye Sønderskov - Gl. Rye, Jylland : 162,5 moh
-4.  Rytterknægten - Vestermarie, Bornholm : 162 moh
-5.  Himmelbjerget - Gl. Rye, Jylland : 157 moh
-6.  Them Bavnehøj - Them, Jylland : 153 moh
-7.  Sorring Loddenhøj - Sorring, Jylland : 148 moh
-8.  Aborrebjerg - Møns Klint, Møn : 143 moh
-9.  Ravnebakke - Vestermarie, Bornholm : 142 moh
-10. Brande Krat - Them, Jylland : 141 moh
-11. Ottehøje - Bryrup : 140,5 moh
-12. Tranebjerg - Kollemorten, Jylland : 138 moh
-13. Bavnen - Kollemorten, Jylland : 138 moh
-14. Agri Bavnehøj - Agri, Jylland : 137 moh
-15. Møgelbjerg - Addit, Jylland : 137 moh
-16. Møllebjerg - Lindeballe, Jylland : 137 moh
-17. Knøsen - Dronninglund, Jylland : 136 moh
-18. Kongsbjerg - Møns Klint, Møn : 135 moh
-19. Lindeballe Skov - Lindeballe, Jylland : 133 moh
-20. Bavnehøj - Brædstrup, Jylland : 133 moh
+Gennem tiden har der været stor uklarhed og hidsig debat om, hvilket bjerg der reelt er Danmarks højeste.
 
-På [Danmarksbjerge.dk](https://danskebjerge.dk/dansktop.htm) er der en grundig gennemgang af baggrunden for de enkelte højdeangivelser, hvis du er interesseret i yderligere informationer.
+{% include figure image_path="https://upload.wikimedia.org/wikipedia/commons/7/76/Ejer-bavneh%C3%B8j-2004.jpg" caption="Ejer Bavnehøj og Møllehøj ligger i det smukke Ejer Bjerge i Østjylland. Foto fra Wikipedia." alt="Ejer Bavnehøj og Møllehøj" %}
 
-Jeg har taget udgangspunkt i den liste, da det er den liste, der er opdateret for nylig.
+Historisk har tre forskellige toppe kæmpet om titlen:
 
-## Hvordan finder man de højeste bjerge i Danmark?
+1. **Himmelbjerget (157 moh):** Indtil 1847 troede de fleste danskere, at Himmelbjerget var Danmarks højeste punkt på grund af dets stejle skrænt ned mod Julsø.
+2. **Yding Skovhøj (172,54 moh):** I 1800- og 1900-tallet blev Yding Skovhøj udråbt som vinderen. Men i 2004 foretog Geodatastyrelsen og geologer nye målinger, hvor man trak højden fra den menneskeskabte bronzealdergravhøj fra. Det naturlige terræn viste sig at være **170,77 moh.**
+3. **Møllehøj (170,86 moh):** Ved samme opmåling i 2004 blev den nærliggende Møllehøj i Ejer Bjerge målt præcist. Med sine 170,86 meter var den **9 centimeter højere** end Yding Skovhøjs naturlige terræn!
 
-Når du skal finde de højeste punkter i Danmark, så skal du først have defineret, hvad et punkt er.
+Dermed blev **Møllehøj officielt kåret som Danmarks højeste naturlige punkt**.
 
-[Danskebjerge.dk](https://blogsbjerg.danskebjerge.dk/2013/06/16/hoje-punkter-kraever-grovsortering-143/) foreslår, at der skal være en geografisk spredning på punkterne på mindst 2 kilometer, hvis en top skal tælles med.
+---
 
-Roger Pihl foreslår i Guide til Danmarks Bjerge, at toppene skal opfylde tre kriterier:
+## Hvordan definerer man et "bjerg" i Danmark?
 
-1. Toppene skal have et navn.
-2. Toppene må ikke være "samlet i den umiddelbare nærhed".
-3. Der skal være "et vist fald" imellem toppene.
+Når man opgør Danmarks højeste toppe, skal man adskille enkeltstående høje fra hinanden. I bogen *Guide til Danmarks Bjerge* opstiller forfatter Roger Pihl tre klare kriterier for, hvornår et punkt kan tælles med som en selvstændig top:
 
-Kort- og Matrikelstyrelsens opmålinger på de officielle kort gælder jordpunkter. Det betyder, at punkterne ikke nødvendigvis er naturlige terrænpunkter.
+1. **Navn:** Toppen skal have et selvstændigt og officielt registreret navn.
+2. **Afstand:** Toppene må ikke ligge klos op ad hinanden (der skal være mindst 2 km geografisk spredning).
+3. **Prominens (Fald):** Der skal være et primært fald eller en dal imellem toppene, så de ikke blot er to bumps på den samme bakkekam.
 
-[Danskebjerge.dk](https://blogsbjerg.danskebjerge.dk/2013/06/16/hoje-punkter-kraever-grovsortering-143/) skriver:
+---
 
-> Dette forårsager en lille skævhed, for Møllehøj, Yding Skovhøj og Ejer Bavnehøj er målt op af geologer, som i de to sidstnævntes tilfælde har trukket højden af de to toppes gravhøje fra i regnestykket. Det er ikke sket i ret mange andre tilfælde. Tager man således Pihls ottendeplads, Ottehøje, så inkluderer denne højde en gravhøj. Fratrukket gravhøjen ryger Ottehøje nogle trin ned på stigen.
-> 
-> --- <cite>[Danskebjerge.dk](https://blogsbjerg.danskebjerge.dk/2013/06/16/hoje-punkter-kraever-grovsortering-143/)</cite>
+## Oplev de danske bjerge på cykel eller til fods
 
-## Det højeste bjerg i Danmark varierer!
+Flere af Danmarks højeste toppe byder på fremragende udfordringer for både cykelryttere og vandrere:
 
-[Ejer Bavnehøjs venner](https://ejer-bavnehoj.dk/danmarks-hoejeste-punkt/) skriver, hvor indviklet det kan være med at bestemme det højeste bjerg.
+* **Vil du køre op ad de hårdeste stigninger?** Se vores store guide til **[Danmarks stejleste og hårdeste cykelbakker](/danmarkscykelbakker/)**.
+* **Udforsk området omkring Møllehøj:** Læs mere om cykelruter og bakker i vores guide til **[cykelruter i Østjylland](/cykelruter-oestjylland/)**.
 
-Ejer Bavnehøj har historisk set været det højeste punkt i Danmark, men det har andre punkter også.
+Vil du fordybe dig i de danske højdedrag, kan vi varmt anbefale Roger Pihls underholdende bog *Danmarks Bjerge*:
 
-Ejer Bavnehøj, Yding Skovhøj og Møllehøj ligger relativt tæt på hinanden, og de er alle ret høje.
+{% include affiliate-box.html type="product" item=site.data.affiliates.books.danmarks_bjerge view="card" %}
 
-- **Den korte version**: Møllehøj 170,86 moh, Yding Skovhøj 170,77 moh og Ejer Bavnehøj 170,35 moh.
-- **Den seriøse version**: Ejer Bavnehøj og Møllehøj betragtes som én og samme top 170,86 moh.
-- **Den videnskabelige version**: Yding Skovhøj 172,54 moh (terrænpunkt) og Møllehøj 170,86 moh (naturlige terrænpunkt).
+---
 
-Faktisk har man troet, at Himmelbjerget og Yding Skovhøj begge har været de højeste punkter i Danmark.
+## Ofte stillede spørgsmål om Danmarks højeste bjerge
+
+{% include faq.html %}
+
+---
 
 ## Konklusion
 
-Når du skal finde Danmarks højeste bjerg, så er det altså åbenbart ikke nogen entydig størrelse.
+Selvom vores "bjerge" ville ligne små bakker i Norge eller Alperne, er **Møllehøj (170,86 moh)** og **Yding Skovhøj (170,77 moh)** fantastiske naturoplevelser med storslåede udsigter over det jyske landskab.
 
-Du skal være opmærksom på den måde, punkterne er opgjort på, så derfor skal du naturligvis også tage denne rangliste med forbehold.
-
-Men derfor kan vi jo godt fortælle, hvad det højeste bjerg er i Danmark ud fra disse betragtninger.
-
-Det højeste bjerg i Danmark er Møllehøj på 170,86 moh.
-
-Men det mest imponerende udsigtspunkt i Ejer Bjerge, hvor Møllehøj ligger, er naturligvis Ejer Bavnehøj.
-
-Du kan læse meget mere om Danmarks Bjerge i Roger Pihls meget underholdende bog om bakkerne og toppene i Danmark. Danmarks Bjerge er skrevet af en nordmand, men han elsker de danske tinder og bjergtoppe.
-
-{% include affiliate-box.html type="product" item=site.data.affiliates.books.danmarks_bjerge view="card" %}
+Udforsk også vores samlede oversigt over **[cykelruter i Danmark](/cykelruter-danmark/)**.

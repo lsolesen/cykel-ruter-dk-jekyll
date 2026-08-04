@@ -1,178 +1,159 @@
 ---
-title: &title "Cykelhjelm til børn: Hvilken størrelse skal mit barn have?"
-seo_title: "Cykelhjelm til børn: Sådan finder du den rigtige størrelse »"
-excerpt: "Det er vigtigt at vælge den rigtige cykelhjelm og størrelse til dit barn. Jeg har skrevet en guide til, hvordan du vælger den rigtige cykelhjelm til dit barn."
+layout: single
+title: &title "Cykelhjelm til børn: Størrelsesguide og sådan måler du (2026)"
+seo_title: "Cykelhjelm til børn: Størrelsesguide, mærker & sådan måler du"
+description: "Hvilken størrelse cykelhjelm skal dit barn have? Se vores komplette størrelsesguide for børn, lær at måle hovedomkreds, og få 4 tips til korrekt pasform."
+excerpt: "Komplet guide til cykelhjelm størrelser for børn. Se alders- og måleskema, lær at indstille hjelmen rigtigt, og opdag hvorfor MIPS giver ekstra sikkerhed."
 permalink: /cykelhjelm-boern/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1595182747080-3b43712dd27d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1595182747080-3b43712dd27d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1595182747080-3b43712dd27d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1595182747080-3b43712dd27d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 tags:
   - cykelhjelm
   - børn
+  - sikkerhed
 category:
   - Regler & Sikkerhed
-last_modified_at: 2021-05-17T18:21:26Z
+last_modified_at: 2026-08-04T19:10:00Z
+author_profile: true
+author: lsolesen
 toc: true
+faq:
+  - question: "Hvordan måler man et barns hovedstørrelse til en cykelhjelm?"
+    answer: "Brug et blødt målebånd og placer det cirka 1-2 cm over øjenbrynene og lige over ørerne. Mål hele vejen rundt om hovedet. Antallet af centimeter (f.eks. 52 cm) er barnets hjelmstørrelse."
+  - question: "Må en cykelhjelm til børn være lidt for stor, så der er plads til at vokse?"
+    answer: "Nej, en cykelhjelm må ALDRIG købes for stor. Hvis hjelmen er for stor, skrider den bagud eller til siden ved et fald og lader pande og tindinger være ubeskyttede. Vælg altid en hjelm, der passer præcist med skruespændet stillet i midten."
+  - question: "Hvad betyder MIPS på en børnecykelhjelm?"
+    answer: "MIPS (Multi-directional Impact Protection System) er en ekstra indvendig lavfriktionsskal, der roterer ved skrå stød. Det reducerer den rotationskraft, som overføres til barnets hjerne ved et fald."
+  - question: "Hvornår skal en cykelhjelm til børn udskiftes?"
+    answer: "En cykelhjelm skal ALTID udskiftes efter et kraftigt stød eller styrt, da det indvendige EPS-skum kan have fået usynlige revner. Uden uheld bør en hjelm udskiftes efter 3-5 års brug pga. slid og UV-påvirkning."
 ---
 
-Det er vigtigt at vælge den rigtige cykelhjelm og størrelse til dit barn. Jeg har skrevet en guide til, hvordan du vælger den rigtige cykelhjelm til dit barn.
+En cykelhjelm er det absolut vigtigste sikkerhedsudstyr, når dit barn cykler, kører på løbecykel, rulleskøjter eller løbehjul.
 
-I denne guide går jeg i dybden med følgende spørgsmål:
+Men for at hjelmen beskytter optimalt ved et fald, er det afgørende, at den har den **helt rigtige størrelse** og sidder korrekt indstillet på barnets hoved. En for stor hjelm skrider bagud og lader panden være ubeskyttet, mens en for lille hjelm giver hovedpine.
 
-- Hvordan måler du dit barns hovedstørrelse?
-- Hvilken cykelhjelm størrelse passer til dit barn?
-- Hvordan får du cykelhjelmen til at sidde rigtigt?
+I denne guide får du vores komplette **størrelsesskema for børnecykelhjelme**, trin-for-trin guide til opmåling og 4 vigtige råd om sikkerhed.
+
+{: .notice .notice--info }
+* **Hvor langt kan dit barn cykle?** Se vores guide til **[distancer for børn pr. alderstrin](/barn-cykle-langt/)**.
+* **Skal I på tur sammen?** Læs vores bedste råd til **[cykelferie med børn](/boern-paa-cykelferie/)**.
+* **Vil i måle farten?** Læs om valg af **[cykelcomputer til børnecyklen](/cykelcomputer-til-boern/)**.
+
+---
+
+## Sådan måler du dit barns hovedstørrelse
+
+Før du køber en cykelhjelm, skal du kende barnets **hovedomkreds i centimeter**. Se videoen herunder for en hurtig visuel guide til korrekt opmåling:
 
 {% include video provider="youtube" id="jNWFpIdq5Xk" %}
 
-## Hvordan finder jeg den rigtige størrelse på cykelhjelm til dit barn?
+1. Tag et blødt sy-målebånd (eller en snor, som du efterfølgende måler med en tommestok).
+2. Placer målebåndet vandret rundt om hovedet – **cirka 1–2 cm over øjenbrynene** og lige over ørerne.
+3. Mål hele vejen rundt om baghovedet, hvor det er bredest.
+4. Tallet i centimeter (f.eks. **51 cm**) er den størrelse, du skal gå efter.
 
-Uanset om du skal bruge en cykelhjelm til cykling, rulleskøjter, løbehjul eller skateboarding, er cykelhjelmen vigtig. Men hvis cykelhjelmen skal virke, så skal den have den rigtige størrelse.
+> **⚠️ Vigtigt råd:** Køb ALDRIG en cykelhjelm "til at vokse i". Hjelmen skal passe præcist nu og her. De fleste børnehjelme har et skruespænde i nakken, der lader hjelmen udvide sig 4-5 cm i takt med, at barnet vokser.
 
-En cykelhjelm må aldrig være for lille eller for stor. Heldigvis kan de fleste cykelhjelme stilles ind og ud, så det er rimelig let at finde en cykelhjelm, der passer til dit barns hoved.
+---
 
-## Hvordan måler jeg størrelsen på mit barns hoved?
+## Størrelsesguide: Børns typiske hovedmål ud fra alder
 
-Når du skal finde den rigtige størrelse cykelhjelm til dit barn, så er det en fordel at kende dit barns hovedmål.
+Skemaet og grafikken herunder viser gennemsnitlige hovedstørrelser for børn. Brug det som vejledning, men husk altid at måle efter på dit eget barn, da hovedstørrelser varierer meget!
 
-I nedenstående skema kan du se, hvad det gennemsnitlige hovedmål er for børn i forskellige aldre.
+| Alder på barnet | Typisk hovedomkreds | Vejledende hjelmstørrelse |
+|:---:|:---:|:---:|
+| **6 – 9 mdr.** | 44 – 46 cm | XXS |
+| **9 – 12 mdr.** | 46 – 47 cm | XXS / XS |
+| **1 – 2 år** | 47 – 50 cm | XS |
+| **2 – 4 år** | 50 – 52 cm | XS / S |
+| **4 – 6 år** | 52 – 54 cm | S |
+| **6 – 10 år** | 53 – 57 cm | S / M |
+| **10 – 14 år** | 54 – 60 cm | M |
 
-Men det er allerbedst, hvis du selv måler dit barns hoved.
-
-Det nemmeste er at tage et målebånd og måle rundt om barnets hoved. Hvis du ikke har et målebånd, kan du sagtens bruge en snor eller lignende og så måle snoren med en tommestok bagefter.
-
-Når du måler barnets hoved, skal du måle hele vejen rundt. Målebåndet skal sidde ca. 1 cm over ørerne og ca. 2 cm over øjenbrynene.
-
-Det antal centimeter du måler rundt om barnets hoved, er barnets hovedstørrelse.
-
-Når du måler dit barns hovedomkreds er det vigtigt, at du bruger et målebånd som du placerer lige over øjenbrynene og måler hele vejen rundt om hovedet.
-
-## Hvornår skal børn have cykelhjelm?
-
-[Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/baby-cykelhjelm/){: rel="sponsored nofollow noopener" } skriver, at en baby typisk fra 9-10 måneders alderen selv kan sidde og har stærke nok nakkemuskler til at kunne være med på cyklen. Derfor har jeg også startet guiden til hovedstørrelser for børn omkring den alder.
-
-Du skal naturally altid starte med relativt korte ture, da det er hårdt for babyens ryg og nakke at skulle sidde oprejst i en cykelstol samtidig med vægten fra cykelhjelmen og alle bevægelserne fra cyklerne.
-
-## Størrelsesguide: Hovedmål for børn
-
-Jeg har lavet et skema med børns typiske hovedstørrelser. Skemaet er gennemsnittet for hovedmål ud fra alder, som kan bruges vejledende til at finde den rigtige størrelse.
-
-Dette skema er vejledende, da vi er bekendt med, at hovedstørrelser kan variere. Dog håber vi, at den kan være behjælpelig til, at du kan finde den helt perfekte størrelse til dit barn.
-
-Her ses skemaet for gennemsnittet af hovedmål ud fra alder, som kan bruges vejledende til at finde den rigtige størrelse.
-
-| Alder | Hovedstørrelse |
-| :--- | :--- |
-| 6-9 mdr | 44-46 cm |
-| 9-12 mdr | 46-47 cm |
-| 12-18 mdr | 47-48 cm |
-| 18-24 mdr | 48-50 cm |
-| 2-4 år | 50-52 cm |
-| 4-6 år | 52-54 cm |
-| 6-7 år | 53-57 cm |
-| 7-12 år | 54 - 60 cm |
-| 12+ | 54-65 cm |
-
-Du kan se de samme værdier i denne grafik:
+Du kan også bruge denne visuelle størrelsesguide:
 
 {% include figure image_path="/assets/images/barn-hovedstorrelse-cykelhjelm.png" caption="Hovedmål for børn og størrelsesguide. Kilde: [Luksusbaby.dk](https://luksusbaby.dk/shop/cms-st%C3%B8rrelsesguide.html) og [cykel-partner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelhjelme-boernjunior/nutcase---street-mips---check-me){: rel='sponsored nofollow noopener' }" %}
 
-## Hvilken cykelhjelm størrelse skal mit barn have?
+---
 
-Når du har fundet barnets hovedstørrelse, skal du sammenligne det med størrelserne på cykelhjelmene.
+## Størrelser hos populære mærker (Abus, Nutcase, Puky)
 
-Du skal være opmærksom på, at cykelhjelme findes i lidt forskellige størrelser i de forskellige mærker. Jeg har samlet nogle af størrelserne herunder. Cykelhjelme kan for det meste spændes ind og ud, så de er rigtig lette at justere. Du skal dog være opmærksom på, at nogle mærker stilles ind og ud ved at skifte det indvendige indlæg og ikke bare lige kan justeres ind og ud.
+Forskellige fabrikanter benytter ofte lidt forskellige interval-størrelser.
 
-Cykelhjelmene kan spændes godt ind, også med remmen under hagen, så den kan sidde rigtigt.
-
-### Størrelsesguide for Puky cykelhjelme
-
-Puky cykelhjelm findes i følgende størrelser:
-
-| Alder | Størrelse |
-| :--- | :--- |
-| 8 mdr - 3 år | 46 - 51 cm |
-| 3 år til 7 år | 52 - 58 cm |
-
-Hvis størrelsen på dit barns hoved ligger lige på grænsen, så anbefales du at tage den store størrelse. Hvis du skal bruge større cykelhjelme, så er Pukys cykelhjelme altså ikke så anvendelige.
+### Abus cykelhjelme til børn
+Abus (f.eks. modellerne *Anom*, *Youn-I* eller *Smiley*) bruger typisk følgende opdeling:
+* **Small (S):** 45 – 50 cm
+* **Medium (M):** 50 – 55 cm / 52 – 57 cm
 
 {% include affiliate-box.html type="product" item=site.data.affiliates.gear.abus_youn_i_ace_mips view="card" %}
 
-### Størrelse på Nutcase cykelhjelme
-
-En del af Nutcase cykelhjelme har et spænde der kan stilles i følgende størrelser:
-
-| Alder | Størrelse |
-| :--- | :--- |
-| 8 mdr - 3 år | 47 – 50 cm |
-| 3 år til 7 år | 48 – 52 cm |
+### Nutcase cykelhjelme til børn
+Nutcase er kendt for deres farverige skater-look og smarte **magnetiske hagegreb** (fidlock), som forhindrer, at barnets hageskind bliver klemt i spændet:
+* **Baby Nutty:** 47 – 50 cm
+* **Little Nutty / Toddler:** 48 – 52 cm
+* **Youth / Small:** 52 – 56 cm
 
 {% include affiliate-box.html type="product" item=site.data.affiliates.gear.nutcase_street_mips view="card" %}
 
-## Hvordan får jeg hjelmen til at sidde rigtigt?
+---
 
-Det er forskelligt fra cykelhjelm til cykelhjelm, hvordan du får den til at sidde rigtigt efter, at du har valgt den rigtige størrelse.
+## De 3 gyldne regler: Sådan skal cykelhjelmen sidde
 
-{% include figure image_path="https://images.nexusapp.co/assets/4d/a1/6d/109594322.jpg" caption="Hvis du kan indstille cykelhjelmen rigtigt, så ved du om cykelhjelmen passer i størrelsen til dit barn. Kilde: [grandado.com](https://dk.grandado.com/products/mountainbike-hjelm-med-solskaerm-ultralet-justerbar-mtb-cykel-cykel-hjelm-maend-kvinder-sports-udendors-sikkerhedshjelm?variant=UHJvZHVjdFZhcmlhbnQ6Mjg0OTE1OTAy){: rel='sponsored nofollow noopener' }" alt="størrelse og indstilling af cykelhjelm til børn" %}
+Når I har modtaget hjemen, skal den indstilles korrekt før første cykeltur. 
 
-Her har du tre tommelfingerregler for at få hjelmen til at sidde rigtigt:
+{% include figure image_path="https://images.nexusapp.co/assets/4d/a1/6d/109594322.jpg" caption="Hvis du kan indstille cykelhjelmen rigtigt, så ved du om cykelhjelmen passer i størrelsen til dit barn. Kilde: grandado.com" alt="størrelse og indstilling af cykelhjelm til børn" %}
 
-1. Hjelmen skal passe til hovedets omkreds
-2. Hjelmen skal altid sidde helt vandret på hovedet
-3. De forreste stropper skal gå lodret ned og stropperne skal sidde godt til, når spændet omkring hagen lukkes
+Brug disse tre tommelfingerregler for pasform:
 
-Det er også derfor, at det er vigtigt, at din cykelhjelm har den rigtige størrelse. Du kan læse mere om, hvordan en cykelhjelm skal sidde hos [fribikeshop.dk](https://www.fribikeshop.dk/inspiration/saadan-skal-din-cykelhjelm-sidde), hvor du også kan købe en masse lækre cykelhjelme.
+1. **Sidder vandret (2-finger reglen):** Hjelmen skal sidde helt vandret på hovedet og dække både pande og baghoved. Der må maksimalt være plads til **2 fingre** mellem øjenbrynene og underkanten af hjelmen.
+2. **Y-form ved ørerne:** Side-stropperne skal samles i et 'Y' lige under øreflippen, uden at gnave i øret.
+3. **Tæt hagerem:** Når spændet under hagen lukkes, må der kun kunne presses **1 finger** ind mellem hagen og remmen.
 
-## Hvordan vælger jeg en cykelhjelm til mit barn? 4 tips!
+---
 
-### 1) Er hjelmen CE-mærket?
+## 4 tips til at vælge den rette cykelhjelm
 
-CE-mærket sikrer at hjelmene er testet ud fra nogle fælles standarder. Hvis du køber en hjelm i en dansk butik er de typisk CE-mærkede, men tjek det for en god ordens skyld.
+### 1. Tjek CE-mærkningen (EN 1078)
+Sørg for, at hjelmen er godkendt efter den europæiske sikkerhedsstandard **EN 1078** (eller EN 1080 for babyhjelme med grønt sikkerhedsspænde). Alle hjelme solgt i EU skal opfylde denne standard.
 
-### 2) Hvordan virker spændet?
+### 2. Overvej MIPS for ekstra beskyttelse
+**MIPS** (*Multi-directional Impact Protection System*) er en gul lavfriktionsskal inde i hjelmen. Ved skrå stød og fald lader MIPS-skallen hjelmen rotere en smule uafhængigt af hovedet, hvilket dæmper rotationskræfterne mod barnets hjerne.
 
-Det er lykkes mig flere gange at få mit barns hageskind til at blive klemt, når jeg skulle lukke spændet under hagen. Jeg har fundet ud af, at det allerbedste er, når barnet kigger opad, så jeg tydeligt kan se, hvad jeg laver.
+### 3. Vælg et skånsomt hagespænde
+Mange børn bliver skræmt af cykelhjelme, hvis de prøver at få knebet hageskindet i et klassisk plastikspænde. Gå efter hjelme med hagebeskytter-pude eller magnetisk spænde (fx Nutcase).
 
-Men Nutcase har også en ret smart feature med en magnetisk lås under hagen, hvilket gør det lidt lettere at undgå, at hageskindet ender inde i spændet. Nutcase låsesystem virker naturligvis lige så godt som en kliklås. For at åbne låsen skal man trække den til siden og ikke væk fra hinanden.
+### 4. Lad barnet vælge farven selv
+Børn bruger med glæde deres cykelhjelm, hvis de selv har været med til at vælge farven, mønsteret eller motivet. 
 
-### 3) Har hjelmen en god pasform?
+---
 
-Cykelhjelme kan indstilles på flere forskellige måder, så den kommer til at sidde godt på hovedet.
+## Hvornår skal børnehjelmen skiftes ud?
 
-Men alle mennesker er forskellige, så det er en god ide, at dit barn prøver cykelhjelmen. Jeg har prøvet at købe en ret fed - og relativt dyr hjelm - som sad virkelig dårligt på min datters hoved. Heldigvis sad den nogenlunde på min anden datters hoved.
-
-For at cykelhjelmen beskytter som den skal, skal hjelmen være indstillet og sidde korrekt.
-
-### 4) Cykelhjelmen skal pynte
-
-Du kan få cykelhjelme til børn i mange flotte farver og med forskellige mønstre. Du finder også et udvalg af skaterhjelme, der har et mere sporty look end den klassiske flade cykelhjelm. Det kan være en rigtig god ide at lade dit barn være med til at vælge cykelhjelmen og størrelsen på den.
-
-Børn er rigtig gode til at bruge cykelhjelme, men det bliver bare endnu lettere, når barnet selv er med til at vælge, og cykelhjelmen er flot.
-
-Fri BikeShop skriver, at:
-
-> Undersøgelser viser, at mange børn er rigtig gode til at bruge hjelm, men fra 10-års alderen begynder det at gå ned ad bakke og færre børn bruger hjelm fra denne alder og opefter. Det vil vi hos Fri BikeShop selvfølgelig gerne være med til at ændre, da vi mener, at en cykelhjelm bør være allemandseje.
->
-> --- <cite>[Fribikeshop.dk](https://www.fribikeshop.dk/udstyr/til-dig/cykelhjelme/til-boern)</cite>
-
-Du kan tjekke meget mere [cykeludstyr](/cykeludstyr/).
-
-## Hvornår skal hjelmen udskiftes?
-
-Hvis du er uheldig at få et kraftigt slag på hjelmen under et styrt, skal den udskiftes. Selvom det ikke ser ud til på overfladen, at der er sket noget, så kan skallen godt være gået i stykker, og så er den skrøbelig over for et nyt, meget lille slag. Og så hjælper den ikke, hvis du er impliceret i et nyt uheld.
-
-Hvis cykelhjelmen ikke har fået slag eller skrammer, så holder den typisk 5 til 10 år alt efter, hvor meget du bruger den.
+En cykelhjelm holder ikke evigt. Se videoen for tegn på, hvornår hjelmen skal skiftes, eller følg tommelfingerreglerne herunder:
 
 {% include video provider="youtube" id="j1ThRl8ahj4" %}
 
+Du skal udskifte børnehjelmen hvis:
+* **Barnet har haft et hårdt fald/styrt:** Selv om plastikkappen udenpå ser fin ud, kan det indvendige stødabsorberende EPS-skum være knækket eller komprimeret.
+* **Hjelmen er for gammel:** Solens UV-stråler og sved mørner plastikken over tid. En børnehjelm bør udskiftes efter **3–5 års flittig brug**.
+* **Barnet er vokset ud af skruespændet.**
+
+---
+
+## Ofte stillede spørgsmål om cykelhjelme til børn
+
+{% include faq.html %}
+
+---
+
 ## Hvor kan jeg købe cykelhjelme til børn?
 
-Hvis du er på udkig efter cykelhjelme til børn, så kan du kigge hos nogle af vores samarbejdspartnere. Vi får en lille kommission, hvis du vælger at købe din cykelhjelm der. Vi har kun gode erfaringer med de virksomheder, vi samarbejder med.
+Hvis du er på udkig efter cykelhjelme til børn, så kan du kigge hos nogle af vores samarbejdspartnere, hvor du finder et kæmpe udvalg i alle størrelser.
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
-
 {% include gallery array=ads %}
 
 {% include figure image_path="https://images.unsplash.com/photo-1606964727512-df0b3123d280?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmlrZSUyMGhlbG1ldCUyMGNoaWxkfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" caption="En flot cykelhjelm passer altid lidt bedre i størrelsen, når barnet selv skal sige det." alt="barn med cykelhjelm i den rigtige størrelse" %}
