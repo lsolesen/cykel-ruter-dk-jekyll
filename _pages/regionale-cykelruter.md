@@ -1,8 +1,9 @@
 ---
 layout: single
-title: &title "Regionale cykelruter i Danmark"
-seo_title: "Regionale cykelruter i Danmark: Ruter, kort og GPX-tracks (2026)"
-excerpt: "I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. Læs alt om regionalruterne og find regionale cykelkort og GPX-tracks."
+title: &title "Regionale Cykelruter i Danmark: Kort, Banestier & GPX (2026)"
+seo_title: "Regionale cykelruter i Danmark: Find kort, ruter & GPX-tracks"
+description: "Guide til Danmarks over 160 regionale cykelruter. Find detaljerede regionale cykelkort (1:100.000), bilfrie banestier og download opdaterede GPX-tracks."
+excerpt: "Komplet oversigt over regionale cykelruter i Danmark. Se forskellen på de blå skilte, find regionale cykelkort fra Nordisk Korthandel og hent GPX-tracks til turen."
 permalink: /regionale-cykelruter/
 category:
   - Cykelruter
@@ -13,58 +14,100 @@ header:
   teaser: https://images.unsplash.com/photo-1551425217-96edd854ad40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   overlay_filter: 0.2
-gallery:
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251a67.jpg
-    url: https://www.scanmaps.dk/0251a67?G=020
-    alt: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
-    title: "Nationalrute 1: Vestkystruten. Nordseeküsten-Radweg Teil 4 - Tønder til Skagen"
-    excerpt: "Vestkystruten er en del af den internationale cykelrute Eurovelo 12 Nordsøcykelruten på i alt 5.942 km. Den nationale cykelrute, Vestkystruten, udgør i alt 560 km langs Danmarks Vestkyst."
-    btn_label: "Tjek prisen"
-    btn_class: "btn--success"
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251b18.jpg
-    url: https://www.scanmaps.dk/0251b18?G=020
-    alt: "Kort over Hærvejen - Heerweg/Ochsenweg (von Viborg nach Hamburg)"
-    title: "Nationalrute 3: Hærvejsruten. Heerweg/Ochsenweg (von Viborg nach Hamburg)"
-    excerpt: "Hærvejen er flere hundrede kilometer vandre- og cykelrute, der løber på langs ned gennem Jylland. Dette cykelkort er virkelig godt og detaljeret, selvom det er på tysk til at vise den nationale cykelrute, Hærvejsruten."
-    btn_label: "Tjek prisen"
-    btn_class: "btn--success"
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0251g04_1.jpg
-    url: https://www.scanmaps.dk/0251g04?G=020
-    alt: "Kort over Nationalrute 8. Der Ostsee-Radweg - Dänemark"
-    title: "Nationalrute 8: Østersøruten. Der Ostsee-Radweg - Dänemark"
-    excerpt: "Kortbogen dækker den nationale cykelrute 8 - Østersøruten. En cykeltur gennem Danmarks smukkeste landskaber fra Lillebælt, det sydlige Fyn, det åbne land på Lolland-Falster og de imponerende kridt klipper på Møn."
-    btn_label: "Tjek prisen"
-    btn_class: "btn--success"
-  - image_path: https://www.scanmaps.dk/media/catalog/product/cache/2/image/650x650/9df78eab33525d08d6e5fb8d27136e95/0/2/0222650_1.jpg
-    url: https://www.scanmaps.dk/0222650?G=020
-    alt: "Kort over National cykelrute 9 - Radfernweg Berlin - Kopenhagen"
-    title: "National cykelrute 9. Radfernweg Berlin - Kopenhagen"
-    excerpt: "Der er et sammenfald mellem Nationalrute 9 fra Helsingør til Gedser og den internationale cykelrute 'København-Berlin' på det meste af strækningen mellem København og Gedser."
-    btn_label: "Tjek prisen"
-    btn_class: "btn--success"
-toc: true
-created_at: 2019-10-03T09:48:02+02:00
-last_modified_at: 2026-03-29T07:18:02+02:00
+faq:
+  - question: "Hvad kendetegner en regional cykelrute?"
+    answer: "Regionale cykelruter er skiltet med blå cykelskilte med et hvidt cykelikon og hvide rutenumre. De forbinder byer og seværdigheder internt i en region og forløber ofte på tværs af kommunegrænser."
+  - question: "Hvilket målestoksforhold bør et regionalt cykelkort have?"
+    answer: "Til regionale cykelruter anbefales et målestoksforhold på 1:100.000. Det giver en høj detaljeringsgrad, hvor du præcist kan se veje med cykelsti, underlag (asfalt vs. grus), campingpladser og indkøbsmuligheder."
+  - question: "Hvor kan jeg købe regionale cykelkort over Danmark?"
+    answer: "Nordisk Korthandel udgiver den officielle serie af 8 regionale cykelkort i 1:100.000 trykt på vandafvisende papir. Du kan købe dem direkte hos Scanmaps.dk."
+  - question: "Hvad er forskellen på nationale og regionale cykelruter?"
+    answer: "Nationale cykelruter (1-11) krydser hele landet over lange distancer og har rød-hvide rutenumre. Regionale cykelruter er nummereret fra 12 og opefter og har helt blå skilte med hvide tal."
+last_modified_at: 2026-08-04T17:20:00Z
 sidebar:
   title: "Populære sider"
   nav: blog
 ---
 
-I Danmark findes der et unikt netværk af regionale cykelruter på et utal af cykelvenlige ruter. De regionale cykelstier forbinder alle dele af en region — og det kan både være ud-og-hjem-ture eller cykelrundture.
+I Danmark findes der et unikt netværk af over **160 regionale cykelruter**. De regionale cykelstier forbinder byer, naturoplevelser og seværdigheder på tværs af kommunegrænser – ideelt til både dagsture, weekendture og korte cykelferier.
 
-Vi beskriver her en del af de danske regionalruter, og hvordan du finder kort og GPX-tracks til ruterne.
+{: .notice .notice--info }
+* **Søger du langdistanceruter tværs over landet?** Se vores guide til [Danmarks 11 Nationale Cykelruter](/nationale-cykelruter/).
+* **Vil du se den samlede oversigt over alle ruter?** Gå til hovedindekset for [cykelruter i Danmark](/cykelruter-danmark/).
+
+---
 
 ## Hvad er en regional cykelrute?
 
-En regional cykelrute forløber gennem flere kommuner. Typisk er ruten længere end beregnet til en dagstur. Du kan kende de officielle cykelruter på skiltene. Skiltene er blå med en hvid cykel og hvid skrift. På skiltet står typisk et rutenummer inden i en hvid firkant. Ofte kan du også se afstanden til de nærmeste byer på skiltene.
+En regional cykelrute forløber typisk over kortere eller mellemlange distancer i en enkelt region. 
 
-{% include video provider="youtube-playlist" id="PL6DiVRYM9dDQ8CTKOdn4fodgR9MlI1FYP" ezoic="ezoic-pub-video-placeholder-12" %}
+Du kender de regionale ruter på de **blå skilte med hvid skrift og et hvidt rutenummer**. Hvor de nationale ruter har numrene 1-11, har de regionale ruter typisk rutenumre fra 12 og opefter.
 
-## Rutebeskrivelser af regionale cykelruter
+{% include video provider="youtube-playlist" id="PL6DiVRYM9dDQ8CTKOdn4fodgR9MlI1FYP" %}
 
-De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet alle de regionale cykelruter, jeg har tilladelse til her på sitet. Hvis du vil bidrage med beskrivelser af nogle regionale cykelruter, så vil jeg blive rigtig glad.
+---
+
+## Regionale cykelkort (1:100.000) – Vælg det rette kort
+
+Når du cykler på de regionale ruter, rækker et oversigtskort over hele Danmark sjelden. Du har brug for et **regionalt cykelkort i målestoksforholdet 1:100.000**.
+
+Nordisk Korthandel udgiver den eneste opdaterede serie af regionale cykelkort på dansk. Kortene er trykt på ekstra holdbart og **vandafvisende papir**, som tåler fugtigt dansk sommervejr.
+
+### Fordele ved Nordisk Korthandels regionale kort:
+* **Underlag:** Se om ruten følger asfalteret vej, cykelsti eller grusvej.
+* **Faciliteter:** Indtegning af campingpladser, shelters, vandrerhjem, vejkirker og indkøb.
+* **Størrelse:** Passer perfekt i en cykelkortholder på styret (12,5 cm x 17,5 cm sammenfoldet).
+
+👉 **[Se og køb de regionale cykelkort hos Scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }**
+
+{% include gallery array=site.data.affiliates.maps.scanmaps_regional layout="fourth" caption="Find de 8 regionale cykelkort fra Nordisk Korthandel hos [Scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel='sponsored nofollow noopener' }." %}
+
+Læs mere i vores dybdegående guide til [cykelkort over Danmark](/cykelkort/).
+
+---
+
+## Regionale ruter opdelt efter landsdel
+
+Leder du efter regionale cykelstier og kort i et bestemt område? Udforsk vores regionale guides:
+
+* **[Cykelruter i Østjylland](/cykelruter-oestjylland/):** Oplev bakkede landskaber og fjorde omkring Aarhus, Silkeborg og Vejle.
+* **[Cykelruter i Vestjylland](/cykelruter-vestjylland/):** Fladt terræn, Vesterhavet og hyggelige fjordruter.
+* **[Cykelruter på Fyn & Odense](/cykelruter-fyn/):** Herregårde, frugtplantager og korte afstande i Det Sydfynske Øhav.
+* **[Cykelruter på Bornholm](/cykelruter-bornholm/):** Fantastiske klipperuter og sikre, bilfrie regionalstier.
+* **[Cykelruter i København](/cykelruter-koebenhavn/):** Grønne regionalstier og cykelruter i Hovedstadsområdet.
+
+---
+
+## Regionale Banestier: Bilfri cykling for familien
+
+Nogle af de mest populære regionale cykelruter er de **danske banestier**, som følger nedlagte jernbanetraceer. 
+
+Banestierne er kendetegnet ved at være **100% bilfrie**, og fordi de oprindeligt blev anlagt til damplokomotiver, har de næsten ingen stigninger. Det gør dem helt fantastiske til børnefamilier og uerfarne cyklister.
+
+👉 **[Læs vores store guide til banestier i Danmark](/banestier-i-danmark/)**
+
+---
+
+## Download GPX-tracks til de regionale cykelruter
+
+Vil du have GPS-sporet ned på din cykelcomputer eller smartphone?
+
+Det kan være svært at finde samlede GPX-filer til alle 160+ regionalruter. Vi anbefaler følgende kilder:
+
+1. **Vores rutebeskrivelser her på siden:** Under vores enkelte rutebeskrivelser kan du downloade testede GPX-filer lige til at lægge i Garmin Connect, Komoot eller Ride With GPS.
+2. **Waymarked Trails:** På [cycling.waymarkedtrails.org](https://cycling.waymarkedtrails.org/) kan du søge på regionalruterne og hente GPX-filer baseret på OpenStreetMap.
+
+{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.jpg" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/) kan du søge efter regionale cykelruter og downloade GPX-tracks." alt="Waymarkedtrails gpx regionale cykelruter" %}
+
+Se også vores guide til [Garmin Connect og ruteplanlægning](/garmin-connect-ruteplanlaegning-alltrails/).
+
+---
 
 {% assign site_posts = site.routes | where: "category", "Regional Cykelrute" | sort: "title" %}
+
+## Oversigt over regionale rutebeskrivelser
+
+Herunder kan du udforske vores enkelte anmeldelser og etapebeskrivelser af regionale cykelruter:
 
 {% if site_posts.size > 0 %}
 <div class="feature__wrapper">
@@ -74,32 +117,16 @@ De regionale cykelruter kan være beskrevet rigtig mange steder. Jeg har samlet 
 </div>
 {% endif %}
 
-## Regionale banestier
+---
 
-Nogle af mine favoritter blandt de regionale cykelruter er banestierne, som følger gamle nedlagte jernbaner. De fleste af disse stier er lavet, så der ikke må komme biler på ruterne — og typisk er ruterne også relativt flade, hvilket gør dem perfekte til børnefamilier eller dem der ikke er så erfarne cykelturister.
+## Ofte stillede spørgsmål om regionale cykelruter
 
-[Læs mere om banestier](/banestier-i-danmark/)
+{% include faq.html %}
 
-## Kort over regionalruterne
-
-Det er rigtig godt at have et detaljeret [cykelkort](/cykelkort/), når du tager på cykeltur på de danske regionalruter. Selvom ruterne er godt skiltede, vil man alligevel cykle ind i steder, hvor man kan blive i tvivl.
-
-Hvilket cykelkort du skal bruge til de regionale cykelruter afhænger naturligvis af, hvilken rute du gerne vil cykle. Jeg har skrevet en guide til de [bedste cykelkort over Danmark](/cykelkort/), som du måske kan lade dig inspirere af. Foretrækker du at navigere digitalt, så har jeg også en guide til [gratis online cykelkort og apps](/cykelkort-online/).
-
-Hvis du leder efter guidebøger til cykling, så kan du kigge på [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=cykelruter){: rel="sponsored nofollow noopener" }, [Tales](https://tales.dk/boeger/tag/cykelruter/){: rel="sponsored nofollow noopener" } og [Nordisk Korthandel](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }. Det er reklamelinks, og hvis du bruger dem, tjener jeg en lille smule kommission, som er med til at finansiere driften af dette site. **Din pris er den samme**.
-
-## Download GPS og GPX-track af de regionale cykelruter
-
-Det er ikke altid let at finde steder, hvor du kan downloade de regionale cykelruter som GPX-track. Jeg har manuelt tegnet de ruter, jeg har beskrevet, så du kan downloade dem fra de forskellige links ovenfor.
-
-Du kan finde nogle af de regionale cykelruter på [OpenStreetMap](https://www.openstreetmap.org/#map=7/55.876/9.415&layers=C), hvor du sørger for at have laget 'Cykelkort' slået til. Men herfra kan du desværre ikke downloade dem direkte.
-
-Den bedste løsning jeg har fundet er [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418), hvor du kan downloade mange af regionalruterne som GPX. De bruger OpenStreetMap som baggrundskort, så ruterne er løbende opdaterede.
-
-{% include figure image_path="/assets/images/waymarkedtrails-nationale-cykelruter-gpx.jpg" caption="På [waymarkedtrails.org](https://cycling.waymarkedtrails.org/#?map=7!56.2866!11.2418) kan du søge efter cykelruter og downloade GPX-tracks til de regionale cykelruter." alt="waymarkedtrails gpx regionale cykelruter" %}
-
-Vil du planlægge din rute digitalt inden du tager afsted, så kan du med fordel kombinere GPX-tracket med en app som Komoot eller Garmin Connect — jeg har skrevet mere om det i min guide til [ruteplanlægning med Garmin Connect](/garmin-connect-ruteplanlaegning-alltrails/).
+---
 
 ## Konklusion
 
-Jeg håber, du fik et godt overblik over de regionale cykelruter i Danmark, og hvordan du finder cykelkort og GPX-tracks til ruterne. De regionale cykelruter udgør en stor del af [cykelruterne i Danmark](/cykelruter-danmark/), men du kan også tjekke de [nationale cykelruter](/nationale-cykelruter/) hvis du drømmer om en længere cykelferie.
+De regionale cykelruter er den perfekte måde at opdage skjulte perler i det danske landskab. Husk at pakke et detaljeret [regionalt cykelkort](/cykelkort/) og tjekke dit udstyr før afgang.
+
+Gå tilbage til den samlede oversigt over [cykelruter i Danmark](/cykelruter-danmark/).

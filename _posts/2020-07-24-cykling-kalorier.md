@@ -15,22 +15,6 @@ header:
 toc: true
 author_profile: true
 author: lsolesen
-watt:
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/40d2f2ad-f4c7-4aa9-b7c2-a6aa2b2b53a3/010-01787-01_A_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/pedaler-til-racercykler/garmin-vector-3s---pedaler-med-watt-maaling---enkelt-sensor
-    alt: "Garmin Vector 3S"
-    title: "Garmin Vector 3S"
-    excerpt: "Vector 3S er navnet på disse pedaler med Wattmåler fra Garmin, som måler effekten på venstre pedal, samt registrerer kadence og total effekt."
-    btn_class: "btn--info"
-    btn_label: "Tjek prisen"
-puls:
-  - image_path: https://www.proshop.dk/Images/600x800/2800146_4b59fc4eda4b.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146
-    alt: "Garmin fenix 6X Pro Solar"
-    title: "Garmin fenix 6X Pro Solar"
-    excerpt: "Garmin outdoor ur med pulsmåling og solopladning. Et virkelig fedt ur, hvor du også kan have musik på uret."
-    btn_class: "btn--info"
-    btn_label: "Tjek prisen"
 ---
 
 Her får du svaret på, hvor mange kalorier, du forbrænder ved at cykle? Læs mere om, hvordan du regner din kalorieforbrænding og energiforbrug ved cykling?
@@ -72,7 +56,7 @@ Fordelen ved at bruge Watt er, at det typisk måles i pedalerne, så derfor sige
 
 Hvis ikke du har adgang til wattmålere, så kan du også med pulsen få en mere præcis vurdering af din intensitet på cyklen.
 
-{% include feature_row type="left" id="puls" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.garmin_fenix_6x_pro view="card" %}
 
 ## MET-tabel for udendørs cykling
 
@@ -90,7 +74,7 @@ De er baseret på MET. Forskere har fundet at en person forbrænder omkring 5 ka
 
 Når man kører med højere intensitet, så stiger iltforbruget. Derfor skal vi både bruge intensiteten og vægten til at udregne, hvor meget en person forbrænder.
 
-Gennemsnittet for cykling er omkring en MET på 7,5, mens fx meget anstrengende mountainbike komme op på en MET på 14.
+Gennemsnittet for cykling er omkring en MET på 7,5, mens fx meget anstrengende mountainbike kommer op på en MET på 14.
 
 Forskellige mennesker har dog forskelligt kalorieforbrug, fordi de har deres egen unikke metabolisme. Så husk at MET-værdierne bare er et estimat.
 
@@ -98,7 +82,7 @@ Forskellige mennesker har dog forskelligt kalorieforbrug, fordi de har deres ege
 
 Når du bruger dine muskler, så starter kroppen med at bruge ekstra ilt for at forbrænde kulhydrat og fedt, så du kan skabe ATP. ATP er kroppens energimolekyle.
 
-Når du bevæger dig, så har du brug for meget ATP alt efter hvor lang og intenst du bevæger dig. Du har noget ATP, der bare venter i dine muskler, men der er kun til omking 10 sekunders arbejde. Derefter begynder kroppen at lave mere ATP.
+Når du bevæger dig, så har du brug for meget ATP alt efter hvor langt og intenst du bevæger dig. Du har noget ATP, der bare venter i dine muskler, men der er kun til omkring 10 sekunders arbejde. Derefter begynder kroppen at lave mere ATP.
 
 Ved korte, intense sprints over lidt længere tidsrum bruger din krop energi fra det [anaerobe energisystem](https://www.motionsplan.dk/energisystemer/), hvor kroppen spalter kulhydrat for hurtigt at kunne få energi.
 
@@ -106,7 +90,7 @@ Ved længerevarende intense cykelture får kroppen ATP ved at forbrænde både k
 
 En tommelfingerregel er, at jo hurtigere du kører - eller jo mere kraft du putter i pedalerne - jo mere energi bruger du.
 
-Du kan tjekke vores beregner længere ned på siden for at få et bud på, hvor mange kalorier du bruger, når du cykler.
+Du kan tjekke vores beregner længere nede på siden for at få et bud på, hvor mange kalorier du bruger, når du cykler.
 
 Hvis du er interesseret i at vide mere om kroppens tilpasninger til fx konditionstræning, så tjek Motionsplans indlæg om [fysiologiske forandringer i kroppen ved konditionstræning](https://www.motionsplan.dk/tilpasning-konditionstraening/).
 
@@ -133,13 +117,13 @@ Derfor er det altså ikke nok bare at lave en "tilfældig" tommelfingerregel på
 
 **For at udregne hvor mange kalorier, du bruger på din cykeltur, så har du brug for at kende intensiteten og varigheden af aktiviteten.**
 
-Du kan naturligvis regne din egen gennemsnitlige kalorieforbrug pr. kilometer, hvis du kender din normale intensitet. Husk blot på, at udregningerne er gennemsnitsudregninger.
+Du kan naturligvis regne dit eget gennemsnitlige kalorieforbrug pr. kilometer, hvis du kender din normale intensitet. Husk blot på, at udregningerne er gennemsnitsudregninger.
 
 ## Fedtforbrænding på cykling
 
-Hvis du er interesseret i at forbrænde fedt, så cykling være en udmærket aktivtetet. Du får frisk luft og kan nyde naturen undervejs.
+Hvis du er interesseret i at forbrænde fedt, så kan cykling være en udmærket aktivitet. Du får frisk luft og kan nyde naturen undervejs.
 
-Cykling er ikke bedre en andre aktiviteter til at forbrænde mange kalorier. Men fordi cykling ikke er vægtbærende ligesom fx løb, så kan man typisk sidde længere tid i sadlen og derfor forbrænde mange kalorier undervejs.
+Cykling er ikke bedre end andre aktiviteter til at forbrænde mange kalorier. Men fordi cykling ikke er vægtbærende ligesom fx løb, så kan man typisk sidde længere tid i sadlen og derfor forbrænde mange kalorier undervejs.
 
 ## Hvordan måler man fedtforbrænding ved cykling?
 
@@ -149,7 +133,7 @@ Om det er bedst at lave [kontinuerlig træning eller intervaltræning](https://w
 
 ## Hvor mange kalorier forbrænder man ved at cykle?
 
-Hvis du gerne vil beregne hvor mange kalorier, du forbrænder ved forskellige aktiviteter, så tjek den fede [kalorierberegner ud på motionsplan.dk](https://www.motionsplan.dk/met/).
+Hvis du gerne vil beregne hvor mange kalorier, du forbrænder ved forskellige aktiviteter, så tjek den fede [kalorieberegner ud på motionsplan.dk](https://www.motionsplan.dk/met/).
 
 Her har jeg lavet en enkel version, der kun tager højde for kalorieforbruget på cykel ved forskellige intensiteter.
 
@@ -163,7 +147,7 @@ Du indtaster din vægt, din cykelaktivitet og tidsforbruget på cyklen, og så f
 
 ## Eksempel fra kalorieberegner til cykling
 
-Hanne vejer fx 70 kg og bruger omkring 20 minutter til at cykle på arbejde. Hanne cykler omkring omkring 25 km/t. Det giver i alt et kalorieforbrug på 231 kcal på cykelturen.
+Hanne vejer fx 70 kg og bruger omkring 20 minutter til at cykle på arbejde. Hanne cykler omkring 25 km/t. Det giver i alt et kalorieforbrug på 231 kcal på cykelturen.
 
 Et andet eksempel er hvis du er på cykelferie og i løbet af dagen aktivt cykler 50 kilometer fordelt over 4 timers aktiv cykling. Da du har oppakning med, så kan du formentlig vælge 'cykling generelt' som en nogenlunde rettesnor for dit kalorieforbrug. Jeg vejer fx 81 kg og jeg ville på de 4 timer forbruge 2430 kcal.
 
@@ -186,7 +170,7 @@ For at sætte tingene lidt i perspektiv, så har du altså brug for en del kalor
 
 ## Opsamling på kalorieforbrænding for cykling
 
-MET-beregneren primært medtager hastigheden som parameter, når man skal vælge sin cykelintensitet, så der er det altså lidt misvisende.
+MET-beregneren medtager primært hastigheden som parameter, når man skal vælge sin cykelintensitet, så der er det altså lidt misvisende.
 
 For at udregne din forbrænding på cykel, så kan du gøre det endnu mere præcist med en wattmåler eller et pulsur.
 
@@ -198,12 +182,12 @@ Tjek fx prisen på wattmålere hos [Cykelpartner.dk](https://www.partner-ads.com
 
 Jeg er selv utrolig glad for mit [Garmin Fenix](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67757&htmlurl=https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-fenix-6X-Pro-Solar-Titanium-blackgrey/2800146){: rel="sponsored nofollow noopener" }, som du kan tjekke priserne på hos [Proshop.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=67785&htmlurl=){: rel="sponsored nofollow noopener" }. De lidt ældre modeller er ikke så dyre.
 
-{% include feature_row type="left" id="watt" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.garmin_vector_3s view="card" %}
 
 ## Referencer om kalorier og cykling
 
 <details markdown="1">
   <summary>Se referencer om kalorieforbrænding på cykel</summary>
 
-- Skelly, Lauren E., Patricia C. Andrews, Jenna B. Gillen, Brian J. Martin, Michael E. Percival, og Martin J. Gibala. 2014. “High-Intensity Interval Exercise Induces 24-h Energy Expenditure Similar to Traditional Endurance Exercise despite Reduced Time Commitment”._Applied Physiology, Nutrition, and Metabolism = Physiologie Appliquee, Nutrition Et Metabolisme_39 (7): 845–48. [https://doi.org/10.1139/apnm-2013-0562](https://doi.org/10.1139/apnm-2013-0562).
+- Skelly, Lauren E., Patricia C. Andrews, Jenna B. Gillen, Brian J. Martin, Michael E. Percival, og Martin J. Gibala. 2014. “High-Intensity Interval Exercise Induces 24-h Energy Expenditure Similar to Traditional Endurance Exercise despite Reduced Time Commitment”._Applied Physiology, Nutrition, and Metabolism = Physiologie Appliquee, Nutrition Et Metabolisme_ 39 (7): 845–48. [https://doi.org/10.1139/apnm-2013-0562](https://doi.org/10.1139/apnm-2013-0562).
 </details>

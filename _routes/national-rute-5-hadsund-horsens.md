@@ -30,7 +30,7 @@ rubble: 17
 
 Fra nord til syd følger ruten Østjyllands kystlinje og flere steder er der gode bademuligheder i Kattegat nær de store og små turistbesøgte kystbyer. Dette er en del af [Østkystruten](/rute/national-rute-5-ostkystruten/).
 
-Vi starter i Hadsund, som er smukt beliggende ned mod Mariager Fjord omkranset af store skovområder. Byen er yderligere beskrevet under [regional cykelrute 32]({% link _routes/regional-rute-32-mariager-fjord-rundt.md %}).
+Vi starter i Hadsund, som er smukt beliggende ned mod Mariager Fjord omkranset af store skovområder. Byen er yderligere beskrevet under [regional cykelrute 32](/rute/regional-rute-32-mariager-fjord-rundt/).
 
 Fra Hadsund krydser vi Danmarks længste fjord og fortsætter langs den nedlagte jernbane mellem Hadsund og Randers gennem Trudsholm Skov. Jernbanen er nu en lille sti, som væk fra motoriseret trafik fører os gennem Trudsholm skov og forbi Trudsholm herregård, som blev opført i midten af 1600-tallet omgivet af en femkantet voldgrav. Gården kan kun ses udefra.
 

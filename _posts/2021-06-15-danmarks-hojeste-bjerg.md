@@ -1,6 +1,6 @@
 ---
 title: &title "Danmarks højeste bjerge: Top 10"
-seo_title: "Danmarks højeste bjerge: Top 10 (2026)"
+seo_title: "Danmarks højeste bjerge: Top 10"
 permalink: /danmarks-hojeste-bjerge/
 language: da
 header:
@@ -11,15 +11,6 @@ tags:
 category:
   - Inspiration
 last_modified_at: 2021-05-17T18:21:26Z
-feature_row:
-  - image_path: https://imgcdn.saxo.com/_9788755912908/0x500
-    title: "Danske Bjerge"
-    alt: "Danske Bjerge"
-    excerpt: "_Danmarks bjerge. Fra det laveste til det højeste punkt_ er en utrolig flot og oplysende bog med over 500 farverige fotos. Bogen giver en indsigt i landets 117 bjerge, fra Harehøj på 3 meter til Danmarks højeste punkt, Møllehøj. Hvert bjerg er beskrevet med historiske oplysninger, fakta og lokale anekdoter, som gør bogen hyggelig, underholdende oplysende at læse i."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
 ---
 
 Jeg har samlet en liste over de højeste bjerge i Danmark. Her kan du få helt styr på Danmarks toppe og finde ud af, hvor de ligger i landet.
@@ -54,10 +45,10 @@ Møllehøj har fået en førsteplads på listen. Møllehøj er en del af Ejer Bj
 10. Brande Krat - Them, Jylland : 141 moh
 11. Ottehøje - Bryrup : 140,5 moh
 12. Tranebjerg - Kollemorten, Jylland : 138 moh
-12. Bavnen - Kollemorten, Jylland : 138 moh
+13. Bavnen - Kollemorten, Jylland : 138 moh
 14. Agri Bavnehøj - Agri, Jylland : 137 moh
 15. Møgelbjerg - Addit, Jylland : 137 moh
-15. Møllebjerg - Lindeballe, Jylland : 137 moh
+16. Møllebjerg - Lindeballe, Jylland : 137 moh
 17. Knøsen - Dronninglund, Jylland : 136 moh
 18. Kongsbjerg - Møns Klint, Møn : 135 moh
 19. Lindeballe Skov - Lindeballe, Jylland : 133 moh
@@ -73,7 +64,7 @@ Når du skal finde de højeste punkter i Danmark, så skal du først have define
 
 [Danskebjerge.dk](https://blogsbjerg.danskebjerge.dk/2013/06/16/hoje-punkter-kraever-grovsortering-143/) foreslår, at der skal være en geografisk spredning på punkterne på mindst 2 kilometer, hvis en top skal tælles med.
 
-[Roger Pihl](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908){: rel="sponsored nofollow noopener" } foreslår i Guide til Danmarks Bjerge, at toppene skal opfylde tre kriterier:
+Roger Pihl foreslår i Guide til Danmarks Bjerge, at toppene skal opfylde tre kriterier:
 
 1. Toppene skal have et navn.
 2. Toppene må ikke være "samlet i den umiddelbare nærhed".
@@ -84,8 +75,8 @@ Kort- og Matrikelstyrelsens opmålinger på de officielle kort gælder jordpunkt
 [Danskebjerge.dk](https://blogsbjerg.danskebjerge.dk/2013/06/16/hoje-punkter-kraever-grovsortering-143/) skriver:
 
 > Dette forårsager en lille skævhed, for Møllehøj, Yding Skovhøj og Ejer Bavnehøj er målt op af geologer, som i de to sidstnævntes tilfælde har trukket højden af de to toppes gravhøje fra i regnestykket. Det er ikke sket i ret mange andre tilfælde. Tager man således Pihls ottendeplads, Ottehøje, så inkluderer denne højde en gravhøj. Fratrukket gravhøjen ryger Ottehøje nogle trin ned på stigen.
-
---- <cite>[Danskebjerge.dk](https://blogsbjerg.danskebjerge.dk/2013/06/16/hoje-punkter-kraever-grovsortering-143/)</cite>
+> 
+> --- <cite>[Danskebjerge.dk](https://blogsbjerg.danskebjerge.dk/2013/06/16/hoje-punkter-kraever-grovsortering-143/)</cite>
 
 ## Det højeste bjerg i Danmark varierer!
 
@@ -115,4 +106,4 @@ Men det mest imponerende udsigtspunkt i Ejer Bjerge, hvor Møllehøj ligger, er 
 
 Du kan læse meget mere om Danmarks Bjerge i Roger Pihls meget underholdende bog om bakkerne og toppene i Danmark. Danmarks Bjerge er skrevet af en nordmand, men han elsker de danske tinder og bjergtoppe.
 
-{% include feature_row type="left" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.books.danmarks_bjerge view="card" %}

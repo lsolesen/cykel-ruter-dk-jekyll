@@ -13,17 +13,6 @@ category:
   - Cykelruter
 last_modified_at: 2011-06-28T16:08:57Z
 excerpt: "Vi har beskrevet cykelruter med udgangspunkt i tre campingpladser på Vejle-egnen."
-gallery:
-  - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000
-    alt: "#3 Sydjylland"
-    title: "#3Sydjylland"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_sydlige_jylland.png
-    url: https://www.scanmaps.dk/0251d61?G=020
-    alt: "Cykelkort #7 Sydlige Jylland"
-    title: "#7 Sydlige Jylland (nyt kort maj 2021)"
-    rel: sponsored nofollow noopener
 ---
 
 I løbet af sommeren skal vi beskrive nogle cykelruter, der starter fra tre cykelvenlige overnatningssteder:
@@ -45,7 +34,11 @@ Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
 
 ## Cykelkort over området (reklamelinks)
 
-{% include gallery caption="Du kan få mere inspiration til rigtig [gode cykelkort](/cykelkort/) over Danmark i vores guide. Ovenfor kan du se nogle gode cykelkort over Vejle-området." %}
+Du kan få mere inspiration til rigtig [gode cykelkort](/cykelkort/) over Danmark i vores guide. Nedenfor kan du se to gode cykelkort over Vejle-området og Sydjylland:
+
+{% include affiliate-box.html type="product" item=site.data.affiliates.maps.scanmaps_regional.sydlige_jylland view="card" %}
+
+{% include affiliate-box.html type="product" item=site.data.affiliates.maps.legind_3_sydjylland view="card" %}
 
 {% assign site_posts = site.routes | where: "tags", "VisitVejle Cykelguide" | sort: "title" %}
 

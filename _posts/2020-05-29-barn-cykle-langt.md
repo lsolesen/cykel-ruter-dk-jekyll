@@ -35,6 +35,10 @@ Jeg har ofte haft mine piger med ude at cykle, og de er rigtig gode til det. Jeg
 
 Først og fremmest kræver det lidt træning at få lidt kilometer i benene på pigerne. Det synes jeg er gået rigtig let, når ruten går nogenlunde lige ud, men så snart der er bakker på ruten er det meget hårdere for barnet.
 
+> * **Klar til at finde en god rute?** Se vores anbefalinger til **[trygge cykelruter for børn](/cykelrute-born/)**.
+> * **Skal I på jeres første ferie sammen på to hjul?** Få tips til **[cykelferie med børn i Danmark](/boern-paa-cykelferie/)**.
+{: .notice .notice--info }
+
 ## Cyklen betyder meget for længden af turen
 
 En af forklaringerne skal findes i størrelsen af deres hjul. Hvis du selv har prøvet at køre på cykler med forskellig størrelse hjul, så vil du opdage, at det er noget lettere at køre på cykel, når hjulene er lidt større.

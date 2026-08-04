@@ -13,20 +13,6 @@ tags:
 category:
   - Udstyr
 last_modified_at: 2021-05-17T18:21:26Z
-feature_row_sigma:
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/5ac503b8-83ee-42d2-89eb-feb8acbab276/4903102_B_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/sigma-pure-1-ats---traadloes-cykelcomputer---trendline
-    title: "Sigma Pure 1 Topline"
-    excerpt: "Sigma Pure 1 Topline 2016 ATS er en trådløs cykelcomputer med 6 funktioner, som kan give dig forskellige informationer om dine cykelture. Hvis du interesserer dig for, hvor hurtigt du kører, eller hvor langt du har kørt en given dag, eller hvor langt du kører på en hel uge eller et år, er denne enhed skræddersyet til dig."
-    btn_label: "Køb her"
-    btn_class: "btn--warning"
-feature_row_atredo:
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/3c41e067-55d1-4181-8b1b-9d135c39b094/AT7518110_B_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/traadloese-cykelcomputere/atredo---m10--cykelcomputer-med-10-funktioner---traadloes---sort
-    title: "Atredo M10 cykelcomputer"
-    excerpt: "Denne Atredo M10 cykelcomputer er nem at betjene og hurtig at tage i brug. Den giver dig mulighed for at skifte imellem lille display med mange informationer eller stort display med færre oplysninger."
-    btn_label: "Køb cykelcomputer"
-    btn_class: "btn--warning"
 ---
 
 Min datter ønsker sig en cykelcomputer til børn, så jeg har researchet på, hvilke cykelcomputere der egner sig godt til at sætte på en børnecykel.
@@ -61,23 +47,23 @@ Jeg kiggede på det meste af markedet for cykelcomputere, og jeg endte med at v�
 
 ### Sigma Pure 1 Topline 6 funktioner
 
-{% include feature_row id="feature_row_sigma" type="left" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.sigma_pure_1_topline view="card" %}
 
 Sigma Pure 1 er en cykelcomputer som kan forbindes trådløst med en magnet i egeret på cyklen. Den er virkelig let at montere, og den store skærm gør det let at aflæse værdierne, når du kører på cyklen.
 
-Deer er i alt 6 funktioner i cykelcomputeren. Du kan naturligvis se din hastighed og distance. Samtidig er det rigtig fedt, at man skan se den totale tilbagelagte distance. Det kan jeg selv huske var meget motiverende for at hoppe på cyklen.
+Der er i alt 6 funktioner i cykelcomputeren. Du kan naturligvis se din hastighed og distance. Samtidig er det rigtig fedt, at man kan se den totale tilbagelagte distance. Det kan jeg selv huske var meget motiverende for at hoppe på cyklen.
 
 Du kan også købe [Sigma Pure med ledning](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelcomputere-med-ledning/sigma-pure-1---cykelcomputer-med-ledning---trendline){: rel="sponsored nofollow noopener" }.
 
 ### Atredo M10 cykelcomputer med 10 funktioner
 
-{% include feature_row id="feature_row_atredo" type="left" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.atredo_m10 view="card" %}
 
 Atredo M10 er en trådløs cykelcomputer med 10 funktioner. Cykelcomputeren er let at installere og let at betjene, så du hurtigt kan skifte mellem de forskellige indstillinger. Denne computer minder utrolig meget om den, jeg selv havde som barn.
 
 Jeg synes ikke displayet er så stort som fx Sigma Pure, så derfor egner det sig ikke så godt til børn.
 
-Cykelcomputeren har også [kalorieforbrænding på din cykeltur]({% link _posts/2020-07-24-cykling-kalorier.md %}), men da disse estimater ofte bliver lidt tilfældige, så er det ikke nødvendigt for mig eller mit barn. Der synes jeg det er sjovere med hastighed og distance. Derfor har jeg fravalgt denne computer.
+Cykelcomputeren har også [kalorieforbrænding på din cykeltur](/cykling-kalorier/), men da disse estimater ofte bliver lidt tilfældige, så er det ikke nødvendigt for mig eller mit barn. Der synes jeg det er sjovere med hastighed og distance. Derfor har jeg fravalgt denne computer.
 
 ## Konklusion
 

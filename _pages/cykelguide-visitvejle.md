@@ -9,17 +9,6 @@ redirect_from:
   - /cykelguide-visitvejle/
 author_profile: true
 classes: wide
-gallery:
-  - image_path: https://imgcdn.saxo.com/_9788771553000/0x500
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelkortserie-danmark-3-sydjylland_ukendt_9788771553000"
-    alt: "#3 Sydjylland"
-    title: "#3 Sydjylland"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.scanmaps.dk/media/cykel/c_small_sydlige_jylland.png
-    url: https://www.scanmaps.dk/0251d61?G=020
-    alt: "Cykelkort #7 Sydlige Jylland"
-    title: "#7 Sydlige Jylland (nyt kort maj 2021)"
-    rel: sponsored nofollow noopener
 toc: true
 sidebar:
   title: "Populære sider"
@@ -57,11 +46,13 @@ Jeg har lavet tre cykelruter ud fra hver campingplads. Cykelruterne er af tre fo
 
 </div>
 
-## Cykelkort med Vejle (reklamelinks)
-
-{% include gallery %}
+## Cykelkort med Vejle
 
 Jeg har skrevet en guide til at vælge de [bedste cykelkort](/cykelkort/). Der er lavet nogle ganske glimrende cykelkort med udgangspunkt i Sydjylland, hvor cykelruterne fra Vejle er i.
+
+{% include affiliate-box.html type="product" item=site.data.affiliates.maps.scanmaps_regional.sydlige_jylland view="card" %}
+
+{% include affiliate-box.html type="product" item=site.data.affiliates.maps.legind_3_sydjylland view="card" %}
 
 ## Konklusion
 

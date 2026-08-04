@@ -18,20 +18,11 @@ header:
 toc: true
 author_profile: true
 author: lsolesen
-cykelmekaniker:
-  - image_path: https://imgcdn.saxo.com/_9788717044654/0x500
-    alt: "Cykelreparation"
-    title: "Cykelreparation"
-    excerpt: "Cykelreparation dækker alt lige fra lapninger og daglig vedligeholdelse til avancerede teknikker til hjulopretning og justering af gear eller bremser på din mountainbike."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/cykelreparation_per-henrik-brask_indbundet_9788717044654"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
 ---
 
 Jeg elsker at tage på cykeltur, og jeg vil rigtig gerne have selskab af familien. Her har jeg samlet nogle af de tips, jeg bruger for at give medvind på cykelturen og cykelferien.
 
-**De bedste tips og råd til din cykelferie og cykeltur er: afstem forventningerne, planlæg cykelferien sammen, begræns oppakningen (du behøver mindre tøj og toiletgrej, end du tror) og bare kast jer ud i  det. Desto mere du tager med, desto hårdere bliver turen. Lav en prøvetur med al oppakningen og kast jer ud i et dejligt eventyr.**
+**De bedste tips og råd til din cykelferie og cykeltur er: afstem forventningerne, planlæg cykelferien sammen, begræns oppakningen (du behøver mindre tøj og toiletgrej, end du tror) og bare kast jer ud i det. Desto mere du tager med, desto hårdere bliver turen. Lav en prøvetur med al oppakningen og kast jer ud i et dejligt eventyr.**
 
 Hvis du ikke er vant til at tage på længere cykelture eller cykelferier, så stram cykelhjelmen til og læs videre. Og husk i øvrigt at beholde hjelmen på, når du sætter dig i sadlen og begiver dig ud på cykelturen.
 
@@ -55,7 +46,7 @@ Inden I tager afsted er der flere spørgsmål at besvare:
 
 Det kan virkelig betale sig at sætte sig ned og planlægge turen sammen. Er I sikker på, at I har samme tur i tankerne. Vær sikker på at I alle har samme tur i tankerne. Nogle af de næste råd hjælper dig med at vælge om, hvor langt I kan køre og hvor meget bagage, I skal slæbe på.
 
-Hvis I har styr på aftalerne og forventningerne, så kan I få en rigtig god oplevelse med turen. Ellers kan I risikere at jere oplevelse bliver meget forskellig.
+Hvis I har styr på aftalerne og forventningerne, så kan I få en rigtig god oplevelse med turen. Ellers kan I risikere at jeres oplevelse bliver meget forskellig.
 
 ## 3) Test formen på en mindre cykeltur
 
@@ -87,7 +78,7 @@ De første gange jeg skulle pakke min cykel til en længere tur, så synes jeg, 
 
 Jeg har ofte fået pakket for meget på cyklen. Det virkede som en god ide, mens jeg pakkede, og det gik også rigtig fint, mens jeg cyklede rundt på parkeringspladsen med det. Men da de første bakker så ramte på cykelturen, så var det meget tydeligt, at cyklen var blevet meget tung.
 
-Da jeg så kom hjem fra turen igen og gennemgik alt det tøj, jeg alligevel ikke fik brugt undervejs.
+Da jeg så kom hjem fra turen igen og gennemgik alt det tøj, jeg alligevel ikke fik brugt undervejs...
 
 Hvor meget bagage du har med afhænger naturligvis meget af, hvordan du gerne vil bo på cykelturen. Hvis du selv skal have telt og soveposer med, så kommer det hurtigt til at fylde meget.
 
@@ -103,7 +94,7 @@ Det er virkelig vigtigt, at jeres cykler er klar til turen. I behøver ikke inve
 
 Så hvis I ikke selv kan gennemgå cyklen, så må den lige en tur til serviceeftersyn hos cykelmekanikeren. Du kan også lære det selv ved at søge på Youtube eller ved at læse denne bog:
 
-{% include feature_row id="cykelmekaniker" type="left" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.books.cykelreparation view="card" %}
 
 Det er dumt at cykle med forkerte indstillinger på cyklen. Hvis sadlen fx sidder for lavt, så bliver man virkelig træt i lårmusklerne. Hvis den sidder for højt, så får du hurtigt ondt i numsen.
 
@@ -114,7 +105,7 @@ Tag unbrakonøgler og værktøj med på turen, så du kan ændre indstillingerne
 Du skal have noget bestemt udstyr på cyklen. Du får dem lige hurtigt her i en afkrydsningsliste.
 
 - [ ] En ringeklokke
-- [ ] en hvid refleks, der er synlig forfra
+- [ ] En hvid refleks, der er synlig forfra
 - [ ] Gule reflekser på pedaler
 - [ ] En gul refleks på hvert hjuls eger (eller hvide reflekterende dæk- eller fælgsider)
 - [ ] En rød refleks, der peger bagud.
@@ -127,11 +118,11 @@ Hvis du kører med en tohjulet cykelanhænger skal den have følgende:
 - [ ] To gule reflekser på hver side.
 - [ ] Efter mørkets frembrud skal cykelanhængeren have en rød baglygte midt bagpå eller i venstre side.
 
-Hvis du vil dykke ekstra ned i lovene for cykler, så Her kan du læse mere om love og regler for cyklister, så har [Cyklistforbundet skrevet lidt om det her](https://www.cyklistforbundet.dk/Alt-om-cykling/Love-og-regler).
+Hvis du vil dykke ekstra ned i lovene for cykler, så kan du læse mere om love og regler for cyklister. [Cyklistforbundet har skrevet lidt om det her](https://www.cyklistforbundet.dk/Alt-om-cykling/Love-og-regler).
 
 ## 9) Tjek udstyret til cykelferien
 
-Man kan hurtigt købe sig helt fattigt i cykel- og friluftsudstyr, fordi der findes virkelig mange smarte ting. Jeg vil helt klart anbefale, at du beholder betalingskortet i lommen inden din første tur. Enten kan du låne noget eller købe noget billigt på den blå avis, så du får en fornemmelse for, hvad du har brug for.
+Man kan hurtigt købe sig helt fattig i cykel- og friluftsudstyr, fordi der findes virkelig mange smarte ting. Jeg vil helt klart anbefale, at du beholder betalingskortet i lommen inden din første tur. Enten kan du låne noget eller købe noget billigt på den blå avis, så du får en fornemmelse for, hvad du har brug for.
 
 ## 10) Husk sikkerhed på cykelturen
 
@@ -141,9 +132,9 @@ Cykelpartner.dk har [mange forskellige cykelhjelme i forskellige modeller og far
 
 ## 11) Tænk på komforten på cyklen
 
-Når du skal cykle langt, så er det godt at tænke over, hvilke kontaktpunkter, du har med cyklen. Du sidder på cykelsadlen, fødderne på pedalerne og hænderne på styret. Hvis vi tager udgangspunkt i disse vigtige kontaktpunkter, så tænker jeg over følgende:
+Når du skal cykle langt, så er det godt at tænke over, hvilke kontaktpunkter du har med cyklen. Du sidder på cykelsadlen, fødderne på pedalerne og hænderne på styret. Hvis vi tager udgangspunkt i disse vigtige kontaktpunkter, så tænker jeg over følgende:
 
-- **Gode cykelbukser eller cykelshorts skåner bagdelen** og **giver mindre ømhed**. Det er vigtigt, at dine cykelunderbukser eller indershorts ikke har irriterende søm, der kan ende med at give dig skrabesår. Du vil aldrig fortryde, at du har valgt at tage afsted i et par cykelshorts. Du kan [tjekke priser og modeller på cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelbukser){: rel="sponsored nofollow noopener" }. Det behøver ikke at være så dyrt.
+- **Gode cykelbukser eller cykelshorts skåner bagdelen** og **giver mindre ømhed**. Det er vigtigt, at dine cykelunderbukser eller indershorts ikke har irriterende sømme, der kan ende med at give dig skrabesår. Du vil aldrig fortryde, at du har valgt at tage afsted i et par cykelshorts. Du kan [tjekke priser og modeller på cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykelbukser){: rel="sponsored nofollow noopener" }. Det behøver ikke at være så dyrt.
 - Tænk over **hvilke sko** du vælger på turen. Cykelsko med stive såler giver den bedste kraftoverførsel til pedalerne. Fx kan bløde løbesko eller lignende godt belaste dine fødder meget på en længere cykeltur. Jeg er begyndt at cykle med rigtige cykelsko, som kan klikke fast til pedalerne. Det nyder jeg rigtig meget nu, men jeg har i 20 år kørt i helt almindelige sko.
 - Et par **gode cykelhandsker** kan være guld værd, hvis du skal undgå ømme håndflader og måske en gnavende vabel. [Cykelexperten.dk har flere prisbillige varianter af cykelhandsker at vælge imellem](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/cykelhandsker/){: rel="sponsored nofollow noopener" }.
 
@@ -190,14 +181,6 @@ Er du over 15 år må du have op til to børn under 8 år på din cykel. I cykel
 Du kan også spænde en halvcykel på din cykel.
 
 Jeg har skrevet et mere dybtgående indlæg om at [have børn med på cykeltur og cykelferie](/boern-paa-cykelferie/).
-
-{% comment %}
-
-## 16) Smil til verden og den smiler tilbage
-
-Derudover er det værd at huske at man kommer langt med et smil og et venligt ord. Sig gerne hej når du passere eller bliver passeret. Snak gerne med folk, det kan jo være de har et fantastisk tip til andre steder at besøge på cykel.
-
-{% endcomment %}
 
 ## Flere råd
 

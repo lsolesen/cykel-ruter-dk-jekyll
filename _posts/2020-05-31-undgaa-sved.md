@@ -16,15 +16,6 @@ header:
 toc: true
 author_profile: true
 author: lsolesen
-feature_row:
-  - image_path: https://imgcdn.saxo.com/_9788755912908/0x500
-    title: "Danske Bjerge"
-    alt: "Danske Bjerge"
-    excerpt: "_Danmarks bjerge. Fra det laveste til det højeste punkt_ er en utrolig flot og oplysende bog med over 500 farverige fotos. Bogen giver en indsigt i landets 117 bjerge, fra Harehøj på 3 meter til Danmarks højeste punkt, Møllehøj. Hvert bjerg er beskrevet med historiske oplysninger, fakta og lokale anekdoter, som gør bogen hyggelig, underholdende oplysende at læse i."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262&htmlurl=https://www.saxo.com/dk/danmarks-bjerge_roger-pihl_haeftet_9788755912908"
-    btn_label: "Læs mere"
-    btn_class: "btn--inverse"
-    rel: sponsored nofollow noopener
 ---
 
 Jeg foretrækker at cykle rundt, når jeg skal noget. Det er en god måde at komme rundt på, og jeg vil også gerne have min familie med. Min bedre halvdel bruger imidlertid meget tid på at tænke på, hvordan hun undgår at svede, når hun cykler, så jeg har undersøgt nogle forskellige strategier.
@@ -44,9 +35,9 @@ Først får du lige den hurtige forklaring på, hvordan du undgår at svede efte
 - Få **tasken væk fra ryggen** og ned på bagagebæreren. Hvis du har en taske på kroppen, så lukker den af for luftgennemstrømningen, så du ikke får nedkølingen fra vinden, og så kan du ikke undgå at komme til at svede. Du har garanteret prøvet at cykle med en rygsæk og være gennemblødt på ryggen bagefter.
 - **Sænk farten de sidste 5 minutter**, så kroppen kan begynde at nedkøle. Du skal altså bruge så få kræfter som muligt og forsøge at få så meget luftafkøling som muligt.
 
-## Brug rigtige påklædning og undgå sved
+## Brug rigtig påklædning og undgå sved
 
-Du skal selvfølgelig klæde dig på efter vejrforholdene, når du cykler. Det er vigtigt ikke at  klæde dig for varmt på. Det kan være koldt de første fem minutter på cykelturen, men påklædningen skal passe til resten af turen og ikke kun til de første fem minutter.
+Du skal selvfølgelig klæde dig på efter vejrforholdene, når du cykler. Det er vigtigt ikke at klæde dig for varmt på. Det kan være koldt de første fem minutter på cykelturen, men påklædningen skal passe til resten af turen og ikke kun til de første fem minutter.
 
 Vælg tøj i åndbart materiale. Du kan finde masser af forskellige løsninger i de forskellige cykelforretninger. Sørg for at tøjet kan åbnes op ved hænder og på benene, da den overskydende varme ellers bliver lukket inde. Det kan også være rigtig godt at have udluftning under armene.
 
@@ -64,7 +55,7 @@ Hvis du cykler meget, så kan det formentlig betale sig med nogle gode cykeltask
 
 ## Sænk farten på den sidste del af cykelturen
 
-Det er en rigtig god ide at **sænke farten de sidste fem til ti minutter** af turen og begynd at lufte ud, så du på den måde har vinden til at hjælpe med at køle ned.
+Det er en rigtig god ide at **sænke farten de sidste fem til ti minutter** af turen og begynde at lufte ud, så du på den måde har vinden til at hjælpe med at køle ned.
 
 Her kommer den overraskende fysiologiske forklaring på, hvorfor det virker:
 

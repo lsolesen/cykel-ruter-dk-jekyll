@@ -14,20 +14,6 @@ tags:
 category:
   - Regler & Sikkerhed
 last_modified_at: 2021-05-17T18:21:26Z
-feature_row_abus:
-  - image_path: https://cdn.cykelexperten.dk/media/0e/23/0f/1621238418/g1.abus.com_out_abus_images_Mobile20Sicherheit_Helme_Kids_Youn-I20ACE20MIPS_89163_Youn-I20ACE20MIPW_20metallic20blue_side_3.jpg?width=1920&height=
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23616&htmlurl=https://cykelexperten.dk/abus-youn-i-ace-mips-hjelm-m.-led-lys-blaa-m-52cm-57cm-/
-    title: "ABUS Youn-I Cykelhjelm"
-    excerpt: "Super smart hjelm i blåt design. Hjelmen er støbt med In-Mold teknologi, der giver den flotteste finish samtidig med, at det giver den bedste sikkerhed. Det gør denne hjelm optimal til både BMX, MTB, skateboard og rulleskøjter."
-    btn_label: "Køb her"
-    btn_class: "btn--success"
-feature_row_nutcase:
-  - image_path: https://resources.chainbox.io/2/cykelpartner/public/pim/abe84039-4c42-4018-995a-7c2d3d2bee00/1962-07_A_default.jpg
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/cykelhjelme-boernjunior/nutcase---street-mips---check-me
-    title: "Nutcase - Street MIPS"
-    excerpt: "Denne 'Street MIPS' cykelhjelm fra Nutcase beskytter dit hoved ekstra i tilfælde af styrt på cyklen. Hjelmen er udstyret med MIPS-teknologi, som er en ekstra fleksibel skal inden i hjelmen, som minimerer risikoen for at pådrage sig en hjernerystelse. "
-    btn_label: "Køb cykelhjelm"
-    btn_class: "btn--success"
 toc: true
 ---
 
@@ -65,9 +51,9 @@ Når du måler dit barns hovedomkreds er det vigtigt, at du bruger et målebånd
 
 ## Hvornår skal børn have cykelhjelm?
 
-[Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/baby-cykelhjelm/){: rel="sponsored nofollow noopener" } skriver, at man en baby typisk fra 9-10 måneders alderen selv kan sidde og har stærke nok nakkemuskler til at kunne være med på cyklen. Derfor har jeg også startet guiden til hovedstørrelser for børn omkring den alder.
+[Cykelpartner.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=10706&htmlurl=https://www.cykelpartner.dk/blog/guides/baby-cykelhjelm/){: rel="sponsored nofollow noopener" } skriver, at en baby typisk fra 9-10 måneders alderen selv kan sidde og har stærke nok nakkemuskler til at kunne være med på cyklen. Derfor har jeg også startet guiden til hovedstørrelser for børn omkring den alder.
 
-Du skal naturligvis altid starte med relativt korte ture, da det er hårdt for babyens ryg og nakke at skulle sidde oprejst i en cykelstol samtidig med vægten fra cykelhjelmen og alle bevægelserne fra cyklerne.
+Du skal naturally altid starte med relativt korte ture, da det er hårdt for babyens ryg og nakke at skulle sidde oprejst i en cykelstol samtidig med vægten fra cykelhjelmen og alle bevægelserne fra cyklerne.
 
 ## Størrelsesguide: Hovedmål for børn
 
@@ -78,7 +64,7 @@ Dette skema er vejledende, da vi er bekendt med, at hovedstørrelser kan variere
 Her ses skemaet for gennemsnittet af hovedmål ud fra alder, som kan bruges vejledende til at finde den rigtige størrelse.
 
 | Alder | Hovedstørrelse |
-|-|-|
+| :--- | :--- |
 | 6-9 mdr | 44-46 cm |
 | 9-12 mdr | 46-47 cm |
 | 12-18 mdr | 47-48 cm |
@@ -97,7 +83,7 @@ Du kan se de samme værdier i denne grafik:
 
 Når du har fundet barnets hovedstørrelse, skal du sammenligne det med størrelserne på cykelhjelmene.
 
-Du skal være opmærksom på, at cykelhjelme findes i lidt forskellige størrelser i de forskellige mærker. Jeg har samlet nogle af størrelserne her under. Cykelhjelme kan for det meste spændes ind og ud, så de er rigtig lette at justere. Du skal dog være opmærksom på, at nogle mærker, stilles ind og ud ved at skifte det indvendige indlæg og ikke bare lige kan justeres ind og ud.
+Du skal være opmærksom på, at cykelhjelme findes i lidt forskellige størrelser i de forskellige mærker. Jeg har samlet nogle af størrelserne herunder. Cykelhjelme kan for det meste spændes ind og ud, så de er rigtig lette at justere. Du skal dog være opmærksom på, at nogle mærker stilles ind og ud ved at skifte det indvendige indlæg og ikke bare lige kan justeres ind og ud.
 
 Cykelhjelmene kan spændes godt ind, også med remmen under hagen, så den kan sidde rigtigt.
 
@@ -106,24 +92,24 @@ Cykelhjelmene kan spændes godt ind, også med remmen under hagen, så den kan s
 Puky cykelhjelm findes i følgende størrelser:
 
 | Alder | Størrelse |
-|-|-|
+| :--- | :--- |
 | 8 mdr - 3 år | 46 - 51 cm |
 | 3 år til 7 år | 52 - 58 cm |
 
-Hvis dit størrelsen på dit barns hoved ligger lige på grænsen, så anbefales du at tage den store størrelse. Hvis du skal bruge større cykelhjelme, så er Pukys cykelhjelme altså ikke så anvendelige.
+Hvis størrelsen på dit barns hoved ligger lige på grænsen, så anbefales du at tage den store størrelse. Hvis du skal bruge større cykelhjelme, så er Pukys cykelhjelme altså ikke så anvendelige.
 
-{% include feature_row id="feature_row_abus" type="left" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.abus_youn_i_ace_mips view="card" %}
 
 ### Størrelse på Nutcase cykelhjelme
 
 En del af Nutcase cykelhjelme har et spænde der kan stilles i følgende størrelser:
 
 | Alder | Størrelse |
-|-|-|
-| 8 mdr - 3 år | 47 – 50 cm  |
+| :--- | :--- |
+| 8 mdr - 3 år | 47 – 50 cm |
 | 3 år til 7 år | 48 – 52 cm |
 
-{% include feature_row id="feature_row_nutcase" type="left" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.nutcase_street_mips view="card" %}
 
 ## Hvordan får jeg hjelmen til at sidde rigtigt?
 
@@ -155,27 +141,27 @@ Men Nutcase har også en ret smart feature med en magnetisk lås under hagen, hv
 
 Cykelhjelme kan indstilles på flere forskellige måder, så den kommer til at sidde godt på hovedet.
 
-Men alle mennesker er forskellige, så det er en god ide, at dit barn prøver cykelhjelmen. Jeg har prøvet at købe en ret fedt - og relativt dyr hjelm - som sad virkelig dårligt på min datters hoved. Heldigvis sad den nogenlunde på min anden datters hoved.
+Men alle mennesker er forskellige, så det er en god ide, at dit barn prøver cykelhjelmen. Jeg har prøvet at købe en ret fed - og relativt dyr hjelm - som sad virkelig dårligt på min datters hoved. Heldigvis sad den nogenlunde på min anden datters hoved.
 
 For at cykelhjelmen beskytter som den skal, skal hjelmen være indstillet og sidde korrekt.
 
 ### 4) Cykelhjelmen skal pynte
 
-Du kan få cykelhjelme til børn i mange flotte farver og med forskellige mønstre. Du finder også et udvalg er skaterhjelme, der har et mere sporty look end den klassiske flade cykelhjelm. Det kan være en rigtig god ide at lade dit barn være med til at vælge cykelhjelmen og størrelsen på den.
+Du kan få cykelhjelme til børn i mange flotte farver og med forskellige mønstre. Du finder også et udvalg af skaterhjelme, der har et mere sporty look end den klassiske flade cykelhjelm. Det kan være en rigtig god ide at lade dit barn være med til at vælge cykelhjelmen og størrelsen på den.
 
 Børn er rigtig gode til at bruge cykelhjelme, men det bliver bare endnu lettere, når barnet selv er med til at vælge, og cykelhjelmen er flot.
 
-Fribikeshop.dk skriver, at
+Fri BikeShop skriver, at:
 
 > Undersøgelser viser, at mange børn er rigtig gode til at bruge hjelm, men fra 10-års alderen begynder det at gå ned ad bakke og færre børn bruger hjelm fra denne alder og opefter. Det vil vi hos Fri BikeShop selvfølgelig gerne være med til at ændre, da vi mener, at en cykelhjelm bør være allemandseje.
-
---- <cite>[Fribikeshop.dk](https://www.fribikeshop.dk/udstyr/til-dig/cykelhjelme/til-boern)</cite>
+>
+> --- <cite>[Fribikeshop.dk](https://www.fribikeshop.dk/udstyr/til-dig/cykelhjelme/til-boern)</cite>
 
 Du kan tjekke meget mere [cykeludstyr](/cykeludstyr/).
 
 ## Hvornår skal hjelmen udskiftes?
 
-Hvis du er uheldig at få et kraftigt slag på hjelmen under et styrt, skal den udskiftes. Selvom det ikke ser ud til på overfladen, at der er sket noget, så kan skallen godt være gået i stykker, og så er den skrøbelig over for et nyt, meget lille slag. Og så hjælper den ikke, hvis du er impliceret i et nyt uheldt. 
+Hvis du er uheldig at få et kraftigt slag på hjelmen under et styrt, skal den udskiftes. Selvom det ikke ser ud til på overfladen, at der er sket noget, så kan skallen godt være gået i stykker, og så er den skrøbelig over for et nyt, meget lille slag. Og så hjælper den ikke, hvis du er impliceret i et nyt uheld.
 
 Hvis cykelhjelmen ikke har fået slag eller skrammer, så holder den typisk 5 til 10 år alt efter, hvor meget du bruger den.
 
@@ -183,7 +169,7 @@ Hvis cykelhjelmen ikke har fået slag eller skrammer, så holder den typisk 5 ti
 
 ## Hvor kan jeg købe cykelhjelme til børn?
 
-Hvis du er på udkig efter cykelhjelme til børn, så kan du kigge hos nogle af vores samarbejdspartnere. Vi får en lille kommision, hvis du vælger at købe din cykelhjelm der. Vi har kun gode erfaringer med de virksomheder, vi samarbejder med.
+Hvis du er på udkig efter cykelhjelme til børn, så kan du kigge hos nogle af vores samarbejdspartnere. Vi får en lille kommission, hvis du vælger at købe din cykelhjelm der. Vi har kun gode erfaringer med de virksomheder, vi samarbejder med.
 
 {% assign ads = site.data.advertisers | where: "tags", "featured" | sort: "image_path" %}
 

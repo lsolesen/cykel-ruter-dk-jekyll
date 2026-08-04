@@ -10,40 +10,6 @@ tags:
   - gode råd
 last_modified_at: 2022-07-25T16:08:57Z
 toc: true
-feature_row:
-  - image_path: https://sw14769.smartweb-static.com/upload_dir/shop/53-926001_A.jpg
-    alt: "Thule Velocompact 3"
-    title: "Thule Velocompact 3"
-    excerpt: "Genial cykelholder Velocompact 3 fra Thule er til transport af 3 cykler. (Kan udvides til 4 cykler). Holderen er til montering på anhængertræk og passer til alle cykler."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=68828&htmlurl=https://www.danskautoudstyr.dk/shop/18-transportudstyr/832-thule-velocompact---cykelholder-til-3-cykler---13-polet/"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://www.fotoagent.dk/single_picture/10678/138/mega/532000_main_sized_900x600(2).jpg
-    alt: "Thule Freeride 532 - Cykelholder til tagmontering"
-    title: "Thule Freeride 532 - Cykelholder til tagmontering"
-    excerpt: "Thule Freeride 532 er en cykelholder til tagmontering. Holderen har plads til en enkelt cykel. Virkelig let at bruge."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59734&htmlurl=https://www.cykler.dk/thule-freeride-532.aspx"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-feature_row_cykelkuffert:
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/c39da31d-efe2-41f5-bc73-bbcf4b6ef1ff/PRBA0045_A_large.jpg
-    alt: "PRO - Cykeltaske soft"
-    title: "PRO - Cykeltaske soft"
-    excerpt: "Denne cykel-transporttaske fra PRO er i skumforet nylon, der beskytter din cykel. Cykeltasken kan indeholde en komplet cykel. Indvendigt er der separate lommer til begge hjul. "
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/pro---cykeltaske-soft-"
-    btn_label: "Tjek prisen"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://resources.chainbox.io/cykelpartner/public/pim/c39da31d-efe2-41f5-bc73-bbcf4b6ef1ff/PRBA0045_A_large.jpg
-    alt: "Topeak PAKGO X"
-    title: "Topeak PAKGO X"
-    excerpt: "En racercykel kan være en ret stor investering og derfor ønsker man ofte at passe lidt ekstra godt på den under transporten -specielt hvis der er tale om en cykel i carbon, som ikke tåler ret meget."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16446&htmlurl=https://www.cykelpartner.dk/cykeltasker-og-rygsaekke/topeak-pakgo-x---letvaegts-cykelkuffert-med-komplet-beskyttelses-kit---haard-skal"
-    btn_label: "Tjek prisen"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
 sidebar:
   nav: bikes
 header:
@@ -94,7 +60,9 @@ Den **bedste måde** er at få et **cykelstativ til dit anhængertræk**. Her si
 
 Her kan du se de forskellige typer af cykelholdere.
 
-{% include feature_row type="left" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.thule_velocompact_3 view="card" %}
+
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.thule_freeride_532 view="card" %}
 
 Jeg foretrækker den cykelholder, hvor man kan spænde cyklerne på enkeltvis. Der står de virkelig godt fast, samtidig med at stativet kan vippe, så du stadig kan komme i bagagerummet, selvom du har sat cyklerne bagpå.
 
@@ -130,7 +98,9 @@ Du kan normalt tage din cykel med som bagage på fly, men du skal undersøge det
 
 Din cykel skal pakkes i en papkasse, cykeltransporttaske eller en cykelkuffert, før du kan få cyklen med ombord på flyveren.
 
-{% include feature_row id="feature_row_cykelkuffert" type="left" %}
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.pro_cykeltaske_soft view="card" %}
+
+{% include affiliate-box.html type="product" item=site.data.affiliates.gear.topeak_pakgo_x view="card" %}
 
 For at beskytte cyklen, så kan det være rigtig klogt at skille den af og pakke den rigtig godt ind. Du skal tage hjulene af, fjerne pedalerne og tænke på, hvordan styret pakkes. Det kan også være nødvendigt at tage noget luft ud af dækkene for at undgå, at dækkene eksploderer under turen.
 
@@ -142,13 +112,13 @@ Du skal natuligvis også være opmærksom på fx CO<sub>2</sub>-patroner til at 
 
 ## Fragt og forsendelse af cykel
 
-Når du rejser med din cykel, så kan du også overveje at få sendt din cykel med et fragtfirma på forhånd.  Det kan være en god mulighed, hvis du rejser med fly, eller hvis du ikke vil have besværet med at tage din cykel med i flyet eller toget.
+Når du rejser med din cykel, så kan du også overveje at få sendt din cykel med et fragtfirma på forhånd. Det kan være en god mulighed, hvis du rejser med fly, eller hvis du ikke vil have besværet med at tage din cykel med i flyet eller toget.
 
 Der er dog et par ting, du skal være opmærksom på, når du sender din cykel:
 
-- Sørg for, at din cykel er forsvarligt pakket og sikret til forsendelse. Du .
+- Sørg for, at din cykel er forsvarligt pakket og sikret til forsendelse.
 - Vær opmærksom på, at nogle fragtfirmaer har begrænsninger med hensyn til, hvilke typer cykler de accepterer.
-- Forvent at betale en højere pris for forsendelse af din cykel end for almindelig bagage. Forsendelsespriserne varierer afhængigt af størrelsen og vægten af din cykel,  samt det rederi, du vælger.
+- Forvent at betale en højere pris for forsendelse af din cykel end for almindelig bagage. Forsendelsespriserne varierer afhængigt af størrelsen og vægten af din cykel, samt det rederi, du vælger.
 - Sørg for, at du har alle de nødvendige papirer i orden, inden du sender din cykel. Dette omfatter en liste over indholdet af din forsendelse samt dine kontaktoplysninger.
 
 Igen bør du nok bruge en dedikeret cykelkuffert elle cykeltaske, men hvis du vil gøre det lidt billigere, så kan du også **pakke cyklen i en papkasse**. Du kan få lidt tips i denne video:

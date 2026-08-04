@@ -24,6 +24,11 @@ Jeg sidder og planlægger min næste cykeltur med mine børn. Jeg har samlet de 
 
 **Cykeltur og cykelferie med børn er en virkelig god oplevelse, når du tænker over et par ting på forhånd. Vælg en [god cykelrute](/cykelruter-danmark/), sæt tempoet ned og vær tålmodig og planlæg det uforudsete. Drop skærmene og skru op for nærværet. Og så hjælper snacks altid på humøret.**
 
+> * **Leder du efter konkrete børnevenlige ruter?** Se vores udvalgte **[cykelruter for børn og familier](/cykelrute-born/)**.
+> * **I tvivl om hvor langt dit barn kan cykle?** Læs vores guide til **[distancer pr. alderstrin](/barn-cykle-langt/)**.
+> * **Brug for en pakkeliste?** Få overblikket i vores **[generelle guide til cykelferie](/cykelferie/)**.
+{: .notice .notice--info }
+
 Jeg har flere gange været på cykeltur med mine børn. Vi har som forældre begået masser af fejl, men jeg har mest hæftet mig ved alt det, der er gået godt. 
 
 Vi har primært satset på lidt kortere cykelture og cykelferier med vores tre piger. 
@@ -205,7 +210,7 @@ Hvis det er første gang, du skal køre med meget bagage, så kan det også vær
 
 Husk at justeringen af cyklen også gælder børnenes cykel. Jeg er kommet afsted en gang, hvor jeg ikke havde tjekket dækkene ordentligt på min piges cykel lige efter, at hun var blevet glad for at lave bremsespor. Det var en meget nervøs far, der bekymret kiggede efter, hvornår hun punkterede på det ret tyndslidte dæk.
 
-Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport af dit barn undervejs på cykelturen]({% link _posts/2019-07-01-boern-cykel-paa-cykelferie.md %}).
+Jeg har skrevet et indlæg om, hvilke muligheder du har for at [vælge transport af dit barn undervejs på cykelturen](/boern-cykel-paa-cykelferie/).
 
 ## Klar til cykelferie eller cykeltur med børn
 
