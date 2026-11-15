@@ -1,5 +1,10 @@
 ---
-last_modified_at: 2022-06-26T12:01:50+02:00
+title: &title "Cykling apps: De bedste gratis & betalte cykelapps (2026)"
+permalink: /cykling-apps/
+seo_title: "Cykling apps: Bedste cykelapps til tracking & ruter (2026)"
+description: "Hvilken cykelapp skal du vælge? Se de bedste gratis og betalte cykelapps til GPS-tracking, ruteplanlægning og træning: Strava, Garmin, Relive og Zwift."
+excerpt: "De bedste cykelapps til GPS-tracking, ruteplanlægning og virtuel træning. Sammenlign Strava, Garmin Connect, Relive, Zwift og BKOOL med gratis og betalte funktioner."
+last_modified_at: 2026-11-15T21:00:00+01:00
 bkool:
   - image_path: /assets/images/apps/bkool-1.jpg
     url: /assets/images/apps/bkool-1.jpg
@@ -7,13 +12,10 @@ bkool:
     url: /assets/images/apps/bkool-2.jpg
   - image_path: /assets/images/apps/bkool-3.jpg
     url: /assets/images/apps/bkool-3.jpg
-permalink: /cykling-apps/
-title: "Cykling apps: De bedste cykelapps i 2023"
-seo_title: "Cykling apps: De bedste cykelapps i 2023"
 header:
   overlay_image: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1625027589035-0844e7f91b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
-  caption: "Cykling apps: De bedste cykelapps i 2023"
+  caption: *title
 language: da
 tags:
   - apps
@@ -40,103 +42,111 @@ strava:
     url: /assets/images/apps/strava-3.jpg
 category:
   - Udstyr
+faq:
+  - question: "Hvilken gratis cykelapp er bedst til at måle fart og distance?"
+    answer: "Strava og Garmin Connect er blandt de bedste gratis cykelapps til at måle fart, distance og højdeprofil. Strava fungerer direkte med telefonens GPS uden ekstra udstyr, mens Garmin Connect er ideel, hvis du bruger Garmin cykelcomputer eller GPS-ur."
+  - question: "Hvilken cykelapp er bedst til ruteplanlægning?"
+    answer: "Til dedikeret ruteplanlægning og cykelkort er Komoot, AllTrails, Ride With GPS og Garmin Connect de stærkeste valg, fordi du kan se underlag, stier og eksportere GPX-filer til din cykelcomputer."
+  - question: "Hvad er den bedste cykelapp til indendørs træning på hometrainer?"
+    answer: "Zwift er den mest populære app til virtuel cykeltræning på hometrainer med et stort fællesskab og strukturerede træningsprogrammer, mens BKOOL er et godt alternativ med videoruter fra virkelige veje."
 ---
-Der findes en række forskellige apps til cykling på markedet, som hver især har deres egne unikke funktioner.
 
-Der findes mange rigtig gode cykel apps. Jeg har samlet en rigtig god liste her med de apps, jeg bruger mest i forbindelse med cykling og har størst fornøjelse af.
+De bedste cykelapps til tracking, ruteplanlægning og træning er **Strava** til social GPS-logning og segmenter, **Garmin Connect** til ruteplanlægning og synkronisering med cykelcomputer, **Relive** til 3D-videogenoplevelser samt **Zwift** og **BKOOL** til virtuel vintertræning på hometrainer. Herunder får du et hurtigt sammenlignings-overblik over priser, gratis funktioner og hvilken cykelapp der passer bedst til dit behov.
 
-På listen har jeg inkluderet apps, der kan:
+På listen har jeg samlet de cykelapps, jeg selv bruger mest til at:
 
-* holde styr på dine cykelpræstationer og fremskridt
-* optage dine cykelture og give dem liv bagefter
-* virtuelle træningsplatforme, hvor du kan holde formen i løbet af vinteren.
+* holde styr på fart, distance, højdemeter og træningsfremskridt
+* planlægge cykelruter og overføre GPX-tracks til cykelcomputeren
+* optage cykelture og genskabe dem som 3D-videoer bagefter
+* køre virtuel cykeltræning på hometrainer i vinterhalvåret.
 
-Lad os dykke ned i de bedste cykel apps i øjeblikket.
+## Hurtigt overblik: Sammenlign de bedste cykelapps
 
-## 1. Relive.cc
+| Cykelapp | Primært formål | Gratis version? | Bedst til |
+| :--- | :--- | :--- | :--- |
+| **Strava** | GPS-tracking, segmenter & fællesskab | Ja (med tilkøb af Premium) | Tracking på mobil/cykelcomputer og bakkesegmenter |
+| **Garmin Connect** | Ruteplanlægning, GPX & træningsdata | Ja (gratis med Garmin-enhed) | Dig der bruger Garmin Edge cykelcomputer eller GPS-ur |
+| **Relive** | 3D-video og foto-dagbog af cykelturen | Ja (med begrænset videokvalitet) | Ferie- og hyggeture du vil dele som 3D-rutevideo |
+| **Zwift** | Virtuel cykeltræning på hometrainer | Nej (gratis prøveperiode) | Indendørs vintertræning, strukturerede pas & e-cykelløb |
+| **BKOOL** | Virtuel træning med virkelige videoruter | Nej (gratis prøveperiode) | Hometrainer-træning på autentiske stigninger og ruter |
+| **Komoot / AllTrails** | Ruteplanlægning & digitale cykelkort | Ja (1 gratis region i Komoot) | At finde stier, grusveje og planlægge cykelferie |
 
-{% include figure image_path="/assets/images/apps/relive-cykel-app.jpg" %}
+## 1. Strava
 
-[Relive](https://www.relive.cc/invite?u=v935zk8mk1ej3m&s=post-share){: rel="nofollow noopener" } er en af de bedste apps til cyklister, der ønsker at spore deres ture og genopleve dem senere. Hvis du bruger appen på telefonen til at optage din tur og tage billeder undervejs, så kan du få en ret unik video bagefter af turen.
+Strava er den mest populære platform for cyklister til at måle, analysere og dele deres cykelture. Appen bruges både til seriøs landevejs- og graveltræning og af pendlere og motionister, der bare vil holde styr på deres kilometer og [gennemsnitsfart på cyklen](/gennemsnitsfart-cykling/).
 
-Relive.cc er virkelig nem at bruge. Hvis ikke du vil have din telefon med på turen, så kan du også importere dine ture efterfølgende og lægge billeder op sammen med GPS-tracket.
+Jeg bruger ofte Strava til at følge mine ture og finde nye ruter i lokalområdet. Appen kan bruges direkte med GPS'en i din smartphone, men du kan også koble den automatisk sammen med cykelcomputere og GPS-ure fra bl.a. Garmin, Wahoo og Polar.
 
-Når din tur er importeret, vil Relive analyserer den automatisk og skaber en interaktiv video. Du kan se videoen med billeder på enhver enhed.
-
-Se et eksempel her fra Bindeballestien, hvordan en video der er optaget med Relive-appen på telefonen kommer til at se ud. I den gratis version kunne jeg kun vedhæfte 5 billeder, og jeg kan ikke selv bestemme videokvaliteten. Jeg kan også kun redigere videoen en gang, når jeg gemmer den.
-
-{% include video provider="own-youtube" id="6ksvhYb1ODs" %}
-
-Relive findes både i en gratis udgave og en premium-udgave. Tidligere har man kunnet forbinde den meget brugte cykel app, Strava, direkte til Relive, men det samarbejde lukkede ned i [maj 2022](https://support.strava.com/hc/en-us/articles/360030429332-An-update-on-our-integration-with-Relive). Strava vurderer, at Relive ikke overholder deres retningslinjer for at beskytte brugernes privatliv.
-
-[Prøv Relive](https://www.relive.cc/invite?u=v935zk8mk1ej3m&s=post-share){: .btn .btn--large .btn--bmc rel="nofollow noopener" }
-
-## 2. Ayvri
-
-Ayvri er en 3D virtual reality-app, som giver dig mulighed for at cykle på alle veje i verden fra dit eget hjem. Appen indeholder et bibliotek med over 1000 ruter fra hele verden, som brugerne har lagt op.
-
-{% include figure image_path="/assets/images/apps/ayvri-cykling-app.jpg" %}
-
-Hvis du selv har cyklet en rute eller bare tegnet den på forhånd, så kan du importere den ind i Ayvri. Derefter lægger Ayvri den ind på et 3D-kort, så du kan se, hvordan din cykeltur forløber gennem landskabet.
-
-Det er virkelig genialt, fordi du let kan se, hvilke landskaber du kan forvente at skulle køre igennem. Jeg har selv brugt denne app til cykling på dette site til at illustrere nogle af ruterne.
-
-{% include video provider="own-youtube" id="060ECU0A_0g" %}
-
-Når man genspiller i Ayvri, så havde jeg lidt udfordringer med, at kortet ikke helt gentegende sig hurtigt nok. Det kan man se lidt i videoen, men resultatet er stadig meget fedt.
-
-Ayvri kan du connecte direkt med Strava, men der er ikke nogen app, hvor du kan optage dit trail. Ayvri er stadig ret nye, men mon ikke de går efter at være en seriøs konkurrent til Relive.
-
-## 3. Garmin Connect
-
-I Garmin Connect kan du både [planlægge dine cykelruter](/garmin-connect-ruteplanlaegning-alltrails/) og din træning. Du kan også tracke, hvilken rute og hvor langt du har kørt.
-
-{% include gallery id="garmin" caption="Screenshots fra Garmin Connect" %}
-
-Garmin Connect er allerbedst, hvis du bruger det sammen med devices fra Garmin, fx et ur eller en cykelcomputer, og hvis du skal optage dine egne cykelture, så er det nødvendigt med et Garmin device.
-
-Jeg bruger selv Garmin Connect til alt. Jeg har nemlig et Garmin Fenix 6 ur, som jeg bruger til at optage mine cykelture, så jeg kan se, hvor lange de er, og hvilken rute jeg har taget.
-
-Jeg laver rigtig ofte ruten på forhånd, og så bruger jeg uret til at finde vej undervejs. Det er ret genialt.
-
-## 4. Strava
-
-Strava er en populær platform for cyklister til at dele deres cykelture. Appen bruges mest til cykling og træning, men nogle bruger den også bare til at tracke deres daglige motion.
-
-Jeg bruger ofte Strava til at følge mine ture og også til at finde nye ruter. Appen har en enorm database af ruter, og du kan også følge andre folks ture.
-
-Strava bruges bedst med en telefon, men du kan også tilslutte den til de fleste cykelcomputere og ure.
-
-Strava har en lidt sjov funktion, der hedder "segmenter". Segmenter er en del af en længere tur. Når du kommer hjem og kigger på din cykeltur i Strava, så kan du sammenligne dine tider op ad bakkerne med andre.
+Strava er især kendt for sine **segmenter** – afgrænsede strækninger eller bakker, hvor du kan sammenligne dine egne tider fra gang til gang og se, hvordan du ligger på ranglisten i forhold til andre cyklister.
 
 {% include gallery id="strava" %}
 
-Appen har både en gratis og en premium-version. Jeg bruger selv gratis-versionen, som har rigeligt features til det jeg har brug for.
+Appen findes i både en gratis udgave og en betalt abonnementsversion. Jeg bruger selv gratisversionen, som dækker langt de fleste behov i hverdagen.
 
-I premium-versionen får adgang til flere analyser af dine ture, fx puls- og effektdata. Du får også flere filtreringsmuligheder, når du ser på andres ture, og du kan også få "live-segmenter". Med dette kan du i realtid se, hvordan du klarer dig i forhold til din tidligere bedste tid eller den aktuelle rangliste direkte på din cykelcomputer.
+I den betalte udgave får du adgang til dybere træningsanalyser af bl.a. puls, watt og belastning, udvidet ruteplanlægning samt **Live Segments**, hvor du i realtid på din cykelcomputer kan se, om du er foran eller bagud i forhold til din personlige rekord op ad en bakke.
 
-## 5. BKOOL - virtuel træning
+## 2. Garmin Connect
 
-BKOOL er et spil du kan bruge sammen med din *hometrainer* til cykling. BKOOL er en platform for cykelryttere. BKOOL giver dig mulighed for at linke din *hometrainer* op til din computer, iPad, iPhone, Apple TV, Android device, så du kan køre med andre cykelryttere i et virtuelt miljø. Du kan både træne i BKOOL og køre løb mod andre i den virtuelle BKOOL-verden.
+I Garmin Connect kan du både [planlægge dine cykelruter](/garmin-connect-ruteplanlaegning-alltrails/) og følge din træning ned i mindste detalje. Appen samler alle dine data om distance, hastighed, højdemeter, puls og restitution ét sted – helt uden løbende abonnement.
 
-Ud over at konkurrere mod andre cykelryttere i BKOOL-cykelløb kan du også lægge hele din træning ind i BKOOL. Selvom træningsplanlægning altid bør være individuel, er det nu meget motiverende at vide at træningsprogrammerne i BKOOL er designet af professionelle trænere, men du kan også sagtens lægge din egen træning ind i programmet.
+{% include gallery id="garmin" caption="Screenshots fra Garmin Connect" %}
 
-{% include gallery id="bkool" caption="Screenshots fra BKOOL" %}
+Garmin Connect fungerer bedst sammen med en enhed fra Garmin, fx en Garmin Edge cykelcomputer eller et sportsur. Hvis du vil optage dine ture direkte i systemet, kræver det en Garmin-enhed.
 
-Jeg har skrevet en [begynderguide til BKOOL på motionsplan.dk](https://www.motionsplan.dk/bkool-begynderguide/). BKOOL står lidt i skyggen af det meget populære Zwift.
+Jeg bruger selv Garmin Connect som min faste base. Jeg tegner ofte ruten på forhånd på computeren eller importerer en GPX-fil fra vores [oversigt over cykelruter i Danmark](/cykelruter-danmark/) og sender den trådløst til mit ur eller cykelcomputer, så jeg har sving-for-sving-navigation undervejs.
 
-## 6. Zwift - virtuel cykeltræning
+## 3. Relive.cc
 
-Zwift er en meget populær app, når du flytter cykeltræningen indendørs. Det er en inspirerende måde at træne på afstand sammen med andre, når vejret og pandemier ikke tillader træning og cykelløb udenfor.
+{% include figure image_path="/assets/images/apps/relive-cykel-app.jpg" %}
 
-Min motivation for træning på min indendørs cykel har i hvert fald været noget højere de seneste uger efter jeg fik øjnene op for Zwift. Men der er lige nogle ting, du skal vide inden du kan komme i gang med at køre på din hometrainer, mens du følger dig selv og din avatar på skærmen.
+[Relive](https://www.relive.cc/invite?u=v935zk8mk1ej3m&s=post-share){: rel="nofollow noopener" } er en oplagt app til dig, der ønsker at spore dine cykelture og genopleve dem som en visuel historie bagefter. Hvis du optager turen med appen på telefonen og tager billeder undervejs, sætter Relive automatisk ruten, højdemeterne og dine fotos sammen til en 3D-video.
+
+Relive.cc er meget nem at bruge. Hvis du foretrækker at optage turen på din cykelcomputer eller et GPS-ur, kan du også importere GPX-filen bagefter og tilføje billeder fra turen manuelt.
+
+Når turen er uploadet, analyserer Relive tracket automatisk og genererer en interaktiv 3D-flyover-video, som er nem at dele med familie og cykelmakkere.
+
+Se et eksempel her fra [Bindeballestien (Regional Rute 36)](/rute/regional-rute-36-bindeballestien/), hvordan en video optaget med Relive-appen ser ud. I gratisversionen er der en grænse for antal billeder og videokvalitet, mens Plus-udgaven giver HD-video, længere ture og fuld redigering.
+
+{% include video provider="own-youtube" id="6ksvhYb1ODs" %}
+
+*(Bemærk: Tidligere fandtes også 3D-visualiseringsværktøjet **Ayvri**, som jeg brugte til enkelte ældre rutevideoer på siden, men tjenesten er siden lukket ned – i dag er Relive eller Stravas 3D-kort de bedste alternativer.)*
+
+[Prøv Relive](https://www.relive.cc/invite?u=v935zk8mk1ej3m&s=post-share){: .btn .btn--large .btn--bmc rel="nofollow noopener" }
+
+## 4. Zwift – virtuel cykeltræning
+
+Zwift er den mest udbredte app, når du flytter cykeltræningen indendørs i efteråret og vinteren. Du kobler din hometrainer til computer, iPad eller Apple TV og cykler rundt i virtuelle verdener sammen med tusindvis af andre cyklister fra hele verden.
+
+Min egen motivation for indendørstræning fik et markant løft, da jeg kom i gang med Zwift. Du kan både køre sociale fællesture, deltage i virtuelle cykelløb, følge strukturerede watt-programmer eller bestige ikoniske virtuelle stigninger som Alpe du Zwift.
 
 {% include gallery id="zwift" caption="Screenshots fra Zwift" %}
 
-Jeg har skrevet en [begynderguide til Zwift på motionsplan.dk](https://www.motionsplan.dk/komplet-begynderguide-zwift/).
+Læs min komplette gennemgang af verdener, stigninger og opsætning i guiden til [Zwift cykelruter & 10 tips til begyndere](/tips-zwift-begynderguide/).
+
+## 5. BKOOL – virtuel træning
+
+BKOOL er et godt alternativ til Zwift, som du ligeledes kobler sammen med din *hometrainer* via computer, tablet eller smartphone. I BKOOL kan du både køre i virtuelle 3D-miljøer og på rigtige videooptagelser af kendte landeveje og bjergpas fra hele verden.
+
+Ud over at køre løb mod andre cykelryttere har BKOOL et stort bibliotek af strukturerede træningsprogrammer og velodrom-træning, så du kan holde formen skarp hen over vinteren.
+
+{% include gallery id="bkool" caption="Screenshots fra BKOOL" %}
+
+Jeg har også skrevet en uddybende [begynderguide til BKOOL på motionsplan.dk](https://www.motionsplan.dk/bkool-begynderguide/).
+
+## 6. Apps til ruteplanlægning: Komoot, AllTrails og Ride With GPS
+
+Hvis dit primære behov ikke er træningsdata, men at finde de bedste cykelstier, grusveje og mindre landeveje til din næste tur eller cykelferie, bør du supplere med en dedikeret ruteplanlægnings-app:
+
+* **Komoot:** Meget populær til både landevej, gravel og cykelferie, fordi den viser vejtype og underlag (asfalt, grus, sti) og giver stemmenavigation. Første kortregion er gratis.
+* **AllTrails:** Stærk til at finde eksisterende naturstier, banestier og rundture samt eksportere GPX-filer.
+* **Ride With GPS:** Bruges af mange tur- og langdistancecyklister til præcis GPX-planlægning og højdeprofiler.
+
+Se hele sammenligningen og funktionerne i vores guide til [online cykelkort og 5 gratis ruteplanlæggere](/cykelkort-online/).
+
+## Ofte stillede spørgsmål
+
+{% include faq.html %}
 
 ## Konklusion
 
-Der findes et hav af forskellige apps, som du kan bruge til cykling. Hvis du har flere forslag, der kan gøre listen endnu mere komplet, så skriv endelig til mig.
-
-Hvis du er på udkig efter mere inspiration til apps, så kunne du måske også være interesseret i [træning og fitness apps](https://www.motionsplan.dk/fitness-apps/).
+Den bedste cykelapp afhænger af, hvordan du cykler: Vil du måle fart, segmenter og træning, er **Strava** og **Garmin Connect** de mest oplagte valg. Vil du planlægge nye ture og cykelferier, kan du kombinere dem med vores guide til [online cykelkort](/cykelkort-online/) – og i vintermånederne holder **Zwift** eller **BKOOL** motivationen oppe på hometraineren.
