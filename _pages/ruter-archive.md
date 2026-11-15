@@ -36,7 +36,7 @@ sidebar:
   nav: blog
 author_profile: true
 author: lsolesen
-feature_row_routes:
+feature_row_routes_archive:
   - url: https://ruter.dk/
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
     title: "Denmark by Bike"
