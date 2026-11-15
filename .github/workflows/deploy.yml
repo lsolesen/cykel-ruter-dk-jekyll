@@ -10,6 +10,9 @@ on:
       - master
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 env:
   RUBY_VERSION: "3.3"
 
@@ -19,26 +22,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🛎 Checkout master
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 1
 
       - name: ⚡️ Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev minify
+          sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck pkg-config zlib1g-dev libgsl-dev libffi-dev liblapacke-dev libopenblas-dev minify
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
+        env:
+          CFLAGS: "-Wno-error=incompatible-pointer-types -Wno-error=implicit-function-declaration"
         with:
           ruby-version: ${{ env.RUBY_VERSION }}
           bundler-cache: true
-
-      - name: Cache jekyll
-        uses: actions/cache@v4
-        with:
-          path: "_site/"
-          key: ${{ runner.os }}-${{ github.sha }}
 
       - name: Checking Jekyll configuration
         run: bundle exec jekyll doctor
@@ -50,6 +49,12 @@ jobs:
       - name: Optimize
         run: |
           minify -r -o _site/ --html-keep-document-tags --html-keep-end-tags --html-keep-default-attrvals --html-keep-whitespace --verbose _site
+
+      - name: Cache jekyll
+        uses: actions/cache@v4
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
 
   deploy:
     if: github.event_name == 'push'
@@ -87,7 +92,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: tmp/.htmlproofer
-          key: ${{ runner.os }}-htmlproofer
+          key: ${{ runner.os }}-htmlproofer-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-htmlproofer-
 
       - name: 📉 Check HTML
         uses: chabad360/htmlproofer@master
