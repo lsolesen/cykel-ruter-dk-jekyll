@@ -1,8 +1,8 @@
 ---
-title: &title "Hvor hurtigt cykler man? Udregn gennemsnitsfart ved cykling 🚴🚴‍♀️"
-seo_title: "Gennemsnitsfart på cykel: Hvor hurtigt cykler man? [Beregner]"
-description: "Hvad er din gennemsnitsfart på cykel? Se hvor lang tid det tager at cykle 1, 10, 20 & 100 km, og udregn din præcise hastighed i vores beregner!"
-excerpt: "Hvor hurtigt cykler man i gennemsnit? Udregn din gennemsnitsfart på cykel i vores beregner og se hvor lang tid det tager at cykle 10, 20 og 100 km."
+title: &title "Hvor hurtigt cykler man? Gennemsnitsfart & tid [Beregner]"
+seo_title: "Gennemsnitsfart på cykel: Tid på 5, 10 & 20 km [Beregner]"
+description: "Hvor hurtigt cykler man? Se gennemsnitsfart for bycykel, elcykel og racer, tjek tiden på 5, 10, 20 og 100 km, og udregn din egen fart i vores beregner."
+excerpt: "En motionist cykler typisk 16–20 km/t på hverdagscykel og 25–30 km/t på racer. Udregn din gennemsnitsfart i beregneren og se tidsforbrug på 5–180 km."
 permalink: /gennemsnitsfart-cykling/
 language: da
 header:
@@ -13,10 +13,12 @@ tags:
   - hastighed
 category:
   - Regler & Sikkerhed
-last_modified_at: 2026-08-04T16:43:27Z
+last_modified_at: 2026-11-15T20:00:00+01:00
 faq:
   - question: "Hvor hurtigt må man køre på cykel?"
     answer: "Du skal overholde hastighedsreglerne på den vej, du cykler på. Du må altså ikke køre hurtigere end bilerne. Det er vigtigt, at du cykler efter forholdene."
+  - question: "Hvor lang tid tager det at cykle 5 kilometer?"
+    answer: "På en almindelig hverdagscykel (15 km/t) tager 5 kilometer 20 minutter. På elcykel eller i rask pendler-tempo (20 km/t) tager turen 15 minutter, og på racercykel (25 km/t) tager det 12 minutter."
   - question: "Hvor lang tid tager det at cykle 10 kilometer?"
     answer: "Det kommer an på dit tempo. Kører du på en almindelig bycykel (ca. 15 km/t), tager det 40 minutter. På en elcykel eller ved hurtigt tempo (20 km/t) tager det præcis 30 minutter."
   - question: "Hvor lang tid tager det at cykle 20 kilometer?"
@@ -27,17 +29,15 @@ faq:
     answer: "Din hastighed betyder meget for dit energiforbrug, når du cykler. Ved højere hastighed bruger du mere energi, fordi du træder hårdere i pedalerne og møder større vindmodstand. Læs mere om, [hvad du forbrænder ved cykling](/cykling-kalorier/)."
 ---
 
-Her kan du læse mere om, hvor hurtigt man cykler. Jeg har lavet en beregner, så du kan udregne din gennemsnitshastighed på cykel, når du kender distancen.
+En motionist cykler typisk med en gennemsnitsfart på **16–20 km/t på hverdagscykel**, **20–24 km/t på elcykel** og **25–30 km/t på racercykel**. Det betyder, at en cykeltur på **10 km tager omkring 30–38 minutter** på almindelig cykel, mens **5 km klares på 15–19 minutter**. Brug beregneren og oversigtstabellen herunder til straks at aflæse din præcise køretid på både korte og lange distancer.
 
-Når du har læst hele indlægget, får du svar på:
+I dette indlæg får du svar på:
 
-- Hvor hurtigt cykler man i gennemsnit? (Både voksne og børn)
+- Hvor hurtigt cykler man i gennemsnit? (Både voksne, elcykel og børn)
 - Hvad er din gennemsnitsfart og gennemsnitshastighed på cykel?
-- Hvor lang tid tager det at cykle 1, 5, 10, 20, 30 og 100 km?
+- Hvor lang tid tager det at cykle 1, 5, 10, 15, 20, 30, 50, 100 og 180 km?
 - Hvor hurtigt kan man cykle?
 - Hvor hurtigt må man cykle?
-
-Men lad os dykke ned i det med det samme med en beregner:
 
 ## Hvor hurtigt cykler du? Udregn din gennemsnitsfart i vores beregner!
 
@@ -45,35 +45,37 @@ I denne beregner af hastighed på cykel kan du udregne, hvor hurtigt du cykler, 
 
 {% include calculator/calculate-hastighed.html %}
 
-Det mest præcise er naturligvis, hvis du har en cykelcomputer, som kan måle, hvor hurtigt du kører. Men hvis du ikke har en cykelcomputer, så kan du naturligvis selv måle op, hvor langt du har kørt fx på Garmin Connect ruteplanlægger eller andre ruteplanlæggere.
+Det mest præcise er naturligvis, hvis du har en cykelcomputer, som kan måle, hvor hurtigt du kører. Men hvis du ikke har en cykelcomputer, så kan du naturligvis selv måle op, hvor langt du har kørt på [Garmin Connect ruteplanlægger](/garmin-connect-ruteplanlaegning-alltrails/) eller andre ruteplanlæggere.
 
 ## Hvor hurtigt cykler man i gennemsnit?
 
-I denne tabel har jeg givet et bud på, hvor hurtigt man cykler under forskellige vilkår. Tabellen giver et overblik over typisk gennemsnitsfart:
+I denne tabel får du et overblik over typisk gennemsnitsfart på forskellige cykeltyper og under forskellige vilkår:
 
 | Form for cykling | Hastighed (km/t) |
-|-|-|
-| Hyggetur med familien | 10-15 km/t |
-| Almindelig cykel - blandet landskab | 15-20 km/t |
-| Racercykel - træningstur - blandet landskab | 25-35 km/t |
-| Racercykel - professionel - blandet landskab | 40-50 km/t |
-
-Jeg vil gerne udvide tabellen med bedre data. Hvis du har nogle gode indsigter og tal fx fra videnskabelige studier, så skriv endelig til mig.
+| :--- | :--- |
+| Hyggetur med familien | 10–15 km/t |
+| Almindelig cykel – blandet landskab | 15–20 km/t |
+| Elcykel – pendling og turcykling | 20–24 km/t |
+| Racercykel – træningstur i blandet landskab | 25–35 km/t |
+| Racercykel – professionel i blandet landskab | 40–50 km/t |
 
 ## Hvor lang tid tager det at cykle 1, 5, 10, 20, 30 og 100 km?
 
 Herunder kan du hurtigt aflæse, hvor lang tid de mest populære distancer tager ved forskellige gennemsnitshastigheder:
 
-### Tabel: Tidsforbrug på populære distancer
+### Tabel: Hvor lang tid tager det at cykle 1 til 180 km?
 
-| Distance | Almindelig cyklist (15 km/t) | Hurtig pendler / Elcykel (20 km/t) | Racercykel (25 km/t) |
-|---|---|---|---|
-| **1 km** | 4 minutter | 3 minutter | 2,4 minutter |
-| **5 km** | 20 minutter | 15 minutter | 12 minutter |
-| **10 km** | 40 minutter | 30 minutter | 24 minutter |
-| **20 km** | 1 t 20 min | 1 time | 48 minutter |
+| Distance | Almindelig cykel (15 km/t) | Hurtig pendler / Elcykel (20 km/t) | Racercykel (25 km/t) |
+| :--- | :--- | :--- | :--- |
+| **1 km** | 4 min | 3 min | 2,4 min |
+| **5 km** | 20 min | 15 min | 12 min |
+| **10 km** | 40 min | 30 min | 24 min |
+| **15 km** | 1 time | 45 min | 36 min |
+| **20 km** | 1 t 20 min | 1 time | 48 min |
 | **30 km** | 2 timer | 1 t 30 min | 1 t 12 min |
+| **50 km** | 3 t 20 min | 2 t 30 min | 2 timer |
 | **100 km** | 6 t 40 min | 5 timer | 4 timer |
+| **180 km** | 12 timer | 9 timer | 7 t 12 min |
 
 Du kan også indtaste din egen præcise distance og gennemsnitsfart i beregneren herunder:
 
@@ -81,52 +83,50 @@ Du kan også indtaste din egen præcise distance og gennemsnitsfart i beregneren
 
 ## Hvor langt cykler man i et tidsrum?
 
-I denne beregner kan du udregne hvor mange km, man cykler i timen, når du kender din omtrentlige hastighed og tidsrummet.
+I denne beregner kan du udregne, hvor mange km man cykler i timen, når du kender din omtrentlige hastighed og tidsrummet.
 
 {% include calculator/calculate-hastighed-distance.html %}
 
 ## Hvor hurtigt cykler børn?
 
-Børn kan cykle ret hurtigt alt efter hvor modige de er og hvilken cykel de har. Jeg tror det er umuligt at sige noget generelt om, hvor hurtigt børn cykler.
+Børn kan cykle ret hurtigt, alt efter hvor modige de er, og hvilken cykel de har. Det er svært at sige noget helt generelt om børns topfart, men til familie- og ferieture ligger gennemsnitsfarten ofte på 8–13 km/t inkl. små pauser.
 
-Jeg kan huske, at jeg selv elskede at køre så hurtigt jeg kunne og kigge på min [cykelcomputer til børn](/cykelcomputer-til-boern/), hvor høj fart, jeg kunne få på ned ad bakkerne.
+Jeg kan huske, at jeg selv elskede at køre så hurtigt jeg kunne og kigge på min [cykelcomputer til børn](/cykelcomputer-til-boern/), hvor høj fart jeg kunne få på ned ad bakkerne.
 
 ## Hvor hurtigt kan man køre på en cykel?
 
 Briton Neil Campbell har verdensrekorden for at have cyklet hurtigst på en cykel. Cyklen blev trukket i gang af en Porsche Cayenne, og det lykkedes Campbell at komme op på i alt 280 km/t.
 
-Du kan se rekorden i dette Youtube-klip:
+Du kan se rekorden i dette YouTube-klip:
 
 {% include video provider="youtube" id="AMtFpDQ4RzA" %}
 
-Du kan også se en inspirerende video af Guy Martins forsøg på 180 km/t, hvor han selv træder cyklen op på den nødvendige hastighed.
+Du kan også se en inspirerende video af Guy Martins forsøg på 180 km/t, hvor han selv træder cyklen op på den nødvendige hastighed:
 
 {% include video provider="youtube" id="OlCNMcE4QPY" %}
 
 ## Hvor hurtigt kører en professionel cykelrytter?
 
-Det afhænger naturligvis meget af, hvilken distance den professionelle cykelrytter kører.
+Det afhænger naturligvis meget af, hvilken distance og hvilket terræn den professionelle cykelrytter kører i:
 
-- Højeste gennemsnitsfart for en Tour de France etape = 50,4 km/t
-- Højeste gennemsnitsfart op af bjerget Alpe d´Huez = 22,58 km/t
+- Højeste gennemsnitsfart for en Tour de France-etape = 50,4 km/t
+- Højeste gennemsnitsfart op ad bjerget Alpe d'Huez = 22,58 km/t
 
-## Hvor hurtigt må cykle på vejen?
+## Hvor hurtigt må man cykle på vejen?
 
-På cykel skal du overholde de hastighedsregler, der er på den vej, du kører på. Det vil sige, at du skal cykle efter de hastighedsregler, som også gælder for bilerne. Du skal altså cykle efter forholdene.
+På cykel skal du overholde de hastighedsregler, der er på den vej, du kører på. Det vil sige, at du ikke må cykle hurtigere end den skiltning, som gælder for bilerne. Du skal desuden altid cykle efter forholdene.
 
-> Det gælder jo for alle trafikanter, at man skal køre efter forholdene, så man skal ikke race ned ad en cykelsti med 50 km/t., hvis det helt åbenlyst er til gene og fare for andre cyklister, hvilket det nok vil være i det fleste tilfælde. Det gælder også, selvom man befinder sig i et område, hvor hastighedsgrænsen er 50 km/t.
+> Det gælder jo for alle trafikanter, at man skal køre efter forholdene, så man skal ikke race ned ad en cykelsti med 50 km/t., hvis det helt åbenlyst er til gene og fare for andre cyklister, hvilket det nok vil være i de fleste tilfælde. Det gælder også, selvom man befinder sig i et område, hvor hastighedsgrænsen er 50 km/t.
 
 --- <cite>[Frits Bredal](https://samvirke.dk/artikler/hvor-hurtigt-maa-man-koere-paa-cykel), kommunikationschef i Cyklistforbundet</cite>
 
 ## Hvad er min gennemsnitshastighed på cykel?
 
-Hastigheden på en cykel kan være alt mellem 0-100 km/t for almindelige mennesker med en gennemsnitshastighed på alt mellem 15-50 km/t. Det afhænger fuldstændig af forholdene.
+Hastigheden på en cykel kan ligge på alt mellem 0 og 100 km/t for almindelige cyklister med en gennemsnitsfart på typisk 15–35 km/t. Det afhænger fuldstændig af forholdene.
 
-Din gennemsnitshastighed afhænger af **motoren** på cyklen (som er dig selv), hvor **effektiv** cyklen er (hvor meget energi du kan omsætte til fart), og hvilke **forhindringer**, du møder på vejen af trafik, bakker, modvind og vejens beskaffenhed.
+Din gennemsnitshastighed afhænger af **motoren** på cyklen (som er dig selv), hvor **effektiv** cyklen er (hvor meget energi du kan omsætte til fart), og hvilke **forhindringer** du møder på vejen af trafik, bakker, modvind og vejens underlag.
 
-Der er altså mange ting, der kan have indvirkning på din gennemsnitsfart, når du cykler.
-
-Det er også vanskeligt at sammenligne gennemsnitshastigheder og vurdere om det er langsomt eller hurtigt. For hvad er det i forhold til? Når du kører en hyggetur, med familien, en træningstur i bakker, en enkeltstart på fladt underlag eller måske endda i skoven.
+Derfor giver det mest mening at sammenligne din egen gennemsnitsfart på samme rute over tid – frem for at sammenligne en hyggetur med familien med en træningstur på flad asfalt.
 
 ## Ofte stillede spørgsmål
 
@@ -134,4 +134,4 @@ Det er også vanskeligt at sammenligne gennemsnitshastigheder og vurdere om det 
 
 ## Konklusion
 
-Hvis du kender din gennemsnitshastighed, så ved du altså, hvor langt man kan cykle på en dag. Jeg har i et andet indlæg skrevet lidt om, [hvor langt kan børn cykle](/barn-cykle-langt/).
+Når du kender din gennemsnitsfart, ved du også, hvor langt du realistisk kan cykle på en dag – læs mere i vores guide til [ruteplanlægning af cykelruter](/planlaegning-cykelrute/). Planlægger du tur med familien, kan du også læse om, [hvor langt børn kan cykle](/barn-cykle-langt/).
