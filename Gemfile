@@ -13,6 +13,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jemoji"
   gem 'jekyll-brotli'
+  gem 'jekyll-sitemap'
 end
 
 group :development, :test do
