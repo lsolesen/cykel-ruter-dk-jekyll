@@ -36,92 +36,6 @@ sidebar:
   nav: blog
 author_profile: true
 author: lsolesen
----
-
-Skal du på cykeltur eller [cykelferie i Danmark](/cykelferie/)? Danmark er et af verdens absolut bedste cykellande med over **12.000 km skiltede cykelruter og cykelstier**, der snor sig gennem smuk natur, langs kyster og gennem hyggelige landsbyer.
-
-I denne samlede oversigt finder du inspiration og rutebeskrivelser til både [nationale cykelruter](/nationale-cykelruter/), [regionale cykelruter](/regionale-cykelruter/) samt lokale cykelture opdelt efter landsdel.
-
-## Oversigt over cykelruter og cykelstier i Danmark
-
-Det danske cykelrutenetværk er opdelt i tre hovedkategorier:
-
-1. **[Nationale cykelruter](/nationale-cykelruter/):** 11 langdistance-ruter (rute 1-11), der forbinder tværs af landet på over 4.200 km.
-2. **[Regionale cykelruter](/regionale-cykelruter/):** Over 160 regionale ruter mærket med hvide tal på blå skilte, der forbinder byer og seværdigheder i de enkelte regioner.
-3. **Lokale cykelstier og rundtræk:** Kortere cykelture velegnet til dagsture for både børnefamilier og motionister.
-
-> **💡 Husk cykelkortet til turen:**  
-> Selvom du bruger digitale apps, bør du altid have et papirbaseret cykelkort med. Se vores guide til at vælge det rette **[cykelkort over Danmark](/cykelkort/)** eller køb kortene direkte hos **[Scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }**.
-
----
-
-## De 11 Nationale Cykelruter i Danmark
-
-De nationale cykelstier udgør rygraden i den danske cykelinfrastruktur. De fører dig igennem alt fra klitlandskaber på Vestkysten til historiske købstæder i Østjylland.
-
-* **[Nationalrute 1: Vestkystruten](/rute/national-rute-1-vestkyststien/)** (560 km – Rudbøl til Skagen)
-* **[Nationalrute 3: Hærvejsruten](/rute/national-rute-3-haervejsruten/)** (450 km – Padborg til Frederikshavn)
-* **[Nationalrute 5: Østkystruten](/rute/national-rute-5-roende-aarhus/)** (650 km – Sønderborg til Hulsig)
-
-👉 **[Læs alt om de 11 nationale cykelruter her](/nationale-cykelruter/)**
-
----
-
-## Regionale cykelruter opdelt efter landsdel
-
-Leder du efter cykeloplevelser tæt på dig? Her kan du finde vores rutebeskrivelser og guides opdelt efter regioner og byer:
-
-### 🚴‍♂️ Cykelruter i Jylland
-- **[Cykelruter i Østjylland](/cykelruter-oestjylland/):** Smukke ruter i bakket terræn omkring Aarhus, Silkeborg og Skanderborg.
-- **[Cykelruter i Vestjylland](/cykelruter-vestjylland/):** Fladt terræn, Vesterhavet og vind i håret ved Ringkøbing Fjord og Thy.
-- **[Cykelruter i Vejle & omegn](/cykelruter-vejle/):** Udfordrende bakker i Vejle Ådal og smukke ture langs fjorden.
-- **[Cykelruter i Aarhus, Skanderborg & Djursland](/cykelruter-aarhus/):** Perfekte dagsture i Søhøjlandet og Nationalpark Mols Bjerge.
-
-### 🚴‍♀️ Cykelruter på Fyn & Øerne
-- **[Cykelruter på Fyn og Odense](/cykelruter-fyn/):** Fyn er som skabt til cykling med korte afstande, herregårde og Det Sydfynske Øhav.
-- **[Cykelruter på Bornholm](/cykelruter-bornholm/):** Fantastiske klipperuter og bilfrie cykelstier på solskinsøen.
-
-### 🚴‍♂️ Cykelruter på Sjælland & København
-- **[Cykelruter og cykelstier i København](/cykelruter-koebenhavn/):** Grønne stier, Havneringen og cykelruter i Hovedstadsområdet.
-
----
-
-{% assign site_posts = site.routes | sort: "title" %}
-
-## Oversigt over alle {{ site_posts.size }} rutebeskrivelser
-
-Herunder finder du et komplet alfabetisk kartotek over alle de specifikke cykelruter, vi har anmeldt og beskrevet her på siden:
-
-{% if site_posts.size > 0 %}
-<div class="feature__wrapper">
-  {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
-{% endif %}
-
----
-
-## Planlæg din cykeltur og cykelferie
-
-Når du har fundet den rette cykelrute, kræver det lidt forberedelse at få den bedste oplevelse:
-
-* **[Guide til planlægning af cykelturen](/planlaegning-cykeltur/):** Hvad skal du huske i pakkelisten, og hvordan tilrettelægger du etaperne?
-* **[Gennemsnitsfart på cykel](/gennemsnitsfart-cykling/):** Udregn hvor lang tid det tager at cykle din valgte rute.
-* **[Cykeludstyr & tilbehør](/cykeludstyr/):** Alt om cykeltasker, kortholdere og udstyr til turen.
-
-{% include affiliate-box.html type="product" item=site.data.affiliates.books.den_store_bog_om_cykelture view="card" %}
-
----
-
-## Eksterne kilder og korttjenester
-
-Har du brug for yderligere GPS-tracks eller officielle rutekort? Du kan også tjekke disse eksterne kilder:
-
-{% include feature_row id="feature_row_routes" type="left" %}
-
-
-{% comment %}
 feature_row_routes:
   - url: https://ruter.dk/
     image_path: https://images.unsplash.com/photo-1519583272095-6433daf26b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
@@ -228,5 +142,86 @@ feature_row_routes:
     excerpt: "Den bedste måde at opleve den fantastiske, varierede natur på Samsø er på cykel. Samsø har flere cykelruter, som viser den unikke kombination af smuk natur, korte afstande og små, charmerende landsbyer gør Samsø til den ideelle destination for familiens cykelferie."
     btn_label: "Besøg Feriepartner"
     btn_class: "btn--success"
+---
 
-{% endcomment %}
+Skal du på cykeltur eller [cykelferie i Danmark](/cykelferie/)? Danmark er et af verdens absolut bedste cykellande med over **12.000 km skiltede cykelruter og cykelstier**, der snor sig gennem smuk natur, langs kyster og gennem hyggelige landsbyer.
+
+I denne samlede oversigt finder du inspiration og rutebeskrivelser til både [nationale cykelruter](/nationale-cykelruter/), [regionale cykelruter](/regionale-cykelruter/) samt lokale cykelture opdelt efter landsdel.
+
+## Oversigt over cykelruter og cykelstier i Danmark
+
+Det danske cykelrutenetværk er opdelt i tre hovedkategorier:
+
+1. **[Nationale cykelruter](/nationale-cykelruter/):** 11 langdistance-ruter (rute 1-11), der forbinder tværs af landet på over 4.200 km.
+2. **[Regionale cykelruter](/regionale-cykelruter/):** Over 160 regionale ruter mærket med hvide tal på blå skilte, der forbinder byer og seværdigheder i de enkelte regioner.
+3. **Lokale cykelstier og rundtræk:** Kortere cykelture velegnet til dagsture for både børnefamilier og motionister.
+
+> **💡 Husk cykelkortet til turen:**  
+> Selvom du bruger digitale apps, bør du altid have et papirbaseret cykelkort med. Se vores guide til at vælge det rette **[cykelkort over Danmark](/cykelkort/)** eller køb kortene direkte hos **[Scanmaps.dk](https://www.scanmaps.dk/?G=020){: rel="sponsored nofollow noopener" }**.
+
+---
+
+## De 11 Nationale Cykelruter i Danmark
+
+De nationale cykelstier udgør rygraden i den danske cykelinfrastruktur. De fører dig igennem alt fra klitlandskaber på Vestkysten til historiske købstæder i Østjylland.
+
+* **[Nationalrute 1: Vestkystruten](/rute/national-rute-1-vestkyststien/)** (560 km – Rudbøl til Skagen)
+* **[Nationalrute 3: Hærvejsruten](/rute/national-rute-3-haervejsruten/)** (450 km – Padborg til Frederikshavn)
+* **[Nationalrute 5: Østkystruten](/rute/national-rute-5-roende-aarhus/)** (650 km – Sønderborg til Hulsig)
+
+👉 **[Læs alt om de 11 nationale cykelruter her](/nationale-cykelruter/)**
+
+---
+
+## Regionale cykelruter opdelt efter landsdel
+
+Leder du efter cykeloplevelser tæt på dig? Her kan du finde vores rutebeskrivelser og guides opdelt efter regioner og byer:
+
+### 🚴‍♂️ Cykelruter i Jylland
+- **[Cykelruter i Østjylland](/cykelruter-oestjylland/):** Smukke ruter i bakket terræn omkring Aarhus, Silkeborg og Skanderborg.
+- **[Cykelruter i Vestjylland](/cykelruter-vestjylland/):** Fladt terræn, Vesterhavet og vind i håret ved Ringkøbing Fjord og Thy.
+- **[Cykelruter i Vejle & omegn](/cykelruter-vejle/):** Udfordrende bakker i Vejle Ådal og smukke ture langs fjorden.
+- **[Cykelruter i Aarhus, Skanderborg & Djursland](/cykelruter-aarhus/):** Perfekte dagsture i Søhøjlandet og Nationalpark Mols Bjerge.
+
+### 🚴‍♀️ Cykelruter på Fyn & Øerne
+- **[Cykelruter på Fyn og Odense](/cykelruter-fyn/):** Fyn er som skabt til cykling med korte afstande, herregårde og Det Sydfynske Øhav.
+- **[Cykelruter på Bornholm](/cykelruter-bornholm/):** Fantastiske klipperuter og bilfrie cykelstier på solskinsøen.
+
+### 🚴‍♂️ Cykelruter på Sjælland & København
+- **[Cykelruter og cykelstier i København](/cykelruter-koebenhavn/):** Grønne stier, Havneringen og cykelruter i Hovedstadsområdet.
+
+---
+
+{% assign site_posts = site.routes | sort: "title" %}
+
+## Oversigt over alle {{ site_posts.size }} rutebeskrivelser
+
+Herunder finder du et komplet alfabetisk kartotek over alle de specifikke cykelruter, vi har anmeldt og beskrevet her på siden:
+
+{% if site_posts.size > 0 %}
+<div class="feature__wrapper">
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+{% endif %}
+
+---
+
+## Planlæg din cykeltur og cykelferie
+
+Når du har fundet den rette cykelrute, kræver det lidt forberedelse at få den bedste oplevelse:
+
+* **[Guide til planlægning af cykelturen](/planlaegning-cykeltur/):** Hvad skal du huske i pakkelisten, og hvordan tilrettelægger du etaperne?
+* **[Gennemsnitsfart på cykel](/gennemsnitsfart-cykling/):** Udregn hvor lang tid det tager at cykle din valgte rute.
+* **[Cykeludstyr & tilbehør](/cykeludstyr/):** Alt om cykeltasker, kortholdere og udstyr til turen.
+
+{% include affiliate-box.html type="product" item=site.data.affiliates.books.den_store_bog_om_cykelture view="card" %}
+
+---
+
+## Eksterne kilder og korttjenester
+
+Har du brug for yderligere GPS-tracks eller officielle rutekort? Du kan også tjekke disse eksterne kilder:
+
+{% include feature_row id="feature_row_routes" type="left" %}
